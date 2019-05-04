@@ -17,8 +17,8 @@ Vererbung arbeitet, ergibt es sich, dass meist eine Basis-Klasse entsteht und do
 public class Base {
     private Long Id;
 
-    public Long getId() {...}
-     ....
+    public Long getId() { }
+    ...
 }
 
 public class DerivedA extends Base {
