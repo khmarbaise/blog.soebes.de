@@ -70,8 +70,8 @@ by dots. This means the following versions are valid:
 Regarding the above list which version is mathematically greater,
 greater or equal, less than, less or equal than the other?
 
-  Version     | | Version |
--------------:|-|:---------|
+  Version     |   |  Version |
+-------------:|---|:---------|
            2  | > | 1  
          1.1  | > | 1.0 
        1.2.3  | > | 1.2.1 
@@ -178,4 +178,4 @@ Display parameters as parsed by Maven (in canonical form) and comparison result:
 
 
 [history]: https://maven.apache.org/docs/history.html#Maven_2
-[maven-release-325]: https://maven.apache.org/docs/ Release 3.2.5
+[maven-release-325]: https://maven.apache.org/docs/

@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = ""
 
-Paginate = 10
+Paginate = 15
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -77,12 +77,13 @@ codepen = ""
 email = "info@soebes.de"
 facebook = ""
 github = "khmarbaise"
-gitlab = ""
+gitlab = "khmarbaise"
 instagram = ""
-linkedin = ""
+linkedin = "karl-heinz-marbaise-17a15614"
 twitter = "khmarbaise"
 telegram = ""
 google_scholar = ""
+xing = "KarlHeinz_Marbaise"
 
 [params.comments]
 enable = false

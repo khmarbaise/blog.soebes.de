@@ -13,7 +13,7 @@ Man kann selbstverständlich die Id in jede Klasse packen und dort dann die ents
 Das ist aber schlicht und ergreifend lässtig und wiederspricht dem OO Prinzip. Wenn man nun konsequent mit 
 Vererbung arbeitet, ergibt es sich, dass meist eine Basis-Klasse entsteht und dort das Id Attribut enthalten ist.
 
-{% highlight java linenos %}
+```java
 public class Base {
     private Long Id;
 
@@ -30,11 +30,11 @@ public class DerivedB extends Base {
     private String position;
     public String getPosition() { .... };
 }
-{% endhighlight %}
+```
 
 Mit Hibernate möchte man selbstverständlich an der Geschichte nichts ändern, außer den Annotationen die für Hibernate wichtig sind.
 
-{% highlight java linenos %}
+```java
 @MappedSuperclass
 public class Base {
     private Long Id;
@@ -68,10 +68,10 @@ public class DerivedB extends Base {
     private String position;
     public String getPosition() { .... };
 }
-{% endhighlight %}
+```
 
 Das Maven 2 PlugIn für Hibernate erzeugt dann aus den og. Klassen einen entsprechenden SQL (DDL) File:
-{% highlight xml linenos %}
+```xml
 <plugins>
   <plugin>
     <groupId>org.codehaus.mojo</groupId>
@@ -101,4 +101,4 @@ Das Maven 2 PlugIn für Hibernate erzeugt dann aus den og. Klassen einen entspre
     </configuration>
   </plugin>
 <plugins>
-{% endhighlight %}
+```
