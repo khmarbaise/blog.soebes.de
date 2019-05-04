@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SLES9, PostgreSQL 7.4.14 und PHP 4.4.4"
 date: 2007-10-25 12:47:31
-tags: PHP
+tags: [PHP]
 categories: [PHP]
 
 ---

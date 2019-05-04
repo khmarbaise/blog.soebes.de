@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.6.0 Erschienen"
 date: 2009-03-20 19:50:28
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 
 ---

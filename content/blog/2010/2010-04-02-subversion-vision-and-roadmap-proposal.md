@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion Vision and Roadmap Proposal"
 date: 2010-04-02 19:30:46
-tags: SKM,Subversion
+tags: [SKM,Subversion]
 categories: [SKM,Subversion]
 
 ---

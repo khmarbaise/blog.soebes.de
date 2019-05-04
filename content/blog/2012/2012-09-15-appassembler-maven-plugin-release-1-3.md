@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Appassembler - Maven Plugin - Release 1.3"
 date: 2012-09-15 19:41:07
-tags: Neuigkeiten,Neue Versionen,Maven
+tags: [Neuigkeiten,Neue Versionen,Maven]
 categories: [Neuigkeiten,Neue Versionen,Maven,Maven-Plugins,Maven-Plugin-Releases]
 
 ---

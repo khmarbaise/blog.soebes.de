@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.5 write-through Proxy"
 date: 2007-10-19 11:47:06
-tags: SKM,Neuigkeiten,Subversion
+tags: [SKM,Neuigkeiten,Subversion]
 categories: [SKM,Neuigkeiten,Subversion]
 
 ---

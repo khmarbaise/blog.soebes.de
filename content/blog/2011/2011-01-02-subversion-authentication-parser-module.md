@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion Authentication Parser Module"
 date: 2011-01-02 18:05:36
-tags: Java,Neuigkeiten,SupoSE
+tags: [Java,Neuigkeiten,SupoSE]
 categories: [Java,Neuigkeiten,SupoSE]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Die erste Subversion Konferenz in München"
 date: 2007-10-19 12:05:39
-tags: SKM,Neuigkeiten
+tags: [SKM,Neuigkeiten]
 categories: [SKM,Neuigkeiten]
 
 ---

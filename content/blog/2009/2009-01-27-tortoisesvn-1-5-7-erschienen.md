@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "TortoiseSVN 1.5.7 - erschienen"
 date: 2009-01-27 12:10:07
-tags: SKM,Subversion
+tags: [SKM,Subversion]
 categories: [SKM,Subversion]
 
 ---

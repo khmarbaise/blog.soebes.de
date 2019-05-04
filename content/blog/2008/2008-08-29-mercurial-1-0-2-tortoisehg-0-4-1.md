@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Mercurial 1.0.2 / TortoiseHg 0.4.1"
 date: 2008-08-29 18:30:41
-tags: SKM,Neue Versionen,Mercurial
+tags: [SKM,Neue Versionen,Mercurial]
 categories: [SKM,Neue Versionen,Mercurial]
 
 ---

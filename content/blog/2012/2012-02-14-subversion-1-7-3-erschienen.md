@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.7.3 Erschienen"
 date: 2012-02-14 16:24:31
-tags: Neuigkeiten,Neue Versionen,Subversion
+tags: [Neuigkeiten,Neue Versionen,Subversion]
 categories: [Neuigkeiten,Neue Versionen,Subversion]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Release 1.1 - Nexus Repository Manager"
 date: 2008-11-07 15:16:28
-tags: Neuigkeiten,Neue Versionen,BM,Maven
+tags: [Neuigkeiten,Neue Versionen,BM,Maven]
 categories: [Neuigkeiten,Neue Versionen,BM,Maven]
 
 ---

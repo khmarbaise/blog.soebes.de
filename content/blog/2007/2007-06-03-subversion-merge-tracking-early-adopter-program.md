@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion Merge Tracking Early Adopter Program"
 date: 2007-06-03 14:31:12
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 
 ---

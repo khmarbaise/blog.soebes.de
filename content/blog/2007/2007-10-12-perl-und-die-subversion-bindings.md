@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Perl und die Subversion Bindings"
 date: 2007-10-12 10:06:24
-tags: SKM,Subversion
+tags: [SKM,Subversion]
 categories: [SKM,Subversion]
 
 ---

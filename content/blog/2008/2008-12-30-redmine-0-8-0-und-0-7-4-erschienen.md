@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Redmine 0.8.0 und 0.7.4 Erschienen"
 date: 2008-12-30 13:18:28
-tags: Neuigkeiten,Neue Versionen,Bug/Issue Tracking,Redmine
+tags: [Neuigkeiten,Neue Versionen,Bug/Issue Tracking,Redmine]
 categories: [Neuigkeiten,Neue Versionen,Bug/Issue Tracking,Redmine]
 
 ---

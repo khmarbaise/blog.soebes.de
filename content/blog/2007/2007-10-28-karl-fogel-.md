@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Karl Fogel .."
 date: 2007-10-28 21:52:11
-tags: SKM,Neuigkeiten,Subversion
+tags: [SKM,Neuigkeiten,Subversion]
 categories: [SKM,Neuigkeiten,Subversion]
 
 ---

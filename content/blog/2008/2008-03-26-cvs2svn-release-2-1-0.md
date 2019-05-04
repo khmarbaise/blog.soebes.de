@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "cvs2svn Release 2.1.0"
 date: 2008-03-26 00:54:46
-tags: SKM,Neue Versionen,Subversion
+tags: [SKM,Neue Versionen,Subversion]
 categories: [SKM,Neue Versionen,Subversion]
 
 ---

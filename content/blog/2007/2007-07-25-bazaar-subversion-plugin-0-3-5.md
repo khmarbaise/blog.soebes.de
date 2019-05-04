@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Bazaar Subversion PlugIn 0.3.5"
 date: 2007-07-25 09:39:18
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar]
 
 ---

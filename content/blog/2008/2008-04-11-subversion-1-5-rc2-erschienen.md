@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.5 - RC2 erschienen"
 date: 2008-04-11 19:20:27
-tags: SKM,Neue Versionen,Subversion
+tags: [SKM,Neue Versionen,Subversion]
 categories: [SKM,Neue Versionen,Subversion]
 
 ---

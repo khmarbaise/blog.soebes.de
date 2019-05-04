@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Artikel zum Thema: Anforderungen und deren Unvollständigkeit"
 date: 2012-06-17 12:13:02
-tags: Neuigkeiten
+tags: [Neuigkeiten]
 categories: [Neuigkeiten]
 
 ---

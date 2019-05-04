@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.6.0 RC4 erschienen"
 date: 2009-03-18 10:37:25
-tags: Subversion
+tags: [Subversion]
 categories: [Subversion]
 
 ---

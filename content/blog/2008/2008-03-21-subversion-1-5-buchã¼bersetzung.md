@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.5 - Buchübersetzung"
 date: 2008-03-21 20:26:07
-tags: SKM,Neuigkeiten,Subversion
+tags: [SKM,Neuigkeiten,Subversion]
 categories: [SKM,Neuigkeiten,Subversion]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Ein Finaler Test eines Maven Builds"
 date: 2012-12-17 21:48:33
-tags: Neuigkeiten,BM,Maven,Test
+tags: [Neuigkeiten,BM,Maven,Test]
 categories: [Neuigkeiten,BM,Maven,Test]
 
 ---

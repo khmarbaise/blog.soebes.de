@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Vergleich von SVN mit Git, Bazaar, Mercurial"
 date: 2009-02-04 20:05:25
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar,Mercurial,GIT
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar,Mercurial,GIT]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar,Mercurial,GIT]
 
 ---

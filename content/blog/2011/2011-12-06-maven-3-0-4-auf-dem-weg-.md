@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven 3.0.4 auf dem Weg..."
 date: 2011-12-06 19:58:00
-tags: Neuigkeiten,Neue Versionen,BM,Maven
+tags: [Neuigkeiten,Neue Versionen,BM,Maven]
 categories: [Neuigkeiten,Neue Versionen,BM,Maven]
 
 ---

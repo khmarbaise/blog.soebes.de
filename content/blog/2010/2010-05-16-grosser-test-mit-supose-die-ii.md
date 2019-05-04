@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Großer Test mit SupoSE die II."
 date: 2010-05-16 12:04:41
-tags: SKM,Neuigkeiten,SupoSE
+tags: [SKM,Neuigkeiten,SupoSE]
 categories: [SKM,Neuigkeiten,SupoSE]
 
 ---

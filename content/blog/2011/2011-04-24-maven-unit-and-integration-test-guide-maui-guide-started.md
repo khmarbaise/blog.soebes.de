@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven Unit and Integration Test Guide (MaUI Guide) started."
 date: 2011-04-24 12:26:17
-tags: Neuigkeiten,BM,Maven,Unit Tests,Integrations Tests,Test
+tags: [Neuigkeiten,BM,Maven,Unit Tests,Integrations Tests,Test]
 categories: [Neuigkeiten,BM,Maven,Unit Tests,Integrations Tests,Test]
 
 ---

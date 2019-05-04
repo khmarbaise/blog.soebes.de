@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Zweite Subversion Conference in München"
 date: 2008-10-18 11:41:45
-tags: Neuigkeiten,Subversion
+tags: [Neuigkeiten,Subversion]
 categories: [Neuigkeiten,Subversion]
 
 ---

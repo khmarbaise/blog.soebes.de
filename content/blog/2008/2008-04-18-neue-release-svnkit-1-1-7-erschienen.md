@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Neue Release SVNKit 1.1.7 erschienen"
 date: 2008-04-18 11:58:13
-tags: Java,SKM,Subversion
+tags: [Java,SKM,Subversion]
 categories: [Java,SKM,Subversion]
 
 ---

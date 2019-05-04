@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "TortoiseSVN 1.7 Beta 1"
 date: 2011-07-25 08:26:46
-tags: 
+tags: []
 categories: []
 
 ---

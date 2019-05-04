@@ -4,7 +4,11 @@ authors: ["khmarbaise"]
 title: "Automate it - Be Lazy - Part I"
 date: 2018-07-21 10:00:00
 comments: true
-categories: [Maven,Automation,DevOps,Programming]
+categories: 
+    - Maven
+    - Automation
+    - DevOps
+    - Programming
 ---
 So based on my passion as open source developer in particular for 
 the [Apache Maven Project][maven-project]. I work [JIRA based][jira]

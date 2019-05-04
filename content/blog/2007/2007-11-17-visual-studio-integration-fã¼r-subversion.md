@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Visual Studio Integration für Subversion"
 date: 2007-11-17 20:07:46
-tags: SKM,Subversion
+tags: [SKM,Subversion]
 categories: [SKM,Subversion]
 
 ---

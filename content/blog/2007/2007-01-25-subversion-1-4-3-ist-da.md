@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.4.3 ist da"
 date: 2007-01-25 10:45:56
-tags: SKM,Neuigkeiten,Neue Versionen
+tags: [SKM,Neuigkeiten,Neue Versionen]
 categories: [SKM,Neuigkeiten,Neue Versionen]
 
 ---

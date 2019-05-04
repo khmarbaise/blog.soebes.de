@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Bazaar 1.7 - Released"
 date: 2008-10-02 09:58:10
-tags: Neue Versionen,PlugIn,Bazaar
+tags: [Neue Versionen,PlugIn,Bazaar]
 categories: [Neue Versionen,PlugIn,Bazaar]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "TortoiseSVN 1.6.8 - erschienen"
 date: 2010-04-19 19:00:38
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 
 ---

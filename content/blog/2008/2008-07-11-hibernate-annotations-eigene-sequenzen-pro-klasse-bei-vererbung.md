@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Hibernate Annotations: Eigene Sequenzen pro Klasse bei Vererbung"
 date: 2008-07-11 20:35:15
-tags: Java,Unit Tests,Test
+tags: [Java,Unit Tests,Test]
 categories: [Java,Unit Tests,Test]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven: Different Package Name based on project version"
 date: 2011-07-28 14:21:28
-tags: Java,Neuigkeiten,BM,Maven
+tags: [Java,Neuigkeiten,BM,Maven]
 categories: [Java,Neuigkeiten,BM,Maven]
 
 ---

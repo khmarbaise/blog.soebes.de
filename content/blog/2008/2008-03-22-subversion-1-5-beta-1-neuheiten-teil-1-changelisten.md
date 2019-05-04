@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.5 - Beta 1 - Neuheiten - Teil 1 - ChangeListen"
 date: 2008-03-22 12:48:11
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 
 ---

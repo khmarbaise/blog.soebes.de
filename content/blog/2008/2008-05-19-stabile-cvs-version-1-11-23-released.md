@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Stabile CVS Version 1.11.23 Released"
 date: 2008-05-19 20:31:20
-tags: SKM,CVS
+tags: [SKM,CVS]
 categories: [SKM,CVS]
 
 ---

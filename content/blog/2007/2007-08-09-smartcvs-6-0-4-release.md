@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SmartCVS 6.0.4 (Release)"
 date: 2007-08-09 20:00:42
-tags: SKM,Neuigkeiten,Neue Versionen,CVS
+tags: [SKM,Neuigkeiten,Neue Versionen,CVS]
 categories: [SKM,Neuigkeiten,Neue Versionen,CVS]
 
 ---

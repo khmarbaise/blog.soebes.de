@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Bazaar 2.2.1 Released"
 date: 2010-10-02 13:09:38
-tags: SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar
+tags: [SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar]
 categories: [SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar]
 
 ---

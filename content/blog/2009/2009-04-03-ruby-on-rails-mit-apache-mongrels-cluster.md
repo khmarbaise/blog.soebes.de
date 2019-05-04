@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Ruby on Rails mit Apache / Mongrels Cluster "
 date: 2009-04-03 12:49:00
-tags: Neuigkeiten,Redmine
+tags: [Neuigkeiten,Redmine]
 categories: [Neuigkeiten,Redmine]
 
 ---

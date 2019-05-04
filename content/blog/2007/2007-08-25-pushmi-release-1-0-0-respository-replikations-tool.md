@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Pushmi Release 1.0.0 - Respository Replikations Tool"
 date: 2007-08-25 18:50:41
-tags: SKM,Neuigkeiten,Subversion
+tags: [SKM,Neuigkeiten,Subversion]
 categories: [SKM,Neuigkeiten,Subversion]
 
 ---

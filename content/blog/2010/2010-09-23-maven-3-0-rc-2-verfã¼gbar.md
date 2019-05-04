@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven 3.0 - RC 2 - verfügbar"
 date: 2010-09-23 09:05:18
-tags: Neuigkeiten,Neue Versionen,BM,Maven
+tags: [Neuigkeiten,Neue Versionen,BM,Maven]
 categories: [Neuigkeiten,Neue Versionen,BM,Maven]
 
 ---

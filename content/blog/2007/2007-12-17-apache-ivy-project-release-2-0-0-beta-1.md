@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Apache Ivy Project - Release 2.0.0 Beta 1"
 date: 2007-12-17 20:58:37
-tags: Java,Neuigkeiten,BM,Ivy
+tags: [Java,Neuigkeiten,BM,Ivy]
 categories: [Java,Neuigkeiten,BM,Ivy]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.7.2 erschienen"
 date: 2011-12-06 07:52:38
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 
 ---

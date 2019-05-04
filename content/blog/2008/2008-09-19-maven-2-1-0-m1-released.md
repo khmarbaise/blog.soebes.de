@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven 2.1.0-M1 Released"
 date: 2008-09-19 11:04:16
-tags: BM,Maven
+tags: [BM,Maven]
 categories: [BM,Maven]
 
 ---

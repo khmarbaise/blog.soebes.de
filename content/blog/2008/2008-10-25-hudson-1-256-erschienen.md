@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Hudson - 1.256 - Erschienen"
 date: 2008-10-25 18:16:23
-tags: Neue Versionen,Hudson
+tags: [Neue Versionen,Hudson]
 categories: [Neue Versionen,Hudson]
 
 ---

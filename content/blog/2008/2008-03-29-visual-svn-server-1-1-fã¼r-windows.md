@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Visual SVN Server 1.1 für Windows"
 date: 2008-03-29 20:13:10
-tags: SKM,Neue Versionen,Subversion
+tags: [SKM,Neue Versionen,Subversion]
 categories: [SKM,Neue Versionen,Subversion]
 
 ---

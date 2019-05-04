@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Redmine Release 0.8.4 erschienen"
 date: 2009-05-17 16:36:45
-tags: Neuigkeiten,Neue Versionen,BM,Redmine
+tags: [Neuigkeiten,Neue Versionen,BM,Redmine]
 categories: [Neuigkeiten,Neue Versionen,BM,Redmine]
 
 ---

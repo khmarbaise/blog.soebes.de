@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Redmine Release 0.8.2 erschienen"
 date: 2009-03-08 20:11:37
-tags: Neuigkeiten,Neue Versionen,Bug/Issue Tracking,Redmine
+tags: [Neuigkeiten,Neue Versionen,Bug/Issue Tracking,Redmine]
 categories: [Neuigkeiten,Neue Versionen,Bug/Issue Tracking,Redmine]
 
 ---

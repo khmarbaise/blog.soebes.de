@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SVNKit 1.2.2 (GA) - erschienen"
 date: 2009-01-14 21:20:13
-tags: Java,SKM,Neuigkeiten,Neue Versionen,Subversion
+tags: [Java,SKM,Neuigkeiten,Neue Versionen,Subversion]
 categories: [Java,SKM,Neuigkeiten,Neue Versionen,Subversion]
 
 ---

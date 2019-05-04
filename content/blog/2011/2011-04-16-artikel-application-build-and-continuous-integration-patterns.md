@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Artikel: Application Build and Continuous Integration Patterns"
 date: 2011-04-16 20:43:00
-tags: SKM,Neuigkeiten,BM,CI
+tags: [SKM,Neuigkeiten,BM,CI]
 categories: [SKM,Neuigkeiten,BM,CI]
 
 ---

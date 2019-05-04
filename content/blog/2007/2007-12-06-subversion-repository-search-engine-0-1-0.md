@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion Repository Search Engine 0.1.0"
 date: 2007-12-06 00:54:44
-tags: Java,Neuigkeiten,Subversion,SupoSE
+tags: [Java,Neuigkeiten,Subversion,SupoSE]
 categories: [Java,Neuigkeiten,Subversion,SupoSE]
 
 ---

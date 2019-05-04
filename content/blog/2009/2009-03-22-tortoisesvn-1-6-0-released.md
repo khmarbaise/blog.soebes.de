@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "TortoiseSVN 1.6.0 Released"
 date: 2009-03-22 12:17:27
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
 
 ---

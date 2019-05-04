@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Vereinfachung von Unit Tests mithilfe von TestNG "
 date: 2008-07-13 10:23:34
-tags: Java,Unit Tests
+tags: [Java,Unit Tests]
 categories: [Java,Unit Tests]
 
 ---

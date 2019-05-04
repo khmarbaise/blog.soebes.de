@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subclipse 1.2.0 für Eclipse 3.2"
 date: 2007-02-15 13:21:56
-tags: Java,SKM,Neuigkeiten,Neue Versionen,PlugIn
+tags: [Java,SKM,Neuigkeiten,Neue Versionen,PlugIn]
 categories: [Java,SKM,Neuigkeiten,Neue Versionen,PlugIn]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SupoSE Release 0.6.0"
 date: 2009-06-01 23:44:20
-tags: Neuigkeiten,Neue Versionen,SupoSE
+tags: [Neuigkeiten,Neue Versionen,SupoSE]
 categories: [Neuigkeiten,Neue Versionen,SupoSE]
 
 ---

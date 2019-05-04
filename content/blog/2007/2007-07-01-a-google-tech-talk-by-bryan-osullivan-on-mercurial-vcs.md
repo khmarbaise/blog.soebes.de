@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "A Google Tech Talk by Bryan O'Sullivan, on Mercurial VCS."
 date: 2007-07-01 21:52:25
-tags: SKM,Neuigkeiten,Mercurial
+tags: [SKM,Neuigkeiten,Mercurial]
 categories: [SKM,Neuigkeiten,Mercurial]
 
 ---

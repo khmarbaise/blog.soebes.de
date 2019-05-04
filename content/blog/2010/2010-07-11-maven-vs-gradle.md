@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven vs. Gradle"
 date: 2010-07-11 18:26:23
-tags: SKM,Neue Versionen,Maven,Gradle
+tags: [SKM,Neue Versionen,Maven,Gradle]
 categories: [SKM,Neue Versionen,Maven,Gradle]
 
 ---

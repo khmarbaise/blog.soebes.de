@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Merge Tracking nun doch in Subversion 1.5"
 date: 2007-05-12 14:10:29
-tags: SKM,Neuigkeiten
+tags: [SKM,Neuigkeiten]
 categories: [SKM,Neuigkeiten]
 
 ---

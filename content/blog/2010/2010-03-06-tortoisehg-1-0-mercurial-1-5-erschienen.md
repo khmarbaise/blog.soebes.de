@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "TortoiseHG - 1.0 (Mercurial 1.5) - erschienen"
 date: 2010-03-06 22:13:07
-tags: SKM,Neue Versionen,Mercurial
+tags: [SKM,Neue Versionen,Mercurial]
 categories: [SKM,Neue Versionen,Mercurial]
 
 ---

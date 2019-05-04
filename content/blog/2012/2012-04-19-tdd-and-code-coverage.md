@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "TDD and Code Coverage"
 date: 2012-04-19 10:22:55
-tags: Neuigkeiten,Unit Tests,Integrations Tests,Test
+tags: [Neuigkeiten,Unit Tests,Integrations Tests,Test]
 categories: [Neuigkeiten,Unit Tests,Integrations Tests,Test]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Bazaar Release 1.5"
 date: 2008-05-22 16:17:49
-tags: SKM,Neue Versionen,Bazaar
+tags: [SKM,Neue Versionen,Bazaar]
 categories: [SKM,Neue Versionen,Bazaar]
 
 ---

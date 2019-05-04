@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "VisualSVN 1.6 - Subversion für Visual Studio"
 date: 2008-11-22 13:04:33
-tags: SKM,Subversion
+tags: [SKM,Subversion]
 categories: [SKM,Subversion]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion Repository Search Engine 0.4.0.0RC1"
 date: 2008-01-12 14:23:59
-tags: SKM,Neue Versionen,Subversion,SupoSE
+tags: [SKM,Neue Versionen,Subversion,SupoSE]
 categories: [SKM,Neue Versionen,Subversion,SupoSE]
 
 ---

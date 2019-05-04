@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven: The Definitive Guide"
 date: 2009-01-10 22:00:02
-tags: Neuigkeiten,Neue Versionen,BM,Maven
+tags: [Neuigkeiten,Neue Versionen,BM,Maven]
 categories: [Neuigkeiten,Neue Versionen,BM,Maven]
 
 ---

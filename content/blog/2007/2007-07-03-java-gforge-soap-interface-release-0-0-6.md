@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Java GForge SOAP Interface Release 0.0.6"
 date: 2007-07-03 21:02:57
-tags: Java,Neue Versionen,Bug/Issue Tracking
+tags: [[Java,Neue Versionen,Bug/Issue Tracking]]
 categories: [Java,Neue Versionen,Bug/Issue Tracking]
 
 ---

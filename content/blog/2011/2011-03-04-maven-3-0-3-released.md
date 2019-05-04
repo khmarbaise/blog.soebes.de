@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven 3.0.3 released"
 date: 2011-03-04 08:04:12
-tags: Neuigkeiten,Neue Versionen,Maven
+tags: [Neuigkeiten,Neue Versionen,Maven]
 categories: [Neuigkeiten,Neue Versionen,Maven]
 
 ---

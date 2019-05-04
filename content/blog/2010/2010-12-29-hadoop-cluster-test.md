@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Hadoop Cluster Test"
 date: 2010-12-29 17:52:11
-tags: Neuigkeiten,Hadoop
+tags: [Neuigkeiten,Hadoop]
 categories: [Neuigkeiten,Hadoop]
 
 ---

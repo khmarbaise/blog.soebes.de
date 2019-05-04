@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Bazaar Release 1.3.1 erschienen"
 date: 2008-04-10 22:19:09
-tags: SKM,Neue Versionen,Bazaar
+tags: [SKM,Neue Versionen,Bazaar]
 categories: [SKM,Neue Versionen,Bazaar]
 
 ---

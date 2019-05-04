@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven License Verifier Plugin - es wird langsam - 0.2 SNAPSHOT Verfügbar"
 date: 2010-02-19 19:59:00
-tags: Java,Neuigkeiten,Maven
+tags: [Java,Neuigkeiten,Maven]
 categories: [Java,Neuigkeiten,Maven]
 
 ---

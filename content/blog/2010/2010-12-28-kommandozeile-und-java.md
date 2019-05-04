@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Kommandozeile und Java?"
 date: 2010-12-28 09:58:00
-tags: Java,Neuigkeiten
+tags: [Java,Neuigkeiten]
 categories: [Java,Neuigkeiten]
 
 ---

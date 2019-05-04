@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Mercurial 1.0.0 Erschienen"
 date: 2008-03-29 13:42:58
-tags: SKM,Neue Versionen,Mercurial
+tags: [SKM,Neue Versionen,Mercurial]
 categories: [SKM,Neue Versionen,Mercurial]
 
 ---

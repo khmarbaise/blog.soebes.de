@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven 3 - Repository API Library"
 date: 2010-08-05 08:45:30
-tags: Neuigkeiten,BM,Maven
+tags: [Neuigkeiten,BM,Maven]
 categories: [Neuigkeiten,BM,Maven]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Supose Release 0.5.1"
 date: 2009-02-21 22:13:34
-tags: Neuigkeiten,Neue Versionen,SupoSE
+tags: [Neuigkeiten,Neue Versionen,SupoSE]
 categories: [Neuigkeiten,Neue Versionen,SupoSE]
 
 ---

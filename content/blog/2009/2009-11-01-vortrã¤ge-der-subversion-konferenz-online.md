@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Vorträge der Subversion Konferenz Online"
 date: 2009-11-01 18:56:46
-tags: Java,SKM,Neuigkeiten,Neue Versionen,Subversion,DVCS,SupoSE
+tags: [Java,SKM,Neuigkeiten,Neue Versionen,Subversion,DVCS,SupoSE]
 categories: [Java,SKM,Neuigkeiten,Neue Versionen,Subversion,DVCS,SupoSE]
 
 ---

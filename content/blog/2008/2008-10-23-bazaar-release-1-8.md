@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Bazaar Release 1.8"
 date: 2008-10-23 09:56:00
-tags: SKM,Neuigkeiten,Neue Versionen,Bazaar
+tags: [SKM,Neuigkeiten,Neue Versionen,Bazaar]
 categories: [SKM,Neuigkeiten,Neue Versionen,Bazaar]
 
 ---

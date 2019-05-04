@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SupoSE Release 0.5.0 Alpha 1"
 date: 2009-01-15 00:13:41
-tags: SKM,Neuigkeiten,Neue Versionen,Subversion,SupoSE
+tags: [SKM,Neuigkeiten,Neue Versionen,Subversion,SupoSE]
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion,SupoSE]
 
 ---

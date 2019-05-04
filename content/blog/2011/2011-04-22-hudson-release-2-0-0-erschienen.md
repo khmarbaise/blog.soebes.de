@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Hudson Release 2.0.0 erschienen"
 date: 2011-04-22 16:29:54
-tags: Neuigkeiten,Neue Versionen,BM,Hudson
+tags: [Neuigkeiten,Neue Versionen,BM,Hudson]
 categories: [Neuigkeiten,Neue Versionen,BM,Hudson]
 
 ---

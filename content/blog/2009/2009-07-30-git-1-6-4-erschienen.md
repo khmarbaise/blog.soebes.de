@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Git 1.6.4 erschienen"
 date: 2009-07-30 08:28:44
-tags: SKM,Neuigkeiten,Neue Versionen,GIT
+tags: [SKM,Neuigkeiten,Neue Versionen,GIT]
 categories: [SKM,Neuigkeiten,Neue Versionen,GIT]
 
 ---

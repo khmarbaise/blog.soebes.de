@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Backup eines Subversion Repositories"
 date: 2007-07-01 21:36:26
-tags: SKM,Neuigkeiten,Subversion
+tags: [SKM,Neuigkeiten,Subversion]
 categories: [SKM,Neuigkeiten,Subversion]
 
 ---

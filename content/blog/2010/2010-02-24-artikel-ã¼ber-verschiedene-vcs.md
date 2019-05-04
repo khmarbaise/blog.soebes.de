@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Artikel über verschiedene VCS"
 date: 2010-02-24 12:57:47
-tags: SKM,Neuigkeiten,Subversion,Mercurial,ClearCase,GIT
+tags: [SKM,Neuigkeiten,Subversion,Mercurial,ClearCase,GIT]
 categories: [SKM,Neuigkeiten,Subversion,Mercurial,ClearCase,GIT]
 
 ---

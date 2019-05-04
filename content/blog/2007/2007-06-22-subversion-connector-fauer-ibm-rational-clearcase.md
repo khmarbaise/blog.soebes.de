@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion Connector für IBM Rational ClearCase"
 date: 2007-06-22 00:05:01
-tags: SKM,Neuigkeiten,Subversion,ClearCase
+tags: [SKM,Neuigkeiten,Subversion,ClearCase]
 categories: [SKM,Neuigkeiten,Subversion,ClearCase]
 
 ---

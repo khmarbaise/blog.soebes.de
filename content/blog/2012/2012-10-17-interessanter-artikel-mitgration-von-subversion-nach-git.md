@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Interessanter Artikel: Mitgration von Subversion nach Git"
 date: 2012-10-17 18:59:08
-tags: Neue Versionen,Subversion,DVCS,GIT
+tags: [Neue Versionen,Subversion,DVCS,GIT]
 categories: [Neue Versionen,Subversion,DVCS,GIT]
 
 ---

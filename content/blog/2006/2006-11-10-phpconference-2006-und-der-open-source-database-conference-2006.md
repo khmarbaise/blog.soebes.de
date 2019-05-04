@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "PHPConference 2006 und der Open Source Database Conference 2006"
 date: 2006-11-10 21:18:55
-tags: Neuigkeiten
+tags: [Neuigkeiten]
 categories: [Neuigkeiten]
 
 ---

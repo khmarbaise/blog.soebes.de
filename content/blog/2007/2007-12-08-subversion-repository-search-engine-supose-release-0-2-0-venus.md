@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion Repository Search Engine (SupoSE) Release 0.2.0 (Venus)"
 date: 2007-12-08 23:00:00
-tags: Java,Neue Versionen,Subversion,SupoSE
+tags: [Java,Neue Versionen,Subversion,SupoSE]
 categories: [Java,Neue Versionen,Subversion,SupoSE]
 
 ---

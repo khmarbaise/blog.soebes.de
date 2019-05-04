@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Versuchsweise Migration Subversion nach GIT"
 date: 2008-03-27 00:03:49
-tags: SKM,Subversion,GIT
+tags: [SKM,Subversion,GIT]
 categories: [SKM,Subversion,GIT]
 
 ---

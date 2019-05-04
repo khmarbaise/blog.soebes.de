@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SVK Release 2.1.0 beta 1"
 date: 2007-12-31 14:24:16
-tags: SKM,Neue Versionen,SVK
+tags: [SKM,Neue Versionen,SVK]
 categories: [SKM,Neue Versionen,SVK]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Sun Java Platform, Standard Edition 1.5.0_11 (Java 5)"
 date: 2007-03-09 08:17:43
-tags: Java,Neue Versionen
+tags: [Java,Neue Versionen]
 categories: [Java,Neue Versionen]
 
 ---

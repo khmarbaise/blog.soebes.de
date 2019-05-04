@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven 3 - Beta 2 Verfügbar"
 date: 2010-08-11 09:53:58
-tags: Neuigkeiten,Neue Versionen,BM,Maven
+tags: [Neuigkeiten,Neue Versionen,BM,Maven]
 categories: [Neuigkeiten,Neue Versionen,BM,Maven]
 
 ---

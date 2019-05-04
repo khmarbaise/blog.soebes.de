@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Bazaar Release 1.17 erschienen"
 date: 2009-07-29 09:27:36
-tags: SKM,Neuigkeiten,Neue Versionen,Bazaar
+tags: [SKM,Neuigkeiten,Neue Versionen,Bazaar]
 categories: [SKM,Neuigkeiten,Neue Versionen,Bazaar]
 
 ---

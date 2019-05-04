@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Whitespaces....."
 date: 2012-01-07 17:03:10
-tags: Neuigkeiten
+tags: [Neuigkeiten]
 categories: [Neuigkeiten]
 
 ---

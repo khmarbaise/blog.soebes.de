@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "svninfo 0.7 Release"
 date: 2007-03-27 20:37:34
-tags: SKM,Neue Versionen
+tags: [SKM,Neue Versionen]
 categories: [SKM,Neue Versionen]
 
 ---

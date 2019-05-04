@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Trac 0.10.5 Security Release"
 date: 2008-06-22 18:17:20
-tags: Bug/Issue Tracking
+tags: [Bug/Issue Tracking]
 categories: [Bug/Issue Tracking]
 
 ---

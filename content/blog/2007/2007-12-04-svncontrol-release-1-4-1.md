@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SVNControl Release 1.4.1"
 date: 2007-12-04 12:59:53
-tags: SKM,Neue Versionen,Subversion
+tags: [SKM,Neue Versionen,Subversion]
 categories: [SKM,Neue Versionen,Subversion]
 
 ---

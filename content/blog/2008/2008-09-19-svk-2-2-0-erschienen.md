@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SVK 2.2.0 erschienen"
 date: 2008-09-19 11:12:57
-tags: SKM,Neue Versionen,SVK
+tags: [SKM,Neue Versionen,SVK]
 categories: [SKM,Neue Versionen,SVK]
 
 ---

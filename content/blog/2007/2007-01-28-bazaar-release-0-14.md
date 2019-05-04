@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Bazaar Release  0.14"
 date: 2007-01-28 17:40:04
-tags: SKM,Neuigkeiten,Neue Versionen
+tags: [SKM,Neuigkeiten,Neue Versionen]
 categories: [SKM,Neuigkeiten,Neue Versionen]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SupoSE - Eat your own Dog food"
 date: 2009-06-09 23:20:18
-tags: SKM,Neuigkeiten,Subversion,SupoSE
+tags: [SKM,Neuigkeiten,Subversion,SupoSE]
 categories: [SKM,Neuigkeiten,Subversion,SupoSE]
 
 ---

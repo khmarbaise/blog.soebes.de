@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Ant ohne XML"
 date: 2007-10-28 21:34:17
-tags: SKM,BM
+tags: [SKM,BM]
 categories: [SKM,BM]
 
 ---

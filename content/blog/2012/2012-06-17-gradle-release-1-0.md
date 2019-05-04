@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Gradle Release 1.0"
 date: 2012-06-17 12:25:24
-tags: Neuigkeiten,Neue Versionen,BM,Gradle
+tags: [Neuigkeiten,Neue Versionen,BM,Gradle]
 categories: [Neuigkeiten,Neue Versionen,BM,Gradle]
 
 ---

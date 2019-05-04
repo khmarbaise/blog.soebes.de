@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.5.3 - Released"
 date: 2008-10-11 11:08:00
-tags: SKM,Neue Versionen,Subversion
+tags: [SKM,Neue Versionen,Subversion]
 categories: [SKM,Neue Versionen,Subversion]
 
 ---

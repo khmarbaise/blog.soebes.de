@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Installation Redmine"
 date: 2008-10-21 20:56:10
-tags: Neuigkeiten,Redmine
+tags: [Neuigkeiten,Redmine]
 categories: [Neuigkeiten,Redmine]
 
 ---

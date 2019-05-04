@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Vortrag von der JUGF: Grundlagen Software Konfigurationsmanagement online"
 date: 2011-05-28 15:49:17
-tags: SKM,Neuigkeiten,Neue Versionen
+tags: [SKM,Neuigkeiten,Neue Versionen]
 categories: [SKM,Neuigkeiten,Neue Versionen]
 
 ---

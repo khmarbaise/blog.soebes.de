@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SupoSE Release 0.6.2 Calypso RC1 erschienen"
 date: 2010-03-02 16:39:11
-tags: SKM,Subversion,SupoSE
+tags: [SKM,Subversion,SupoSE]
 categories: [SKM,Subversion,SupoSE]
 
 ---

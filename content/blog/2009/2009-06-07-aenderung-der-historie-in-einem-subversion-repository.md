@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Änderung der Historie in einem Subversion Repository"
 date: 2009-06-07 15:27:33
-tags: SKM,Neuigkeiten,Subversion
+tags: [SKM,Neuigkeiten,Subversion]
 categories: [SKM,Neuigkeiten,Subversion]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversion 1.7.0 Alpha 1 erschienen"
 date: 2011-06-10 19:22:16
-tags: 
+tags: []
 categories: []
 
 ---

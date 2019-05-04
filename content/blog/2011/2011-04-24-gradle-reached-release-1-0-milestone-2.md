@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Gradle Reached Release 1.0 Milestone-2"
 date: 2011-04-24 12:22:25
-tags: Neuigkeiten,Neue Versionen,BM,Gradle
+tags: [Neuigkeiten,Neue Versionen,BM,Gradle]
 categories: [Neuigkeiten,Neue Versionen,BM,Gradle]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Maven 2.0.6 is released."
 date: 2007-04-01 20:21:57
-tags: Java,Neue Versionen,BM
+tags: [Java,Neue Versionen,BM]
 categories: [Java,Neue Versionen,BM]
 
 ---

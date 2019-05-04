@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Neue Release von Bazaar VCS 0.17rc1"
 date: 2007-06-14 09:52:21
-tags: SKM,Neuigkeiten,Neue Versionen
+tags: [SKM,Neuigkeiten,Neue Versionen]
 categories: [SKM,Neuigkeiten,Neue Versionen]
 
 ---

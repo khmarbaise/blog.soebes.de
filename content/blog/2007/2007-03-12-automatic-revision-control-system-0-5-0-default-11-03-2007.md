@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Automatic Revision Control System 0.5.0 (Default) - 11.03.2007"
 date: 2007-03-12 21:55:38
-tags: SKM,Neuigkeiten
+tags: [SKM,Neuigkeiten]
 categories: [SKM,Neuigkeiten]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Redmine und Maven Vortrag für die Linux Tage in Berlin"
 date: 2009-06-17 17:52:24
-tags: Java,Neuigkeiten,Maven,Redmine
+tags: [Java,Neuigkeiten,Maven,Redmine]
 categories: [Java,Neuigkeiten,Maven,Redmine]
 
 ---

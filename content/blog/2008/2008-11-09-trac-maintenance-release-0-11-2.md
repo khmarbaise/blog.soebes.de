@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Trac Maintenance Release 0.11.2"
 date: 2008-11-09 11:29:51
-tags: Neuigkeiten,Neue Versionen,Bug/Issue Tracking,trac
+tags: [Neuigkeiten,Neue Versionen,Bug/Issue Tracking,trac]
 categories: [Neuigkeiten,Neue Versionen,Bug/Issue Tracking,trac]
 
 ---

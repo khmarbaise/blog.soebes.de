@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SVK - Maintenance Release 2.2.2 zur Verfügung"
 date: 2010-03-12 13:36:35
-tags: SKM,Neue Versionen,Subversion,SVK
+tags: [SKM,Neue Versionen,Subversion,SVK]
 categories: [SKM,Neue Versionen,Subversion,SVK]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "EGit Eclipse Git plug-in released - incubator"
 date: 2010-03-30 10:18:04
-tags: Java,SKM,Neuigkeiten,DVCS,GIT
+tags: [Java,SKM,Neuigkeiten,DVCS,GIT]
 categories: [Java,SKM,Neuigkeiten,DVCS,GIT]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Iterations and Maven? Not Possible?"
 date: 2013-03-30 11:16:26
-tags: Neuigkeiten,BM,Maven
+tags: [Neuigkeiten,BM,Maven]
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins]
 
 ---

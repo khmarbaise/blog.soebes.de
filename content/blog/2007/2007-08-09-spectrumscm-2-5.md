@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "SpectrumSCM 2.5"
 date: 2007-08-09 19:51:58
-tags: SKM,Neuigkeiten,Neue Versionen,SpectrumSCM
+tags: [SKM,Neuigkeiten,Neue Versionen,SpectrumSCM]
 categories: [SKM,Neuigkeiten,Neue Versionen,SpectrumSCM]
 
 ---

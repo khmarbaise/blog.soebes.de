@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Hudson - 1.218 erschienen"
 date: 2008-05-22 16:07:38
-tags: Neue Versionen,CI
+tags: [Neue Versionen,CI]
 categories: [Neue Versionen,CI]
 
 ---

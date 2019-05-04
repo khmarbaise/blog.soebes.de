@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Doxygen Maven Plugin - 1.0.1 Released"
 date: 2010-02-12 18:52:49
-tags: Neuigkeiten,Maven
+tags: [Neuigkeiten,Maven]
 categories: [Neuigkeiten,Maven]
 
 ---

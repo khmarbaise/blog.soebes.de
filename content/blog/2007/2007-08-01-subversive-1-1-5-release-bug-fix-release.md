@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversive 1.1.5 Release - Bug Fix Release"
 date: 2007-08-01 21:38:53
-tags: SKM,Neuigkeiten,Neue Versionen
+tags: [SKM,Neuigkeiten,Neue Versionen]
 categories: [SKM,Neuigkeiten,Neue Versionen]
 
 ---

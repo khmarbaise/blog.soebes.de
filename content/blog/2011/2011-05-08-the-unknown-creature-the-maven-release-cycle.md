@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "The Unknown creature - The Maven Release Cycle"
 date: 2011-05-08 11:18:54
-tags: Neuigkeiten,Maven
+tags: [Neuigkeiten,Maven]
 categories: [Neuigkeiten,Maven]
 
 ---

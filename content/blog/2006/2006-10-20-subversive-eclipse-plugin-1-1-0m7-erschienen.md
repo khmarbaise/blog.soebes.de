@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "Subversive Eclipse PlugIn 1.1.0M7 erschienen"
 date: 2006-10-20 21:34:15
-tags: Java,SKM,Neue Versionen
+tags: [Java,SKM,Neue Versionen]
 categories: [Java,SKM,Neue Versionen]
 
 ---

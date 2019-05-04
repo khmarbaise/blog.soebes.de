@@ -3,7 +3,7 @@ layout: post
 authors: ["khmarbaise"]
 title: "At Google Tech Talk Linus Torvalds talks about source control management and Git in particular."
 date: 2007-07-01 22:07:58
-tags: SKM,Neuigkeiten,GIT
+tags: [SKM,Neuigkeiten,GIT]
 categories: [SKM,Neuigkeiten,GIT]
 
 ---
