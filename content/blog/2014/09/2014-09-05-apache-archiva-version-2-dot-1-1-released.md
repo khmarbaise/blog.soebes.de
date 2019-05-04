@@ -41,11 +41,11 @@ Release Notes
 
 Bugs:
 
- * [MRM-1832] - RepositoryScannerTest#testDefaultRepositoryScanner fails on Linux with src release zip
- * [MRM-1853] - On first start up, you get a perpetual loading indicator.
- * [MRM-1854] - Last modified date is epoch on directory listing for a group
- * [MRM-1855] - "Loading" button never disappears when no one is logged in in some browsers
- * [MRM-1856] - archiva-cli does not work
+ * [MRM-1832](https://issues.apache.org/jira/browse/MRM-1832)- RepositoryScannerTest#testDefaultRepositoryScanner fails on Linux with src release zip
+ * [MRM-1853](https://issues.apache.org/jira/browse/MRM-1853)- On first start up, you get a perpetual loading indicator.
+ * [MRM-1854](https://issues.apache.org/jira/browse/MRM-1854)- Last modified date is epoch on directory listing for a group
+ * [MRM-1855](https://issues.apache.org/jira/browse/MRM-1855)- "Loading" button never disappears when no one is logged in in some browsers
+ * [MRM-1856](https://issues.apache.org/jira/browse/MRM-1856)- archiva-cli does not work
 
 Have fun!
 -- The Apache Archiva Team
