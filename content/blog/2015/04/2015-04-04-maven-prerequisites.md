@@ -82,10 +82,10 @@ your builds.
 The conclusion is to use the [maven-enforcer-plugin][7] rule
 only to define the minimum maven version to build with.
 
-[1]: http://blog.soebes.de/blog/2015/03/17/apache-maven-3-dot-3-1-features/
+[1]: https://blog.soebes.de/blog/2015/03/17/apache-maven-3-dot-3-1-features/
 [2]: https://maven.apache.org/pom.html#Prerequisites
-[3]: http://jira.codehaus.org/browse/MNG-4840
-[4]: http://jira.codehaus.org/browse/MNG-5297
-[5]: http://jira.codehaus.org/browse/MNG-5501
+[3]: https://issues.apache.org/jira/browse/MNG-4840
+[4]: https://issues.apache.org/jira/browse/MNG-5297
+[5]: https://issues.apache.org/jira/browse/MNG-5501
 [6]: https://maven.apache.org/enforcer/maven-enforcer-plugin/
 [7]: https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html

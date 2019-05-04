@@ -28,24 +28,24 @@ You should specify the version in your project's dependencies configuration:
 
 Bugs:
 
- * [MSHARED-563] - Directory traversal in org.apache.maven.shared.utils.Expand
- * [MSHARED-564] - Exceptions thrown on closing resources should not be suppressed silently.
+ * [563](https://issues.apache.org/jira/browse/563) Directory traversal in org.apache.maven.shared.utils.Expand
+ * [564](https://issues.apache.org/jira/browse/564) Exceptions thrown on closing resources should not be suppressed silently.
 
 Improvement:
 
- * [MSHARED-548] - Inherit Site Configuration
+ * [548](https://issues.apache.org/jira/browse/548) Inherit Site Configuration
 
 New Feature:
 
- * [MSHARED-562] - add an API to create messages with consistent and configurable colors
+ * [562](https://issues.apache.org/jira/browse/562) add an API to create messages with consistent and configurable colors
 
 Task:
 
- * [MSHARED-565] - Upgrade of commons-io to 2.5.
+ * [565](https://issues.apache.org/jira/browse/565) Upgrade of commons-io to 2.5.
 
 Wish:
 
- * [MSHARED-567] - remove dependency on Maven core
+ * [567](https://issues.apache.org/jira/browse/567) remove dependency on Maven core
 
 Enjoy,
 

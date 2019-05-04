@@ -19,7 +19,7 @@ InvocationOutputHandlers.
 
 Important message for Windows users who want to invoke Apache Maven 3.3.1 and above:
 
-Due to http://jira.codehaus.org/browse/MNG-5776 the start-script has been
+Due to https://issues.apache.org/jira/browse/MNG-5776 the start-script has been
 renamed from mvn.bat to mvn.cmd, which caused the previous versions of Maven
 Invoker to not being able to find the executable file anymore. This critical
 issue has been fixed in this release.
