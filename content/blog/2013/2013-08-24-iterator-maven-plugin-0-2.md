@@ -14,7 +14,7 @@ The [iterator-maven-plugin is available via Maven Central](http://search.maven.o
 and can be used as any other maven plugin.
 <!-- more -->
 
-{% codeblock Iterator Maven Plugin Configuration lang:xml %}
+```xml
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>
   <artifactId>iterator-maven-plugin</artifactId>
@@ -51,5 +51,5 @@ and can be used as any other maven plugin.
     </execution>
   </executions>
 </plugin>
-{% endcodeblock %}
+```
 

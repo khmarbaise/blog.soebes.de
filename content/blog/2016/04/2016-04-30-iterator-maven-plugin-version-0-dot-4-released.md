@@ -36,7 +36,7 @@ The iterator-maven-plugin is available via
 
 Here is an example how you can use the iterator-maven-plugin:
 
-{% codeblock Iterator Maven Plugin Configuration lang:xml %}
+```xml
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>
   <artifactId>iterator-maven-plugin</artifactId>
@@ -73,7 +73,7 @@ Here is an example how you can use the iterator-maven-plugin:
     </execution>
   </executions>
 </plugin>
-{% endcodeblock %}
+```
 
 The following example shows how the new feature for itemsWithProperties can be used.
 This means that for every iteration not only the value of the iteration is given
@@ -81,7 +81,7 @@ as property also the supplemental defined properties are injected into the prope
 of the project which can of course being accessed via usualy way in Maven.
 The real usage is only limited by your own imagination.
 
-{% codeblock Iterator Maven Plugin Configuration lang:xml %}
+```xml
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>
   <artifactId>iterator-maven-plugin</artifactId>
@@ -123,4 +123,4 @@ The real usage is only limited by your own imagination.
     </execution>
   </executions>
 </plugin>
-{% endcodeblock %}
+```

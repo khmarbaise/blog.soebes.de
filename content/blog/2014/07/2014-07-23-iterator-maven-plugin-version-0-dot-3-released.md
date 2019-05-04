@@ -31,7 +31,7 @@ The iterator-maven-plugin is available via
 
 Here is an example how you can use the iterator-maven-plugin:
 
-{% codeblock Iterator Maven Plugin Configuration lang:xml %}
+```xml
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>
   <artifactId>iterator-maven-plugin</artifactId>
@@ -68,12 +68,12 @@ Here is an example how you can use the iterator-maven-plugin:
     </execution>
   </executions>
 </plugin>
-{% endcodeblock %}
+```
 
 The following example shows how the new feature for folder iteration can be used. The
 real usage is only limited by your own imagination.
 
-{% codeblock Iterator Maven Plugin Configuration lang:xml %}
+```xml
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>
   <artifactId>iterator-maven-plugin</artifactId>
@@ -104,4 +104,4 @@ real usage is only limited by your own imagination.
     </execution>
   </executions>
 </plugin>
-{% endcodeblock %}
+```

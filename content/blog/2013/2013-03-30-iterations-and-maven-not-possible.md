@@ -23,7 +23,7 @@ create a [ticket on github](https://github.com/khmarbaise/iterator-maven-plugin/
 In this case it will iterator over the given list test,prod and dev and call for every item 
 the {% mp maven-assembly-plugin %}.
 
-{% codeblock Iterator Maven Plugin Configuration lang:xml %}
+```xml
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>
   <artifactId>iterator-maven-plugin</artifactId>
@@ -60,6 +60,6 @@ the {% mp maven-assembly-plugin %}.
     </execution>
   </executions>
 </plugin>
-{% endcodeblock %}
+```
 
 If you need you can execute several plugins as well. Just use an extra pluginExecutor for each of your plugins. So in other words: Iteration or foreach in Maven is solved.

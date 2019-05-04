@@ -30,7 +30,7 @@ Let us assume having two modules which you like to package into the final zip di
 This will bring you to use the [maven-assembly-plugin](https://maven.apache.org/plugins/maven-assembly-plugin) with
 an appropriate [assembly descriptor](https://maven.apache.org/plugins/maven-assembly-plugin/assembly.html) like this:
 
-{% codeblock Assembly Descriptor lang:xml %}
+```xml
 <assembly>
   <id>distribution</id>
   <formats>
@@ -56,12 +56,12 @@ an appropriate [assembly descriptor](https://maven.apache.org/plugins/maven-asse
     </fileSet>
   </fileSets>
 </assembly>
-{% endcodeblock %}
+```
 
 So on the first glance this descriptor looks very well. Ok. Let us take a look into the appropriate pom file which looks like this:
 
 
-{% codeblock distribution module POM file lang:xml %}
+```xml
 <project
   xmlns="https://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -101,11 +101,11 @@ So on the first glance this descriptor looks very well. Ok. Let us take a look i
   </build>
 
 </project>
-{% endcodeblock %}
+```
 
 If you have the right pom file in the parent which will look like this then your build will work without any problems.
 
-{% codeblock parent POM file lang:xml %}
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <project
   xmlns="https://maven.apache.org/POM/4.0.0"
@@ -137,7 +137,7 @@ If you have the right pom file in the parent which will look like this then your
     <module>dist</module>
   </modules>
 </project>
-{% endcodeblock %}
+```
 
 The full code of the example can be found on [github](https://github.com/khmarbaise/assembly-examples) in the folder `assemblies-with-files`.
 
@@ -148,18 +148,19 @@ Let us dive into the build and see if we find some kind of *Build Smells*.
 
 ##The Order Smell##
 
-The first smell can be found if you change the order of the modules in the parent pom file from this:
+The first smell can be found if you change the order of the modules in the 
+[parent pom file from this](https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files/pom.xml):
 
-``` xml Original Module Order https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files/pom.xml GitHub
+```xml
   <modules>
     <module>package-1</module>
     <module>package-2</module>
     <module>dist</module>
   </modules>
 ```
-into the following:
+into the [following](https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-changed-order/pom.xml):
 
-``` xml Changed Module Order https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-changed-order/pom.xml GitHub
+```xml
   <modules>
     <module>dist</module>
     <module>package-1</module>
@@ -168,7 +169,7 @@ into the following:
 ```
 and your build will fail like this:
 
-{% codeblock parent POM file %}
+```
 [INFO] 
 [INFO] --- maven-assembly-plugin:2.4:single (make-bundles) @ dist ---
 [INFO] Reading assembly descriptor: proj1-assembly.xml
@@ -196,14 +197,14 @@ and your build will fail like this:
 [ERROR] 
 [ERROR] After correcting the problems, you can resume the build with the command
 [ERROR]   mvn <goals> -rf :dist
-{% endcodeblock %}
+```
 
 The question is: Why does this happen? The simple answer is: Maven can not calculate the reactor build order in the right manner.
 The root cause of this is that the dependencies between the modules are not defined at all.
 The solution of the problem can be simply achieved by defining the appropriate dependencies to the 
-modules you would like to pack into your distribution package like this:
+modules you would like to pack into your [distribution package like this](https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-deps/dist/pom.xml):
 
-``` xml Enhanced POM file with dependencies https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-deps/dist/pom.xml GitHub
+``` xml
   <dependencies>
     <dependency>
       <groupId>${project.groupId}</groupId>
@@ -222,9 +223,10 @@ automatically.
 
 ##The Assembly Descriptor File Smell##
 
-If we remember back to the maven-assembly-plugin descriptor which looks like this:
+If we remember back to the maven-assembly-plugin descriptor which 
+[looks like this](https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-deps/dist/proj1-assembly.xml):
 
-``` xml Assembly Descriptor https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-deps/dist/proj1-assembly.xml GitHub
+``` xml
   <fileSets>
     <fileSet>
       <directory>${basedir}/../package-1/target/</directory>
@@ -247,7 +249,7 @@ packed into the distribution archive instead of two?
 The assembly descriptor would look like this:
 
 
-``` xml Ten Module Assembly Descriptor 
+```xml 
   <fileSets>
     <fileSet>
       <directory>${basedir}/../package-1/target/</directory>
@@ -290,9 +292,9 @@ well as the descriptor. The full example can be found [here](https://github.com/
 
 
 The solution of this problem is to remember that maven has a reactor which can be used for such purposes instead of the
-file level. This will simplify the descriptor dramatically like this:
+file level. This will simplify the descriptor [dramatically like this](https://github.com/khmarbaise/assembly-examples/tree/master/assemblies-with-files-ten-mods):
 
-``` xml Assembly Descriptor for reactor usage https://github.com/khmarbaise/assembly-examples/tree/master/assemblies-with-files-ten-mods GitHub
+``` xml
 <assembly xmlns="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0 https://maven.apache.org/xsd/assembly-1.1.0.xsd">

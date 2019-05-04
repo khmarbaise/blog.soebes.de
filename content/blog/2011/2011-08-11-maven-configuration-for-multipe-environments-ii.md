@@ -16,7 +16,7 @@ in a Maven Repository like Maven Central it is easy to get them.
 Just use the [Maven Dependency Plugin](https://maven.apache.org/maven-dependency-plugin/) to get the artifacts. 
 This means you have to add the following to your pom file: 
 
-{% codeblock Getting Artifacts lang:xml %}
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-dependency-plugin</artifactId>
@@ -41,7 +41,7 @@ This means you have to add the following to your pom file:
         <outputDirectory>${project.build.directory}/environment/test</outputDirectory>
       </configuration>
     </execution>
-{% endcodeblock %}
+```
 
 Apart from that you need a separate execution block for every environment (test, qa and production in our case). 
 Furthermore if you need more than one dependency you can simply achieve this by adding them in the artifactItems block with their 
@@ -50,7 +50,7 @@ located within an Maven like repository? Ok not problem at all. You can use the 
 To do such things you simply enhance your pom with the appropriate configuration for the 
 [wagon-maven-plugin](http://mojo.codehaus.org/wagon-maven-plugin/):
 
-{% codeblock Downloading Artifacts lang:xml %}
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>wagon-maven-plugin</artifactId>
@@ -70,7 +70,7 @@ To do such things you simply enhance your pom with the appropriate configuration
     </execution>
   </executions>
 </plugin>
-{% endcodeblock %}
+```
 In this case i have added a ```.tar.gz``` archive downloaded from Apache archive and added that to the qa environment. 
 The full code of a full fledged Maven build for that and the previous article can be found 
 [here](https://github.com/khmarbaise/multiple-artifacts).

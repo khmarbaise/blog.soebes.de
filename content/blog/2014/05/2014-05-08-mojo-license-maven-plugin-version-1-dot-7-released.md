@@ -99,11 +99,11 @@ Bug:
  * [MLICENSE--79]  - add-third-party mojo may add unwanted dependencies to the generated 
                              third party file when executing in multiple projects in a single maven build.
  * [MLICENSE--86]  - \[WARNING\] could not rename
- * [MLICENSE--105] - Fix some log messages
+ * [MLICENSE-105] - Fix some log messages
 
 Improvement:
 
- * [MLICENSE--103] - Don't show each single file name
+ * [MLICENSE-103] - Don't show each single file name
 
 Enjoy,
 

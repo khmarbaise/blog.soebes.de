@@ -37,7 +37,7 @@ The uptodate-maven-plugin is available via
 <!-- more -->
 Lets take a look at a real example like the following:
 
-{% codeblock Uptodate Maven Plugin Example 1 lang:xml %}
+```xml
 <parent>
   <groupId>com.soebes.maven.plugins.test.integration</groupId>
   <artifactId>parent</artifactId>
@@ -68,7 +68,7 @@ Lets take a look at a real example like the following:
     </plugin>
   </plugins>
 </build>
-{% endcodeblock %}
+```
 
 The above build will run fine if the given parent exists only in the
 version 0.1, but the build will fail if you deploy a new version of
@@ -85,7 +85,7 @@ me via [github](https://github.com/khmarbaise/uptodate-maven-plugin/issues).
 If you have the requirement to check your dependencies to be
 up-to-date you can use the goal `dependency` instead.
 
-{% codeblock Uptodate Maven Plugin Example 2 lang:xml %}
+```xml
 <parent>
   <groupId>com.soebes.maven.plugins.test.integration</groupId>
   <artifactId>parent</artifactId>
@@ -124,7 +124,7 @@ up-to-date you can use the goal `dependency` instead.
     </plugin>
   </plugins>
 </build>
-{% endcodeblock %}
+```
 
 The above build will run fine if your given dependency 
 `com.soebes.maven.plugins.test.integration:dep-01:0.1`

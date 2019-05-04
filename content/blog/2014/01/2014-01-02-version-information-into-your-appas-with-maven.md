@@ -92,9 +92,9 @@ public class TheVersionClass {
 
  But unfortunately within a Maven build this will result usually in null output, cause by default
  these information are not written to the ```MANIFEST.MF``` file. This can simply be fixed by 
- using the following pom snippet:
+ using the [following pom snippet](https://github.com/khmarbaise/version-examples/tree/master/version-example-ii/pom.xml):
 
-``` xml pom.xml with configuration to create Implementation/Specification entries https://github.com/khmarbaise/version-examples/tree/master/version-example-ii/pom.xml
+```xml 
 <build>
   <pluginManagement>
     <plugins>
@@ -130,8 +130,8 @@ groupId=${project.groupId}
 artifactId=${project.artifactId}
 ``` 
 
-You need to setup filtering in your project like this:
-``` xml Filtering version.properties https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/pom.xml
+You need to setup filtering in your [project like this](https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/pom.xml):
+``` xml 
 <build>
   <resources>
     <resource>
@@ -145,11 +145,10 @@ You need to setup filtering in your project like this:
 </build>
 ```
 
-The entries can be extracted by Java code like the following which is more or less exactly the same as before
-(except for the path):
+The entries can be extracted by [Java code like the following](https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/src/main/java/com/soebes/examples/TheVersionClass.java)
+which is more or less exactly the same as before (except for the path):
 
-
-``` java The version.properties way https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/src/main/java/com/soebes/examples/TheVersionClass.java
+``` java The version.properties way
 public class TheVersionClass
 {
     ..
@@ -203,8 +202,9 @@ public final class Version {
 
  The following pom snippet is used to generate the Java source from the Java template file and
  make sure it will be compiled by the [maven-compiler-plugin](https://maven.apache.org/plugins/maven-compiler-plugin/).
-
-``` xml templating-maven-plugin https://github.com/khmarbaise/version-examples/tree/master/version-example-iv/pom.xml
+ See https://github.com/khmarbaise/version-examples/tree/master/version-example-iv/pom.xml:
+ 
+``` xml 
 <plugins>
   <plugin>
     <groupId>org.codehaus.mojo</groupId>

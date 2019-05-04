@@ -16,26 +16,26 @@ compatibility to the plugin. For those using it, it will bring very nice increme
 
 To get this update, simply specify the version in your project`s plugin configuration:
 
-{% codeblock SQLJ Maven Plugin lang:xml %}
+```xml
 <plugin>
       <groupId>org.codehaus.mojo</groupId>
       <artifactId>sqlj-maven-plugin</artifactId>
       <version>1.2</version>
 </plugin>
-{% endcodeblock %}
+```
 
 The following bugs have been fixed:
 
- * [MSQLJ--11] - Wrong web access url for scm
- * [MSQLJ--13] - sqlj:sqlj fails if status param is configured to false 
+ * [MSQLJ-11] - Wrong web access url for scm
+ * [MSQLJ-13] - sqlj:sqlj fails if status param is configured to false 
 
 Improvements:
 
- * [MSQLJ--6] - Make plugin m2e compatible 
- * [MSQLJ--12] - Print out the version of sqlj being used 
- * [MSQLJ--14] - Rework how the output of processing (status) info works 
+ * [MSQLJ-6] - Make plugin m2e compatible 
+ * [MSQLJ-12] - Print out the version of sqlj being used 
+ * [MSQLJ-14] - Rework how the output of processing (status) info works 
 
 Tasks:
 
- * [MSQLJ--7] - Convert ITs to maven-invoker-plugin 
- * [MSQLJ--8] - Switch to Mojo Java annotations 
+ * [MSQLJ-7] - Convert ITs to maven-invoker-plugin 
+ * [MSQLJ-8] - Switch to Mojo Java annotations 
