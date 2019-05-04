@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven DOCCK Plugin Version 1.1 Released"
 date: 2015-04-09 09:43:00
 comments: true
-categories: 
+categories: [maven,maven-plugins] 
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven DOCCK, version 1.1](https://maven.apache.org/plugins/maven-docck-plugin).

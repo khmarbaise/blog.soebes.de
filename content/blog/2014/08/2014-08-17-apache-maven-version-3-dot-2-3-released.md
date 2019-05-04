@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Version 3.2.3 Released"
 date: 2014-08-17 22:30:00
 comments: true
-categories: 
+categories: [Maven,Release] 
 ---
 Hi!
 

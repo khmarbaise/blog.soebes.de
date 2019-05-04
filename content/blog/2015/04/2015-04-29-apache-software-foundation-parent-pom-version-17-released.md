@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Software Foundation Parent POM Version 17 Released"
 date: 2015-04-29 20:57:00
 comments: true
-categories: 
+categories: [asf] 
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Software Foundation Parent POM Version 17](https://maven.apache.org/pom/asf/).

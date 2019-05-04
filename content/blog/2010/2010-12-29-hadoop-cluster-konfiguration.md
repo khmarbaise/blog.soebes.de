@@ -3,8 +3,8 @@ layout: post
 authors: ["khmarbaise"]
 title: "Hadoop Cluster Konfiguration"
 date: 2010-12-29 17:07:00
-tags: []
-categories: []
+tags: [Testing]
+categories: [Hadoop]
 
 ---
 Derzeit habe ich zum Testen einen Hadoop Cluster bestehend aus drei Datanodes und einem Namenode aufgebaut.
