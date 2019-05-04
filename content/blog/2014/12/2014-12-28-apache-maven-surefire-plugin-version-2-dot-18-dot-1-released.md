@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Surefire Plugin Version 2.18.1 Released"
-date: 2014-12-28 21:44
+date: 2014-12-28 21:44:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

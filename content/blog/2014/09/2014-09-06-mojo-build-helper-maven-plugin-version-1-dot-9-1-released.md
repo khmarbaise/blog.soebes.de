@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo Build Helper Maven Plugin Version 1.9.1 Released"
-date: 2014-09-06 09:49
+date: 2014-09-06 09:49:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

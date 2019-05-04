@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Toolchains Plugin Version 1.1 Released"
-date: 2014-11-15 12:23
+date: 2014-11-15 12:23:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

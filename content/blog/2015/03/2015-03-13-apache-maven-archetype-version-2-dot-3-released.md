@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Archetype 2.3 Released"
-date: 2015-03-13 23:47
+date: 2015-03-13 23:47:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

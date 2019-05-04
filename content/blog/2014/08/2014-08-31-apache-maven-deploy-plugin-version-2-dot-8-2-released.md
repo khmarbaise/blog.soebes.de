@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Deploy Plugin Version 2.8.2 Released"
-date: 2014-08-31 16:38
+date: 2014-08-31 16:38:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

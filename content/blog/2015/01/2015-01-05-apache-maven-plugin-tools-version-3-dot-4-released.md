@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Plugin Tools Version 3.4 Released"
-date: 2015-01-05 21:06
+date: 2015-01-05 21:06:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

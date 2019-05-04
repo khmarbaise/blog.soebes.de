@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nar Maven Plugin Version 3.1.0 Released"
-date: 2014-06-09 13:01
+date: 2014-06-09 13:01:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

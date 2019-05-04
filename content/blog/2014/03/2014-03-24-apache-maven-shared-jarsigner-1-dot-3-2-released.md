@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Shared JarSigner 1.3.2 - Released"
-date: 2014-03-24 09:06
+date: 2014-03-24 09:06:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---

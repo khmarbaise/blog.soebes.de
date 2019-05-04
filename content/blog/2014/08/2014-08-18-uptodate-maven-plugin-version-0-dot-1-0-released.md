@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UpToDate Maven Plugin Version 0.1.0 Released"
-date: 2014-08-18 08:30
+date: 2014-08-18 08:30:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

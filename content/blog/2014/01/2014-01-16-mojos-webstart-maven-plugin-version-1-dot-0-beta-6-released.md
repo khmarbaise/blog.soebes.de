@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo's Webstart Maven Plugin Version 1.0-beta-6 Released"
-date: 2014-01-16 17:39
+date: 2014-01-16 17:39:00
 comments: true
 categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven SCM Publish Plugin Version 1.0 Released"
-date: 2014-02-05 19:51
+date: 2014-02-05 19:51:00
 comments: true
 categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

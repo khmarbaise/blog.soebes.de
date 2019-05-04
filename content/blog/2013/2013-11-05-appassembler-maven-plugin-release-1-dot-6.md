@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Appassembler Maven Plugin 1.6 released"
-date: 2013-11-05 20:02
+date: 2013-11-05 20:02:00
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
 ---

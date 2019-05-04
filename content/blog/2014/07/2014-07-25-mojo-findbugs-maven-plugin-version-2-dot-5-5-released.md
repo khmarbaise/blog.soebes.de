@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo FindBugs Maven Plugin Version 2.5.5 Released"
-date: 2014-07-25 19:39
+date: 2014-07-25 19:39:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

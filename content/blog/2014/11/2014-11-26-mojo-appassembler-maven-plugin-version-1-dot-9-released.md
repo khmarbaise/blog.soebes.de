@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo Appassembler Maven Plugin Version 1.9 Released"
-date: 2014-11-26 20:15
+date: 2014-11-26 20:15:00
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Mojo Team is pleased to announce the new release 

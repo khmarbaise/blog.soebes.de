@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven ChangeLog Plugin 2.3 Released"
-date: 2014-06-27 23:19
+date: 2014-06-27 23:19:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

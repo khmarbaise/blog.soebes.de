@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MojoHaus Version Maven Plugin Version 2.4 Released"
-date: 2017-06-04 12:30
+date: 2017-06-04 12:30:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

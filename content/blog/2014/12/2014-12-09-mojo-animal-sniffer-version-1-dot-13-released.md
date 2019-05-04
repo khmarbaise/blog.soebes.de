@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo Animal Sniffer Version 1.13 Released"
-date: 2014-12-09 10:55
+date: 2014-12-09 10:55:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven PMD Version 3.4 Released"
-date: 2015-02-03 21:43
+date: 2015-02-03 21:43:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

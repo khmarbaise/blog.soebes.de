@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Common POM Version 16 Released"
-date: 2014-11-17 21:00
+date: 2014-11-17 21:00:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,POM-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo Flatten Maven Plugin 1.0.0 beta 2 Released"
-date: 2014-06-07 13:44
+date: 2014-06-07 13:44:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

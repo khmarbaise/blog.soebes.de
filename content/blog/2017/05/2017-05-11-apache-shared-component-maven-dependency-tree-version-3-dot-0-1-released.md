@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Shared Component: Maven Dependency Tree Version 3.0.1 Released"
-date: 2017-05-11 21:10
+date: 2017-05-11 21:10:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Shared]
 ---

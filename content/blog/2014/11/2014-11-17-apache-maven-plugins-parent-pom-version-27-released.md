@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Plugins Parent POM Version 27 Released"
-date: 2014-11-17 22:02
+date: 2014-11-17 22:02:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,POM-Releases]
 ---

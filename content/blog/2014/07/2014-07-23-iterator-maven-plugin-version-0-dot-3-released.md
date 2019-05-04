@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Iterator Maven Plugin Version 0.3 Released"
-date: 2014-07-23 12:51
+date: 2014-07-23 12:51:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

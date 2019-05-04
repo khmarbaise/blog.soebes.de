@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building For Multiple Environments"
-date: 2016-05-08 19:17
+date: 2016-05-08 19:17:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven Best Practice]
 ---

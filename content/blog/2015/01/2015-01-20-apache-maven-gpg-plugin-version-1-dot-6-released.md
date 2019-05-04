@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven GPG Plugin Version 1.6 Released"
-date: 2015-01-20 19:34
+date: 2015-01-20 19:34:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

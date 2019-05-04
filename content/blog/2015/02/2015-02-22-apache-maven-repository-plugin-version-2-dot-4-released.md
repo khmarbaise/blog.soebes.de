@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Repository Plugin Version 2.4 Released"
-date: 2015-02-22 15:34
+date: 2015-02-22 15:34:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Project Parent Version 26 Released"
-date: 2014-11-17 21:17
+date: 2014-11-17 21:17:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,POM-Releases]
 ---

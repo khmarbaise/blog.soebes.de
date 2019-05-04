@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animal Sniffer Version 1.11 Released"
-date: 2014-03-25 19:20
+date: 2014-03-25 19:20:00
 comments: true
 categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

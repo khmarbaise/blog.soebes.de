@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Site Plugin Version 3.5 Released"
-date: 2016-02-18 08:01
+date: 2016-02-18 08:01:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Compiler Plugin Version 3.3 Released"
-date: 2015-03-26 20:48
+date: 2015-03-26 20:48:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

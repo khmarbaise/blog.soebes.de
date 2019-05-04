@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Jar Plugin Version 3.1.0 Released"
-date: 2018-04-10 17:20
+date: 2018-04-10 17:20:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

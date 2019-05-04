@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Enforcer Plugin - Extra Rules 1.0-beta-2"
-date: 2013-11-05 19:37
+date: 2013-11-05 19:37:00
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
 ---

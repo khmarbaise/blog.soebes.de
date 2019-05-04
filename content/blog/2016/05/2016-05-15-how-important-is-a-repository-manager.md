@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Important is a Repository Manager?"
-date: 2016-05-15 15:14
+date: 2016-05-15 15:14:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Repository Manager,Nexus,Maven Best Practice]
 ---

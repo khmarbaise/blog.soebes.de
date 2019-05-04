@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Project Info Reports Plugin Version 2.8.1 Released"
-date: 2015-09-12 11:39
+date: 2015-09-12 11:39:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build Smells - Maven Assembly Plugin"
-date: 2013-09-28 14:00
+date: 2013-09-28 14:00:00
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven Best Practice]
 ---

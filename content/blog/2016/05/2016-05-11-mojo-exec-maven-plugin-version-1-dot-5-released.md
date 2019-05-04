@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MojoHaus Exec Maven Plugin Version 1.5.0 Released"
-date: 2016-05-11 19:37
+date: 2016-05-11 19:37:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

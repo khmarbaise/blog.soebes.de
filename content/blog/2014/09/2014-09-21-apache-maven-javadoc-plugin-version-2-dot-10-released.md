@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven JavaDoc Plugin Version 2.10 Released"
-date: 2014-09-21 23:15
+date: 2014-09-21 23:15:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

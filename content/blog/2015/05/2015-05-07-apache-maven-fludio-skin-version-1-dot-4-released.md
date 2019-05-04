@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Fludio Skin Version 1.4 Released"
-date: 2015-05-07 20:08
+date: 2015-05-07 20:08:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

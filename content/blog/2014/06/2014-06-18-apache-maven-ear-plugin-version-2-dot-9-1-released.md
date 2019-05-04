@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven EAR Plugin Version 2.9.1 Released"
-date: 2014-06-18 23:39
+date: 2014-06-18 23:39:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

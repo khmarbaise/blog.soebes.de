@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven SCM Version 1.9.4 Released"
-date: 2015-04-02 08:36
+date: 2015-04-02 08:36:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

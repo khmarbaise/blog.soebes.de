@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Clean Plugin Version 2.6 Released"
-date: 2014-09-25 22:47
+date: 2014-09-25 22:47:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

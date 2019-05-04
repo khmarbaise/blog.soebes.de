@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo RPM Maven Plugin Version 2.1.2 Released"
-date: 2015-01-24 22:09
+date: 2015-01-24 22:09:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

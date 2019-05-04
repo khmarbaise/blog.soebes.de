@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Wagon Version 2.10 Released"
-date: 2015-09-12 22:18
+date: 2015-09-12 22:18:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

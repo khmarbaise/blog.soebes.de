@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Wagon Version 2.6 Released"
-date: 2014-01-02 19:44
+date: 2014-01-02 19:44:00
 comments: true
 categories: [News,BM,Maven,Maven-Releases]
 ---

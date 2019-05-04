@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Verifier Plugin Version 1.1 Released"
-date: 2015-04-15 07:55
+date: 2015-04-15 07:55:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

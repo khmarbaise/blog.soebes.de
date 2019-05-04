@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Release Plugin - Release 2.5"
-date: 2014-03-05 18:22
+date: 2014-03-05 18:22:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

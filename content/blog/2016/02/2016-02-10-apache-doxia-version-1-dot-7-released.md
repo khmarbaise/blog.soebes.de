@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Doxia Version 1.7 Released"
-date: 2016-02-10 19:00
+date: 2016-02-10 19:00:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Components]
 ---

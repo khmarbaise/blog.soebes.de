@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FluentAPI - Usage"
-date: 2014-01-01 01:23
+date: 2014-01-01 01:23:00
 comments: true
 categories: [News, Programming,Best Practice]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maven: How To Create a Release"
-date: 2016-08-08 08:15
+date: 2016-08-08 08:15:00
 comments: true
 categories: [BM,Maven,Maven Best Practice]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Source Plugin Version 2.3 Released"
-date: 2014-07-11 10:21
+date: 2014-07-11 10:21:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

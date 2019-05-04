@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Shared Invoker Version 2.2 Released"
-date: 2015-03-25 20:03
+date: 2015-03-25 20:03:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---

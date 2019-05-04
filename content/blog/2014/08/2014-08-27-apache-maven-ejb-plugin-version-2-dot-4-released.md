@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven EJB Plugin Version 2.4 Released"
-date: 2014-08-27 19:58
+date: 2014-08-27 19:58:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Invoker Plugin Version 1.10 Released"
-date: 2015-04-03 17:04
+date: 2015-04-03 17:04:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

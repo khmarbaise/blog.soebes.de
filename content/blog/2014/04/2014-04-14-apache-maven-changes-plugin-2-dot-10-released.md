@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Changes Plugin 2.10 Released"
-date: 2014-04-14 21:56
+date: 2014-04-14 21:56:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

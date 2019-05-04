@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Deploy Plugin - Release 2.8"
-date: 2013-09-28 12:25
+date: 2013-09-28 12:25:00
 comments: true
 categories: [News,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

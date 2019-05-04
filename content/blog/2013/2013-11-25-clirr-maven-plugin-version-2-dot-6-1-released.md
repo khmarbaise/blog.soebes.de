@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clirr Maven Plugin Version 2.6.1 Released"
-date: 2013-11-25 20:05
+date: 2013-11-25 20:05:00
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
 ---
@@ -30,4 +30,5 @@ plugin configuration:
 The following improvement has been made:
 
 * {% chjl MCLIRR-61 %} - Allow any classpath artifact to be checked for changes
+
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Changes Plugin Version 2.11 Released"
-date: 2014-09-28 12:39
+date: 2014-09-28 12:39:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

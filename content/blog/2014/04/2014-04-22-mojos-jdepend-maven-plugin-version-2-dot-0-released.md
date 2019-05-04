@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo's JDepend Maven Plugin Version 2.0 - Released"
-date: 2014-04-22 21:33
+date: 2014-04-22 21:33:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

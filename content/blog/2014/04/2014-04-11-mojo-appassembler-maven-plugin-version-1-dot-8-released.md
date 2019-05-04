@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo Appassembler Maven Plugin Version 1.8 Released"
-date: 2014-04-11 17:30
+date: 2014-04-11 17:30:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

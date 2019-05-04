@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven DOCCK Plugin Version 1.1 Released"
-date: 2015-04-09 09:43
+date: 2015-04-09 09:43:00
 comments: true
 categories: 
 ---

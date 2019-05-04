@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Shade Plugin Version 2.4.1 Released"
-date: 2015-07-14 20:43
+date: 2015-07-14 20:43:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

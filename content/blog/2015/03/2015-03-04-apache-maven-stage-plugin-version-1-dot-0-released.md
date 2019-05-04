@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Stage Plugin Version 1.0 Released"
-date: 2015-03-04 19:01
+date: 2015-03-04 19:01:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

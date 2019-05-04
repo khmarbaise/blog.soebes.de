@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cassandra Maven plugin 2.0.0-1 released"
-date: 2013-12-18 21:19
+date: 2013-12-18 21:19:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

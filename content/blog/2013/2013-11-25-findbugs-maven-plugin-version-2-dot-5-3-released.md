@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FindBugs Maven Plugin Version 2.5.3 released"
-date: 2013-11-25 20:31
+date: 2013-11-25 20:31:00
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
 ---

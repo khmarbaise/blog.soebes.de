@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo AspectJ Maven Plugin Version 1.7 Released"
-date: 2014-09-14 10:37
+date: 2014-09-14 10:37:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

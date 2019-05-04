@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven 3.5.2 Released"
-date: 2017-10-25 12:34
+date: 2017-10-25 12:34:00
 comments: true
 categories: [BM,Maven,Maven Best Practice]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Checkstyle Plugin 2.12.1 Released"
-date: 2014-04-25 18:14
+date: 2014-04-25 18:14:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

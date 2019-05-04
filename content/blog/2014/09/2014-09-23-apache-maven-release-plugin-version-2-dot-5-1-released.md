@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Release Plugin Version 2.5.1 Released"
-date: 2014-09-23 06:59
+date: 2014-09-23 06:59:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

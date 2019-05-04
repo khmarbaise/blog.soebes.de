@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Install Plugin Version 2.5.2 Released"
-date: 2014-08-31 16:35
+date: 2014-08-31 16:35:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

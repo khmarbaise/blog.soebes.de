@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making GitHub Page for MojoHaus Plugins"
-date: 2015-06-12 08:09
+date: 2015-06-12 08:09:00
 comments: true
 categories: [MojoHaus,Github,BM,Maven,Maven-Plugins]
 ---

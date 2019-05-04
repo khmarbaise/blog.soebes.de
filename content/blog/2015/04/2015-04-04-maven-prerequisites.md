@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maven Prerequisites?"
-date: 2015-04-04 12:10
+date: 2015-04-04 12:10:00
 comments: true
 categories: [Maven,Maven Best Practice]
 ---

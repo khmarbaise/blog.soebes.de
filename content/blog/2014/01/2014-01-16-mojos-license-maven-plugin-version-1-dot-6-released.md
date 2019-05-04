@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo's License Maven Plugin Version 1.6 Released"
-date: 2014-01-16 17:44
+date: 2014-01-16 17:44:00
 comments: true
 categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Shared Jarsigner Version 1.3 Released"
-date: 2014-01-03 13:08
+date: 2014-01-03 13:08:00
 comments: true
 categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases,Maven-Shared]
 ---

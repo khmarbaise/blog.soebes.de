@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Version 3.2.5 Released"
-date: 2014-12-20 12:06
+date: 2014-12-20 12:06:00
 comments: true
 categories: [Neuigkeiten,Neue Versionen,BM,Maven,Maven-Release]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven PDF Plugin Version 1.3 Released"
-date: 2015-02-16 21:29
+date: 2015-02-16 21:29:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

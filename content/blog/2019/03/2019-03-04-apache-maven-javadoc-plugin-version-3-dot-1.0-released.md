@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven JavaDoc Plugin Version 3.1.0 Released"
-date: 2019-03-04 22:45
+date: 2019-03-04 22:45:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

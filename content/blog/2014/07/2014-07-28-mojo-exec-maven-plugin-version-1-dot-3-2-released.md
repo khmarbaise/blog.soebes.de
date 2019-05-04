@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo Exec Maven Plugin Version 1.3.2 Released"
-date: 2014-07-28 15:28
+date: 2014-07-28 15:28:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

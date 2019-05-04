@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Android Maven Plugin Version 4.3.0 Released"
-date: 2015-06-16 18:48
+date: 2015-06-16 18:48:00
 comments: true
 categories: [Neuigkeiten,BM,Android,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

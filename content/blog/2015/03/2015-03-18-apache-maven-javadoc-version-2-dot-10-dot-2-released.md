@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven JavaDoc Version 2.10.2 Released"
-date: 2015-03-18 21:19
+date: 2015-03-18 21:19:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

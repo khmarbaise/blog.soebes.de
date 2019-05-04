@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo Cobertura Maven Plugin Version 2.7 Released"
-date: 2015-03-03 21:19
+date: 2015-03-03 21:19:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

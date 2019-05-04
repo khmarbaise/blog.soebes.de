@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mojo SonarQube Maven Plugin Version 2.3.1 Released"
-date: 2014-06-07 13:34
+date: 2014-06-07 13:34:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

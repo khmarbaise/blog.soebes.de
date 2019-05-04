@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven RAR Plugin Version 2.4 Released"
-date: 2014-09-11 22:32
+date: 2014-09-11 22:32:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

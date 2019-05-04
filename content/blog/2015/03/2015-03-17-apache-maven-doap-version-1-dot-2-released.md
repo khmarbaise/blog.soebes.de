@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven DOAP Version 1.2 Released"
-date: 2015-03-17 20:44
+date: 2015-03-17 20:44:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

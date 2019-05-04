@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Compiler Plugin Version 3.2 Released"
-date: 2014-10-13 20:19
+date: 2014-10-13 20:19:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

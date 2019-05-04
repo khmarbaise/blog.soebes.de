@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven AntRun Plugin Version 1.8 Released"
-date: 2014-12-26 13:13
+date: 2014-12-26 13:13:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

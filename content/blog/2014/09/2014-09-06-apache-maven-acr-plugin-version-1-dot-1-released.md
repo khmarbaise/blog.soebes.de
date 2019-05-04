@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven ACR Plugin Version 1.1 Released"
-date: 2014-09-06 12:55
+date: 2014-09-06 12:55:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

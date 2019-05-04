@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maven Anti Patterns: Build Helper Maven Plugin"
-date: 2016-06-11 13:26
+date: 2016-06-11 13:26:00
 comments: true
 categories: [BM,Maven,Maven Best Practice]
 ---

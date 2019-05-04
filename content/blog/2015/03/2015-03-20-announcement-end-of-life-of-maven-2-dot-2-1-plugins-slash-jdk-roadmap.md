@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcement: End Of Life of Maven 2.2.1 - Plugins / JDK Roadmap"
-date: 2015-03-20 22:40
+date: 2015-03-20 22:40:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

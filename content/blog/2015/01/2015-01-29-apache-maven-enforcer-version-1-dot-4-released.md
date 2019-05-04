@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Enforcer Version 1.4 Released"
-date: 2015-01-29 21:09
+date: 2015-01-29 21:09:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

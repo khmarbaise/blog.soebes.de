@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Ant Plugin Version 2.4 Released"
-date: 2014-12-21 14:57
+date: 2014-12-21 14:57:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

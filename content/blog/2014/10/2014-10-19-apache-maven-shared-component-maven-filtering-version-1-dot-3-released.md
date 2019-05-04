@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Shared Component - Maven Filtering Version 1.3 Released"
-date: 2014-10-19 17:00
+date: 2014-10-19 17:00:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---

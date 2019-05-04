@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven JDeps Plugin 3.0.0 Released"
-date: 2015-10-30 18:57
+date: 2015-10-30 18:57:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SQLJ Maven Plugin - Release 1.2"
-date: 2013-10-22 12:41
+date: 2013-10-22 12:41:00
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
 ---

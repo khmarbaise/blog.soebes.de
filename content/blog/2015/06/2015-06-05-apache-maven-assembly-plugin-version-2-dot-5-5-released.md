@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apache Maven Assembly Plugin Version 2.5.5 Released"
-date: 2015-06-05 19:34
+date: 2015-06-05 19:34:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
