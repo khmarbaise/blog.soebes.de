@@ -5,7 +5,7 @@ title: "The Unknown creature - The Maven Release Cycle"
 date: 2011-05-08 11:18:54
 tags: Neuigkeiten,Maven
 categories: [Neuigkeiten,Maven]
-post-type: blog
+
 ---
 In the meantime often people use [Maven](https://maven.apache.org) to build their software, but when it comes to the time
 to release an artifact, they sometimes do unusual things in my opinion.  I have often observed that they manually set

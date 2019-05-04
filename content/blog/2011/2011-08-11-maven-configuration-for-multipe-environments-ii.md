@@ -5,7 +5,7 @@ title: "Maven: Configuration For Multipe Environments - II"
 date: 2011-08-11 09:41:32
 tags: Neuigkeiten,Neue Versionen,BM,Maven
 categories: [Maven, News, Maven-Plugins,Maven Best Practice]
-post-type: blog
+
 ---
 Based on a comment on my 
 [previous article](/blog/2011/07/29/maven-configuration-for-multipe-environments/ "previous article") i would like to show 

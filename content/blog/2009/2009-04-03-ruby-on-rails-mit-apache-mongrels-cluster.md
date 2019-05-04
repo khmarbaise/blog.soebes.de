@@ -5,7 +5,7 @@ title: "Ruby on Rails mit Apache / Mongrels Cluster "
 date: 2009-04-03 12:49:00
 tags: Neuigkeiten,Redmine
 categories: [Neuigkeiten,Redmine]
-post-type: blog
+
 ---
 Tja, nachdem ich nun beobachtet habe, wie es zu häufigeren Ausssetzern kommen, habe ich mich nun entschieden die Kombination Apache / Mongrels 
 Cluster durch etwas anderes zu ersetzten. Es ist nämlich häufiger zu beobachten (siehe bild), dass sich der Load des Servers in schlagartig 

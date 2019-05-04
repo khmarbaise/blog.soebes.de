@@ -5,7 +5,7 @@ title: "Subversive 1.1.0 Release erschienen"
 date: 2007-03-13 18:39:19
 tags: Java,SKM,Neue Versionen,PlugIn,Bug/Issue Tracking
 categories: [Java,SKM,Neue Versionen,PlugIn,Bug/Issue Tracking]
-post-type: blog
+
 ---
 Heute ist die Release 1.1.0 von [Subversive](http://www.polarion.org/index.php?page=overview&project=subversive "Subversive") erschienen.
 Das Subversive PlugIn ist für die Eclipse 3.2 / Callisto Releases vorgesehen. 

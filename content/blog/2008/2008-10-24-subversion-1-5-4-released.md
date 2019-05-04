@@ -5,7 +5,7 @@ title: "Subversion 1.5.4 - Released"
 date: 2008-10-24 19:47:05
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
-post-type: blog
+
 ---
 Heute hat Hyrum K. Wright  der Release Manager von Subversion auf den [Mailing Listen](http://subversion.tigris.org/servlets/ReadMsg?list=users&msgNo=83597) 
 bekannt gegeben, dass die neue Release 1.5.4 zur Verfügung steht.

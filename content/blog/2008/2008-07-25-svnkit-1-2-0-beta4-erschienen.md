@@ -5,7 +5,7 @@ title: "SVNKit 1.2.0 Beta4 erschienen"
 date: 2008-07-25 19:45:44
 tags: Java,SKM,Neue Versionen,Subversion
 categories: [Java,SKM,Neue Versionen,Subversion]
-post-type: blog
+
 ---
 Das [SVNKit Team](http://www.svnkit.com "SVNKit Team"), hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität 
 [heraus gebracht](http://www.nabble.com/-ANN--SVNKit-1.2.0-beta4-is-available.-td18655426.html "heraus gebracht").

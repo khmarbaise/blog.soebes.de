@@ -5,7 +5,7 @@ title: "Perl und die Subversion Bindings"
 date: 2007-10-12 10:06:24
 tags: SKM,Subversion
 categories: [SKM,Subversion]
-post-type: blog
+
 ---
 Ich hatte das Problem, verschiedene Änderungen an einem Repository so zu gestalten, dass lediglich eine neue Revision dabei rauskommt.
 Hierbei handelt es sich um verschiedene Kopieroperationen, die innerhalb einer Revision durchgeführt werden mussten.

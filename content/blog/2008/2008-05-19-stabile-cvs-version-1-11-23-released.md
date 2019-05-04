@@ -5,7 +5,7 @@ title: "Stabile CVS Version 1.11.23 Released"
 date: 2008-05-19 20:31:20
 tags: SKM,CVS
 categories: [SKM,CVS]
-post-type: blog
+
 ---
 Nach einer [Ankündigung von Derek R. Price in der CVS Mailing Liste](http://lists.gnu.org/archive/html/info-cvs/2008-05/msg00024.html "Ankündigung von Derek R. Price in der CVS Mailing Liste"), 
 ist am 08.05.2008 eine neue stabile CVS Release erschienen. Hierbei wurde ein performance Fix eingebracht, der das auschecken von alten Versionen von einer 

@@ -5,7 +5,7 @@ title: "Subversion Release 1.6.17 erschienen"
 date: 2011-06-02 12:14:40
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion
 categories: [SKM,Neuigkeiten,Neue Versionen,Subversion]
-post-type: blog
+
 ---
 Es gibt nun eine neue [Release von Subversion](http://old.nabble.com/Subversion-1.6.17-Released-td31752751.html). 
 Diese Release adressiert vor allem [drei Security Issues](http://subversion.apache.org/security/). 

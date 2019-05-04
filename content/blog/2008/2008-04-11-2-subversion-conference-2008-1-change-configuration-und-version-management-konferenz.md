@@ -5,7 +5,7 @@ title: "2. Subversion Conference 2008 / 1. Change, Configuration und Version Man
 date: 2008-04-11 00:00:42
 tags: Neuigkeiten
 categories: [Neuigkeiten]
-post-type: blog
+
 ---
 Am 14. bis zum 18. Oktober findet in München die [2. Subversion Konferenz statt (SubConf2008)](http://www.subconf.de "2. Subversion Konferenz statt (SubConf2008)") 
 Parallel dazu findet die [1. Change, Configuration und Version Management Konferenz statt (CMConf 2008)](http://www.cmconf.de/ "1. Change, Configuration und Version Management Konferenz statt (CMConf 2008)").

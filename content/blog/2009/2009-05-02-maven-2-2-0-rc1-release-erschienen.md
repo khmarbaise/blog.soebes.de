@@ -5,7 +5,7 @@ title: "Maven 2.2.0 RC1 Release erschienen"
 date: 2009-05-02 12:36:04
 tags: Neuigkeiten,Neue Versionen,BM,Maven
 categories: [Neuigkeiten,Neue Versionen,BM,Maven]
-post-type: blog
+
 ---
 Es liegt einen neue Release 2.2.0 RC1 von Maven vor. 
 Die [Release Notes](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10500&styleName=Html&version=15103) geben wieder eine Übersicht. 

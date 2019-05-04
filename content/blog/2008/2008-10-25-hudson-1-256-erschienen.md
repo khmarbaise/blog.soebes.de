@@ -5,7 +5,7 @@ title: "Hudson - 1.256 - Erschienen"
 date: 2008-10-25 18:16:23
 tags: Neue Versionen,Hudson
 categories: [Neue Versionen,Hudson]
-post-type: blog
+
 ---
 Es ist eine aktualisierte Release der Continous Integration Lösung [Hudson](https://hudson.dev.java.net/) erschienen.
 Der [ChangeLog](https://hudson.dev.java.net/changelog.html) gibt genaue Auskunft über die bisherigen Änderungen. 

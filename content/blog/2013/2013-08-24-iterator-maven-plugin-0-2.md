@@ -5,7 +5,7 @@ title: "Iterator-Maven Plugin Release 0.2"
 date: 2013-08-24 11:16:26
 tags: Neuigkeiten,BM,Maven
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
-post-type: blog
+
 ---
 
 After some time enhancing the [iterator-maven-plugin](http://khmarbaise.github.io/iterator-maven-plugin/) the time

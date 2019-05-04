@@ -5,7 +5,7 @@ title: "Vorbereitungen für einen Test mit SupoSE"
 date: 2010-05-04 21:41:00
 tags: SKM,Subversion,Test,SupoSE
 categories: [SKM,Subversion,Test,SupoSE]
-post-type: blog
+
 ---
 Im Rahmen der Test Vorbereitungen für <a href="http://www.supose.org">SupoSE</a> wollte ich mir eine großes Repository besorgen, damit ich mal das Verhalten mit 
 einem "richtigen" repository testen kann und auch mal ein paar Anhaltspunkte für Zeiten bzgl. eines entsprechenden Repositories bekomme. <br/>

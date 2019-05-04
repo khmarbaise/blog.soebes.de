@@ -5,7 +5,7 @@ title: "Subversion Connector für IBM Rational ClearCase"
 date: 2007-06-22 00:05:01
 tags: SKM,Neuigkeiten,Subversion,ClearCase
 categories: [SKM,Neuigkeiten,Subversion,ClearCase]
-post-type: blog
+
 ---
 Es gibt nun einen Subversion Connector für ClearCase. Es gibt den Connect <a href="http://downloads.open.collab.net/cip.html">frei zur Verfügung 
 zum download</a>. 

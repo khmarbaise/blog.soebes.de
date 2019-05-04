@@ -5,7 +5,7 @@ title: "SVNKit 1.2.0 (GA) - Erschienen"
 date: 2008-10-01 21:20:09
 tags: Java,Neue Versionen
 categories: [Java,Neue Versionen]
-post-type: blog
+
 ---
 Das [SVNKit Development Team](http://www.svnkit.com) hat 
 [bekannt gegeben](http://www.nabble.com/-ANN--SVNKit-1.2.0-(GA)-is-available.-td19750286.html), dass die Finale Release 1.2 der Java Bibliothek 
