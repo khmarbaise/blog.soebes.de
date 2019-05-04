@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Eclipse Plugin, version 2.10](http://maven.apache.org/plugins/maven-eclipse-plugin/).
+[Apache Maven Eclipse Plugin, version 2.10](https://maven.apache.org/plugins/maven-eclipse-plugin/).
 
 
 This plugin is used to generate Eclipse IDE files (*.classpath, *.project,

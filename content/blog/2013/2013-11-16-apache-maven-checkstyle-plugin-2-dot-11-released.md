@@ -8,7 +8,7 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Checkstyle Plugin, version 2.11](http://maven.apache.org/plugins/maven-checkstyle-plugin/)
+[Apache Maven Checkstyle Plugin, version 2.11](https://maven.apache.org/plugins/maven-checkstyle-plugin/)
 
 This plugin integrates checkstyle into the build.
 

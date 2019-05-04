@@ -59,5 +59,5 @@ Enjoy,
 
 Karl Heinz Marbaise
 
-[download]: http://maven.apache.org/plugins/maven-source-plugin/download.html
-[home]: http://maven.apache.org/plugins/maven-source-plugin/
+[download]: https://maven.apache.org/plugins/maven-source-plugin/download.html
+[home]: https://maven.apache.org/plugins/maven-source-plugin/

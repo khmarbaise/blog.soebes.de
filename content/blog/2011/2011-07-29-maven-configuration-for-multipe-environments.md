@@ -17,9 +17,9 @@ Now let us start with a webapp project (packaging war) where the pom.xml looks m
 
 ``` xml
 <project
-  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns="https://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
 
@@ -65,14 +65,14 @@ results into the following structure of the project:
     |   `-- webapp
 ```
 So we have to create a war file for test, q&amp;a and production. The simplest way to achieve this is by using the 
-[Maven Assembly Plugin](http://maven.apache.org/plugins/maven-assembly-plugin/)
+[Maven Assembly Plugin](https://maven.apache.org/plugins/maven-assembly-plugin/)
 You need to create an assembly descriptor for every environment. Let us start with the test environment 
 which looks like the following and should be named test.xml and put into ```src/main/assembly``` folder:
 
 ``` xml
-<assembly xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0"
+<assembly xmlns="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0 http://maven.apache.org/xsd/assembly-1.1.0.xsd">
+  xsi:schemaLocation="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0 https://maven.apache.org/xsd/assembly-1.1.0.xsd">
 
   <id>test</id>
   <formats>

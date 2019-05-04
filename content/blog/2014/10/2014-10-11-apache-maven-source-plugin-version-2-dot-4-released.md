@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Source Plugin, Version 2.4](http://maven.apache.org/plugins/maven-source-plugin).
+[Apache Maven Source Plugin, Version 2.4](https://maven.apache.org/plugins/maven-source-plugin).
 
 The Source Plugin creates a jar archive of the source files of the current
 project. The jar file is, by default, created in the project's target

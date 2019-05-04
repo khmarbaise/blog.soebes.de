@@ -28,7 +28,7 @@ There are in general four ways to do it:
 
 #Using the pom.properties#
 
-In every Maven build a [property pom.properties](http://maven.apache.org/shared/maven-archiver/#class_archive)
+In every Maven build a [property pom.properties](https://maven.apache.org/shared/maven-archiver/#class_archive)
 is packaged into resulting archive (jar, ear, war, ejb etc.)
 which can be found under the following location:
 
@@ -202,7 +202,7 @@ public final class Version {
  which usually provides the SVN/Git revision number.
 
  The following pom snippet is used to generate the Java source from the Java template file and
- make sure it will be compiled by the [maven-compiler-plugin](http://maven.apache.org/plugins/maven-compiler-plugin/).
+ make sure it will be compiled by the [maven-compiler-plugin](https://maven.apache.org/plugins/maven-compiler-plugin/).
 
 ``` xml templating-maven-plugin https://github.com/khmarbaise/version-examples/tree/master/version-example-iv/pom.xml
 <plugins>

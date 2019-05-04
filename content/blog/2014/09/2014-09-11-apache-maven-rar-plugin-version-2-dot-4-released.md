@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven RAR Plugin, Version 2.4](http://maven.apache.org/plugins/maven-rar-plugin).
+[Apache Maven RAR Plugin, Version 2.4](https://maven.apache.org/plugins/maven-rar-plugin).
 
 A resource adapter is a system-level software driver that a Java application
 uses to connect to an enterprise information system (EIS). The RAR plugin has

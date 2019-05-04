@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Maven Invoker, version 2.2](http://maven.apache.org/shared/maven-invoker/)
+[Apache Maven Shared Maven Invoker, version 2.2](https://maven.apache.org/shared/maven-invoker/)
 
 This API is concerned with firing a Maven build in a new JVM. It accomplishes
 its task by building up a conventional Maven command line from options given in

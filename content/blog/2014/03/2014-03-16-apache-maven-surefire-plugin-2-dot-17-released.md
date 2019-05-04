@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Surefire Plugin, version 2.17](http://maven.apache.org/surefire/maven-surefire-plugin/)
+[Apache Maven Surefire Plugin, version 2.17](https://maven.apache.org/surefire/maven-surefire-plugin/)
 
 This release comes with some smaller improvements and bug fixes for TestNG,
 for the JUnit Parallel Computer, the removal of temporary files, and last

@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven DOCCK, version 1.1](http://maven.apache.org/plugins/maven-docck-plugin).
+[Apache Maven DOCCK, version 1.1](https://maven.apache.org/plugins/maven-docck-plugin).
 
 This plugin checks that a project complies with the Plugin Documentation
 Standard.

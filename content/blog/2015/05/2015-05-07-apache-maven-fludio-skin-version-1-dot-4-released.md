@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Fluido Skin Version 1.4](http://maven.apache.org/skins/maven-fluido-skin/).
+[Apache Maven Fluido Skin Version 1.4](https://maven.apache.org/skins/maven-fluido-skin/).
 
 The Apache Maven Fluido Skin is an Apache Maven site skin built on top of
 Twitter's Bootstrap 2.3.2.

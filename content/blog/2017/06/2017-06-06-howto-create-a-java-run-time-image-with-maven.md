@@ -182,7 +182,7 @@ application (only command line apps ??) to a Java Run-Time Image.
 [feedback]: https://github.com/khmarbaise/jdk9-jlink-jmod-example/issues
 [maven-jmod-plugin]: https://svn.apache.org/repos/asf/maven/plugins/trunk/maven-jmod-plugin/
 [maven-jlink-plugin]: https://svn.apache.org/repos/asf/maven/plugins/trunk/maven-jlink-plugin/
-[maven-jdeps-plugin]: http://maven.apache.org/plugins/maven-jdeps-plugin/
+[maven-jdeps-plugin]: https://maven.apache.org/plugins/maven-jdeps-plugin/
 [asf-snapshot]: https://repository.apache.org/content/repositories/snapshots/
 [settings.xml]: https://maven.apache.org/settings.html
 [repository manager]: https://maven.apache.org/repository-management.html 

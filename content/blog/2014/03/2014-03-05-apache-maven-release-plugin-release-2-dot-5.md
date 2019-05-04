@@ -8,11 +8,11 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the Apache
 [Maven Release Plugin, version 2.5, together with the
-maven-release-manager](http://maven.apache.org/maven-release/maven-release-plugin/).
+maven-release-manager](https://maven.apache.org/maven-release/maven-release-plugin/).
 
 This plugin automates release management.
 
-[Maven Release Manager](http://maven.apache.org/maven-release/maven-release-manager/)
+[Maven Release Manager](https://maven.apache.org/maven-release/maven-release-manager/)
 
 You should specify the version in your project's plugin configuration:
 

@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Repository Plugin, version 2.4](http://maven.apache.org/plugins/maven-repository-plugin/).
+[Apache Maven Repository Plugin, version 2.4](https://maven.apache.org/plugins/maven-repository-plugin/).
 
 This plugin is used to create bundles of artifacts that can be uploaded to the
 central repository.

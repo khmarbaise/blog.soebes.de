@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[maven-shared-utils, version 0.6](http://maven.apache.org/shared/maven-shared-utils/)
+[maven-shared-utils, version 0.6](https://maven.apache.org/shared/maven-shared-utils/)
 
 This project aims to be a functional replacement for
 [plexus-utils](http://plexus.codehaus.org/plexus-utils) in Maven.

@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Component: Maven Common Artifact Filters Version 3.0.0](http://maven.apache.org/shared/maven-common-artifact-filters/).
+[Apache Maven Shared Component: Maven Common Artifact Filters Version 3.0.0](https://maven.apache.org/shared/maven-common-artifact-filters/).
 
 A collection of ready-made filters to control inclusion/exclusion of artifacts
 during dependency resolution.
@@ -27,7 +27,7 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
-You can download the appropriate sources etc. from the [download page](http://maven.apache.org/shared/maven-common-artifact-filters/download.cgi).
+You can download the appropriate sources etc. from the [download page](https://maven.apache.org/shared/maven-common-artifact-filters/download.cgi).
 
 <!-- more -->
  

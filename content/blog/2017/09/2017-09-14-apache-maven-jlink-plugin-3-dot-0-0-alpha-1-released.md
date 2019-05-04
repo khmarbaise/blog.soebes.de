@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven JLink Plugin, version 3.0.0-alpha-1](http://maven.apache.org/plugins/maven-jlink-plugin/).
+[Apache Maven JLink Plugin, version 3.0.0-alpha-1](https://maven.apache.org/plugins/maven-jlink-plugin/).
 
 This is the first public release of this plugin. It is explicitly an alpha version which 
 means you can give feedback how to use it or how to improve the plugin.

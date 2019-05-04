@@ -27,7 +27,7 @@ We have documented the final releases of plugins which support Maven
 
 The complete list can be found here:
 
-http://maven.apache.org/maven-2.x-eol.html
+https://maven.apache.org/maven-2.x-eol.html
 
 The next step on our roadmap is to lift all plugin versions to 3.0.0 to
 make clear those plugins will only work with Maven 3.0+ furthermore the

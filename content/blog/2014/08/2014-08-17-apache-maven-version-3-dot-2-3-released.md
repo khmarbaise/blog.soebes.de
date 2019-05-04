@@ -12,9 +12,9 @@ The Apache Maven Team is pleased to announce the release of
 Apache Maven Version 3.2.3
 
 The release notes can be found here:
-http://maven.apache.org/docs/3.2.3/release-notes.html
+https://maven.apache.org/docs/3.2.3/release-notes.html
 
-The release can be downloaded from http://maven.apache.org/download.cgi
+The release can be downloaded from https://maven.apache.org/download.cgi
 
 <!-- more -->
 

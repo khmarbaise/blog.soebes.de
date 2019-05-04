@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven DOAP Plugin, version 1.2](http://maven.apache.org/plugins/maven-doap-plugin/).
+[Apache Maven DOAP Plugin, version 1.2](https://maven.apache.org/plugins/maven-doap-plugin/).
 
 The DOAP Plugin is used to generate a compliant
 [Description of a Project (DOAP)](http://usefulinc.com/doap) file from a POM.

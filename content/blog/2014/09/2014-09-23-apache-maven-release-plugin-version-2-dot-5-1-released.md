@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Release Plugin, version 2.5.1](http://maven.apache.org/plugins/maven-release-plugin/).
+[Apache Maven Release Plugin, version 2.5.1](https://maven.apache.org/plugins/maven-release-plugin/).
 
 The maven-release provides technology for automating releases, including
 the maven-release-plugin.

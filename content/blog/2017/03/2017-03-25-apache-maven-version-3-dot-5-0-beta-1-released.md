@@ -6,7 +6,7 @@ date: 2017-03-25 11:00:25
 comments: true
 categories: [Neuigkeiten,BM,Maven]
 ---
-The Apache Maven team would like to announce the release of [Maven 3.5.0-beta-1](http://maven.apache.org/).
+The Apache Maven team would like to announce the release of [Maven 3.5.0-beta-1](https://maven.apache.org/).
 
 NOTE: This is an BETA release. There is the potential that features may be
 removed between this release and the first GA release in the 3.5.x release

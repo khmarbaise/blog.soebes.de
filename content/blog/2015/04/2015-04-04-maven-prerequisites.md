@@ -19,10 +19,10 @@ One thing would be to define a prerequisites for your project which
 uses the new Maven 3.3.1 features like this in your pom.xml:
 
 ``` xml
-<project xmlns="http://maven.apache.org/POM/4.0.0"
+<project xmlns="https://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
-                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  xsi:schemaLocation="https://maven.apache.org/POM/4.0.0
+                      https://maven.apache.org/xsd/maven-4.0.0.xsd">
   ...
   <prerequisites>
     <maven>3.3.1</maven>
@@ -83,9 +83,9 @@ The conclusion is to use the [maven-enforcer-plugin][7] rule
 only to define the minimum maven version to build with.
 
 [1]: http://blog.soebes.de/blog/2015/03/17/apache-maven-3-dot-3-1-features/
-[2]: http://maven.apache.org/pom.html#Prerequisites
+[2]: https://maven.apache.org/pom.html#Prerequisites
 [3]: http://jira.codehaus.org/browse/MNG-4840
 [4]: http://jira.codehaus.org/browse/MNG-5297
 [5]: http://jira.codehaus.org/browse/MNG-5501
-[6]: http://maven.apache.org/enforcer/maven-enforcer-plugin/
-[7]: http://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[6]: https://maven.apache.org/enforcer/maven-enforcer-plugin/
+[7]: https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html

@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Patch Plugin, version 1.2](http://maven.apache.org/plugins/maven-patch-plugin/).
+[Apache Maven Patch Plugin, version 1.2](https://maven.apache.org/plugins/maven-patch-plugin/).
 
 The Patch Plugin is used to apply patches to source files.
 

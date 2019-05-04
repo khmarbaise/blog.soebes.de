@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,POM-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Common POM, version 16](http://maven.apache.org/poms/asf).
+[Apache Common POM, version 16](https://maven.apache.org/poms/asf).
 
 This POM (org.apache:apache) configures common Maven settings for
 projects to use ASF infrastructure.

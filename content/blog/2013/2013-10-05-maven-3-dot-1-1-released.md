@@ -7,11 +7,11 @@ comments: true
 categories: [Maven,News,Maven-Releases]
 ---
 
-After a while a new [Maven Release 3.1.1](http://maven.apache.org/docs/3.1.1/release-notes.html) is 
-now [available](http://maven.apache.org/download.cgi).
+After a while a new [Maven Release 3.1.1](https://maven.apache.org/docs/3.1.1/release-notes.html) is 
+now [available](https://maven.apache.org/download.cgi).
 <!-- more -->
 
-[The Maven Team](http://maven.40175.n5.nabble.com/ANN-Maven-3-1-1-Release-td5772451.html) has fixed the following bugs:
+[The Maven Team](https://maven.40175.n5.nabble.com/ANN-Maven-3-1-1-Release-td5772451.html) has fixed the following bugs:
 
  * {% chjl MNG-5459 %} - failure to resolve pom artifact from snapshotVersion in maven-metadata.xml
  * {% chjl MNG-5495 %} - API incompatibility causes Swagger Maven Plugin (and others) to fail under Maven 3.1.0

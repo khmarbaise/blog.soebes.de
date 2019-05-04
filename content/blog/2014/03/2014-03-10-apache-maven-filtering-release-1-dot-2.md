@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of 
-the [Apache Maven Filtering, version 1.2](http://maven.apache.org/shared/maven-filtering/)
+the [Apache Maven Filtering, version 1.2](https://maven.apache.org/shared/maven-filtering/)
 
 These Plexus components have been built from the filtering process/code in Apache Maven Resources Plugin.
 The goal is to provide a shared component for all plugins that need to filter resources.

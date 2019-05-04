@@ -7,12 +7,12 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Plugin Tools, version 3.4](http://maven.apache.org/plugin-tools/).
+[Apache Maven Plugin Tools, version 3.4](https://maven.apache.org/plugin-tools/).
 
 The Maven Plugin Tools contains the necessary tools to generate rebarbative 
 content like descriptor, help and documentation.
 
-http://maven.apache.org/plugin-tools/maven-plugin-plugin/
+https://maven.apache.org/plugin-tools/maven-plugin-plugin/
 
 You should specify the version in your project's plugin configuration:
 

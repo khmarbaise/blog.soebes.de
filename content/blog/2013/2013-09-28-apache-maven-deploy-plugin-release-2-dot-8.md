@@ -6,7 +6,7 @@ date: 2013-09-28 12:25:00
 comments: true
 categories: [News,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
-The new release of the [Apache Maven Deploy Plugin 2.8](http://maven.apache.org/plugins/maven-deploy-plugin/) is available.
+The new release of the [Apache Maven Deploy Plugin 2.8](https://maven.apache.org/plugins/maven-deploy-plugin/) is available.
 
 The new release of the Maven Deploy Plugin contains two bug fixes, an improvement and an very important 
 new feature {% chjl MDEPLOY-157 %}. This will address the problem of deploying artifacts within a multi-module build

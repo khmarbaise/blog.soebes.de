@@ -7,12 +7,12 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Site Plugin, version 3.5](http://maven.apache.org/plugins/maven-site-plugin/).
+[Apache Maven Site Plugin, version 3.5](https://maven.apache.org/plugins/maven-site-plugin/).
 
 The Site Plugin is used to generate a site for the project. The generated site
 also includes the project's reports that were configured in the POM.
 
-Attention there are [breaking changes to know when upgrading](http://maven.apache.org/plugins/maven-site-plugin/migrate.html).
+Attention there are [breaking changes to know when upgrading](https://maven.apache.org/plugins/maven-site-plugin/migrate.html).
 
 
 ``` xml

@@ -8,7 +8,7 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Ear Plugin, version 2.9](http://maven.apache.org/plugins/maven-ear-plugin/)
+[Apache Maven Ear Plugin, version 2.9](https://maven.apache.org/plugins/maven-ear-plugin/)
 
 This plugin generates a Java EE Enterprise Archive (EAR) file. It can also 
 generate the deployment descriptor file (e.g. application.xml).

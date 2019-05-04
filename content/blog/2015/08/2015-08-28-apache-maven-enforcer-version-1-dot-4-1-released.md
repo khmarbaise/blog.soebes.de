@@ -7,12 +7,12 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Enforcer, version 1.4.1](http://maven.apache.org/enforcer).
+[Apache Maven Enforcer, version 1.4.1](https://maven.apache.org/enforcer).
 
 Enforcer is a build rule execution framework.
 
 If you need to force things within your build please use the 
-[maven-enforcer-plugin](http://maven.apache.org/enforcer/maven-enforcer-plugin/).
+[maven-enforcer-plugin](https://maven.apache.org/enforcer/maven-enforcer-plugin/).
 
 You should specify the version in your project's plugin configuration:
 

@@ -6,7 +6,7 @@ date: 2014-06-09 13:01:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
-There is a new release of the [Nar Maven Plugin 3.1.0 Released](http://maven-nar.github.io/)
+There is a new release of the [Nar Maven Plugin 3.1.0 Released](https://maven-nar.github.io/)
 
 This plugin for Maven 2 allows you to compile native code (c++, c and fortran)
 on a number of different architectures (Linux, Windows, MacOSX, Solaris, ...)

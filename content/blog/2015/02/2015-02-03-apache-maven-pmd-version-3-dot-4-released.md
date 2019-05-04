@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Maven PMD Plugin, version 3.4](http://maven.apache.org/plugins/maven-pmd-plugin/).
+[Maven PMD Plugin, version 3.4](https://maven.apache.org/plugins/maven-pmd-plugin/).
 
 This module generates browsable HTML pages from Java source code.
 

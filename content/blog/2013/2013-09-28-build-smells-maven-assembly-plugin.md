@@ -11,7 +11,7 @@ If you are a software developer (for example in Java) you might have heard about
 but usually are a kind of indicator for problems in the future. It´s usually a good 
 practice to fix such [code smells](http://www.codinghorror.com/blog/2006/05/code-smells.html). 
 
-But sometimes if I take a deeper look into a [Maven](http://maven.apache.org/) build I can observe things 
+But sometimes if I take a deeper look into a [Maven](https://maven.apache.org/) build I can observe things 
 like *Build Smells* which could produce problems in future but not need to. 
 
 <!-- more -->
@@ -27,8 +27,8 @@ from that it is sometimes also usefull having supplemental files into such distr
 #The Obvious Solution#
 
 Let us assume having two modules which you like to package into the final zip distribution archive.
-This will bring you to use the [maven-assembly-plugin](http://maven.apache.org/plugins/maven-assembly-plugin) with
-an appropriate [assembly descriptor](http://maven.apache.org/plugins/maven-assembly-plugin/assembly.html) like this:
+This will bring you to use the [maven-assembly-plugin](https://maven.apache.org/plugins/maven-assembly-plugin) with
+an appropriate [assembly descriptor](https://maven.apache.org/plugins/maven-assembly-plugin/assembly.html) like this:
 
 {% codeblock Assembly Descriptor lang:xml %}
 <assembly>
@@ -63,9 +63,9 @@ So on the first glance this descriptor looks very well. Ok. Let us take a look i
 
 {% codeblock distribution module POM file lang:xml %}
 <project
-  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns="https://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
@@ -108,9 +108,9 @@ If you have the right pom file in the parent which will look like this then your
 {% codeblock parent POM file lang:xml %}
 <?xml version="1.0" encoding="UTF-8"?>
 <project
-  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns="https://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
@@ -293,9 +293,9 @@ The solution of this problem is to remember that maven has a reactor which can b
 file level. This will simplify the descriptor dramatically like this:
 
 ``` xml Assembly Descriptor for reactor usage https://github.com/khmarbaise/assembly-examples/tree/master/assemblies-with-files-ten-mods GitHub
-<assembly xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" 
+<assembly xmlns="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0 http://maven.apache.org/xsd/assembly-1.1.0.xsd">
+xsi:schemaLocation="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0 https://maven.apache.org/xsd/assembly-1.1.0.xsd">
 
   <id>dist-assembly</id>
 

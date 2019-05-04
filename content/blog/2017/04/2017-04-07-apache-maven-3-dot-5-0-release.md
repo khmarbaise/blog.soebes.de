@@ -9,7 +9,7 @@ categories: [BM,Maven,Maven Best Practice]
 The Apache Maven team would like to announce the release of Apache Maven
 3.5.0.
 
-You can download the appropriate sources etc. from the [download page](http://maven.apache.org/download.cgi).
+You can download the appropriate sources etc. from the [download page](https://maven.apache.org/download.cgi).
 
 
 Notable changes

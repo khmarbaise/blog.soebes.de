@@ -7,7 +7,7 @@ comments: true
 categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven SCM Plugin, version 1.9](http://maven.apache.org/scm/maven-scm-plugin/).
+[Apache Maven SCM Plugin, version 1.9](https://maven.apache.org/scm/maven-scm-plugin/).
 
 The SCM Plugin offers vendor independent access to common scm commands by offering a 
 set of command mappings for the configured scm.

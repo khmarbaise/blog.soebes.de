@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Maven team is pleased to announce the release of the 
-[Apache Maven Checkstyle Plugin, version 3.0.0](http://maven.apache.org/plugins/maven-checkstyle-plugin/).
+[Apache Maven Checkstyle Plugin, version 3.0.0](https://maven.apache.org/plugins/maven-checkstyle-plugin/).
 
 The Checkstyle Plugin generates a report regarding the code style used by the
 developers. For more information about Checkstyle, see

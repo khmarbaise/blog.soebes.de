@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Plugin Testing, version 3.1.0](http://maven.apache.org/plugin-testing/)
+[Apache Maven Plugin Testing, version 3.1.0](https://maven.apache.org/plugin-testing/)
 
 The Maven Plugin Testing contains the necessary tools to be able
 to test Maven Plugins.

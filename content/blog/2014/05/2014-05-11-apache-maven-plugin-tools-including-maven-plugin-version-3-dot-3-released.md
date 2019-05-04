@@ -9,12 +9,12 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 The Apache Maven team is pleased to announce the release of the Apache Maven
 Plugin Tools, version 3.3.
 
-The [Maven Plugin Tools](http://maven.apache.org/plugin-tools/) contains the
+The [Maven Plugin Tools](https://maven.apache.org/plugin-tools/) contains the
 necessary tools to be able to produce Maven Plugins in scripting languages and
 to generate rebarbative content like descriptor, help and documentation.
 
 The [Maven Plugin
-Plugin](http://maven.apache.org/plugin-tools/maven-plugin-plugin/) is used to
+Plugin](https://maven.apache.org/plugin-tools/maven-plugin-plugin/) is used to
 create a Maven plugin descriptor for any Mojo's found in the source tree, to
 include in the JAR. It is also used to generate report files for the Mojos as
 well as for updating the plugin registry, the artifact metadata and generating

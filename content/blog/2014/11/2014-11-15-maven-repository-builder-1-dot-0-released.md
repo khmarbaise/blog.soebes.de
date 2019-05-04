@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Maven team is pleased to announce the release of the 
-[Maven Repository Builder shared library, version 1.0](http://maven.apache.org/shared/maven-repository-builder/).
+[Maven Repository Builder shared library, version 1.0](https://maven.apache.org/shared/maven-repository-builder/).
 
 This library is used primarily to assemble Maven repository directory
 structures based on the dependencies of a project or set of projects,

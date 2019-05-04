@@ -43,8 +43,8 @@ Let us take a deeper look into the new features/improvements:
    like the following:
 
 ``` xml
-<extensions xmlns="http://maven.apache.org/EXTENSIONS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/EXTENSIONS/1.0.0 http://maven.apache.org/xsd/core-extensions-1.0.0.xsd">
+<extensions xmlns="https://maven.apache.org/EXTENSIONS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://maven.apache.org/EXTENSIONS/1.0.0 https://maven.apache.org/xsd/core-extensions-1.0.0.xsd">
   <extension>
     <groupId/>
     <artifactId/>
@@ -183,8 +183,8 @@ So now you can define more than one configuration for command line executions.
    at long last. Yeah.
 
 
-[0]: http://maven.apache.org/guides/mini/guide-using-toolchains.html
-[maven-toolchains-plugin]: http://maven.apache.org/plugins/maven-toolchains-plugin/
+[0]: https://maven.apache.org/guides/mini/guide-using-toolchains.html
+[maven-toolchains-plugin]: https://maven.apache.org/plugins/maven-toolchains-plugin/
 [MNG-3891]: https://issues.apache.org/jira/browse/MNG-3891
 [MNG-5745]: https://issues.apache.org/jira/browse/MNG-5745
 [MNG-5754]: https://issues.apache.org/jira/browse/MNG-5754

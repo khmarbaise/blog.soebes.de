@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the
-[Apache Maven Assembly Plugin, version 2.5.2](http://maven.apache.org/plugins/maven-assembly-plugin/).
+[Apache Maven Assembly Plugin, version 2.5.2](https://maven.apache.org/plugins/maven-assembly-plugin/).
 
 The Assembly Plugin for Maven is primarily intended to allow users to aggregate
 the project output along with its dependencies, modules, site documentation,
@@ -16,7 +16,7 @@ and other files into a single distributable archive.
 Most notable for this release are:
 Rewritten duplicate handling strategy, revised documentation. Please
 note that previously documented strategy was mostly wishful thinking,
-the [currently documented strategy is hard reality :)](http://maven.apache.org/plugins/maven-assembly-plugin/advanced-descriptor-topics.html).
+the [currently documented strategy is hard reality :)](https://maven.apache.org/plugins/maven-assembly-plugin/advanced-descriptor-topics.html).
 
 
 You should specify the version in your project's plugin configuration:
@@ -44,7 +44,7 @@ in project does NOT override the class in jar dependency
  * {% chjl MASSEMBLY-580 %} - dependencySet ignores directoryMode descriptor
  * {% chjl MASSEMBLY-583 %} - DependencySet elements appear not to be able to target the same outputDirectory
  * {% chjl MASSEMBLY-597 %} - Duplicate files added to archive when present in both dependencyset and fileset of the same assembly
- * {% chjl MASSEMBLY-601 %} - http://maven.apache.org/plugins/maven-assembly-plugin/assembly.html seems to have the components of a filter element in the wrong order
+ * {% chjl MASSEMBLY-601 %} - https://maven.apache.org/plugins/maven-assembly-plugin/assembly.html seems to have the components of a filter element in the wrong order
  * {% chjl MASSEMBLY-609 %} - Misbehavior on multi-module projects, outputDirectory not being interpolated properly
  * {% chjl MASSEMBLY-655 %} - Archive file resolution does not work as documented
  * {% chjl MASSEMBLY-671 %} - Cryptic debug warning message needs improvement and/or documentation

@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Component: Maven Mapping Version 3.0.0](http://maven.apache.org/shared/maven-mapping/).
+[Apache Maven Shared Component: Maven Mapping Version 3.0.0](https://maven.apache.org/shared/maven-mapping/).
 
 The goal is to provide a shared component for all plugins that need to do
 mapping.
@@ -29,7 +29,7 @@ You should specify the version in your project's plugin configuration:
 
 You can download the appropriate sources etc. from the download page:
  
-http://maven.apache.org/shared/maven-mapping/download.cgi
+https://maven.apache.org/shared/maven-mapping/download.cgi
 
 <!-- more -->
  

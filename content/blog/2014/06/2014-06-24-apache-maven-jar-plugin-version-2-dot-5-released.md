@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven JAR Plugin, version 2.5](http://maven.apache.org/plugins/maven-jar-plugin/)
+[Apache Maven JAR Plugin, version 2.5](https://maven.apache.org/plugins/maven-jar-plugin/)
 
 
 You should specify the version in your project's plugin configuration:

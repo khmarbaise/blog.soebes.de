@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven EJB Plugin, version 2.4](http://maven.apache.org/plugins/maven-ejb-plugin).
+[Apache Maven EJB Plugin, version 2.4](https://maven.apache.org/plugins/maven-ejb-plugin).
 
 This plugin generates J2EE Enterprise Javabean (EJB) file as well as the
 associated client jar.

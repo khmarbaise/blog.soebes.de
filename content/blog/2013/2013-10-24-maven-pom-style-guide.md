@@ -34,8 +34,8 @@ to sort your pom file in your current project. This call will use a default styl
 define the order of the different elements with in the pom file.
 
 ``` xml Default Code Style http://code.google.com/p/sortpom/source/browse/sorter/src/main/resources/default_1_0_0.xml
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
    <modelVersion />
 
   <parent>

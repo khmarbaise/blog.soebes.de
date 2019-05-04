@@ -13,7 +13,7 @@ how to add dependencies to the generated artifacts depending on the environment.
 
 The most important problem is: How to get the different artifacts? If you have artifacts which are stored 
 in a Maven Repository like Maven Central it is easy to get them. 
-Just use the [Maven Dependency Plugin](http://maven.apache.org/maven-dependency-plugin/) to get the artifacts. 
+Just use the [Maven Dependency Plugin](https://maven.apache.org/maven-dependency-plugin/) to get the artifacts. 
 This means you have to add the following to your pom file: 
 
 {% codeblock Getting Artifacts lang:xml %}

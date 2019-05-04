@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the
-[Apache Maven Ant Plugin, version 2.4](http://maven.apache.org/plugins/maven-ant-plugin/).
+[Apache Maven Ant Plugin, version 2.4](https://maven.apache.org/plugins/maven-ant-plugin/).
 
 The Ant Plugin generates build files for Ant 1.6.2 or above from the POM.
 

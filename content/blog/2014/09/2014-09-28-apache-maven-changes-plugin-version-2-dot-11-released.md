@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Changes Plugin, Version 2.11](http://maven.apache.org/plugins/maven-changes-plugin).
+[Apache Maven Changes Plugin, Version 2.11](https://maven.apache.org/plugins/maven-changes-plugin).
 
 
 ``` xml

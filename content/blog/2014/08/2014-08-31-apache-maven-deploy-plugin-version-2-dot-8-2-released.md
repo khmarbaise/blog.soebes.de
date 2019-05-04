@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Deploy Plugin, version 2.8.2](http://maven.apache.org/plugins/maven-deploy-plugin/).
+[Apache Maven Deploy Plugin, version 2.8.2](https://maven.apache.org/plugins/maven-deploy-plugin/).
 
 The deploy plugin is primarily used during the deploy phase, to add your
 artifact(s) to a remote repository for sharing with other developers and

@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Maven team is pleased to announce the release of the [Apache Maven Project 
-Info Reports Plugin, version 2.8.1](http://maven.apache.org/plugins/maven-project-info-reports-plugin/).
+Info Reports Plugin, version 2.8.1](https://maven.apache.org/plugins/maven-project-info-reports-plugin/).
 
 The Maven Project Info Reports Plugin is a plugin that generates standard
 reports for the specified project.

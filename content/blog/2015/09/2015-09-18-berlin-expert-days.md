@@ -24,5 +24,5 @@ the usage of Maven etc. and best practices.
 
 [bedcon]: http://bed-con.org/
 [1]: http://bed-con.org/2015/talks/Maven-3-and-Beyond
-[2]: http://maven.apache.org/docs/3.2.1/release-notes.html
+[2]: https://maven.apache.org/docs/3.2.1/release-notes.html
 [3]: https://github.com/khmarbaise/javaee/tree/mvn321

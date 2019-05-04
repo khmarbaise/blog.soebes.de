@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,POM-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Plugins Parent POM Version 27](http://maven.apache.org/pom/maven-plugins/).
+[Apache Maven Plugins Parent POM Version 27](https://maven.apache.org/pom/maven-plugins/).
 
 This POM (org.apache.maven.plugins:maven-plugins) is the common parent of all
 of the Maven plugins in the Apache Maven project.

@@ -47,8 +47,8 @@ Java 7 as Maven 3.3.1+ itself. Furthermore you should configure it via the
 `extensions.xml` file in the `.mvn/` folder of your project which should look 
 like this:
 ``` xml
-<extensions xmlns="http://maven.apache.org/EXTENSIONS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/EXTENSIONS/1.0.0 http://maven.apache.org/xsd/core-extensions-1.0.0.xsd">
+<extensions xmlns="https://maven.apache.org/EXTENSIONS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://maven.apache.org/EXTENSIONS/1.0.0 https://maven.apache.org/xsd/core-extensions-1.0.0.xsd">
   <extension>
     <groupId>com.soebes.maven.extensions</groupId>
     <artifactId>incremental-module-builder</artifactId>

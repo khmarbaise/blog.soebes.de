@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Shared Component: Apache Maven Utils Version 0.7](http://maven.apache.org/shared/maven-shared-utils/)
+[Apache Shared Component: Apache Maven Utils Version 0.7](https://maven.apache.org/shared/maven-shared-utils/)
 
 This project aims to be a functional replacement for plexus-utils in Maven. It
 is not a 100% API compatible replacement though but a replacement with

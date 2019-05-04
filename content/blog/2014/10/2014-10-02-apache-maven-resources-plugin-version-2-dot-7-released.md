@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Resources Plugin, Version 2.7](http://maven.apache.org/plugins/maven-resources-plugin).
+[Apache Maven Resources Plugin, Version 2.7](https://maven.apache.org/plugins/maven-resources-plugin).
 
 asdlfjadfkThe Javadoc Plugin uses the Javadoc tool to generate javadocs for the specified project.
 

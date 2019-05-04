@@ -11,10 +11,10 @@ Hi!
 The Apache Maven Team is pleased to announce the release of 3.2.5
 
 The release notes can be found here:
-http://maven.apache.org/docs/3.2.5/release-notes.html
+https://maven.apache.org/docs/3.2.5/release-notes.html
 
 The release can be downloaded from:
-http://maven.apache.org/download.cgi
+https://maven.apache.org/download.cgi
 
 Full list of changes can be viewed in JIRA:
 https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10500&version=20819

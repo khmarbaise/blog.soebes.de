@@ -7,7 +7,7 @@ comments: true
 categories: [News,BM,Maven,Maven-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Wagon, Version 2.6](http://maven.apache.org/wagon/)
+[Apache Maven Wagon, Version 2.6](https://maven.apache.org/wagon/)
 
 The Wagon component provides communications between Maven and repositories.
 

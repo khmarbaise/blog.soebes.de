@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven JavaDoc Plugin, version 2.10.2](http://maven.apache.org/plugins/maven-javadoc-plugin/).
+[Apache Maven JavaDoc Plugin, version 2.10.2](https://maven.apache.org/plugins/maven-javadoc-plugin/).
 
 
 ``` xml

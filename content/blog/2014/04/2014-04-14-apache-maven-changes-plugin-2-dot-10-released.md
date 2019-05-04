@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Maven team is pleased to announce the release of 
-the [Apache Maven Changes Plugin, version 2.10](http://maven.apache.org/plugins/maven-changes-plugin/).
+the [Apache Maven Changes Plugin, version 2.10](https://maven.apache.org/plugins/maven-changes-plugin/).
 
 Creates a release history for inclusion into the site and assists in generating an announcement mail.
 

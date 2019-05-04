@@ -7,9 +7,9 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Releases]
 ---
 The Apache Maven team is pleased to announce the release of 
-[Apache Maven 3.3.9](http://maven.apache.org/).
+[Apache Maven 3.3.9](https://maven.apache.org/).
 
-You can [download the appropriate sources etc. from the download page](http://maven.apache.org/download.cgi)
+You can [download the appropriate sources etc. from the download page](https://maven.apache.org/download.cgi)
 
 [Release Notes - Apache Maven Version 3.3.9](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12316922&version=12333074)
 

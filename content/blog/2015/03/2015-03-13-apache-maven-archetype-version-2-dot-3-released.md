@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Archetype, version 2.3](http://maven.apache.org/archetype/).
+[Apache Maven Archetype, version 2.3](https://maven.apache.org/archetype/).
 
 In short, Archetype is a Maven project templating toolkit.
 

@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Maven team is pleased to announce the release of the 
-[Apache Maven Toolchains Plugin, version 1.1](http://maven.apache.org/plugins/maven-toolchains-plugin/).
+[Apache Maven Toolchains Plugin, version 1.1](https://maven.apache.org/plugins/maven-toolchains-plugin/).
 
 The Toolchains Plugins allows to share configuration across plugins. For 
 example to make sure the plugins like compiler, surefire, javadoc, webstart 

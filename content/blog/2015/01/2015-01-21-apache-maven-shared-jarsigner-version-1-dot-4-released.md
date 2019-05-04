@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Component: Maven JarSigner Version 1.4](http://maven.apache.org/shared/maven-jarsigner/).
+[Apache Maven Shared Component: Maven JarSigner Version 1.4](https://maven.apache.org/shared/maven-jarsigner/).
 
 This component provides some utilities to sign/verify jars/files in your Mojos.
 

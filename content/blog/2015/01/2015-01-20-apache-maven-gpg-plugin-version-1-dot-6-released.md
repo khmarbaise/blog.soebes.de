@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Maven team is pleased to announce the release of the 
-[Apache Maven GPG Plugin, version 1.6](http://maven.apache.org/plugins/maven-gpg-plugin/).
+[Apache Maven GPG Plugin, version 1.6](https://maven.apache.org/plugins/maven-gpg-plugin/).
 
 Signs the project artifacts with GnuPG.
 

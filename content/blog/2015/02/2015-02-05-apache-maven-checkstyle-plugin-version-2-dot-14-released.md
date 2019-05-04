@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Maven team is pleased to announce the release of the 
-[Apache Maven Checkstyle Plugin, version 2.14](http://maven.apache.org/plugins/maven-checkstyle-plugin/).
+[Apache Maven Checkstyle Plugin, version 2.14](https://maven.apache.org/plugins/maven-checkstyle-plugin/).
 
 Generates a report on violations of code style and optionally fails the build
 if violations are detected.

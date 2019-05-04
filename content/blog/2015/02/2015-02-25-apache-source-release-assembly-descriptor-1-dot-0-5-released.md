@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Source Release Assembly Descriptor team is pleased to
-announce the [apache-source-release-assembly-descriptor-1.0.5 release](http://maven.apache.org/apache-resource-bundles/)!
+announce the [apache-source-release-assembly-descriptor-1.0.5 release](https://maven.apache.org/apache-resource-bundles/)!
 
 This jar contains a customized source assembly descriptor to produce
 Apache compliant source bundles.

@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Linkcheck Plugin, Version 1.2](http://maven.apache.org/plugins/maven-linkcheck-plugin).
+[Apache Maven Linkcheck Plugin, Version 1.2](https://maven.apache.org/plugins/maven-linkcheck-plugin).
 
 This plug-in allows you to generate a Linkcheck report of your project's
 documentation using the Doxia Linkcheck Tool.

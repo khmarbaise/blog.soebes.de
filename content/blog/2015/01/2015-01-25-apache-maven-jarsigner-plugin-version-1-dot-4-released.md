@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven JarSigner Plugin, version 1.4](http://maven.apache.org/plugins/maven-jarsigner-plugin/).
+[Apache Maven JarSigner Plugin, version 1.4](https://maven.apache.org/plugins/maven-jarsigner-plugin/).
 
 This plugin provides the capability to sign or verify a project artifact and
 attachments using jarsigner.

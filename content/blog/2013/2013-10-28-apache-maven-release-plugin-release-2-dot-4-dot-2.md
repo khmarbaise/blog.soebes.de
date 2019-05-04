@@ -6,7 +6,7 @@ date: 2013-10-28 20:35:00
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
 ---
-The new release of the [Apache Maven Release Plugin 2.4.2](http://maven.apache.org/plugins/maven-release-plugin/)
+The new release of the [Apache Maven Release Plugin 2.4.2](https://maven.apache.org/plugins/maven-release-plugin/)
 contains three bug fixes:
 
 Fixed bugs:

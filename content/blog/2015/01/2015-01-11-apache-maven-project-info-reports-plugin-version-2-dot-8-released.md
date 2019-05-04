@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Maven Project Info Reports Plugin, version 2.8.](http://maven.apache.org/plugins/maven-project-info-reports-plugin/).
+[Maven Project Info Reports Plugin, version 2.8.](https://maven.apache.org/plugins/maven-project-info-reports-plugin/).
 
 This module generates browsable HTML pages from Java source code.
 

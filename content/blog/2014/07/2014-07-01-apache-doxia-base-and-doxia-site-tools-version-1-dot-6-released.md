@@ -7,8 +7,8 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Components]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Doxia base](http://maven.apache.org/doxia/doxia/)
- and [Doxia Site Tools](http://maven.apache.org/doxia/doxia-sitetools/) Version 1.6, 
+[Apache Doxia base](https://maven.apache.org/doxia/doxia/)
+ and [Doxia Site Tools](https://maven.apache.org/doxia/doxia-sitetools/) Version 1.6, 
 Released
 
 Doxia is a content generation framework that provides powerful techniques for 

@@ -183,8 +183,8 @@ Ah not to miss things here. The configuration of the distributionManagement must
 but the configuration for maven-site-plugin and maven-publish-scm-plugin could be moved into a parent 
 pom (like mojo parent) to simplify configuration of plugins.
 
-[maven-scm-publish-plugin]: http://maven.apache.org/plugins/maven-scm-publish-plugin/
-[maven-site-plugin]: http://maven.apache.org/plugins/maven-site-plugin/
+[maven-scm-publish-plugin]: https://maven.apache.org/plugins/maven-scm-publish-plugin/
+[maven-site-plugin]: https://maven.apache.org/plugins/maven-site-plugin/
 [github]: https://github.com
 [git-mojohaus]: https://github.com/mojohaus/
 [mojohaus]: http://www.mojohaus.org/

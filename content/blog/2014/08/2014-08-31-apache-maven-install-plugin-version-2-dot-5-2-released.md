@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Install Plugin, version 2.5.2](http://maven.apache.org/plugins/maven-install-plugin/).
+[Apache Maven Install Plugin, version 2.5.2](https://maven.apache.org/plugins/maven-install-plugin/).
 
 The Install Plugin is used during the install phase to add artifact(s) to the
 local repository. The Install Plugin uses the information in the POM (groupId,

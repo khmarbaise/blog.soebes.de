@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Maven Archiver, version 2.6](http://maven.apache.org/shared/maven-archiver/).
+[Maven Archiver, version 2.6](https://maven.apache.org/shared/maven-archiver/).
 
 The Maven Archiver is mainly used by plugins to handle packaging. 
 

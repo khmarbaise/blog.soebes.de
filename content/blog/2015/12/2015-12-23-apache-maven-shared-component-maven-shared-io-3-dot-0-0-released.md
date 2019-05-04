@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Component: Maven Shared IO Version 3.0.0](http://maven.apache.org/shared/maven-shared-io/).
+[Apache Maven Shared Component: Maven Shared IO Version 3.0.0](https://maven.apache.org/shared/maven-shared-io/).
 
 API for I/O support like logging, download or file scanning.
 
@@ -26,7 +26,7 @@ You should specify the version in your project's plugin configuration:
 </plugin>
 ```
 
-You can download the appropriate sources etc. from the [download page](http://maven.apache.org/shared/maven-shared-io/download.cgi).
+You can download the appropriate sources etc. from the [download page](https://maven.apache.org/shared/maven-shared-io/download.cgi).
 
 <!-- more -->
  

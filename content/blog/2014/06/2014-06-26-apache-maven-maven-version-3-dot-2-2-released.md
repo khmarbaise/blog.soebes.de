@@ -8,11 +8,11 @@ categories: [Maven,News,Maven-Releases]
 ---
 Hi 
 The Apache Maven Team is pleased to announce the release of 
-[Apache Maven Release 3.2.2](http://maven.apache.org/docs/3.2.2/release-notes.html).
+[Apache Maven Release 3.2.2](https://maven.apache.org/docs/3.2.2/release-notes.html).
 
 The release notes can be found here:
 
-http://maven.apache.org/docs/3.2.2/release-notes.html
+https://maven.apache.org/docs/3.2.2/release-notes.html
 
 <!-- more -->
 

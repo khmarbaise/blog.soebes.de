@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,POM-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the
-[Apache Maven Project Parent, version 26](http://maven.apache.org/pom/maven/).
+[Apache Maven Project Parent, version 26](https://maven.apache.org/pom/maven/).
 
 This POM (org.apache.maven:maven-parent) contains settings that are likely to
 be useful to any Maven project that is building and releasing code with Maven

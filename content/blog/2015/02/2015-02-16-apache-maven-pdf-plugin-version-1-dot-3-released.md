@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven PDF Plugin, version 1.3](http://maven.apache.org/plugins/maven-pdf-plugin/).
+[Apache Maven PDF Plugin, version 1.3](https://maven.apache.org/plugins/maven-pdf-plugin/).
 
 This plug-in allows you to generate a PDF version of your project's
 documentation.

@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Shared Utils, version 0.8](http://maven.apache.org/shared/maven-shared-utils/)
+[Apache Maven Shared Utils, version 0.8](https://maven.apache.org/shared/maven-shared-utils/)
 
 This project aims to be a functional replacement for plexus-utils in Maven.
 

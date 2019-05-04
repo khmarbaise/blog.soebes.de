@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Surefire/Failsafe Plugin, version 2.18](http://maven.apache.org/surefire/).
+[Apache Maven Surefire/Failsafe Plugin, version 2.18](https://maven.apache.org/surefire/).
 
 The release contains a number of bug fixes, and introduces an option to
 automatically rerun failing tests, including proper reporting on the

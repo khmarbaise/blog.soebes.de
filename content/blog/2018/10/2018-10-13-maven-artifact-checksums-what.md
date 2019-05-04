@@ -51,9 +51,9 @@ but only for the appropriate call of Maven and not always. So it is better to co
 this into your `settings.xml` which will look like this:
 
 ```xml
-<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+<settings xmlns="https://maven.apache.org/SETTINGS/1.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+  xsi:schemaLocation="https://maven.apache.org/SETTINGS/1.0.0
                       https://maven.apache.org/xsd/settings-1.0.0.xsd">
   ...
   <profiles>

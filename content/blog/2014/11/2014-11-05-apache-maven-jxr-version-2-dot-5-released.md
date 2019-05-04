@@ -7,7 +7,7 @@ comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven JXR, version 2.5](http://maven.apache.org/jxr/).
+[Apache Maven JXR, version 2.5](https://maven.apache.org/jxr/).
 
 This module generates browsable HTML pages from Java source code.
 

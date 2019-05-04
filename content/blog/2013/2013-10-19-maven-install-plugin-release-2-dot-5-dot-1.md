@@ -6,7 +6,7 @@ date: 2013-10-19 15:25:00
 comments: true
 categories: [Maven, News, Maven-Plugins,Maven-Plugin-Releases]
 ---
-The new release of the [Apache Maven Install Plugin 2.5.1](http://maven.apache.org/plugins/maven-install-plugin/)
+The new release of the [Apache Maven Install Plugin 2.5.1](https://maven.apache.org/plugins/maven-install-plugin/)
 contains two bug fixes:
 
 Fixed bugs:
