@@ -31,18 +31,18 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MCOMPILER-289 %} - Comments in module-info.java break test compile due to parser issue
- * {% ajl MCOMPILER-303 %} - Failure of a build with JDK 9
+ * [MCOMPILER-289](https://issues.apache.org/jira/browse/MCOMPILER-289) - Comments in module-info.java break test compile due to parser issue
+ * [MCOMPILER-303](https://issues.apache.org/jira/browse/MCOMPILER-303) - Failure of a build with JDK 9
 
 Improvements:
 
- * {% ajl MCOMPILER-296 %} - Add jpms.args to the META-INF folder
- * {% ajl MCOMPILER-304 %} - Introduce plexus-language component
- * {% ajl MCOMPILER-305 %} - Require Java 1.7
+ * [MCOMPILER-296](https://issues.apache.org/jira/browse/MCOMPILER-296) - Add jpms.args to the META-INF folder
+ * [MCOMPILER-304](https://issues.apache.org/jira/browse/MCOMPILER-304) - Introduce plexus-language component
+ * [MCOMPILER-305](https://issues.apache.org/jira/browse/MCOMPILER-305) - Require Java 1.7
 
 New Feature:
 
- * {% ajl MCOMPILER-295 %} - Upgrade ASM to 6.0_BETA
+ * [MCOMPILER-295](https://issues.apache.org/jira/browse/MCOMPILER-295) - Upgrade ASM to 6.0_BETA
 
 Enjoy,
 

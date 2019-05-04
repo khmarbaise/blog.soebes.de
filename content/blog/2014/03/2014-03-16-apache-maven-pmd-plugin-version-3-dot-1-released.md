@@ -29,22 +29,22 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MPMD-179 %} Plugin generates reports incompatible with the 'maven-jxr-plugin' version 2.4
- * {% chjl MPMD-176 %} upgrade to last 5.0.5
- * {% chjl MPMD-172 %} Warning about missing XRef for module with no source
- * {% chjl MPMD-168 %} Skip report generation if results are empty
- * {% chjl MPMD-167 %} CPD performance issues
- * {% chjl MPMD-166 %} Plugin fails when switching from 2.7.1 to 3.0.1
+ * [MPMD-179](https://issues.apache.org/jira/browse/MPMD-179) Plugin generates reports incompatible with the 'maven-jxr-plugin' version 2.4
+ * [MPMD-176](https://issues.apache.org/jira/browse/MPMD-176) upgrade to last 5.0.5
+ * [MPMD-172](https://issues.apache.org/jira/browse/MPMD-172) Warning about missing XRef for module with no source
+ * [MPMD-168](https://issues.apache.org/jira/browse/MPMD-168) Skip report generation if results are empty
+ * [MPMD-167](https://issues.apache.org/jira/browse/MPMD-167) CPD performance issues
+ * [MPMD-166](https://issues.apache.org/jira/browse/MPMD-166) Plugin fails when switching from 2.7.1 to 3.0.1
 
 Improvement:
 
- * {% chjl MPMD-180 %} Remove redundant "Report" word on report name labels
- * {% chjl MPMD-175 %} Work around PMD bug #1155 which crashes the plugin with an empty ruleset element.
- * {% chjl MPMD-169 %} Support multi-threaded mode of PMD 5
+ * [MPMD-180](https://issues.apache.org/jira/browse/MPMD-180) Remove redundant "Report" word on report name labels
+ * [MPMD-175](https://issues.apache.org/jira/browse/MPMD-175) Work around PMD bug #1155 which crashes the plugin with an empty ruleset element.
+ * [MPMD-169](https://issues.apache.org/jira/browse/MPMD-169) Support multi-threaded mode of PMD 5
 
 New Feature:
 
- * {% chjl MPMD-181 %} Add flag to capture Benchmark information
+ * [MPMD-181](https://issues.apache.org/jira/browse/MPMD-181) Add flag to capture Benchmark information
 
 
 Enjoy,

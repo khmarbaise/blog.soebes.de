@@ -31,8 +31,8 @@ You can download the [appropriate sources etc. from the download page](https://m
 
 Bugs:
 
- * {% ajl MSHADE-148 %} - Shade Plugin gets stuck in infinite loop building dependency reduced POM
- * {% ajl MSHADE-194 %} - Reporting uses maven-invoker-plugin version 1.9 instead of 1.10
+ * [MSHADE-148](https://issues.apache.org/jira/browse/MSHADE-148) - Shade Plugin gets stuck in infinite loop building dependency reduced POM
+ * [MSHADE-194](https://issues.apache.org/jira/browse/MSHADE-194) - Reporting uses maven-invoker-plugin version 1.9 instead of 1.10
 
 Enjoy,
 

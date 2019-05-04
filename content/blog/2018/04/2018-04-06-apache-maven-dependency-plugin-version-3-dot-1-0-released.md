@@ -37,18 +37,18 @@ https://maven.apache.org/plugins/maven-dependency-plugin/download.cgi
 
 Bugs:
 
- * {%ajl MDEP-559 %} - Java 9 bytecode cannot be parsed
- * {%ajl MDEP-603 %} - dependency:analyze fails on JDK 9 / JDK 10 
+ * [MDEP-559](https://issues.apache.org/jira/browse/MDEP-559) - Java 9 bytecode cannot be parsed
+ * [MDEP-603](https://issues.apache.org/jira/browse/MDEP-603) - dependency:analyze fails on JDK 9 / JDK 10 
 
 Improvement:
 
- * {%ajl MDEP-605 %} - Add documentation information for GitHub
+ * [MDEP-605](https://issues.apache.org/jira/browse/MDEP-605) - Add documentation information for GitHub
 
 Dependency upgrades:
 
- * {%ajl MDEP-584 %} - Upgrade plexus-utils to version 3.1.0
- * {%ajl MDEP-585 %} - Upgrade plexus-archiver to 3.5.
- * {%ajl MDEP-599 %} - Upgrade parent to 31
+ * [MDEP-584](https://issues.apache.org/jira/browse/MDEP-584) - Upgrade plexus-utils to version 3.1.0
+ * [MDEP-585](https://issues.apache.org/jira/browse/MDEP-585) - Upgrade plexus-archiver to 3.5.
+ * [MDEP-599](https://issues.apache.org/jira/browse/MDEP-599) - Upgrade parent to 31
 
 Many thanks to all reporters/contributors/testers of this release.
 

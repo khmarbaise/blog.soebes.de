@@ -33,18 +33,18 @@ To get this update, simply specify the version in your project's plugin configur
 
 Bugs:
 
- * {% chjl MAPPASM-121 %} - Generated script should be set executable (or allow for a umask to be defined).
- * {% chjl MAPPASM-228 %} - Daemon *nix template: Params of tr command must be quoted
- * {% chjl MAPPASM-234 %} - Make unix scripts executable, but not world-writable, i.e. 0755 (on unix)
+ * [MAPPASM-121] - Generated script should be set executable (or allow for a umask to be defined).
+ * [MAPPASM-228] - Daemon *nix template: Params of tr command must be quoted
+ * [MAPPASM-234] - Make unix scripts executable, but not world-writable, i.e. 0755 (on unix)
 
 Improvements:
 
- * {% chjl MAPPASM-230 %} - Failed to create directory for log/temp files
- * {% chjl MAPPASM-233 %} - Change integration tests according to maven-invoker-plugin 1.9 (mavenVersion) in verify.groovy
+ * [MAPPASM-230] - Failed to create directory for log/temp files
+ * [MAPPASM-233] - Change integration tests according to maven-invoker-plugin 1.9 (mavenVersion) in verify.groovy
 
 Wish:
 
- * {% chjl MAPPASM-54 %} - make unix scripts executable (on unix)
+ * [MAPPASM-54] - make unix scripts executable (on unix)
 
 
 Enjoy,

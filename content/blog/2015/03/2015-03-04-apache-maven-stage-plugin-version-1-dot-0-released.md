@@ -27,18 +27,18 @@ central repository.
 
 Bugs:
 
- * {% chjl MSTAGE-7 %} - Unable to use archiva as http source with maven-stage-plugin
- * {% chjl MSTAGE-9 %} - Stage plugin fails with ClassCastException
- * {% chjl MSTAGE-16 %} - Stage plugin doesn't work with maven3
+ * [MSTAGE-7](https://issues.apache.org/jira/browse/MSTAGE-7) - Unable to use archiva as http source with maven-stage-plugin
+ * [MSTAGE-9](https://issues.apache.org/jira/browse/MSTAGE-9) - Stage plugin fails with ClassCastException
+ * [MSTAGE-16](https://issues.apache.org/jira/browse/MSTAGE-16) - Stage plugin doesn't work with maven3
 
 Improvement:
 
- * {% chjl MSTAGE-18 %} - Fix RAT Report
+ * [MSTAGE-18](https://issues.apache.org/jira/browse/MSTAGE-18) - Fix RAT Report
 
 Tasks:
 
- * {% chjl MSTAGE-15 %} - use maven-plugin-tools' java 5 annotations
- * {% chjl MSTAGE-19 %} - Upgrade maven-wagon to 2.8
+ * [MSTAGE-15](https://issues.apache.org/jira/browse/MSTAGE-15) - use maven-plugin-tools' java 5 annotations
+ * [MSTAGE-19](https://issues.apache.org/jira/browse/MSTAGE-19) - Upgrade maven-wagon to 2.8
 
 Enjoy,
 

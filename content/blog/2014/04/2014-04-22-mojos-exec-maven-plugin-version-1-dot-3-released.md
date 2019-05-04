@@ -27,36 +27,36 @@ http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11240&version=17822
 
 Bugs:
 
- * {% chjl MEXEC-86 %} - outputFile support for capturing exec not functional
- * {% chjl MEXEC-104 %} - Cannot pass empty argument to exec goal.
- * {% chjl MEXEC-105 %} - %classpath is fragile when used with <commandlineArgs>
- * {% chjl MEXEC-108 %} - NPE at EnvironmentUtils.toStrings()
+ * [MEXEC-86] - outputFile support for capturing exec not functional
+ * [MEXEC-104] - Cannot pass empty argument to exec goal.
+ * [MEXEC-105] - %classpath is fragile when used with <commandlineArgs>
+ * [MEXEC-108] - NPE at EnvironmentUtils.toStrings()
 
 Improvements:
 
- * {% chjl MEXEC-66 %} - ability to add custom classpath together 
+ * [MEXEC-66] - ability to add custom classpath together 
               with %classpath placeholder
- * {% chjl MEXEC-73 %} - add configuration for adding additional 
+ * [MEXEC-73] - add configuration for adding additional 
               directories to project classpath
- * {% chjl MEXEC-93 %} - Exec plugin not marked as @threadSafe
- * {% chjl MEXEC-107 %} - Drop @execute phase="validate" from ExecJavaMojo
- * {% chjl MEXEC-119 %} - At position of argument to "Misconfigured 
+ * [MEXEC-93] - Exec plugin not marked as @threadSafe
+ * [MEXEC-107] - Drop @execute phase="validate" from ExecJavaMojo
+ * [MEXEC-119] - At position of argument to "Misconfigured 
                argument, value is null" message
- * {% chjl MEXEC-122 %} - Run integration test only by using the profile run-its
- * {% chjl MEXEC-123 %} - use java 5 plexus annotations
- * {% chjl MEXEC-125 %} - Upgrade Plugin Required Maven Version to 2.2.1
- * {% chjl MEXEC-129 %} - provided scope for maven-plugin-annotation
- * {% chjl MEXEC-130 %} - @threadSafe
- * {% chjl MEXEC-131 %} - commons-exec upgrade to 1.2
- * {% chjl MEXEC-133 %} - Upgrade to mojo-parent v:33
+ * [MEXEC-122] - Run integration test only by using the profile run-its
+ * [MEXEC-123] - use java 5 plexus annotations
+ * [MEXEC-125] - Upgrade Plugin Required Maven Version to 2.2.1
+ * [MEXEC-129] - provided scope for maven-plugin-annotation
+ * [MEXEC-130] - @threadSafe
+ * [MEXEC-131] - commons-exec upgrade to 1.2
+ * [MEXEC-133] - Upgrade to mojo-parent v:33
 
 Task
 
- * {% chjl MEXEC-101 %} - Migrate plugin to JDK5
+ * [MEXEC-101] - Migrate plugin to JDK5
 
 Wish
 
- * {% chjl MEXEC-126 %} - Bring back Maven 2.0.11 Compatibility
+ * [MEXEC-126] - Bring back Maven 2.0.11 Compatibility
 
 Enjoy,
 

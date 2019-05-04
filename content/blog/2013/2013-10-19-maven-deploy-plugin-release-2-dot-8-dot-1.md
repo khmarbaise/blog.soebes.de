@@ -11,7 +11,7 @@ contains two bug fixes:
 
 Fixed bugs:
 
- * {% chjl MDEPLOY-169 %} - deployAtEnd broken with parallel builds
- * {% chjl MDEPLOY-170 %} - Plugin configuration on module level is ignored when deployAtEnd
+ * [MDEPLOY-169](https://issues.apache.org/jira/browse/MDEPLOY-169) - deployAtEnd broken with parallel builds
+ * [MDEPLOY-170](https://issues.apache.org/jira/browse/MDEPLOY-170) - Plugin configuration on module level is ignored when deployAtEnd
 
 Thanks to the Maven Team.

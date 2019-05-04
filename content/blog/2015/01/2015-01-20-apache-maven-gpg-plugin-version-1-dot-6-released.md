@@ -27,10 +27,10 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% ajl MGPG-52 %} Upgrade to maven-plugins parent version 27
- * {% ajl MGPG-51 %} Make Plugin only 2.2.1 compatible - get rid of Maven 2.0
- * {% ajl MGPG-50 %} MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% ajl MGPG-31 %} Integrate w/ Maven password encryption to avoid need to type passphrase
+ * [MGPG-52](https://issues.apache.org/jira/browse/MGPG-52) Upgrade to maven-plugins parent version 27
+ * [MGPG-51](https://issues.apache.org/jira/browse/MGPG-51) Make Plugin only 2.2.1 compatible - get rid of Maven 2.0
+ * [MGPG-50](https://issues.apache.org/jira/browse/MGPG-50) MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MGPG-31](https://issues.apache.org/jira/browse/MGPG-31) Integrate w/ Maven password encryption to avoid need to type passphrase
 
 
 Enjoy,

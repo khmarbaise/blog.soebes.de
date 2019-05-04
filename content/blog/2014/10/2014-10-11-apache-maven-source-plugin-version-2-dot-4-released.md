@@ -28,10 +28,10 @@ directory.
 
 Improvements:
 
- * {% chjl MSOURCES-71 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MSOURCES-72 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% chjl MSOURCES-73 %} - Update version of plexus-archiver to 2.6.1
- * {% chjl MSOURCES-74 %} - Upgrade to plexus-archiver 2.6.3
+ * [MSOURCES-71](https://issues.apache.org/jira/browse/MSOURCES-71) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MSOURCES-72](https://issues.apache.org/jira/browse/MSOURCES-72) - Upgrade to Maven 2.2.1 compatiblity
+ * [MSOURCES-73](https://issues.apache.org/jira/browse/MSOURCES-73) - Update version of plexus-archiver to 2.6.1
+ * [MSOURCES-74](https://issues.apache.org/jira/browse/MSOURCES-74) - Upgrade to plexus-archiver 2.6.3
 
 Enjoy,
 

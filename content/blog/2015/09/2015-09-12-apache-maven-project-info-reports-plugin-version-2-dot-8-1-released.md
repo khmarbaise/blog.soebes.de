@@ -30,16 +30,16 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% ajl MPIR-300 %} Reporting plugins are reported with wrong version if version specified via pluginManagement
+ * [MPIR-300](https://issues.apache.org/jira/browse/MPIR-300) Reporting plugins are reported with wrong version if version specified via pluginManagement
 
 Improvement:
 
- * {% ajl MPIR-329 %} French translation in project-info-report_fr.properties
+ * [MPIR-329](https://issues.apache.org/jira/browse/MPIR-329) French translation in project-info-report_fr.properties
 
 Task:
 
- * {% ajl MPIR-333 %} switch to Fluido
- * {% ajl MPIR-332 %} don't warn when removing path from git scm url
+ * [MPIR-333](https://issues.apache.org/jira/browse/MPIR-333) switch to Fluido
+ * [MPIR-332](https://issues.apache.org/jira/browse/MPIR-332) don't warn when removing path from git scm url
 
 
 Enjoy,

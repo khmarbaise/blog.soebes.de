@@ -11,10 +11,10 @@ contains the following changes:
 
 Fixed bug:
 
- * {% chjl MOJO-1980 %} - Add assertion message when corrupt classfile is detected in enforceBytecodeVersion
+ * [MOJO-1980] - Add assertion message when corrupt classfile is detected in enforceBytecodeVersion
 
 Improvement
 
- * {% chjl MOJO-1976 %} - Artifact exclusion list for enforceBytecodeVersion
+ * [MOJO-1976] - Artifact exclusion list for enforceBytecodeVersion
 
 Here the link to the [change log](https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=11062&version=19563) for this release.

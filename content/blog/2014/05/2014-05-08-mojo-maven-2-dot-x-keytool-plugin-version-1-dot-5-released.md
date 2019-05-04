@@ -138,11 +138,11 @@ Release Notes
 
 Bug:
 
- * {% chjl MKEYTOOL-35 %} - JDK 8 doesn't work
+ * [MKEYTOOL-35](https://issues.apache.org/jira/browse/MKEYTOOL-35) - JDK 8 doesn't work
 
 New Feature:
 
- * {% chjl MKEYTOOL-36 %} - Support JDK 1.8
+ * [MKEYTOOL-36](https://issues.apache.org/jira/browse/MKEYTOOL-36) - Support JDK 1.8
 
 Enjoy,
 

@@ -41,11 +41,11 @@ You can download the appropriate [sources etc. from the download page](https://m
 
 New Feature:
 
-- {%ajl MPH-160 %} - help:effective-pom -Dverbose: add source location as comments in effective pom.xml
+- [MPH-160](https://issues.apache.org/jira/browse/MPH-160) - help:effective-pom -Dverbose: add source location as comments in effective pom.xml
 
 Improvement:
 
-- {%ajl MPH-161 %} - add color to goal or plugin description
+- [MPH-161](https://issues.apache.org/jira/browse/MPH-161) - add color to goal or plugin description
  
 Enjoy,
 

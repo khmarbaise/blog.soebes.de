@@ -31,16 +31,16 @@ You can download the [appropriate sources etc. from the download page](https://m
 
 Bugs:
 
- * {% ajl MSHADE-172 %} -  "java.lang.ArithmeticException: / by zero" in MinijarFilter
- * {% ajl MSHADE-190 %} -  Shade does not relocate the contents of META-INF/services files
- * {% ajl MSHADE-209 %} -  [REGRESSION] "java.lang.ArithmeticException: / by zero" in MinijarFilter (reporter Jon McLean).
+ * [MSHADE-172](https://issues.apache.org/jira/browse/MSHADE-172) -  "java.lang.ArithmeticException: / by zero" in MinijarFilter
+ * [MSHADE-190](https://issues.apache.org/jira/browse/MSHADE-190) -  Shade does not relocate the contents of META-INF/services files
+ * [MSHADE-209](https://issues.apache.org/jira/browse/MSHADE-209) -  [REGRESSION] "java.lang.ArithmeticException: / by zero" in MinijarFilter (reporter Jon McLean).
 
 Improvements:
 
- * {% ajl MSHADE-205 %} -  Better use of ClazzpathUnit for improved jar minimization (contributation of Benoit Perrot).
- * {% ajl MSHADE-207 %} -  Replace wrong link to codehaus with correct location
- * {% ajl MSHADE-210 %} -  Upgrade maven-plugins parent to version 28.
- * {% ajl MSHADE-211 %} -  Keep Java 1.5
+ * [MSHADE-205](https://issues.apache.org/jira/browse/MSHADE-205) -  Better use of ClazzpathUnit for improved jar minimization (contributation of Benoit Perrot).
+ * [MSHADE-207](https://issues.apache.org/jira/browse/MSHADE-207) -  Replace wrong link to codehaus with correct location
+ * [MSHADE-210](https://issues.apache.org/jira/browse/MSHADE-210) -  Upgrade maven-plugins parent to version 28.
+ * [MSHADE-211](https://issues.apache.org/jira/browse/MSHADE-211) -  Keep Java 1.5
 
 
 Enjoy,

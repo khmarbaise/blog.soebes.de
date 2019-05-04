@@ -31,13 +31,13 @@ used in several complex projects to simplify deployments.
 
 Bugs:
 
- * {% chjl MOJO-2032 %} - flatten-maven-plugin: model resolver fails in case of external parent POM
- * {% chjl MOJO-2039 %} - Maven 3.2.2 build error with flatten plugin
- * {% chjl MOJO-2042 %} - flatten-maven-plugin: adds central repository to flattened POM
+ * [MOJO-2032] - flatten-maven-plugin: model resolver fails in case of external parent POM
+ * [MOJO-2039] - Maven 3.2.2 build error with flatten plugin
+ * [MOJO-2042] - flatten-maven-plugin: adds central repository to flattened POM
 
 Improvement:
 
- * {% chjl MOJO-2038 %} - Keep plugins with extensions
+ * [MOJO-2038] - Keep plugins with extensions
 
 Enjoy,
 

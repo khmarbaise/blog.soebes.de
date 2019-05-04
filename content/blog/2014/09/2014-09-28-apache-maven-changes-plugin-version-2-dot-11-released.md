@@ -24,24 +24,24 @@ The Apache Maven team is pleased to announce the release of the
 
 Sub-task:
 
- * {% chjl MCHANGES-269 %} - Move anchor location in changes.xml to header
+ * [MCHANGES-269](https://issues.apache.org/jira/browse/MCHANGES-269) - Move anchor location in changes.xml to header
 
 Bugs:
 
- * {% chjl MCHANGES-307 %} - Check for whitespace on fixVersionIds and statusIds
- * {% chjl MCHANGES-334 %} - RestJiraDownloader doesn't honor proxy settings
- * {% chjl MCHANGES-336 %} - Enum value for type "remove" is missing
- * {% chjl MCHANGES-337 %} - Improve language style in model and report generator
+ * [MCHANGES-307](https://issues.apache.org/jira/browse/MCHANGES-307) - Check for whitespace on fixVersionIds and statusIds
+ * [MCHANGES-334](https://issues.apache.org/jira/browse/MCHANGES-334) - RestJiraDownloader doesn't honor proxy settings
+ * [MCHANGES-336](https://issues.apache.org/jira/browse/MCHANGES-336) - Enum value for type "remove" is missing
+ * [MCHANGES-337](https://issues.apache.org/jira/browse/MCHANGES-337) - Improve language style in model and report generator
 
 Improvements:
 
- * {% chjl MCHANGES-338 %} - Remove redundant anchors set on headings
- * {% chjl MCHANGES-341 %} - Externalize JIRA server timeout values to the configuration section
- * {% chjl MCHANGES-343 %} - Update maven-reporting-impl to 2.3
+ * [MCHANGES-338](https://issues.apache.org/jira/browse/MCHANGES-338) - Remove redundant anchors set on headings
+ * [MCHANGES-341](https://issues.apache.org/jira/browse/MCHANGES-341) - Externalize JIRA server timeout values to the configuration section
+ * [MCHANGES-343](https://issues.apache.org/jira/browse/MCHANGES-343) - Update maven-reporting-impl to 2.3
 
 Task:
 
- * {% chjl MCHANGES-342 %} - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
+ * [MCHANGES-342](https://issues.apache.org/jira/browse/MCHANGES-342) - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
 
 
 Enjoy,

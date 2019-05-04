@@ -31,20 +31,20 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MEJB-63 %} - outputDirectory is treated differently to ear, war plugins
- * {% ajl MEJB-74 %} - Updated plexus-interpolation for thread safety
+ * [MEJB-63](https://issues.apache.org/jira/browse/MEJB-63) - outputDirectory is treated differently to ear, war plugins
+ * [MEJB-74](https://issues.apache.org/jira/browse/MEJB-74) - Updated plexus-interpolation for thread safety
 
 Improvements:
 
- * {% ajl MEJB-67 %} - Upgrade plexus-utils to 3.0.18
- * {% ajl MEJB-70 %} - Update version of plexus-archiver to 2.6.1
- * {% ajl MEJB-71 %} - Update version of plexus-archiver to 2.6.2
- * {% ajl MEJB-73 %} - Update version of plexus-archiver from 2.4.4 to 2.9
- * {% ajl MEJB-75 %} - Upgrade maven-filtering to 1.3
- * {% ajl MEJB-76 %} - Upgrade to maven-plugins parent version 27
- * {% ajl MEJB-77 %} - Upgrade maven-archiver to 2.6
- * {% ajl MEJB-78 %} - Upgrade maven-plugin-testing-harness to 1.3
- * {% ajl MEJB-80 %} - Remove unnecessary exclusions of org.codehaus.plexus:plexus-component-api
+ * [MEJB-67](https://issues.apache.org/jira/browse/MEJB-67) - Upgrade plexus-utils to 3.0.18
+ * [MEJB-70](https://issues.apache.org/jira/browse/MEJB-70) - Update version of plexus-archiver to 2.6.1
+ * [MEJB-71](https://issues.apache.org/jira/browse/MEJB-71) - Update version of plexus-archiver to 2.6.2
+ * [MEJB-73](https://issues.apache.org/jira/browse/MEJB-73) - Update version of plexus-archiver from 2.4.4 to 2.9
+ * [MEJB-75](https://issues.apache.org/jira/browse/MEJB-75) - Upgrade maven-filtering to 1.3
+ * [MEJB-76](https://issues.apache.org/jira/browse/MEJB-76) - Upgrade to maven-plugins parent version 27
+ * [MEJB-77](https://issues.apache.org/jira/browse/MEJB-77) - Upgrade maven-archiver to 2.6
+ * [MEJB-78](https://issues.apache.org/jira/browse/MEJB-78) - Upgrade maven-plugin-testing-harness to 1.3
+ * [MEJB-80](https://issues.apache.org/jira/browse/MEJB-80) - Remove unnecessary exclusions of org.codehaus.plexus:plexus-component-api
 
 
 Enjoy,

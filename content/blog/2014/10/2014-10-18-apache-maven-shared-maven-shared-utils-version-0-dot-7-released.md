@@ -28,20 +28,20 @@ a lot of unused code.
 
 Bugs:
 
- * {% chjl MSHARED-242 %} - \[shared-utils\] improve shared utils featuers and introduce generics where possible
- * {% chjl MSHARED-313 %} - port dotted expression parser fixes from plexus-utils
+ * [MSHARED-242](https://issues.apache.org/jira/browse/MSHARED-242) - \[shared-utils\] improve shared utils featuers and introduce generics where possible
+ * [MSHARED-313](https://issues.apache.org/jira/browse/MSHARED-313) - port dotted expression parser fixes from plexus-utils
 
 Improvement:
 
- * {% chjl MSHARED-364 %} - Use NIO Delete when possibly in deleteFiles
+ * [MSHARED-364](https://issues.apache.org/jira/browse/MSHARED-364) - Use NIO Delete when possibly in deleteFiles
 
 New Feature:
 
- * {% chjl MSHARED-330 %} - add StringUtils.endsWithIgnoreCase()
+ * [MSHARED-330](https://issues.apache.org/jira/browse/MSHARED-330) - add StringUtils.endsWithIgnoreCase()
 
 Wish:
 
- * {% chjl MSHARED-257 %} - extract merge feature from Xpp3Dom
+ * [MSHARED-257](https://issues.apache.org/jira/browse/MSHARED-257) - extract merge feature from Xpp3Dom
 
 Enjoy,
 

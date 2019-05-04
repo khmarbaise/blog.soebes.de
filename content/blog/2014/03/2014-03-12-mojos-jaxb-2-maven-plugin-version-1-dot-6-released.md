@@ -33,23 +33,23 @@ To get this update, simply specify the version in your project's plugin configur
 
 Bugs:
 
- * {% chjl MJAXB-8 %} - When having multiple executions the jaxb plugin uses same staleFile for both runs
- * {% chjl MJAXB-79 %} - JAXB-2 Maven Plugin don't include the license file
- * {% chjl MJAXB-80 %} - Schemagen has namespace prefix problem
- * {% chjl MJAXB-83 %} - Provide support for JDK8
+ * [MJAXB-8](https://issues.apache.org/jira/browse/MJAXB-8) - When having multiple executions the jaxb plugin uses same staleFile for both runs
+ * [MJAXB-79](https://issues.apache.org/jira/browse/MJAXB-79) - JAXB-2 Maven Plugin don't include the license file
+ * [MJAXB-80](https://issues.apache.org/jira/browse/MJAXB-80) - Schemagen has namespace prefix problem
+ * [MJAXB-83](https://issues.apache.org/jira/browse/MJAXB-83) - Provide support for JDK8
 
 Improvements:
 
- * {% chjl MJAXB-61 %} - Upgrade to JAXB 2.2
- * {% chjl MJAXB-81 %} - transformSchema should also replace prefix in "type" attribute
- * {% chjl MJAXB-85 %} - Upgrade dependency to Java 6
- * {% chjl MJAXB-86 %} - Upgrade requirement to Maven 2.2.1
+ * [MJAXB-61](https://issues.apache.org/jira/browse/MJAXB-61) - Upgrade to JAXB 2.2
+ * [MJAXB-81](https://issues.apache.org/jira/browse/MJAXB-81) - transformSchema should also replace prefix in "type" attribute
+ * [MJAXB-85](https://issues.apache.org/jira/browse/MJAXB-85) - Upgrade dependency to Java 6
+ * [MJAXB-86](https://issues.apache.org/jira/browse/MJAXB-86) - Upgrade requirement to Maven 2.2.1
 
 Task
 
- * {% chjl MJAXB-45 %} - Add verify scripts for integration tests
- * {% chjl MJAXB-84 %} - Convert to Mojo Java 5 annotations
- * {% chjl MJAXB-88 %} - Random Unit test failure
+ * [MJAXB-45](https://issues.apache.org/jira/browse/MJAXB-45) - Add verify scripts for integration tests
+ * [MJAXB-84](https://issues.apache.org/jira/browse/MJAXB-84) - Convert to Mojo Java 5 annotations
+ * [MJAXB-88](https://issues.apache.org/jira/browse/MJAXB-88) - Random Unit test failure
 
 
 Enjoy,

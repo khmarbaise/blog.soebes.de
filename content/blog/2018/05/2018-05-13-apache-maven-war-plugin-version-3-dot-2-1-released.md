@@ -37,17 +37,17 @@ Important Note:
 
 Improvement:
 
- * {%ajl MWAR-412 %} - Upgrade parent to 31
+ * [MWAR-412](https://issues.apache.org/jira/browse/MWAR-412) - Upgrade parent to 31
 
 Task:
 
- * {%ajl MWAR-401 %} - Upgrade the WAR lifecycle to use the maven-compiler-plugin 3.7.0
+ * [MWAR-401](https://issues.apache.org/jira/browse/MWAR-401) - Upgrade the WAR lifecycle to use the maven-compiler-plugin 3.7.0
 
 Dependency upgrades:
 
- * {%ajl MWAR-413 %} - Upgrade xstream to 1.4.10
- * {%ajl MWAR-414 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
- * {%ajl MWAR-416 %} - Upgrade plexus-archiver to 3.6.0
+ * [MWAR-413](https://issues.apache.org/jira/browse/MWAR-413) - Upgrade xstream to 1.4.10
+ * [MWAR-414](https://issues.apache.org/jira/browse/MWAR-414) - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * [MWAR-416](https://issues.apache.org/jira/browse/MWAR-416) - Upgrade plexus-archiver to 3.6.0
 
 
 Enjoy,

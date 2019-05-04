@@ -16,13 +16,13 @@ artifact and repository handling code.
 
 Bugs:
 
- * {% ajl WAGON-363 %} - wagon-ftp fails to create non-existing directory when path contains "/../"
- * {% ajl WAGON-490 %} - FTP over HTTP proxy wagon
+ * [WAGON-363](https://issues.apache.org/jira/browse/WAGON-363) - wagon-ftp fails to create non-existing directory when path contains "/../"
+ * [WAGON-490](https://issues.apache.org/jira/browse/WAGON-490) - FTP over HTTP proxy wagon
 
 Improvements:
 
- * {% ajl WAGON-488 %} - Upgrade WebDAV Wagon to a more recent HttpClient version (4.5.3)
- * {% ajl WAGON-489 %} - Java 7 required
+ * [WAGON-488](https://issues.apache.org/jira/browse/WAGON-488) - Upgrade WebDAV Wagon to a more recent HttpClient version (4.5.3)
+ * [WAGON-489](https://issues.apache.org/jira/browse/WAGON-489) - Java 7 required
 
 
 Enjoy,

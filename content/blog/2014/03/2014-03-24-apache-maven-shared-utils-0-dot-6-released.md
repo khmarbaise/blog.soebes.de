@@ -34,7 +34,7 @@ Release Notes - Maven Shared Components - Version maven-shared-utils-0.6
 
 Improvement:
 
- * {% chjl MSHARED-320 %} - Be able to mask some arguments in the commandLine API
+ * [MSHARED-320](https://issues.apache.org/jira/browse/MSHARED-320) - Be able to mask some arguments in the commandLine API
 
 Enjoy,
 

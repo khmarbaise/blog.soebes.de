@@ -36,19 +36,19 @@ configuration:
 
 Bugs:
 
- * {% chjl MRPM-171 %} - noDefaultExcludes does not pick up .svn directories
- * {% chjl MRPM-173 %} - files listed twice in spec file and remain after package removal
- * {% chjl MRPM-176 %} - RPMs are not always signed
- * {% chjl MRPM-179 %} - RPM no longer relocatable
+ * [MRPM-171] - noDefaultExcludes does not pick up .svn directories
+ * [MRPM-173] - files listed twice in spec file and remain after package removal
+ * [MRPM-176] - RPMs are not always signed
+ * [MRPM-179] - RPM no longer relocatable
 
 Improvements:
 
- * {% chjl MRPM-81 %} - Add documentation on how to override project settings
- * {% chjl MRPM-172 %} - failIfNotExists option for sources
- * {% chjl MRPM-174 %} - Add ability to load PGP passphase under settings.xml
- * {% chjl MRPM-175 %} - Upgrade plexus-archiver to 2.9.1
- * {% chjl MRPM-177 %} - Add ability to configure gpg home directory needed for rpm sign IT test
- * {% chjl MRPM-178 %} - Set m2e's ignore under lifecycleMappingMetadata
+ * [MRPM-81] - Add documentation on how to override project settings
+ * [MRPM-172] - failIfNotExists option for sources
+ * [MRPM-174] - Add ability to load PGP passphase under settings.xml
+ * [MRPM-175] - Upgrade plexus-archiver to 2.9.1
+ * [MRPM-177] - Add ability to configure gpg home directory needed for rpm sign IT test
+ * [MRPM-178] - Set m2e's ignore under lifecycleMappingMetadata
 
 
 Enjoy,

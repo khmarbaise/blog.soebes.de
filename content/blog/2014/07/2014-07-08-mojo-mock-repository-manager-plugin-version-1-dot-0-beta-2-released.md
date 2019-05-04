@@ -32,13 +32,13 @@ Release Notes - Mojo's Mock Repository Manager - Version 1.0-beta-2
 
 Bugs:
 
- * {% chjl MMOCKRM-9 %} - Site goals page only lists help goal (other goals missing in list)
- * {% chjl MMOCKRM-11 %} - Param propertyName should have a default value
- * {% chjl MMOCKRM-13 %} - downloading /favicon.ico throws an emptyStackException
+ * [MMOCKRM-9](https://issues.apache.org/jira/browse/MMOCKRM-9) - Site goals page only lists help goal (other goals missing in list)
+ * [MMOCKRM-11](https://issues.apache.org/jira/browse/MMOCKRM-11) - Param propertyName should have a default value
+ * [MMOCKRM-13](https://issues.apache.org/jira/browse/MMOCKRM-13) - downloading /favicon.ico throws an emptyStackException
 
 Improvement:
 
- * {% chjl MMOCKRM-12 %} - Expose settings.xml for non-localhost users
+ * [MMOCKRM-12](https://issues.apache.org/jira/browse/MMOCKRM-12) - Expose settings.xml for non-localhost users
 
 Enjoy,
 

@@ -38,16 +38,16 @@ https://maven.apache.org/shared/maven-mapping/download.cgi
 
 Bug:
 
- * {% ajl MSHARED-368 %} -  Update plexus-interpolation to 1.21 to avoid potential thread safety issues
+ * [MSHARED-368](https://issues.apache.org/jira/browse/MSHARED-368) -  Update plexus-interpolation to 1.21 to avoid potential thread safety issues
 
 Improvement
 
- * {% ajl MSHARED-356 %} -  Upgrade to Maven 2.2.1 compatiblity
- * {% ajl MSHARED-357 %} -  Update version of plexus-interpolation to 1.19
- * {% ajl MSHARED-449 %} -  Upgrade to Maven 3.X only + JDK 6
- * {% ajl MSHARED-452 %} -  Removed calling to accessor
- * {% ajl MSHARED-453 %} -  Bump version to 3.0.0-SNAPSHOT
- * {% ajl MSHARED-457 %} -  Upgrade maven-shared-components parent to version 22
+ * [MSHARED-356](https://issues.apache.org/jira/browse/MSHARED-356) -  Upgrade to Maven 2.2.1 compatiblity
+ * [MSHARED-357](https://issues.apache.org/jira/browse/MSHARED-357) -  Update version of plexus-interpolation to 1.19
+ * [MSHARED-449](https://issues.apache.org/jira/browse/MSHARED-449) -  Upgrade to Maven 3.X only + JDK 6
+ * [MSHARED-452](https://issues.apache.org/jira/browse/MSHARED-452) -  Removed calling to accessor
+ * [MSHARED-453](https://issues.apache.org/jira/browse/MSHARED-453) -  Bump version to 3.0.0-SNAPSHOT
+ * [MSHARED-457](https://issues.apache.org/jira/browse/MSHARED-457) -  Upgrade maven-shared-components parent to version 22
  
 Enjoy,
  

@@ -32,22 +32,22 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
-- {%ajl MPMD-277 %} - Plugin tries to download local submodules from repo
+- [MPMD-277](https://issues.apache.org/jira/browse/MPMD-277) - Plugin tries to download local submodules from repo
 
 New Features:
 
-- {%ajl MPMD-280 %} - Support targetJdk 12
-- {%ajl MPMD-281 %} - Display found violations grouped by priority
+- [MPMD-280](https://issues.apache.org/jira/browse/MPMD-280) - Support targetJdk 12
+- [MPMD-281](https://issues.apache.org/jira/browse/MPMD-281) - Display found violations grouped by priority
 
 Improvements:
 
-- {%ajl MPMD-279 %} - Improve documentation of maxAllowedViolations
-- {%ajl MPMD-282 %} - Add rule name to HTML report
+- [MPMD-279](https://issues.apache.org/jira/browse/MPMD-279) - Improve documentation of maxAllowedViolations
+- [MPMD-282](https://issues.apache.org/jira/browse/MPMD-282) - Add rule name to HTML report
 
 Dependency upgrades:
 
-- {%ajl MPMD-275 %} - Upgrade to PMD 6.13.0
-- {%ajl MPMD-284 %} - Upgrade parent to 33
+- [MPMD-275](https://issues.apache.org/jira/browse/MPMD-275) - Upgrade to PMD 6.13.0
+- [MPMD-284](https://issues.apache.org/jira/browse/MPMD-284) - Upgrade parent to 33
 
 Enjoy,
 

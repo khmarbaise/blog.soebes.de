@@ -31,44 +31,44 @@ Important Note:
 
 Bugs:
 
- * {% ajl MJAR-177 %} - Empty string should be treated as default classifier
- * {% ajl MJAR-198 %} - jar:jar without classifier replaces default jar
- * {% ajl MJAR-204 %} - Adding plexus-utils version 3.0.22
- * {% ajl MJAR-205 %} - Compatibility with JDK9 requires an update of plexus-archiver
- * {% ajl MJAR-216 %} - Documentation for skip param in test-jar goal is wrong
+ * [MJAR-177](https://issues.apache.org/jira/browse/MJAR-177) - Empty string should be treated as default classifier
+ * [MJAR-198](https://issues.apache.org/jira/browse/MJAR-198) - jar:jar without classifier replaces default jar
+ * [MJAR-204](https://issues.apache.org/jira/browse/MJAR-204) - Adding plexus-utils version 3.0.22
+ * [MJAR-205](https://issues.apache.org/jira/browse/MJAR-205) - Compatibility with JDK9 requires an update of plexus-archiver
+ * [MJAR-216](https://issues.apache.org/jira/browse/MJAR-216) - Documentation for skip param in test-jar goal is wrong
 
 Documentation:
 
- * {% ajl MJAR-197 %} - Typo in site navigation
+ * [MJAR-197](https://issues.apache.org/jira/browse/MJAR-197) - Typo in site navigation
 
 Improvements:
 
- * {% ajl MJAR-183 %} - Add LifecycleMapping and ArtifactHandler from maven-core to target packaging plugin
- * {% ajl MJAR-194 %} - Upgrade plexus-archiver to 2.10
- * {% ajl MJAR-199 %} - Option "classifier" to goal test-jar
- * {% ajl MJAR-201 %} - Upgrade Maven 3.X Only JDK 1.6
- * {% ajl MJAR-202 %} - Bump version to 3.0.0-SNAPSHOT
- * {% ajl MJAR-203 %} - Change package to org.apache.maven.plugins to prevent conflict with Maven Core
- * {% ajl MJAR-207 %} - Upgrade plexus-archiver from 3.0.3 to 3.1
- * {% ajl MJAR-208 %} - Make naming of properties consistent
- * {% ajl MJAR-209 %} - Remove param properties that doesn't make sense for CLI usage
- * {% ajl MJAR-210 %} - Remove useDefaultManifestFile parameter
- * {% ajl MJAR-214 %} - Replace @pom.version@ with @project.version@ in Integration Tests
- * {% ajl MJAR-215 %} - Upgrade plexus-archiver from 3.1 to 3.1.1 in synch with maven-archiver 3.0.1
- * {% ajl MJAR-217 %} - Make finalName readonly parameter
+ * [MJAR-183](https://issues.apache.org/jira/browse/MJAR-183) - Add LifecycleMapping and ArtifactHandler from maven-core to target packaging plugin
+ * [MJAR-194](https://issues.apache.org/jira/browse/MJAR-194) - Upgrade plexus-archiver to 2.10
+ * [MJAR-199](https://issues.apache.org/jira/browse/MJAR-199) - Option "classifier" to goal test-jar
+ * [MJAR-201](https://issues.apache.org/jira/browse/MJAR-201) - Upgrade Maven 3.X Only JDK 1.6
+ * [MJAR-202](https://issues.apache.org/jira/browse/MJAR-202) - Bump version to 3.0.0-SNAPSHOT
+ * [MJAR-203](https://issues.apache.org/jira/browse/MJAR-203) - Change package to org.apache.maven.plugins to prevent conflict with Maven Core
+ * [MJAR-207](https://issues.apache.org/jira/browse/MJAR-207) - Upgrade plexus-archiver from 3.0.3 to 3.1
+ * [MJAR-208](https://issues.apache.org/jira/browse/MJAR-208) - Make naming of properties consistent
+ * [MJAR-209](https://issues.apache.org/jira/browse/MJAR-209) - Remove param properties that doesn't make sense for CLI usage
+ * [MJAR-210](https://issues.apache.org/jira/browse/MJAR-210) - Remove useDefaultManifestFile parameter
+ * [MJAR-214](https://issues.apache.org/jira/browse/MJAR-214) - Replace @pom.version@ with @project.version@ in Integration Tests
+ * [MJAR-215](https://issues.apache.org/jira/browse/MJAR-215) - Upgrade plexus-archiver from 3.1 to 3.1.1 in synch with maven-archiver 3.0.1
+ * [MJAR-217](https://issues.apache.org/jira/browse/MJAR-217) - Make finalName readonly parameter
 
 Tasks:
 
- * {% ajl MJAR-213 %} - Upgrade to maven-archiver 3.0.1
- * {% ajl MJAR-218 %} - Upgrade to maven-archiver 3.0.2 to fix regression
+ * [MJAR-213](https://issues.apache.org/jira/browse/MJAR-213) - Upgrade to maven-archiver 3.0.1
+ * [MJAR-218](https://issues.apache.org/jira/browse/MJAR-218) - Upgrade to maven-archiver 3.0.2 to fix regression
 
 Reporters of this Release:
 
- * Sanne Grinovero {% ajl MJAR-205 %}
- * Leo Breuss {% ajl MJAR-199 %}
- * Elias Elmqvist Wulcan {% ajl MJAR-198 %}
- * Andreas Kohn {% ajl MJAR-197 %}
- * Stefan Fussenegger {% ajl MJAR-177 %}
+ * Sanne Grinovero [MJAR-205](https://issues.apache.org/jira/browse/MJAR-205)
+ * Leo Breuss [MJAR-199](https://issues.apache.org/jira/browse/MJAR-199)
+ * Elias Elmqvist Wulcan [MJAR-198](https://issues.apache.org/jira/browse/MJAR-198)
+ * Andreas Kohn [MJAR-197](https://issues.apache.org/jira/browse/MJAR-197)
+ * Stefan Fussenegger [MJAR-177](https://issues.apache.org/jira/browse/MJAR-177)
 
 Tester of this Release:
 

@@ -27,20 +27,20 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MCHECKSTYLE-295 %} Test resources are not included
- * {% ajl MCHECKSTYLE-271 %} checkstyle plugin fails with default ruleset and checkstyle 6.2
+ * [MCHECKSTYLE-295](https://issues.apache.org/jira/browse/MCHECKSTYLE-295) Test resources are not included
+ * [MCHECKSTYLE-271](https://issues.apache.org/jira/browse/MCHECKSTYLE-271) checkstyle plugin fails with default ruleset and checkstyle 6.2
 
 Improvements:
 
- * {% ajl MCHECKSTYLE-290 %} add a history table to show which version of Chesktyle is used by default in which version of m-checkstyle-p
- * {% ajl MCHECKSTYLE-284 %} Remove config/sun_checks.xml and use the one built into Checkstyle 6.2+
- * {% ajl MCHECKSTYLE-272 %} Upgrade to Checkstyle 6.2
+ * [MCHECKSTYLE-290](https://issues.apache.org/jira/browse/MCHECKSTYLE-290) add a history table to show which version of Chesktyle is used by default in which version of m-checkstyle-p
+ * [MCHECKSTYLE-284](https://issues.apache.org/jira/browse/MCHECKSTYLE-284) Remove config/sun_checks.xml and use the one built into Checkstyle 6.2+
+ * [MCHECKSTYLE-272](https://issues.apache.org/jira/browse/MCHECKSTYLE-272) Upgrade to Checkstyle 6.2
 
 Tasks:
 
- * {% ajl MCHECKSTYLE-285 %} Remove config/maven_checks.xml by removing the dependency on maven-shared-resources:2
- * {% ajl MCHECKSTYLE-278 %} Require Java 7
- * {% ajl MCHECKSTYLE-268 %} Add flag/option to use built-in Google style
+ * [MCHECKSTYLE-285](https://issues.apache.org/jira/browse/MCHECKSTYLE-285) Remove config/maven_checks.xml by removing the dependency on maven-shared-resources:2
+ * [MCHECKSTYLE-278](https://issues.apache.org/jira/browse/MCHECKSTYLE-278) Require Java 7
+ * [MCHECKSTYLE-268](https://issues.apache.org/jira/browse/MCHECKSTYLE-268) Add flag/option to use built-in Google style
 
 
 Enjoy,

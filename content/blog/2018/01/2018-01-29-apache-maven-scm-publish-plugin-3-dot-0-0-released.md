@@ -35,25 +35,25 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {%ajl MSCMPUB-19 %} - Plugin fails to publish to SCMs whose working copies don't have any kind of private storage
- * {%ajl MSCMPUB-29 %} - Website still points to jira.codehaus.org
+ * [MSCMPUB-19](https://issues.apache.org/jira/browse/MSCMPUB-19) - Plugin fails to publish to SCMs whose working copies don't have any kind of private storage
+ * [MSCMPUB-29](https://issues.apache.org/jira/browse/MSCMPUB-29) - Website still points to jira.codehaus.org
 
 Improvements:
 
- * {%ajl MSCMPUB-16 %} - MavenProject/MavenSession Injection as a parameter instead as a component.
- * {%ajl MSCMPUB-21 %} - Upgrade maven-scm to 1.9.4
- * {%ajl MSCMPUB-22 %} - Upgrade maven-shared-components parent to version 30
- * {%ajl MSCMPUB-23 %} - Bump version to 3.0.0-SNAPSHOT
- * {%ajl MSCMPUB-24 %} - Upgrade maven-release-manager to 2.5.3
- * {%ajl MSCMPUB-25 %} - Upgrade Maven SCM to 1.9.5
- * {%ajl MSCMPUB-26 %} - Change scope of maven-plugin-annotations to provided
- * {%ajl MSCMPUB-32 %} - improve doc for GitHub gh-pages use in orphan Git branch
- * {%ajl MSCMPUB-33 %} - add color output to improve UX
- * {%ajl MSCMPUB-35 %} - add support for symbolic links
+ * [MSCMPUB-16](https://issues.apache.org/jira/browse/MSCMPUB-16) - MavenProject/MavenSession Injection as a parameter instead as a component.
+ * [MSCMPUB-21](https://issues.apache.org/jira/browse/MSCMPUB-21) - Upgrade maven-scm to 1.9.4
+ * [MSCMPUB-22](https://issues.apache.org/jira/browse/MSCMPUB-22) - Upgrade maven-shared-components parent to version 30
+ * [MSCMPUB-23](https://issues.apache.org/jira/browse/MSCMPUB-23) - Bump version to 3.0.0-SNAPSHOT
+ * [MSCMPUB-24](https://issues.apache.org/jira/browse/MSCMPUB-24) - Upgrade maven-release-manager to 2.5.3
+ * [MSCMPUB-25](https://issues.apache.org/jira/browse/MSCMPUB-25) - Upgrade Maven SCM to 1.9.5
+ * [MSCMPUB-26](https://issues.apache.org/jira/browse/MSCMPUB-26) - Change scope of maven-plugin-annotations to provided
+ * [MSCMPUB-32](https://issues.apache.org/jira/browse/MSCMPUB-32) - improve doc for GitHub gh-pages use in orphan Git branch
+ * [MSCMPUB-33](https://issues.apache.org/jira/browse/MSCMPUB-33) - add color output to improve UX
+ * [MSCMPUB-35](https://issues.apache.org/jira/browse/MSCMPUB-35) - add support for symbolic links
 
 Task:
 
- * {%ajl MSCMPUB-34 %} - switch to Git
+ * [MSCMPUB-34](https://issues.apache.org/jira/browse/MSCMPUB-34) - switch to Git
 
 Enjoy,
 

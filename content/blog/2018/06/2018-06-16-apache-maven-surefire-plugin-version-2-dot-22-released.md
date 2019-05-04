@@ -52,30 +52,30 @@ or for surefire-report:
 
 Bugs:
  
- * {%ajl SUREFIRE-1383 %} - dependenciesToScan Does Not Leverage Classpath Elements
- * {%ajl SUREFIRE-1479 %} - SurefireBooterForkException: The forked VM terminated without properly saying goodbye since 2.20.1
- * {%ajl SUREFIRE-1498 %} - Surefire prints own logs "Couldn't load group class" to native stream.
- * {%ajl SUREFIRE-1503 %} - Forked JVM immediately crashed on Unix/Linux due to new shutdown mechanism does not turn to the old shutdown mechanism
- * {%ajl SUREFIRE-1506 %} - Sporadic NullPointerException in ConsoleOutputFileReporter#close()
- * {%ajl SUREFIRE-1512 %} - ProcessInfo for Windows is prone to timezone offset changes
- * {%ajl SUREFIRE-1515 %} - Standard output write fails for empty array
- * {%ajl SUREFIRE-1522 %} - IndexOutOfBoundsException for System.out.write
+ * [SUREFIRE-1383](https://issues.apache.org/jira/browse/SUREFIRE-1383) - dependenciesToScan Does Not Leverage Classpath Elements
+ * [SUREFIRE-1479](https://issues.apache.org/jira/browse/SUREFIRE-1479) - SurefireBooterForkException: The forked VM terminated without properly saying goodbye since 2.20.1
+ * [SUREFIRE-1498](https://issues.apache.org/jira/browse/SUREFIRE-1498) - Surefire prints own logs "Couldn't load group class" to native stream.
+ * [SUREFIRE-1503](https://issues.apache.org/jira/browse/SUREFIRE-1503) - Forked JVM immediately crashed on Unix/Linux due to new shutdown mechanism does not turn to the old shutdown mechanism
+ * [SUREFIRE-1506](https://issues.apache.org/jira/browse/SUREFIRE-1506) - Sporadic NullPointerException in ConsoleOutputFileReporter#close()
+ * [SUREFIRE-1512](https://issues.apache.org/jira/browse/SUREFIRE-1512) - ProcessInfo for Windows is prone to timezone offset changes
+ * [SUREFIRE-1515](https://issues.apache.org/jira/browse/SUREFIRE-1515) - Standard output write fails for empty array
+ * [SUREFIRE-1522](https://issues.apache.org/jira/browse/SUREFIRE-1522) - IndexOutOfBoundsException for System.out.write
 
 New Features:
 
- * {%ajl SUREFIRE-1330 %} - JUnit 5 surefire-provider code donation
- * {%ajl SUREFIRE-1495 %} - Encoding of TXT report file should be configured by ${project.reporting.outputEncoding} and MOJO parameter encoding
+ * [SUREFIRE-1330](https://issues.apache.org/jira/browse/SUREFIRE-1330) - JUnit 5 surefire-provider code donation
+ * [SUREFIRE-1495](https://issues.apache.org/jira/browse/SUREFIRE-1495) - Encoding of TXT report file should be configured by ${project.reporting.outputEncoding} and MOJO parameter encoding
 
 Improvement:
 
- * {%ajl SUREFIRE-1490 %} - Change header of the Failsafe Report
+ * [SUREFIRE-1490](https://issues.apache.org/jira/browse/SUREFIRE-1490) - Change header of the Failsafe Report
 
 Tasks:
 
- * {%ajl SUREFIRE-1487 %} - ParallelComputerBuilderTest fails on overloaded system because internal delay are shorter than blocking time of JVM
- * {%ajl SUREFIRE-1504 %} - switch from Git-WIP to Gitbox
- * {%ajl SUREFIRE-1510 %} - Jenkins CI fails due to performance of Windows break concurrency of forked JVMs
- * {%ajl SUREFIRE-1518 %} - Upgrade version of plexus-java to 0.9.8
+ * [SUREFIRE-1487](https://issues.apache.org/jira/browse/SUREFIRE-1487) - ParallelComputerBuilderTest fails on overloaded system because internal delay are shorter than blocking time of JVM
+ * [SUREFIRE-1504](https://issues.apache.org/jira/browse/SUREFIRE-1504) - switch from Git-WIP to Gitbox
+ * [SUREFIRE-1510](https://issues.apache.org/jira/browse/SUREFIRE-1510) - Jenkins CI fails due to performance of Windows break concurrency of forked JVMs
+ * [SUREFIRE-1518](https://issues.apache.org/jira/browse/SUREFIRE-1518) - Upgrade version of plexus-java to 0.9.8
 
 
 

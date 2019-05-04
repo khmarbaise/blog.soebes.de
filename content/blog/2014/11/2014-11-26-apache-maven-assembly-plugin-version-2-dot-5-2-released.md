@@ -36,30 +36,30 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MASSEMBLY-478 %} - allow overwriting newer files with older files contained within fileset
- * {% chjl MASSEMBLY-558 %} - Assembly does not include runtime-dependency if test-dependency with shorter path exists
- * {% chjl MASSEMBLY-565 %} - jar-with-dependencies: class from the source
+ * [MASSEMBLY-478](https://issues.apache.org/jira/browse/MASSEMBLY-478) - allow overwriting newer files with older files contained within fileset
+ * [MASSEMBLY-558](https://issues.apache.org/jira/browse/MASSEMBLY-558) - Assembly does not include runtime-dependency if test-dependency with shorter path exists
+ * [MASSEMBLY-565](https://issues.apache.org/jira/browse/MASSEMBLY-565) - jar-with-dependencies: class from the source
 in project does NOT override the class in jar dependency
- * {% chjl MASSEMBLY-569 %} - The numbering of the items in the FAQ on the site is messed up
- * {% chjl MASSEMBLY-580 %} - dependencySet ignores directoryMode descriptor
- * {% chjl MASSEMBLY-583 %} - DependencySet elements appear not to be able to target the same outputDirectory
- * {% chjl MASSEMBLY-597 %} - Duplicate files added to archive when present in both dependencyset and fileset of the same assembly
- * {% chjl MASSEMBLY-601 %} - https://maven.apache.org/plugins/maven-assembly-plugin/assembly.html seems to have the components of a filter element in the wrong order
- * {% chjl MASSEMBLY-609 %} - Misbehavior on multi-module projects, outputDirectory not being interpolated properly
- * {% chjl MASSEMBLY-655 %} - Archive file resolution does not work as documented
- * {% chjl MASSEMBLY-671 %} - Cryptic debug warning message needs improvement and/or documentation
- * {% chjl MASSEMBLY-725 %} - Fix phase ordering
- * {% chjl MASSEMBLY-726 %} - Fix artifact inclusion/exclusion filtering
- * {% chjl MASSEMBLY-728 %} - Assembly plugin >= 2.5 thinks my group ID is too big
- * {% chjl MASSEMBLY-729 %} - lineEnding ignored when file is not filtered
- * {% chjl MASSEMBLY-730 %} - jar-with-dependencies : a file in a dependency is overridden by the same file in JDK / JRE
- * {% chjl MASSEMBLY-731 %} - Assembly plugin bundles symlinks as emtpy folders when directoryMode is set on fileset
- * {% chjl MASSEMBLY-732 %} - baseDirectory is ignored with files entries
+ * [MASSEMBLY-569](https://issues.apache.org/jira/browse/MASSEMBLY-569) - The numbering of the items in the FAQ on the site is messed up
+ * [MASSEMBLY-580](https://issues.apache.org/jira/browse/MASSEMBLY-580) - dependencySet ignores directoryMode descriptor
+ * [MASSEMBLY-583](https://issues.apache.org/jira/browse/MASSEMBLY-583) - DependencySet elements appear not to be able to target the same outputDirectory
+ * [MASSEMBLY-597](https://issues.apache.org/jira/browse/MASSEMBLY-597) - Duplicate files added to archive when present in both dependencyset and fileset of the same assembly
+ * [MASSEMBLY-601](https://issues.apache.org/jira/browse/MASSEMBLY-601) - https://maven.apache.org/plugins/maven-assembly-plugin/assembly.html seems to have the components of a filter element in the wrong order
+ * [MASSEMBLY-609](https://issues.apache.org/jira/browse/MASSEMBLY-609) - Misbehavior on multi-module projects, outputDirectory not being interpolated properly
+ * [MASSEMBLY-655](https://issues.apache.org/jira/browse/MASSEMBLY-655) - Archive file resolution does not work as documented
+ * [MASSEMBLY-671](https://issues.apache.org/jira/browse/MASSEMBLY-671) - Cryptic debug warning message needs improvement and/or documentation
+ * [MASSEMBLY-725](https://issues.apache.org/jira/browse/MASSEMBLY-725) - Fix phase ordering
+ * [MASSEMBLY-726](https://issues.apache.org/jira/browse/MASSEMBLY-726) - Fix artifact inclusion/exclusion filtering
+ * [MASSEMBLY-728](https://issues.apache.org/jira/browse/MASSEMBLY-728) - Assembly plugin >= 2.5 thinks my group ID is too big
+ * [MASSEMBLY-729](https://issues.apache.org/jira/browse/MASSEMBLY-729) - lineEnding ignored when file is not filtered
+ * [MASSEMBLY-730](https://issues.apache.org/jira/browse/MASSEMBLY-730) - jar-with-dependencies : a file in a dependency is overridden by the same file in JDK / JRE
+ * [MASSEMBLY-731](https://issues.apache.org/jira/browse/MASSEMBLY-731) - Assembly plugin bundles symlinks as emtpy folders when directoryMode is set on fileset
+ * [MASSEMBLY-732](https://issues.apache.org/jira/browse/MASSEMBLY-732) - baseDirectory is ignored with files entries
 
 Improvement:
 
- * {% chjl MASSEMBLY-702 %} - Add default values for directoryMode / fileMode
- * {% chjl MASSEMBLY-708 %} - predefined descriptors lack of permission definition for unix (directoryMode/fileMode)
+ * [MASSEMBLY-702](https://issues.apache.org/jira/browse/MASSEMBLY-702) - Add default values for directoryMode / fileMode
+ * [MASSEMBLY-708](https://issues.apache.org/jira/browse/MASSEMBLY-708) - predefined descriptors lack of permission definition for unix (directoryMode/fileMode)
 
 Enjoy,
 

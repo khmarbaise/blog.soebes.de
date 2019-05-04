@@ -28,15 +28,15 @@ The [Release Notes](http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=1
 
 The following bugs have been fixed:
 
-* {% chjl MCHECKSTYLE-192 %} - Properties files are only processed in the report, but not in the mojo
-* {% chjl MCHECKSTYLE-193 %} - Resource files get included regardless of explicit sourceDirectory / includes / excludes configuration
-* {% chjl MCHECKSTYLE-197 %} - Documentation: Check goal is incorrectly described
-* {% chjl MCHECKSTYLE-202 %} - The link on Usage page to 'Maven 3.x Compatibility Notes' is not correct
+* [MCHECKSTYLE-192](https://issues.apache.org/jira/browse/MCHECKSTYLE-192) - Properties files are only processed in the report, but not in the mojo
+* [MCHECKSTYLE-193](https://issues.apache.org/jira/browse/MCHECKSTYLE-193) - Resource files get included regardless of explicit sourceDirectory / includes / excludes configuration
+* [MCHECKSTYLE-197](https://issues.apache.org/jira/browse/MCHECKSTYLE-197) - Documentation: Check goal is incorrectly described
+* [MCHECKSTYLE-202](https://issues.apache.org/jira/browse/MCHECKSTYLE-202) - The link on Usage page to 'Maven 3.x Compatibility Notes' is not correct
 
 
 The following improvements:
 
-* {% chjl MCHECKSTYLE-191 %} - Make name of TreeWalker configurable
-* {% chjl MCHECKSTYLE-199 %} - Make resource file processing configurable
-* {% chjl MCHECKSTYLE-204 %} - Errors in the check goal are not very prominent in the Maven output
+* [MCHECKSTYLE-191](https://issues.apache.org/jira/browse/MCHECKSTYLE-191) - Make name of TreeWalker configurable
+* [MCHECKSTYLE-199](https://issues.apache.org/jira/browse/MCHECKSTYLE-199) - Make resource file processing configurable
+* [MCHECKSTYLE-204](https://issues.apache.org/jira/browse/MCHECKSTYLE-204) - Errors in the check goal are not very prominent in the Maven output
 

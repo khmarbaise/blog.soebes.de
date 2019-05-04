@@ -28,20 +28,20 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% chjl MREPOSITORY-27 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MREPOSITORY-28 %} - Update version of plexus-archiver to 2.5
- * {% chjl MREPOSITORY-29 %} - Added missing artifacts for integration tests
- * {% chjl MREPOSITORY-30 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% chjl MREPOSITORY-31 %} - Update version of plexus-archiver to 2.6.3
- * {% chjl MREPOSITORY-32 %} - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
- * {% chjl MREPOSITORY-33 %} - Improve stabebility of Integration tests
- * {% chjl MREPOSITORY-35 %} - Fix RAT Report
- * {% chjl MREPOSITORY-36 %} - Update version of plexus-archiver from 2.6.3 to 2.9
- * {% chjl MREPOSITORY-37 %} - Problem with integration tests (it-parent)
+ * [MREPOSITORY-27](https://issues.apache.org/jira/browse/MREPOSITORY-27) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MREPOSITORY-28](https://issues.apache.org/jira/browse/MREPOSITORY-28) - Update version of plexus-archiver to 2.5
+ * [MREPOSITORY-29](https://issues.apache.org/jira/browse/MREPOSITORY-29) - Added missing artifacts for integration tests
+ * [MREPOSITORY-30](https://issues.apache.org/jira/browse/MREPOSITORY-30) - Upgrade to Maven 2.2.1 compatiblity
+ * [MREPOSITORY-31](https://issues.apache.org/jira/browse/MREPOSITORY-31) - Update version of plexus-archiver to 2.6.3
+ * [MREPOSITORY-32](https://issues.apache.org/jira/browse/MREPOSITORY-32) - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
+ * [MREPOSITORY-33](https://issues.apache.org/jira/browse/MREPOSITORY-33) - Improve stabebility of Integration tests
+ * [MREPOSITORY-35](https://issues.apache.org/jira/browse/MREPOSITORY-35) - Fix RAT Report
+ * [MREPOSITORY-36](https://issues.apache.org/jira/browse/MREPOSITORY-36) - Update version of plexus-archiver from 2.6.3 to 2.9
+ * [MREPOSITORY-37](https://issues.apache.org/jira/browse/MREPOSITORY-37) - Problem with integration tests (it-parent)
 
 Task:
 
- * {% chjl MREPOSITORY-26 %} - use maven-plugin-tools' java 5 annotations
+ * [MREPOSITORY-26](https://issues.apache.org/jira/browse/MREPOSITORY-26) - use maven-plugin-tools' java 5 annotations
 
 
 Enjoy,

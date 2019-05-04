@@ -27,12 +27,12 @@ configuration:
 
 Bugs:
 
- * {% chjl MEXEC-138 %} - Console output doesn't flush
- * {% chjl MEXEC-140 %} - help mojo no longer working
+ * [MEXEC-138] - Console output doesn't flush
+ * [MEXEC-140] - help mojo no longer working
 
 Task:
 
- * {% chjl MEXEC-139 %} - maven 2.2.1 as minimum maven runtime
+ * [MEXEC-139] - maven 2.2.1 as minimum maven runtime
 
 Enjoy,
 

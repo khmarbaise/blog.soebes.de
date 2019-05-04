@@ -28,18 +28,18 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MINVOKER-162 %} - IT failure with empty local it-repo
- * {% chjl MINVOKER-166 %} - Failing in relationship with Maven 3.2.2
+ * [MINVOKER-162](https://issues.apache.org/jira/browse/MINVOKER-162) - IT failure with empty local it-repo
+ * [MINVOKER-166](https://issues.apache.org/jira/browse/MINVOKER-166) - Failing in relationship with Maven 3.2.2
 
 Improvement:
 
- * {% chjl MINVOKER-119 %} - Allow access to properties in pre- and postBuild scripts
+ * [MINVOKER-119](https://issues.apache.org/jira/browse/MINVOKER-119) - Allow access to properties in pre- and postBuild scripts
 
 New Features:
 
- * {% chjl MINVOKER-122 %} - Import information into groovy scripts of the running Maven environment
- * {% chjl MINVOKER-141 %} - passing own properties to all scripts
- * {% chjl MINVOKER-151 %} - Add failIfNoProjects
+ * [MINVOKER-122](https://issues.apache.org/jira/browse/MINVOKER-122) - Import information into groovy scripts of the running Maven environment
+ * [MINVOKER-141](https://issues.apache.org/jira/browse/MINVOKER-141) - passing own properties to all scripts
+ * [MINVOKER-151](https://issues.apache.org/jira/browse/MINVOKER-151) - Add failIfNoProjects
 
 
 Enjoy,

@@ -34,16 +34,16 @@ You can download the [appropriate sources etc. from the download page](https://m
 
 Bug:
 
- * {%ajl MSHADE-289 %} - Maven Shade Plugin does not work under Java 10
+ * [MSHADE-289](https://issues.apache.org/jira/browse/MSHADE-289) - Maven Shade Plugin does not work under Java 10
 
 Improvement:
 
- * {%ajl MSHADE-293 %} - Require Java 7
+ * [MSHADE-293](https://issues.apache.org/jira/browse/MSHADE-293) - Require Java 7
 
 Dependency upgrades:
 
- * {%ajl MSHADE-294 %} - Upgrade maven-plugins parent to version 32
- * {%ajl MSHADE-296 %} - Upgrade maven-artifact-transfer 0.10.0
+ * [MSHADE-294](https://issues.apache.org/jira/browse/MSHADE-294) - Upgrade maven-plugins parent to version 32
+ * [MSHADE-296](https://issues.apache.org/jira/browse/MSHADE-296) - Upgrade maven-artifact-transfer 0.10.0
 
 Enjoy,
 

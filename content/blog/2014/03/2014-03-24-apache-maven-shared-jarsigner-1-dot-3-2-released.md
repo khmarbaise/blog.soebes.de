@@ -27,15 +27,15 @@ Release Notes - Maven Shared Components - Version maven-jarsigner-1.3.2
 
 Bug:
 
- * {% chjl MSHARED-316 %} - Can not pass storetype nor storepass to a verify request
+ * [MSHARED-316](https://issues.apache.org/jira/browse/MSHARED-316) - Can not pass storetype nor storepass to a verify request
 
 Improvement:
 
- * {% chjl MSHARED-321 %} - Mask passwords in logs
+ * [MSHARED-321](https://issues.apache.org/jira/browse/MSHARED-321) - Mask passwords in logs
 
 Task:
 
- * {% chjl MSHARED-322 %} - Use maven-shared-utils 0.6
+ * [MSHARED-322](https://issues.apache.org/jira/browse/MSHARED-322) - Use maven-shared-utils 0.6
 
 Enjoy,
 

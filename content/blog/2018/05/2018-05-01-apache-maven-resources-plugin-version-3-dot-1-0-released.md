@@ -25,7 +25,7 @@ Important Note:
 
 Reporters for this release:
 
- *  Michel Barret {%ajl MRESOURCES-247 %}
+ *  Michel Barret [MRESOURCES-247](https://issues.apache.org/jira/browse/MRESOURCES-247)
 
 You should specify the version in your project's plugin configuration:
 
@@ -48,22 +48,22 @@ https://maven.apache.org/plugins/maven-resources-plugin/download.cgi
 
 Bug:
 
- * {%ajl MRESOURCES-242 %} - Fix integration test include-git-ignore
+ * [MRESOURCES-242](https://issues.apache.org/jira/browse/MRESOURCES-242) - Fix integration test include-git-ignore
 
 Improvement:
 
- * {%ajl MRESOURCES-247 %} - Improve WARNING message about encoding.
+ * [MRESOURCES-247](https://issues.apache.org/jira/browse/MRESOURCES-247) - Improve WARNING message about encoding.
 
 Tasks:
 
- * {%ajl MRESOURCES-243 %} - Upgrade mave-surefire/failsafe-plugin 2.20.1
- * {%ajl MRESOURCES-245 %} - Upgrade to JDK 7 minimum.
+ * [MRESOURCES-243](https://issues.apache.org/jira/browse/MRESOURCES-243) - Upgrade mave-surefire/failsafe-plugin 2.20.1
+ * [MRESOURCES-245](https://issues.apache.org/jira/browse/MRESOURCES-245) - Upgrade to JDK 7 minimum.
 
 Dependency upgrades:
 
- * {%ajl MRESOURCES-241 %} - Upgrade parent to 31
- * {%ajl MRESOURCES-244 %} - Upgrade plexus-utils 3.1.0
- * {%ajl MRESOURCES-248 %} - Add documentation information for GitHub
+ * [MRESOURCES-241](https://issues.apache.org/jira/browse/MRESOURCES-241) - Upgrade parent to 31
+ * [MRESOURCES-244](https://issues.apache.org/jira/browse/MRESOURCES-244) - Upgrade plexus-utils 3.1.0
+ * [MRESOURCES-248](https://issues.apache.org/jira/browse/MRESOURCES-248) - Add documentation information for GitHub
 
 Enjoy,
  

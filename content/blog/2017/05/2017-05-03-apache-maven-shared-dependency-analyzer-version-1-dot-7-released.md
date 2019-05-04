@@ -27,19 +27,19 @@ You should specify the version in your project's dependency list:
 
 Bugs:
 
- * {% ajl MSHARED-428 %} - - maven-dependency-analyzer does not detect method references
- * {% ajl MSHARED-545 %} - - maven-dependency-analyzer fails on classes containing constant long or double
+ * [MSHARED-428](https://issues.apache.org/jira/browse/MSHARED-428) - - maven-dependency-analyzer does not detect method references
+ * [MSHARED-545](https://issues.apache.org/jira/browse/MSHARED-545) - - maven-dependency-analyzer fails on classes containing constant long or double
 
 Improvements:
 
- * {% ajl MSHARED-412 %} - - Change the visibility of DefaultProjectDependencyAnalyzer's buildArtifactClassMap() from private to protected
- * {% ajl MSHARED-470 %} - - Upgrade maven-shared-components parent to version 22
- * {% ajl MSHARED-525 %} - - Upgrade maven-shared-components parent to version 30
+ * [MSHARED-412](https://issues.apache.org/jira/browse/MSHARED-412) - - Change the visibility of DefaultProjectDependencyAnalyzer's buildArtifactClassMap() from private to protected
+ * [MSHARED-470](https://issues.apache.org/jira/browse/MSHARED-470) - - Upgrade maven-shared-components parent to version 22
+ * [MSHARED-525](https://issues.apache.org/jira/browse/MSHARED-525) - - Upgrade maven-shared-components parent to version 30
 
 Tasks:
 
- * {% ajl MSHARED-633 %} - - Upgrade plexus-component-metadata / plexus-component-annotation to 1.7.1
- * {% ajl MSHARED-634 %} - - Using maven-inovker 2.2 to ensure it works with all Maven versions on Windows
+ * [MSHARED-633](https://issues.apache.org/jira/browse/MSHARED-633) - - Upgrade plexus-component-metadata / plexus-component-annotation to 1.7.1
+ * [MSHARED-634](https://issues.apache.org/jira/browse/MSHARED-634) - - Using maven-inovker 2.2 to ensure it works with all Maven versions on Windows
  
 
 Enjoy,

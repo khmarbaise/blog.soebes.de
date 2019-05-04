@@ -29,32 +29,32 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bugs:
 
- * {%ajl MRESOLVER-45 %} - Git repo is gone/moved
- * {%ajl MRESOLVER-50 %} - Source repository coordinates incorrect
+ * [MRESOLVER-45](https://issues.apache.org/jira/browse/MRESOLVER-45) - Git repo is gone/moved
+ * [MRESOLVER-50](https://issues.apache.org/jira/browse/MRESOLVER-50) - Source repository coordinates incorrect
 
 New Feature:
 
- * {%ajl MRESOLVER-46 %} - Add support InputStream/OutputStream transformers
+ * [MRESOLVER-46](https://issues.apache.org/jira/browse/MRESOLVER-46) - Add support InputStream/OutputStream transformers
 
 Improvements:
 
- * {%ajl MRESOLVER-31 %} - Use the Felix Bundle Plugin to generate OSGi metadata
- * {%ajl MRESOLVER-35 %} - Move dependency collector and friends to subpackage in maven-resolver-impl
- * {%ajl MRESOLVER-36 %} - SLFJ - remove LoggerFactory from dependency injection
- * {%ajl MRESOLVER-42 %} - Use pre-compiled pattern in DefaultArtifact constructor
- * {%ajl MRESOLVER-47 %} - Link to older Aether Wiki in Eclipse on front page
- * {%ajl MRESOLVER-48 %} - Add default Travis CI configuration for Java 7, 8, 10
+ * [MRESOLVER-31](https://issues.apache.org/jira/browse/MRESOLVER-31) - Use the Felix Bundle Plugin to generate OSGi metadata
+ * [MRESOLVER-35](https://issues.apache.org/jira/browse/MRESOLVER-35) - Move dependency collector and friends to subpackage in maven-resolver-impl
+ * [MRESOLVER-36](https://issues.apache.org/jira/browse/MRESOLVER-36) - SLFJ - remove LoggerFactory from dependency injection
+ * [MRESOLVER-42](https://issues.apache.org/jira/browse/MRESOLVER-42) - Use pre-compiled pattern in DefaultArtifact constructor
+ * [MRESOLVER-47](https://issues.apache.org/jira/browse/MRESOLVER-47) - Link to older Aether Wiki in Eclipse on front page
+ * [MRESOLVER-48](https://issues.apache.org/jira/browse/MRESOLVER-48) - Add default Travis CI configuration for Java 7, 8, 10
 
 Task:
 
- * {%ajl MRESOLVER-44 %} - switch from Git-WIP to Gitbox
+ * [MRESOLVER-44](https://issues.apache.org/jira/browse/MRESOLVER-44) - switch from Git-WIP to Gitbox
 
 Dependency upgrades:
 
- * {%ajl MRESOLVER-51 %} - Upgrade maven-parent to version 32
- * {%ajl MRESOLVER-57 %} - Upgrade Jetty to 9.2.26.v20180806
- * {%ajl MRESOLVER-58 %} - Upgrade HttpClient to 4.5.6
- * {%ajl MRESOLVER-59 %} - Upgrade HttpCore to 4.4.10
+ * [MRESOLVER-51](https://issues.apache.org/jira/browse/MRESOLVER-51) - Upgrade maven-parent to version 32
+ * [MRESOLVER-57](https://issues.apache.org/jira/browse/MRESOLVER-57) - Upgrade Jetty to 9.2.26.v20180806
+ * [MRESOLVER-58](https://issues.apache.org/jira/browse/MRESOLVER-58) - Upgrade HttpClient to 4.5.6
+ * [MRESOLVER-59](https://issues.apache.org/jira/browse/MRESOLVER-59) - Upgrade HttpCore to 4.4.10
 
 Enjoy,
 

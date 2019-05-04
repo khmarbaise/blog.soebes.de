@@ -31,11 +31,11 @@ Release Notes - Mojo's FindBugs Maven Plugin - Version 2.5.4
 
 Bug:
 
- * {% chjl MFINDBUGS-189 %} - The plugin generates reports incompatible with the 'maven-jxr-plugin' version 2.4.
+ * [MFINDBUGS-189] - The plugin generates reports incompatible with the 'maven-jxr-plugin' version 2.4.
 
 Improvement:
 
- * {% chjl MFINDBUGS-195 %} - Update to Findbugs 2.0.3
+ * [MFINDBUGS-195] - Update to Findbugs 2.0.3
 
 
 Enjoy,

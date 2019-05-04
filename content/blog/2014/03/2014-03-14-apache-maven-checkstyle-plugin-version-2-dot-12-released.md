@@ -27,21 +27,21 @@ You should specify the version in your project´s plugin configuration:
 
 Tasks:
 
- * {% chjl MCHECKSTYLE-222 %} Resource-only project is not checked
- * {% chjl MCHECKSTYLE-221 %} ResourceIncludes default value is wrong
- * {% chjl MCHECKSTYLE-219 %} When no license is specified, ALv2 from maven-checkstyle-plugin is used
- * {% chjl MCHECKSTYLE-218 %} Put file anchor directly on the h2 tag
- * {% chjl MCHECKSTYLE-213 %} Upgrade Doxia dependencies
- * {% chjl MCHECKSTYLE-212 %} Upgrade to Checkstyle 5.7
- * {% chjl MCHECKSTYLE-211 %} allow inline configuration for checkstyle plugin
- * {% chjl MCHECKSTYLE-210 %} Resource bundles have wrong file encoding
- * {% chjl MCHECKSTYLE-209 %} Correct grammar, make icons and text consistent in the report
- * {% chjl MCHECKSTYLE-208 %} Plugin generates reports incompatible with the 'maven-jxr-plugin' version 2.4
- * {% chjl MCHECKSTYLE-207 %} file handle leak - leading to failed builds
- * {% chjl MCHECKSTYLE-205 %} NPE in CheckstyleReportGenerator.doFilesSummary:654 version 2.11 regression
- * {% chjl MCHECKSTYLE-190 %} Add user property for checkstyle:consoleOutput
- * {% chjl MCHECKSTYLE-182 %} Use Maven log levels when logging to console
- * {% chjl MCHECKSTYLE-169 %} Suppressions property is incorrectly set if suppressions file is on classpath
+ * [MCHECKSTYLE-222](https://issues.apache.org/jira/browse/MCHECKSTYLE-222) Resource-only project is not checked
+ * [MCHECKSTYLE-221](https://issues.apache.org/jira/browse/MCHECKSTYLE-221) ResourceIncludes default value is wrong
+ * [MCHECKSTYLE-219](https://issues.apache.org/jira/browse/MCHECKSTYLE-219) When no license is specified, ALv2 from maven-checkstyle-plugin is used
+ * [MCHECKSTYLE-218](https://issues.apache.org/jira/browse/MCHECKSTYLE-218) Put file anchor directly on the h2 tag
+ * [MCHECKSTYLE-213](https://issues.apache.org/jira/browse/MCHECKSTYLE-213) Upgrade Doxia dependencies
+ * [MCHECKSTYLE-212](https://issues.apache.org/jira/browse/MCHECKSTYLE-212) Upgrade to Checkstyle 5.7
+ * [MCHECKSTYLE-211](https://issues.apache.org/jira/browse/MCHECKSTYLE-211) allow inline configuration for checkstyle plugin
+ * [MCHECKSTYLE-210](https://issues.apache.org/jira/browse/MCHECKSTYLE-210) Resource bundles have wrong file encoding
+ * [MCHECKSTYLE-209](https://issues.apache.org/jira/browse/MCHECKSTYLE-209) Correct grammar, make icons and text consistent in the report
+ * [MCHECKSTYLE-208](https://issues.apache.org/jira/browse/MCHECKSTYLE-208) Plugin generates reports incompatible with the 'maven-jxr-plugin' version 2.4
+ * [MCHECKSTYLE-207](https://issues.apache.org/jira/browse/MCHECKSTYLE-207) file handle leak - leading to failed builds
+ * [MCHECKSTYLE-205](https://issues.apache.org/jira/browse/MCHECKSTYLE-205) NPE in CheckstyleReportGenerator.doFilesSummary:654 version 2.11 regression
+ * [MCHECKSTYLE-190](https://issues.apache.org/jira/browse/MCHECKSTYLE-190) Add user property for checkstyle:consoleOutput
+ * [MCHECKSTYLE-182](https://issues.apache.org/jira/browse/MCHECKSTYLE-182) Use Maven log levels when logging to console
+ * [MCHECKSTYLE-169](https://issues.apache.org/jira/browse/MCHECKSTYLE-169) Suppressions property is incorrectly set if suppressions file is on classpath
 
 
 Enjoy,

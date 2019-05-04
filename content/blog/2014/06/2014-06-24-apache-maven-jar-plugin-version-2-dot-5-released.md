@@ -25,21 +25,21 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MJAR-157 %} - forceUpdate documentation is insufficient
- * {% chjl MJAR-162 %} - skipIfEmpty not work for test-jar goal and empty directories
- * {% chjl MJAR-167 %} - skipIfEmpty outputs incorrect logging nessage
+ * [MJAR-157](https://issues.apache.org/jira/browse/MJAR-157) - forceUpdate documentation is insufficient
+ * [MJAR-162](https://issues.apache.org/jira/browse/MJAR-162) - skipIfEmpty not work for test-jar goal and empty directories
+ * [MJAR-167](https://issues.apache.org/jira/browse/MJAR-167) - skipIfEmpty outputs incorrect logging nessage
 
 Improvements:
 
- * {% chjl MJAR-168 %} - Update to latest plexus-archiver
- * {% chjl MJAR-170 %} - please add property 'maven.jar.classifier'
- * {% chjl MJAR-175 %} - Documentation problem for test-jar
- * {% chjl MJAR-176 %} - Usage page should (only) describe default behavior
+ * [MJAR-168](https://issues.apache.org/jira/browse/MJAR-168) - Update to latest plexus-archiver
+ * [MJAR-170](https://issues.apache.org/jira/browse/MJAR-170) - please add property 'maven.jar.classifier'
+ * [MJAR-175](https://issues.apache.org/jira/browse/MJAR-175) - Documentation problem for test-jar
+ * [MJAR-176](https://issues.apache.org/jira/browse/MJAR-176) - Usage page should (only) describe default behavior
 
 Tasks:
 
- * {% chjl MJAR-158 %} - use maven-plugin-tools' java 5 annotations
- * {% chjl MJAR-171 %} - Remove deprecated mojo jar-sign and jar-sign-verify
- * {% chjl MJAR-173 %} - Check correctness of declared deps
+ * [MJAR-158](https://issues.apache.org/jira/browse/MJAR-158) - use maven-plugin-tools' java 5 annotations
+ * [MJAR-171](https://issues.apache.org/jira/browse/MJAR-171) - Remove deprecated mojo jar-sign and jar-sign-verify
+ * [MJAR-173](https://issues.apache.org/jira/browse/MJAR-173) - Check correctness of declared deps
 
 -- The Apache Maven Team.

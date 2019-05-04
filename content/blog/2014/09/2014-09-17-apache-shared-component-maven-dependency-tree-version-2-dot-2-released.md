@@ -24,12 +24,12 @@ The Apache Maven team is pleased to announce the release of the
 
 Bugs:
 
- * {% chjl MSHARED-326 %} - Patch that enables all maven-dependency-tree ITs
- * {% chjl MSHARED-336 %} - Create a method in the DependencyGraphBuilder that accepts the reactor projects to collect unbuilt dependencies
+ * [MSHARED-326](https://issues.apache.org/jira/browse/MSHARED-326) - Patch that enables all maven-dependency-tree ITs
+ * [MSHARED-336](https://issues.apache.org/jira/browse/MSHARED-336) - Create a method in the DependencyGraphBuilder that accepts the reactor projects to collect unbuilt dependencies
 
 Improvement:
 
- * {% chjl MSHARED-349 %} - Upgrade maven version to 2.2.1
+ * [MSHARED-349](https://issues.apache.org/jira/browse/MSHARED-349) - Upgrade maven version to 2.2.1
 
 
 Enjoy,

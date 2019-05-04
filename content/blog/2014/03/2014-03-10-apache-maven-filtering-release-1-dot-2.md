@@ -29,15 +29,15 @@ You should add the following dependency to your project:
 
 Bugs:
 
- * {% chjl MSHARED-161 %} - DefaultMavenFileFilter.getDefaultFilterWrappers loads filters from the current directory instead of using basedir
- * {% chjl MSHARED-198 %} - custom delimiters doesn't work as expected
- * {% chjl MSHARED-199 %} - Filtering doesn't work if 2 delimiters are used on the same line, the first one being left open
- * {% chjl MSHARED-319 %} - Filtering throws NPE when using JDK8
+ * [MSHARED-161](https://issues.apache.org/jira/browse/MSHARED-161) - DefaultMavenFileFilter.getDefaultFilterWrappers loads filters from the current directory instead of using basedir
+ * [MSHARED-198](https://issues.apache.org/jira/browse/MSHARED-198) - custom delimiters doesn't work as expected
+ * [MSHARED-199](https://issues.apache.org/jira/browse/MSHARED-199) - Filtering doesn't work if 2 delimiters are used on the same line, the first one being left open
+ * [MSHARED-319](https://issues.apache.org/jira/browse/MSHARED-319) - Filtering throws NPE when using JDK8
 
 
 New Feature:
 
- * {% chjl MSHARED-220 %} - Apply filtering to filenames
+ * [MSHARED-220](https://issues.apache.org/jira/browse/MSHARED-220) - Apply filtering to filenames
 
 Enjoy,
 

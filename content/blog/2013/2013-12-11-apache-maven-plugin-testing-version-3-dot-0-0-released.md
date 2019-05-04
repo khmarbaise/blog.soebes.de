@@ -16,18 +16,18 @@ The Apache Maven team is pleased to announce the release of the
 
 Fixed bugs:
 
- * {% chjl MPLUGINTESTING-27 %} - ClassDefNotFound exception
- * {% chjl MPLUGINTESTING-32 %} - lookupConfiguredMojo prefers mojo config over pom.xml
- * {% chjl MPLUGINTESTING-33 %} - Suboptimal/unexpected plugin artifact file
+ * [MPLUGINTESTING-27](https://issues.apache.org/jira/browse/MPLUGINTESTING-27) - ClassDefNotFound exception
+ * [MPLUGINTESTING-32](https://issues.apache.org/jira/browse/MPLUGINTESTING-32) - lookupConfiguredMojo prefers mojo config over pom.xml
+ * [MPLUGINTESTING-33](https://issues.apache.org/jira/browse/MPLUGINTESTING-33) - Suboptimal/unexpected plugin artifact file
 
 Improvements:
 
- * {% chjl MPLUGINTESTING-30 %} - Maven 3.1 compatibility
- * {% chjl MPLUGINTESTING-31 %} - Ability to customize guice container
+ * [MPLUGINTESTING-30](https://issues.apache.org/jira/browse/MPLUGINTESTING-30) - Maven 3.1 compatibility
+ * [MPLUGINTESTING-31](https://issues.apache.org/jira/browse/MPLUGINTESTING-31) - Ability to customize guice container
 
 New Feature:
 
- * {% chjl MPLUGINTESTING-28 %} - Rule which just embeds an AbstractMojoTestCase so Junit4 may be used
+ * [MPLUGINTESTING-28](https://issues.apache.org/jira/browse/MPLUGINTESTING-28) - Rule which just embeds an AbstractMojoTestCase so Junit4 may be used
 
 
 Have fun.

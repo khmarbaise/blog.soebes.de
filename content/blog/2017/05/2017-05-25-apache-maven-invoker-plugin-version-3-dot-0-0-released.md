@@ -38,42 +38,42 @@ https://maven.apache.org/plugins/maven-invoker-plugin/download.cgi
 
 Bugs:
 
- * {% ajl MINVOKER-147 %} - setupIncludes / parallelThreads does not guarantee execution of setup*/pom.xml first.
- * {% ajl MINVOKER-150 %} - Results from prior execution are included unless clean build
- * {% ajl MINVOKER-210 %} - Remove link to non-existing Codehaus wiki
- * {% ajl MINVOKER-213 %} - The plugin should escape any XML special characters (&<>) during interpolating XML files.
+ * [MINVOKER-147](https://issues.apache.org/jira/browse/MINVOKER-147) - setupIncludes / parallelThreads does not guarantee execution of setup*/pom.xml first.
+ * [MINVOKER-150](https://issues.apache.org/jira/browse/MINVOKER-150) - Results from prior execution are included unless clean build
+ * [MINVOKER-210](https://issues.apache.org/jira/browse/MINVOKER-210) - Remove link to non-existing Codehaus wiki
+ * [MINVOKER-213](https://issues.apache.org/jira/browse/MINVOKER-213) - The plugin should escape any XML special characters (&<>) during interpolating XML files.
 
 Improvements:
 
- * {% ajl MINVOKER-189 %} - Update to java 1.6
- * {% ajl MINVOKER-193 %} - Ensure that setupProjects are always executed first when using -Dinvoker.test
- * {% ajl MINVOKER-197 %} - Upgrade maven-invoker-plugin to 2.0.0
- * {% ajl MINVOKER-199 %} - Remove @Deprecated marked code and parameters
- * {% ajl MINVOKER-202 %} - Remove unused ant dependency
- * {% ajl MINVOKER-204 %} - Upgrade to Maven3 plugin
- * {% ajl MINVOKER-206 %} - Upgrade maven-plugins parent to version 30
- * {% ajl MINVOKER-207 %} - Remove @Deprecated marked code
- * {% ajl MINVOKER-208 %} - Documentation about invoker properties related to usage of options/parameters should be improved
- * {% ajl MINVOKER-211 %} - Some ITs can't be re-executed without clean
- * {% ajl MINVOKER-215 %} - Use maven-artifact-transfer to support multiple Aether implementations
- * {% ajl MINVOKER-216 %} - Prepare for Java9 (requires Groovy upgrade)
- * {% ajl MINVOKER-217 %} - Upgrade to maven-invoker shared component release version 3.0.0
- * {% ajl MINVOKER-219 %} - Change default value for cloneProjectsTo and cloneClean
+ * [MINVOKER-189](https://issues.apache.org/jira/browse/MINVOKER-189) - Update to java 1.6
+ * [MINVOKER-193](https://issues.apache.org/jira/browse/MINVOKER-193) - Ensure that setupProjects are always executed first when using -Dinvoker.test
+ * [MINVOKER-197](https://issues.apache.org/jira/browse/MINVOKER-197) - Upgrade maven-invoker-plugin to 2.0.0
+ * [MINVOKER-199](https://issues.apache.org/jira/browse/MINVOKER-199) - Remove @Deprecated marked code and parameters
+ * [MINVOKER-202](https://issues.apache.org/jira/browse/MINVOKER-202) - Remove unused ant dependency
+ * [MINVOKER-204](https://issues.apache.org/jira/browse/MINVOKER-204) - Upgrade to Maven3 plugin
+ * [MINVOKER-206](https://issues.apache.org/jira/browse/MINVOKER-206) - Upgrade maven-plugins parent to version 30
+ * [MINVOKER-207](https://issues.apache.org/jira/browse/MINVOKER-207) - Remove @Deprecated marked code
+ * [MINVOKER-208](https://issues.apache.org/jira/browse/MINVOKER-208) - Documentation about invoker properties related to usage of options/parameters should be improved
+ * [MINVOKER-211](https://issues.apache.org/jira/browse/MINVOKER-211) - Some ITs can't be re-executed without clean
+ * [MINVOKER-215](https://issues.apache.org/jira/browse/MINVOKER-215) - Use maven-artifact-transfer to support multiple Aether implementations
+ * [MINVOKER-216](https://issues.apache.org/jira/browse/MINVOKER-216) - Prepare for Java9 (requires Groovy upgrade)
+ * [MINVOKER-217](https://issues.apache.org/jira/browse/MINVOKER-217) - Upgrade to maven-invoker shared component release version 3.0.0
+ * [MINVOKER-219](https://issues.apache.org/jira/browse/MINVOKER-219) - Change default value for cloneProjectsTo and cloneClean
 
 New Feature:
 
- * {% ajl MINVOKER-205 %} - add color messages
+ * [MINVOKER-205](https://issues.apache.org/jira/browse/MINVOKER-205) - add color messages
 
 Tasks:
 
- * {% ajl MINVOKER-164 %} - Maven Invoker still using -r option when such is no longer supported
- * {% ajl MINVOKER-212 %} - Upgrade of plexus-interpolation to 1.24.
- * {% ajl MINVOKER-214 %} - Allow indexed maven.version and os.familiy in invoker.properties
- * {% ajl MINVOKER-218 %} - Change package to o.a.m.plugins
+ * [MINVOKER-164](https://issues.apache.org/jira/browse/MINVOKER-164) - Maven Invoker still using -r option when such is no longer supported
+ * [MINVOKER-212](https://issues.apache.org/jira/browse/MINVOKER-212) - Upgrade of plexus-interpolation to 1.24.
+ * [MINVOKER-214](https://issues.apache.org/jira/browse/MINVOKER-214) - Allow indexed maven.version and os.familiy in invoker.properties
+ * [MINVOKER-218](https://issues.apache.org/jira/browse/MINVOKER-218) - Change package to o.a.m.plugins
 
 Test:
 
- * {% ajl MINVOKER-209 %} - ITs fail (on Windows 10) when working directory contains space
+ * [MINVOKER-209](https://issues.apache.org/jira/browse/MINVOKER-209) - ITs fail (on Windows 10) when working directory contains space
 
 Enjoy,
 

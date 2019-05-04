@@ -28,13 +28,13 @@ https://maven.apache.org/plugins/maven-site-plugin/download.cgi
 
 Bugs:
 
- * {% ajl MSITE-771 %} -  FAQ Entry for difference between mvn site and mvn site:site is incorrect
- * {% ajl MSITE-769 %} -  Can't use property in breadcrumbs items in child module site descriptor
+ * [MSITE-771](https://issues.apache.org/jira/browse/MSITE-771) -  FAQ Entry for difference between mvn site and mvn site:site is incorrect
+ * [MSITE-769](https://issues.apache.org/jira/browse/MSITE-769) -  Can't use property in breadcrumbs items in child module site descriptor
 
 Improvements:
 
- * {% ajl MSITE-768 %} -  Support Velocity's #parse and #include
- * {% ajl MSITE-700 %} -  All inclusion of resources up to ${basedir} when Velocity 1.7 is used
+ * [MSITE-768](https://issues.apache.org/jira/browse/MSITE-768) -  Support Velocity's #parse and #include
+ * [MSITE-700](https://issues.apache.org/jira/browse/MSITE-700) -  All inclusion of resources up to ${basedir} when Velocity 1.7 is used
 
 Enjoy,
  

@@ -31,21 +31,21 @@ Important Note:
 
 Bugs:
 
- * {%ajl MJAR-221 %} - Link to wiki page should be removed now that Codehaus is shut down
- * {%ajl MJAR-237 %} - Navigation link "Creating an Executable JAR File" is wrong.
- * {%ajl MJAR-240 %} - maven-jar-plugin index.html - bad links in left column Examples section
- * {%ajl MJAR-245 %} - Additional attached jar: role of classifier
- * {%ajl MJAR-249 %} - Get Build working on JDK 10
+ * [MJAR-221](https://issues.apache.org/jira/browse/MJAR-221) - Link to wiki page should be removed now that Codehaus is shut down
+ * [MJAR-237](https://issues.apache.org/jira/browse/MJAR-237) - Navigation link "Creating an Executable JAR File" is wrong.
+ * [MJAR-240](https://issues.apache.org/jira/browse/MJAR-240) - maven-jar-plugin index.html - bad links in left column Examples section
+ * [MJAR-245](https://issues.apache.org/jira/browse/MJAR-245) - Additional attached jar: role of classifier
+ * [MJAR-249](https://issues.apache.org/jira/browse/MJAR-249) - Get Build working on JDK 10
 
 Improvements:
 
- * {%ajl MJAR-235 %} - Update life cycle bound plugin versions
- * {%ajl MJAR-236 %} - Keep maven-compiler-plugin to 3.5.1 based on JDK9 issues
+ * [MJAR-235](https://issues.apache.org/jira/browse/MJAR-235) - Update life cycle bound plugin versions
+ * [MJAR-236](https://issues.apache.org/jira/browse/MJAR-236) - Keep maven-compiler-plugin to 3.5.1 based on JDK9 issues
 
 Dependency upgrades:
 
- * {%ajl MJAR-243 %} - maven-archiver 3.1.1 to 3.2.0
- * {%ajl MJAR-246 %} - Upgrade parent to 31
+ * [MJAR-243](https://issues.apache.org/jira/browse/MJAR-243) - maven-archiver 3.1.1 to 3.2.0
+ * [MJAR-246](https://issues.apache.org/jira/browse/MJAR-246) - Upgrade parent to 31
 
 Enjoy,
 

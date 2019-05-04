@@ -21,23 +21,23 @@ Maven SCM with your favorite SCM tool.
 
 Bugs:
 
- * {% chjl SCM-764 %} - username and credentials shown as INFO on commadline
- * {% chjl SCM-780 %} - Duplicate connection url's properties
- * {% chjl SCM-786 %} - Missing dependency on JUnit
+ * [SCM-764](https://issues.apache.org/jira/browse/SCM-764) - username and credentials shown as INFO on commadline
+ * [SCM-780](https://issues.apache.org/jira/browse/SCM-780) - Duplicate connection url's properties
+ * [SCM-786](https://issues.apache.org/jira/browse/SCM-786) - Missing dependency on JUnit
 
 Improvements:
 
- * {% chjl SCM-778 %} - Upgrade junit and hamcrest
- * {% chjl SCM-793 %} - Upgrade maven-modello-plugin to 1.8.2
- * {% chjl SCM-794 %} - Configure maven release plugin to autoVersionSubmodules
+ * [SCM-778](https://issues.apache.org/jira/browse/SCM-778) - Upgrade junit and hamcrest
+ * [SCM-793](https://issues.apache.org/jira/browse/SCM-793) - Upgrade maven-modello-plugin to 1.8.2
+ * [SCM-794](https://issues.apache.org/jira/browse/SCM-794) - Configure maven release plugin to autoVersionSubmodules
 
 Task:
 
- * {% chjl SCM-789 %} - Upgrade to maven-parent version 26
+ * [SCM-789](https://issues.apache.org/jira/browse/SCM-789) - Upgrade to maven-parent version 26
 
 Wish:
 
- * {% chjl SCM-785 %} - Upgrade Plugin Required Maven Version to 2.2.1
+ * [SCM-785](https://issues.apache.org/jira/browse/SCM-785) - Upgrade Plugin Required Maven Version to 2.2.1
 
 
 Enjoy,

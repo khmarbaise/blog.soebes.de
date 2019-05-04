@@ -26,16 +26,16 @@ Release Notes - Maven GPG Plugin - Version 1.5
 
 Bugs:
 
- * {% chjl MGPG-41 %} - Passphrase revealed when backspacing at prompt
+ * [MGPG-41](https://issues.apache.org/jira/browse/MGPG-41) - Passphrase revealed when backspacing at prompt
 
 Improvements:
 
- * {% chjl MGPG-48 %} - useAgent=true by default
- * {% chjl MGPG-49 %} - Add support for --lock-* command line options
+ * [MGPG-48](https://issues.apache.org/jira/browse/MGPG-48) - useAgent=true by default
+ * [MGPG-49](https://issues.apache.org/jira/browse/MGPG-49) - Add support for --lock-* command line options
 
 Task:
 
- * {% chjl MGPG-39 %} - use maven-plugin-tools' java 5 annotations
+ * [MGPG-39](https://issues.apache.org/jira/browse/MGPG-39) - use maven-plugin-tools' java 5 annotations
 
 
 Enjoy,

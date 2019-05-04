@@ -36,40 +36,40 @@ https://maven.apache.org/plugins/maven-dependency-plugin/download.cgi
 
 Bugs:
 
- * {% ajl MDEP-409 %} - - dependency:tree fails for a multi-module project where one module depends on another and "mvn install" has not been run yet
- * {% ajl MDEP-419 %} - - dependency:list, dependency:build-classpath and dependency:tree result with the different dependencies order
- * {% ajl MDEP-428 %} - - Unpack goal does not fail build when destination could not be created and unpacks to current working directory instead
- * {% ajl MDEP-471 %} - - Java 8 Method references are not detected
- * {% ajl MDEP-548 %} - - The get Mojo doesn't resolve the artifact when setting transitive to false
- * {% ajl MDEP-565 %} - - Upgrade maven-artifact-transfer to version 0.9.1
+ * [MDEP-409](https://issues.apache.org/jira/browse/MDEP-409) - - dependency:tree fails for a multi-module project where one module depends on another and "mvn install" has not been run yet
+ * [MDEP-419](https://issues.apache.org/jira/browse/MDEP-419) - - dependency:list, dependency:build-classpath and dependency:tree result with the different dependencies order
+ * [MDEP-428](https://issues.apache.org/jira/browse/MDEP-428) - - Unpack goal does not fail build when destination could not be created and unpacks to current working directory instead
+ * [MDEP-471](https://issues.apache.org/jira/browse/MDEP-471) - - Java 8 Method references are not detected
+ * [MDEP-548](https://issues.apache.org/jira/browse/MDEP-548) - - The get Mojo doesn't resolve the artifact when setting transitive to false
+ * [MDEP-565](https://issues.apache.org/jira/browse/MDEP-565) - - Upgrade maven-artifact-transfer to version 0.9.1
 
 Documentation:
 
- * {% ajl MDEP-534 %} - - Document format of mojo parameter 'artifact'
+ * [MDEP-534](https://issues.apache.org/jira/browse/MDEP-534) - - Document format of mojo parameter 'artifact'
 
 Improvements:
 
- * {% ajl MDEP-482 %} - - Can't use both outputProperty and outputFile in build-classpath mojo
- * {% ajl MDEP-563 %} - - Print dependency:resolve-plugins output just like other goal output
- * {% ajl MDEP-566 %} - - Upgrade maven-common-artifact-filter to version 3.0.1
- * {% ajl MDEP-567 %} - - Upgrade to maven-dependency-tree to 3.0.1
+ * [MDEP-482](https://issues.apache.org/jira/browse/MDEP-482) - - Can't use both outputProperty and outputFile in build-classpath mojo
+ * [MDEP-563](https://issues.apache.org/jira/browse/MDEP-563) - - Print dependency:resolve-plugins output just like other goal output
+ * [MDEP-566](https://issues.apache.org/jira/browse/MDEP-566) - - Upgrade maven-common-artifact-filter to version 3.0.1
+ * [MDEP-567](https://issues.apache.org/jira/browse/MDEP-567) - - Upgrade to maven-dependency-tree to 3.0.1
 
 New Feature:
- * {% ajl MDEP-500 %} - - Print GAV information in console output during dependency:resolve-plugins execution
+ * [MDEP-500](https://issues.apache.org/jira/browse/MDEP-500) - - Print GAV information in console output during dependency:resolve-plugins execution
 
 Task:
 
- * {% ajl MDEP-547 %} - - Remove some old (404) links from site
+ * [MDEP-547](https://issues.apache.org/jira/browse/MDEP-547) - - Remove some old (404) links from site
 
 Reporters of this Release:
 
- * Elias Elmqvist Wulcan {% ajl MDEP-534 %}
- * Andrew Wright {% ajl MDEP-500 %}
- * Dagan Sandler {% ajl MDEP-482 %}
- * Ben Hardy {% ajl MDEP-471 %}
- * Dave Moten {% ajl MDEP-428 %}
- * Julien Boulay {% ajl MDEP-419 %}
- * Eric Pabst {% ajl MDEP-409 %}
+ * Elias Elmqvist Wulcan [MDEP-534](https://issues.apache.org/jira/browse/MDEP-534)
+ * Andrew Wright [MDEP-500](https://issues.apache.org/jira/browse/MDEP-500)
+ * Dagan Sandler [MDEP-482](https://issues.apache.org/jira/browse/MDEP-482)
+ * Ben Hardy [MDEP-471](https://issues.apache.org/jira/browse/MDEP-471)
+ * Dave Moten [MDEP-428](https://issues.apache.org/jira/browse/MDEP-428)
+ * Julien Boulay [MDEP-419](https://issues.apache.org/jira/browse/MDEP-419)
+ * Eric Pabst [MDEP-409](https://issues.apache.org/jira/browse/MDEP-409)
 
 Many thanks to all reporters/contributors/testers of this release.
 

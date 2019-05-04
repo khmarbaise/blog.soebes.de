@@ -29,14 +29,14 @@ plugin configuration:
 
 The following issues have been solved:
 
- * {% chjl MFINDBUGS-174 %} - Incorrect exclude files used
- * {% chjl MFINDBUGS-176 %} - Update to plexus-resources 1.0-alpha-7 beacuse 1.0-alpha-4 causes ConcurrentModificationException in parallel builds
- * {% chjl MFINDBUGS-178 %} - Maven 2.2.1: org.apache.xerces.parsers.XIncludeAwareParserConfiguration cannot be cast to org.apache.xerces.xni.parser.XMLParserConfiguration executing findbugs during the build and site lifecycle
- * {% chjl MFINDBUGS-183 %} - Empty Report when using 2 includeFilterFiles
+ * [MFINDBUGS-174] - Incorrect exclude files used
+ * [MFINDBUGS-176] - Update to plexus-resources 1.0-alpha-7 beacuse 1.0-alpha-4 causes ConcurrentModificationException in parallel builds
+ * [MFINDBUGS-178] - Maven 2.2.1: org.apache.xerces.parsers.XIncludeAwareParserConfiguration cannot be cast to org.apache.xerces.xni.parser.XMLParserConfiguration executing findbugs during the build and site lifecycle
+ * [MFINDBUGS-183] - Empty Report when using 2 includeFilterFiles
 
 The following improvements:
 
- * {% chjl MFINDBUGS-175 %} - Update to Findbugs version 2.0.2
- * {% chjl MFINDBUGS-177 %} - Expose "onlyAnalyze" on the commandline.
+ * [MFINDBUGS-175] - Update to Findbugs version 2.0.2
+ * [MFINDBUGS-177] - Expose "onlyAnalyze" on the commandline.
 
 

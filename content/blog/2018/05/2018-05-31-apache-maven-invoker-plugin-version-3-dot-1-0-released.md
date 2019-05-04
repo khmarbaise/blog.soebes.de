@@ -38,28 +38,28 @@ https://maven.apache.org/plugins/maven-invoker-plugin/download.cgi
 
 Bugs:
 
- * {%ajl MINVOKER-191 %} - “Artifact is not fully assembled” error with maven-invoker-plugin in parallel/multi thread build
- * {%ajl MINVOKER-224 %} - Unable to set cloneProjectsTo to null
+ * [MINVOKER-191](https://issues.apache.org/jira/browse/MINVOKER-191) - “Artifact is not fully assembled” error with maven-invoker-plugin in parallel/multi thread build
+ * [MINVOKER-224](https://issues.apache.org/jira/browse/MINVOKER-224) - Unable to set cloneProjectsTo to null
 
 New Feature:
 
- * {%ajl MINVOKER-233 %} - Call an invoker with a given timeout
+ * [MINVOKER-233](https://issues.apache.org/jira/browse/MINVOKER-233) - Call an invoker with a given timeout
 
 Improvement:
 
- * {%ajl MINVOKER-236 %} - improve display of setup jobs
+ * [MINVOKER-236](https://issues.apache.org/jira/browse/MINVOKER-236) - improve display of setup jobs
 
 Tasks:
 
- * {%ajl MINVOKER-228 %} - Improve documentation: "Using with other integration test frameworks" page
- * {%ajl MINVOKER-237 %} - Upgrade to JDK 7 minimum.
+ * [MINVOKER-228](https://issues.apache.org/jira/browse/MINVOKER-228) - Improve documentation: "Using with other integration test frameworks" page
+ * [MINVOKER-237](https://issues.apache.org/jira/browse/MINVOKER-237) - Upgrade to JDK 7 minimum.
 
 Dependency upgrades:
 
- * {%ajl MINVOKER-232 %} - Upgrade parent to 31
- * {%ajl MINVOKER-234 %} - Upgrade maven-shared-utils to 3.2.1
- * {%ajl MINVOKER-235 %} - Upgrade plexus-utils 3.1.0
- * {%ajl MINVOKER-238 %} - Upgrade maven-invoker to 3.0.1
+ * [MINVOKER-232](https://issues.apache.org/jira/browse/MINVOKER-232) - Upgrade parent to 31
+ * [MINVOKER-234](https://issues.apache.org/jira/browse/MINVOKER-234) - Upgrade maven-shared-utils to 3.2.1
+ * [MINVOKER-235](https://issues.apache.org/jira/browse/MINVOKER-235) - Upgrade plexus-utils 3.1.0
+ * [MINVOKER-238](https://issues.apache.org/jira/browse/MINVOKER-238) - Upgrade maven-invoker to 3.0.1
 
 Enjoy,
 

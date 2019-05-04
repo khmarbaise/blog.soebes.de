@@ -31,10 +31,10 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MPMD-218 %} - Update to PMD 5.3.5
- * {% ajl MPMD-217 %} - False positive UselessParentheses
- * {% ajl MPMD-215 %} - FieldDeclarationsShouldBeAtStartOfClass false positive
- * {% ajl MPMD-186 %} - Class names with slash are omitted from exclusions on pmd:check
+ * [MPMD-218](https://issues.apache.org/jira/browse/MPMD-218) - Update to PMD 5.3.5
+ * [MPMD-217](https://issues.apache.org/jira/browse/MPMD-217) - False positive UselessParentheses
+ * [MPMD-215](https://issues.apache.org/jira/browse/MPMD-215) - FieldDeclarationsShouldBeAtStartOfClass false positive
+ * [MPMD-186](https://issues.apache.org/jira/browse/MPMD-186) - Class names with slash are omitted from exclusions on pmd:check
 
 Enjoy,
 

@@ -38,15 +38,15 @@ Important Note:
 
 Bugs:
 
- * {% ajl MWAR-257 %} - - Restore dependentWarExcludes/Includes since there is no alternative on global level
- * {% ajl MWAR-398 %} - - Upgrade of plexus-interpolation to 1.24 to correct escaping issue.
- * {% ajl MWAR-400 %} - - Upgrade the WAR lifecycle to use the maven-resources-plugin 3.0.2
- * {% ajl MWAR-404 %} - - <filteringDeploymentDescriptors>true</> is not honored
- * {% ajl MWAR-405 %} - - Workaround XStream incompatibility with Java9
+ * [MWAR-257](https://issues.apache.org/jira/browse/MWAR-257) - - Restore dependentWarExcludes/Includes since there is no alternative on global level
+ * [MWAR-398](https://issues.apache.org/jira/browse/MWAR-398) - - Upgrade of plexus-interpolation to 1.24 to correct escaping issue.
+ * [MWAR-400](https://issues.apache.org/jira/browse/MWAR-400) - - Upgrade the WAR lifecycle to use the maven-resources-plugin 3.0.2
+ * [MWAR-404](https://issues.apache.org/jira/browse/MWAR-404) - - <filteringDeploymentDescriptors>true</> is not honored
+ * [MWAR-405](https://issues.apache.org/jira/browse/MWAR-405) - - Workaround XStream incompatibility with Java9
 
 New Feature:
 
- * {% ajl MWAR-396 %} - - Check the existence of the web.xml based on the existence of particular classes
+ * [MWAR-396](https://issues.apache.org/jira/browse/MWAR-396) - - Check the existence of the web.xml based on the existence of particular classes
 
 Enjoy,
 

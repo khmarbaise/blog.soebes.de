@@ -36,41 +36,41 @@ Release Notes - Maven Plugin Tools - Version 3.3
 
 Bugs:
 
- * {% chjl MPLUGIN-191 %} - plugin-info.html is not created
- * {% chjl MPLUGIN-234 %} - Extreme amounts of debug logging
- * {% chjl MPLUGIN-235 %} - Doc example incorrectly states that plexus-utils is needed as a dependency
- * {% chjl MPLUGIN-236 %} - Value for Mojo's 'defaultPhase' parameter is incorrectly a string in examples
- * {% chjl MPLUGIN-239 %} - Execute goal does not passes from mojos.xml pluginMetadata
- * {% chjl MPLUGIN-242 %} - NullPointerException in MojoClassVisitor.visit()
- * {% chjl MPLUGIN-244 %} - Help mojo generates Javadoc, which is not accepted by JDK 8 doclint
- * {% chjl MPLUGIN-245 %} - @Parameter property names are not written to the plugin- help.xml file
- * {% chjl MPLUGIN-248 %} - XML-Namespace in ITs for ant-based mojos are wrong.
- * {% chjl MPLUGIN-255 %} - Generated HelpMojo doesn't close resource stream
- * {% chjl MPLUGIN-258 %} - IT failures with Jdk 8 (EA) 
- * {% chjl MPLUGIN-260 %} - Plugin that uses annotations in Java 8 source can't generate descriptor
- * {% chjl MPLUGIN-262 %} - Generated HelpMojo doesn't display default values and user properties.
+ * [MPLUGIN-191](https://issues.apache.org/jira/browse/MPLUGIN-191) - plugin-info.html is not created
+ * [MPLUGIN-234](https://issues.apache.org/jira/browse/MPLUGIN-234) - Extreme amounts of debug logging
+ * [MPLUGIN-235](https://issues.apache.org/jira/browse/MPLUGIN-235) - Doc example incorrectly states that plexus-utils is needed as a dependency
+ * [MPLUGIN-236](https://issues.apache.org/jira/browse/MPLUGIN-236) - Value for Mojo's 'defaultPhase' parameter is incorrectly a string in examples
+ * [MPLUGIN-239](https://issues.apache.org/jira/browse/MPLUGIN-239) - Execute goal does not passes from mojos.xml pluginMetadata
+ * [MPLUGIN-242](https://issues.apache.org/jira/browse/MPLUGIN-242) - NullPointerException in MojoClassVisitor.visit()
+ * [MPLUGIN-244](https://issues.apache.org/jira/browse/MPLUGIN-244) - Help mojo generates Javadoc, which is not accepted by JDK 8 doclint
+ * [MPLUGIN-245](https://issues.apache.org/jira/browse/MPLUGIN-245) - @Parameter property names are not written to the plugin- help.xml file
+ * [MPLUGIN-248](https://issues.apache.org/jira/browse/MPLUGIN-248) - XML-Namespace in ITs for ant-based mojos are wrong.
+ * [MPLUGIN-255](https://issues.apache.org/jira/browse/MPLUGIN-255) - Generated HelpMojo doesn't close resource stream
+ * [MPLUGIN-258](https://issues.apache.org/jira/browse/MPLUGIN-258) - IT failures with Jdk 8 (EA) 
+ * [MPLUGIN-260](https://issues.apache.org/jira/browse/MPLUGIN-260) - Plugin that uses annotations in Java 8 source can't generate descriptor
+ * [MPLUGIN-262](https://issues.apache.org/jira/browse/MPLUGIN-262) - Generated HelpMojo doesn't display default values and user properties.
 
 Improvements:
 
- * {% chjl MPLUGIN-237 %} - JavaDoc WARNING on generated HelpMojo class.
- * {% chjl MPLUGIN-246 %} - Clarify that super class must also use annotations
- * {% chjl MPLUGIN-264 %} - Allow other packaging types
+ * [MPLUGIN-237](https://issues.apache.org/jira/browse/MPLUGIN-237) - JavaDoc WARNING on generated HelpMojo class.
+ * [MPLUGIN-246](https://issues.apache.org/jira/browse/MPLUGIN-246) - Clarify that super class must also use annotations
+ * [MPLUGIN-264](https://issues.apache.org/jira/browse/MPLUGIN-264) - Allow other packaging types
 
 New Features:
 
- * {% chjl MPLUGIN-259 %} - @Parameter name="xxx" to set bean property name different from class' field
+ * [MPLUGIN-259](https://issues.apache.org/jira/browse/MPLUGIN-259) - @Parameter name="xxx" to set bean property name different from class' field
 
 Tasks:
 
- * {% chjl MPLUGIN-233 %} - remove InstanciationStrategy enum from annotations
- * {% chjl MPLUGIN-265 %} - remove deprecated API since introduction of PluginToolsRequest
+ * [MPLUGIN-233](https://issues.apache.org/jira/browse/MPLUGIN-233) - remove InstanciationStrategy enum from annotations
+ * [MPLUGIN-265](https://issues.apache.org/jira/browse/MPLUGIN-265) - remove deprecated API since introduction of PluginToolsRequest
 
 Wishes:
 
- * {% chjl MPLUGIN-249 %} - give snippets to show use of expressions to get Maven objects
- * {% chjl MPLUGIN-250 %} - since element is not in version 1.0.0 of plugin- metadata: should create a new version of the descriptor
- * {% chjl MPLUGIN-257 %} - deprecate classical Maven objects as components
- * {% chjl MPLUGIN-261 %} - sort goals in generated plugin.xml
+ * [MPLUGIN-249](https://issues.apache.org/jira/browse/MPLUGIN-249) - give snippets to show use of expressions to get Maven objects
+ * [MPLUGIN-250](https://issues.apache.org/jira/browse/MPLUGIN-250) - since element is not in version 1.0.0 of plugin- metadata: should create a new version of the descriptor
+ * [MPLUGIN-257](https://issues.apache.org/jira/browse/MPLUGIN-257) - deprecate classical Maven objects as components
+ * [MPLUGIN-261](https://issues.apache.org/jira/browse/MPLUGIN-261) - sort goals in generated plugin.xml
 
 Enjoy,
 

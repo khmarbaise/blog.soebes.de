@@ -33,13 +33,13 @@ Starting with version 3.1.0 you need Java 7 to use maven-jdeps-plugin.
 
 Improvements:
 
- * {% ajl MJDEPS-4 %} - Upgrade commons-lang to be able to run with JDK9
- * {% ajl MJDEPS-5 %} - Require Java 7
- * {% ajl MJDEPS-6 %} - -cp should not duplicated classes/files to analyze
+ * [MJDEPS-4](https://issues.apache.org/jira/browse/MJDEPS-4) - Upgrade commons-lang to be able to run with JDK9
+ * [MJDEPS-5](https://issues.apache.org/jira/browse/MJDEPS-5) - Require Java 7
+ * [MJDEPS-6](https://issues.apache.org/jira/browse/MJDEPS-6) - -cp should not duplicated classes/files to analyze
 
 New Feature:
 
- * {% ajl MJDEPS-1 %} - Make the plugin thread safe
+ * [MJDEPS-1](https://issues.apache.org/jira/browse/MJDEPS-1) - Make the plugin thread safe
 
 Enjoy,
 

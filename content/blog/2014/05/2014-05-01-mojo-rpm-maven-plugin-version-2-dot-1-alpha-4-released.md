@@ -38,34 +38,34 @@ configuration:
 
 Bugs:
 
-* {% chjl MRPM-79 %} - BuildArch is not included in generated .spec file
-* {% chjl MRPM-96 %} - %install script uses -e instead of -d in test expression
-* {% chjl MRPM-112 %} - Build should fail if keyName or keyPassphrase configuration elements specify invalid values
-* {% chjl MRPM-119 %} - Wrong detection of system architecture
-* {% chjl MRPM-148 %} - Large RPM files cannot be signed
-* {% chjl MRPM-153 %} - Site generation and dependency:tree fails with Maven 3.1
+* [MRPM-79] - BuildArch is not included in generated .spec file
+* [MRPM-96] - %install script uses -e instead of -d in test expression
+* [MRPM-112] - Build should fail if keyName or keyPassphrase configuration elements specify invalid values
+* [MRPM-119] - Wrong detection of system architecture
+* [MRPM-148] - Large RPM files cannot be signed
+* [MRPM-153] - Site generation and dependency:tree fails with Maven 3.1
 
 Improvements:
 
- * {% chjl MRPM-92 %} - Skip empty requires
- * {% chjl MRPM-101 %} - implement @threadSafe for Maven3
- * {% chjl MRPM-106 %} - Using build time from maven session instead new Date()
- * {% chjl MRPM-130 %} - Support multiple prefixes
- * {% chjl MRPM-133 %} - Confusing parameter 'copyright'
- * {% chjl MRPM-135 %} - brp-repack-jars should be disabled by default
- * {% chjl MRPM-136 %} - Char encoding of scripts should default to project.build.sourceEncoding
- * {% chjl MRPM-140 %} - Upgraded Mojo RPM Plugin to use Maven 2.2.1 and Java annotations
- * {% chjl MRPM-141 %} - Simplify Integration Tests and remove their dependency of org.codehaus.mojo.unix:unix.rpm
- * {% chjl MRPM-151 %} - Running IT's requires Maven 2.2.1 and Java 1.6
+ * [MRPM-92] - Skip empty requires
+ * [MRPM-101] - implement @threadSafe for Maven3
+ * [MRPM-106] - Using build time from maven session instead new Date()
+ * [MRPM-130] - Support multiple prefixes
+ * [MRPM-133] - Confusing parameter 'copyright'
+ * [MRPM-135] - brp-repack-jars should be disabled by default
+ * [MRPM-136] - Char encoding of scripts should default to project.build.sourceEncoding
+ * [MRPM-140] - Upgraded Mojo RPM Plugin to use Maven 2.2.1 and Java annotations
+ * [MRPM-141] - Simplify Integration Tests and remove their dependency of org.codehaus.mojo.unix:unix.rpm
+ * [MRPM-151] - Running IT's requires Maven 2.2.1 and Java 1.6
 
 New Feature
 
- * {% chjl MRPM-88 %} - Create a Meta RPM which contains only dependencies on RPM level
+ * [MRPM-88] - Create a Meta RPM which contains only dependencies on RPM level
 
 Tasks:
 
- * {% chjl MRPM-137 %} - Integration Test rpm-1 fails on Mac OS X
- * {% chjl MRPM-152 %} - Add vagrant setup to simplify testing and development
+ * [MRPM-137] - Integration Test rpm-1 fails on Mac OS X
+ * [MRPM-152] - Add vagrant setup to simplify testing and development
 
 Enjoy,
 

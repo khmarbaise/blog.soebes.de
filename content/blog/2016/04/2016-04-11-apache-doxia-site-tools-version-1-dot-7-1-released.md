@@ -25,28 +25,28 @@ Release Notes - Maven Doxia Sitetools - Version 1.7.1
 
 Bugs:
 
- * {% ajl DOXIASITETOOLS-164 %} -  don't use document date from Sink API as creation date but as "date" without precision on created or last modified
+ * [DOXIASITETOOLS-164](https://issues.apache.org/jira/browse/DOXIASITETOOLS-164) -  don't use document date from Sink API as creation date but as "date" without precision on created or last modified
 
 Improvements:
 
- * {% ajl DOXIASITETOOLS-157 %} -  Add support for Velocity #parse and #include with relative paths
- * {% ajl DOXIASITETOOLS-160 %} -  Normalize line endings in skin template content on SiteRenderer side rather that Velocity side
+ * [DOXIASITETOOLS-157](https://issues.apache.org/jira/browse/DOXIASITETOOLS-157) -  Add support for Velocity #parse and #include with relative paths
+ * [DOXIASITETOOLS-160](https://issues.apache.org/jira/browse/DOXIASITETOOLS-160) -  Normalize line endings in skin template content on SiteRenderer side rather that Velocity side
 
 New Feature:
 
- * {% ajl DOXIASITETOOLS-158 %} -  early interpolation: support ${this.*} as expression in site.xml interpolation
+ * [DOXIASITETOOLS-158](https://issues.apache.org/jira/browse/DOXIASITETOOLS-158) -  early interpolation: support ${this.*} as expression in site.xml interpolation
 
 Tasks:
 
- * {% ajl DOXIASITETOOLS-152 %} -  Upgrade default skin to Default Skin 1.2
- * {% ajl DOXIASITETOOLS-159 %} -  Upgrade to Plexus Velocity 1.2
- * {% ajl DOXIASITETOOLS-161 %} -  Remove custom components.xml because it duplicates the default config in Plexus Velocity 1.2
- * {% ajl DOXIASITETOOLS-162 %} -  Clean up issues reported by 'dependency:analyze'
- * {% ajl DOXIASITETOOLS-163 %} -  warn if deprecated ${reports}, ${parentProject} or ${modules} is found
+ * [DOXIASITETOOLS-152](https://issues.apache.org/jira/browse/DOXIASITETOOLS-152) -  Upgrade default skin to Default Skin 1.2
+ * [DOXIASITETOOLS-159](https://issues.apache.org/jira/browse/DOXIASITETOOLS-159) -  Upgrade to Plexus Velocity 1.2
+ * [DOXIASITETOOLS-161](https://issues.apache.org/jira/browse/DOXIASITETOOLS-161) -  Remove custom components.xml because it duplicates the default config in Plexus Velocity 1.2
+ * [DOXIASITETOOLS-162](https://issues.apache.org/jira/browse/DOXIASITETOOLS-162) -  Clean up issues reported by 'dependency:analyze'
+ * [DOXIASITETOOLS-163](https://issues.apache.org/jira/browse/DOXIASITETOOLS-163) -  warn if deprecated ${reports}, ${parentProject} or ${modules} is found
 
 Wish:
 
- * {% ajl DOXIASITETOOLS-144 %} -  Split default-site.vm into 2 parts: default- site.vm and default-site-macros.vm
+ * [DOXIASITETOOLS-144](https://issues.apache.org/jira/browse/DOXIASITETOOLS-144) -  Split default-site.vm into 2 parts: default- site.vm and default-site-macros.vm
 
 Enjoy,
 

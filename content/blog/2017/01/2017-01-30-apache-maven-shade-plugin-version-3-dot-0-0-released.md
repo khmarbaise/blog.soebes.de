@@ -34,25 +34,25 @@ You can download the [appropriate sources etc. from the download page](https://m
 
 Improvements:
 
- * {% ajl MSHADE-219 %} - Update XSD location of POM to the new one in POMWriter
- * {% ajl MSHADE-224 %} - Preserve last modified time in resources files.
- * {% ajl MSHADE-225 %} - Writing output only once
- * {% ajl MSHADE-232 %} - Introduce ResourceBundleAppendingTransformer
- * {% ajl MSHADE-241 %} - Groovy extension module transformer
- * {% ajl MSHADE-246 %} - Switch to maven-artifact-transfer to support both Aether implementations
+ * [MSHADE-219](https://issues.apache.org/jira/browse/MSHADE-219) - Update XSD location of POM to the new one in POMWriter
+ * [MSHADE-224](https://issues.apache.org/jira/browse/MSHADE-224) - Preserve last modified time in resources files.
+ * [MSHADE-225](https://issues.apache.org/jira/browse/MSHADE-225) - Writing output only once
+ * [MSHADE-232](https://issues.apache.org/jira/browse/MSHADE-232) - Introduce ResourceBundleAppendingTransformer
+ * [MSHADE-241](https://issues.apache.org/jira/browse/MSHADE-241) - Groovy extension module transformer
+ * [MSHADE-246](https://issues.apache.org/jira/browse/MSHADE-246) - Switch to maven-artifact-transfer to support both Aether implementations
 
 Bugs:
 
- * {% ajl MSHADE-182 %} - ServicesResourceTransformer incorrectly ignores given Relocators
- * {% ajl MSHADE-223 %} - Endless processing when promoteTransitiveDependencies=true
- * {% ajl MSHADE-228 %} - Shade can incorrectly re-write an InterfaceMethodRef in the constant pool to a MethodRef
- * {% ajl MSHADE-237 %} - ServicesResourceTransformer relocates excluded classes
- * {% ajl MSHADE-239 %} - Shaded Source JAR not following finalName pattern
- * {% ajl MSHADE-240 %} - support relocation pom.properties and pom.xml descriptors in shaded jars
+ * [MSHADE-182](https://issues.apache.org/jira/browse/MSHADE-182) - ServicesResourceTransformer incorrectly ignores given Relocators
+ * [MSHADE-223](https://issues.apache.org/jira/browse/MSHADE-223) - Endless processing when promoteTransitiveDependencies=true
+ * [MSHADE-228](https://issues.apache.org/jira/browse/MSHADE-228) - Shade can incorrectly re-write an InterfaceMethodRef in the constant pool to a MethodRef
+ * [MSHADE-237](https://issues.apache.org/jira/browse/MSHADE-237) - ServicesResourceTransformer relocates excluded classes
+ * [MSHADE-239](https://issues.apache.org/jira/browse/MSHADE-239) - Shaded Source JAR not following finalName pattern
+ * [MSHADE-240](https://issues.apache.org/jira/browse/MSHADE-240) - support relocation pom.properties and pom.xml descriptors in shaded jars
 
 Task:
 
- * {% ajl MSHADE-222 %} - Dependency updates.
+ * [MSHADE-222](https://issues.apache.org/jira/browse/MSHADE-222) - Dependency updates.
 
 
 

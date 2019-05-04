@@ -27,24 +27,24 @@ You should specify the version in your project's dependencies configuration:
 
 Bugs:
 
- * {% ajl MSHARED-574 %} - - UT failure on Windows: utils.io.Java7SupportTest createAndReadSymlink
- * {% ajl MSHARED-610 %} - - PrettyPrintXMLWriter internally uses java.io.PrintWriter without checking for any errors.
- * {% ajl MSHARED-617 %} - - StreamFeeder should flush OutputStream
- * {% ajl MSHARED-618 %} - - CommandLineCallable does not always call the 'runAfterProcessTermination' runnable.
- * {% ajl MSHARED-619 %} - - StreamFeeder silently ignores exceptions.
- * {% ajl MSHARED-622 %} - - CommandLineCallable silently ignores exceptions thrown from the stdin processor (StreemFeeder).
- * {% ajl MSHARED-630 %} - - Javadoc of several classes still references Maven 3.4.0 for color support
+ * [MSHARED-574](https://issues.apache.org/jira/browse/MSHARED-574) - - UT failure on Windows: utils.io.Java7SupportTest createAndReadSymlink
+ * [MSHARED-610](https://issues.apache.org/jira/browse/MSHARED-610) - - PrettyPrintXMLWriter internally uses java.io.PrintWriter without checking for any errors.
+ * [MSHARED-617](https://issues.apache.org/jira/browse/MSHARED-617) - - StreamFeeder should flush OutputStream
+ * [MSHARED-618](https://issues.apache.org/jira/browse/MSHARED-618) - - CommandLineCallable does not always call the 'runAfterProcessTermination' runnable.
+ * [MSHARED-619](https://issues.apache.org/jira/browse/MSHARED-619) - - StreamFeeder silently ignores exceptions.
+ * [MSHARED-622](https://issues.apache.org/jira/browse/MSHARED-622) - - CommandLineCallable silently ignores exceptions thrown from the stdin processor (StreemFeeder).
+ * [MSHARED-630](https://issues.apache.org/jira/browse/MSHARED-630) - - Javadoc of several classes still references Maven 3.4.0 for color support
 
 Improvements:
 
- * {% ajl MSHARED-587 %} - - remove logger level API from MessageBuilder
- * {% ajl MSHARED-620 %} - - CommandLineCallable should defer starting threads until called.
- * {% ajl MSHARED-621 %} - - CommandLineCallable should calculate process timeouts using 'System.nanoTime' instead of 'System.currentTimeMillis'.
- * {% ajl MSHARED-639 %} - - Removed prerequisites cause it is not a plugin
+ * [MSHARED-587](https://issues.apache.org/jira/browse/MSHARED-587) - - remove logger level API from MessageBuilder
+ * [MSHARED-620](https://issues.apache.org/jira/browse/MSHARED-620) - - CommandLineCallable should defer starting threads until called.
+ * [MSHARED-621](https://issues.apache.org/jira/browse/MSHARED-621) - - CommandLineCallable should calculate process timeouts using 'System.nanoTime' instead of 'System.currentTimeMillis'.
+ * [MSHARED-639](https://issues.apache.org/jira/browse/MSHARED-639) - - Removed prerequisites cause it is not a plugin
 
 Task:
 
- * {% ajl MSHARED-623 %} - - Deprecation of methods 'close' and 'flush' of class 'StreamPumper'.
+ * [MSHARED-623](https://issues.apache.org/jira/browse/MSHARED-623) - - Deprecation of methods 'close' and 'flush' of class 'StreamPumper'.
 
 
 Enjoy,

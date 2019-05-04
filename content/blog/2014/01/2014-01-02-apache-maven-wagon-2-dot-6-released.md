@@ -32,7 +32,7 @@ There have been solved 3 issues:
 
 Improvement:
 
- * {% chjl WAGON-401 %} - Access Denied due to missing User-Agent
- * {% chjl WAGON-402 %} - Upgrade Apache HttpClient based wagon provider to HttpClient 4.3
- * {% chjl WAGON-403 %} - SSH agent support for wagon-ssh
+ * [WAGON-401](https://issues.apache.org/jira/browse/WAGON-401) - Access Denied due to missing User-Agent
+ * [WAGON-402](https://issues.apache.org/jira/browse/WAGON-402) - Upgrade Apache HttpClient based wagon provider to HttpClient 4.3
+ * [WAGON-403](https://issues.apache.org/jira/browse/WAGON-403) - SSH agent support for wagon-ssh
 

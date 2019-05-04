@@ -28,8 +28,8 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MRELEASE-921 %} - perform goal doesn't support providerImplementation
- * {% ajl MRELEASE-925 %} - Old version of plexus utils forced here causes failures
+ * [MRELEASE-921](https://issues.apache.org/jira/browse/MRELEASE-921) - perform goal doesn't support providerImplementation
+ * [MRELEASE-925](https://issues.apache.org/jira/browse/MRELEASE-925) - Old version of plexus utils forced here causes failures
 
 
 Enjoy,

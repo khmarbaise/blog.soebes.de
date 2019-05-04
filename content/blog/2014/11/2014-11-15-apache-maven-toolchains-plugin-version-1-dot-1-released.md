@@ -30,20 +30,20 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
-* {% chjl MTOOLCHAINS-6 %} Cannot create custom toolchain type
+* [MTOOLCHAINS-6](https://issues.apache.org/jira/browse/MTOOLCHAINS-6) Cannot create custom toolchain type
 
 Improvements:
 
- * {% chjl MTOOLCHAINS-11 %} Double check toolchain type to protect against core bug MNG-5716
- * {% chjl MTOOLCHAINS-10 %} Improve plugin output
- * {% chjl MTOOLCHAINS-1 %} Document how to create new toolchains
+ * [MTOOLCHAINS-11](https://issues.apache.org/jira/browse/MTOOLCHAINS-11) Double check toolchain type to protect against core bug MNG-5716
+ * [MTOOLCHAINS-10](https://issues.apache.org/jira/browse/MTOOLCHAINS-10) Improve plugin output
+ * [MTOOLCHAINS-1](https://issues.apache.org/jira/browse/MTOOLCHAINS-1) Document how to create new toolchains
 
 Tasks:
 
- * {% chjl MTOOLCHAINS-9 %} Upgrade to Maven 2.2.1 compatiblity
- * {% chjl MTOOLCHAINS-8 %} improve code and javadoc
- * {% chjl MTOOLCHAINS-7 %} add an IT to check that the plugin works as expected
- * {% chjl MTOOLCHAINS-4 %} use maven-plugin-tools' java 5 annotations
+ * [MTOOLCHAINS-9](https://issues.apache.org/jira/browse/MTOOLCHAINS-9) Upgrade to Maven 2.2.1 compatiblity
+ * [MTOOLCHAINS-8](https://issues.apache.org/jira/browse/MTOOLCHAINS-8) improve code and javadoc
+ * [MTOOLCHAINS-7](https://issues.apache.org/jira/browse/MTOOLCHAINS-7) add an IT to check that the plugin works as expected
+ * [MTOOLCHAINS-4](https://issues.apache.org/jira/browse/MTOOLCHAINS-4) use maven-plugin-tools' java 5 annotations
 
 Enjoy,
 

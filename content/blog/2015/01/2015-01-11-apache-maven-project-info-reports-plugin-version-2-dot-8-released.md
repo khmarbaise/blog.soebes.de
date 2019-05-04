@@ -27,61 +27,61 @@ You should specify the version in your project's plugin configuration:
 
 Sub-task:
 
- * {% ajl MPIR-321 %} - Disable/remove dev/contrib current time generation because it is broken
+ * [MPIR-321](https://issues.apache.org/jira/browse/MPIR-321) - Disable/remove dev/contrib current time generation because it is broken
 
 
 Bugs:
 
- * {% ajl MPIR-242 %} - Incorrect translations list for GPL v3 (illegible letters for Catalan and Arabic)
- * {% ajl MPIR-247 %} - "Comparison method violates its general contract!" while generating site
- * {% ajl MPIR-273 %} - links to modules broken in modules.html of flat multimodule parent project
- * {% ajl MPIR-279 %} - Wrong hyperlinks on index and modules page
- * {% ajl MPIR-280 %} - Clarify that Web Access SCM link is not suitable for SCM checkout
- * {% ajl MPIR-281 %} - Misleading SCM report title
- * {% ajl MPIR-289 %} - DependenciesRenderer's FileDecimalFormat claims to use SI prefixes but calculated numbers do not match
- * {% ajl MPIR-293 %} - On the team list report the "picUrl" property appears in the table, although no other properties are set for that team member
- * {% ajl MPIR-301 %} - Update plexus-interpolation to 1.21 to avoid thread safety issues
- * {% ajl MPIR-303 %} - Backslash in multi-module project
- * {% ajl MPIR-309 %} - The Integration test mpir-229 breaks on Apache Jenkins
- * {% ajl MPIR-311 %} - Specific SCM intro is missing if dev connection is given but not anonymous connection
- * {% ajl MPIR-313 %} - License name is mandatory but it is not validated
- * {% ajl MPIR-319 %} - Apache Ant has no dependency management but Apache Ivy has
- * {% ajl MPIR-325 %} - JIRA report is not generated
+ * [MPIR-242](https://issues.apache.org/jira/browse/MPIR-242) - Incorrect translations list for GPL v3 (illegible letters for Catalan and Arabic)
+ * [MPIR-247](https://issues.apache.org/jira/browse/MPIR-247) - "Comparison method violates its general contract!" while generating site
+ * [MPIR-273](https://issues.apache.org/jira/browse/MPIR-273) - links to modules broken in modules.html of flat multimodule parent project
+ * [MPIR-279](https://issues.apache.org/jira/browse/MPIR-279) - Wrong hyperlinks on index and modules page
+ * [MPIR-280](https://issues.apache.org/jira/browse/MPIR-280) - Clarify that Web Access SCM link is not suitable for SCM checkout
+ * [MPIR-281](https://issues.apache.org/jira/browse/MPIR-281) - Misleading SCM report title
+ * [MPIR-289](https://issues.apache.org/jira/browse/MPIR-289) - DependenciesRenderer's FileDecimalFormat claims to use SI prefixes but calculated numbers do not match
+ * [MPIR-293](https://issues.apache.org/jira/browse/MPIR-293) - On the team list report the "picUrl" property appears in the table, although no other properties are set for that team member
+ * [MPIR-301](https://issues.apache.org/jira/browse/MPIR-301) - Update plexus-interpolation to 1.21 to avoid thread safety issues
+ * [MPIR-303](https://issues.apache.org/jira/browse/MPIR-303) - Backslash in multi-module project
+ * [MPIR-309](https://issues.apache.org/jira/browse/MPIR-309) - The Integration test mpir-229 breaks on Apache Jenkins
+ * [MPIR-311](https://issues.apache.org/jira/browse/MPIR-311) - Specific SCM intro is missing if dev connection is given but not anonymous connection
+ * [MPIR-313](https://issues.apache.org/jira/browse/MPIR-313) - License name is mandatory but it is not validated
+ * [MPIR-319](https://issues.apache.org/jira/browse/MPIR-319) - Apache Ant has no dependency management but Apache Ivy has
+ * [MPIR-325](https://issues.apache.org/jira/browse/MPIR-325) - JIRA report is not generated
 
 
 
 Improvements:
 
- * {% ajl MPIR-263 %} - improve minimum java requirement when m-compiler-p not explicitely configured: use default properties
- * {% ajl MPIR-265 %} - Improve debug information in Dependencies report
- * {% ajl MPIR-287 %} - Misleading report titles in Project Information overview
- * {% ajl MPIR-290 %} - improve git support: remove directory info (after '.git') for "git clone"
- * {% ajl MPIR-291 %} - if scm tag is present, propose "git clone --branch <tag>"
- * {% ajl MPIR-295 %} - Enhancements on dependency convergence report
- * {% ajl MPIR-296 %} - SBT Output not correct for dependencies
- * {% ajl MPIR-298 %} - Continuous Integration support for Travis CI
- * {% ajl MPIR-299 %} - Update to SCM 1.9.1
- * {% ajl MPIR-304 %} - Update dependencies to the most recent usable versions
- * {% ajl MPIR-305 %} - Upgrade Doxia + Site Tools to 1.6
- * {% ajl MPIR-306 %} - Upgrade to maven-plugins version 25 to 26
- * {% ajl MPIR-310 %} - Improve 'JDK Rev' label in dependencies report
- * {% ajl MPIR-314 %} - Upgrade to maven-plugins version 26 to 27
- * {% ajl MPIR-315 %} - Replace org.apache.maven.shared:maven-doxia-tools with org.apache.maven.doxia:doxia-integration-tools
- * {% ajl MPIR-316 %} - Removed dependency org.codehaus.plexus:plexus-container-default:1.0-alpha-9
- * {% ajl MPIR-322 %} - Dependencies Files Details should reuse installed jars instead of target/classes
- * {% ajl MPIR-326 %} - Remove notes to ancient version of this plugin or the Site Plugin in the apt files
+ * [MPIR-263](https://issues.apache.org/jira/browse/MPIR-263) - improve minimum java requirement when m-compiler-p not explicitely configured: use default properties
+ * [MPIR-265](https://issues.apache.org/jira/browse/MPIR-265) - Improve debug information in Dependencies report
+ * [MPIR-287](https://issues.apache.org/jira/browse/MPIR-287) - Misleading report titles in Project Information overview
+ * [MPIR-290](https://issues.apache.org/jira/browse/MPIR-290) - improve git support: remove directory info (after '.git') for "git clone"
+ * [MPIR-291](https://issues.apache.org/jira/browse/MPIR-291) - if scm tag is present, propose "git clone --branch <tag>"
+ * [MPIR-295](https://issues.apache.org/jira/browse/MPIR-295) - Enhancements on dependency convergence report
+ * [MPIR-296](https://issues.apache.org/jira/browse/MPIR-296) - SBT Output not correct for dependencies
+ * [MPIR-298](https://issues.apache.org/jira/browse/MPIR-298) - Continuous Integration support for Travis CI
+ * [MPIR-299](https://issues.apache.org/jira/browse/MPIR-299) - Update to SCM 1.9.1
+ * [MPIR-304](https://issues.apache.org/jira/browse/MPIR-304) - Update dependencies to the most recent usable versions
+ * [MPIR-305](https://issues.apache.org/jira/browse/MPIR-305) - Upgrade Doxia + Site Tools to 1.6
+ * [MPIR-306](https://issues.apache.org/jira/browse/MPIR-306) - Upgrade to maven-plugins version 25 to 26
+ * [MPIR-310](https://issues.apache.org/jira/browse/MPIR-310) - Improve 'JDK Rev' label in dependencies report
+ * [MPIR-314](https://issues.apache.org/jira/browse/MPIR-314) - Upgrade to maven-plugins version 26 to 27
+ * [MPIR-315](https://issues.apache.org/jira/browse/MPIR-315) - Replace org.apache.maven.shared:maven-doxia-tools with org.apache.maven.doxia:doxia-integration-tools
+ * [MPIR-316](https://issues.apache.org/jira/browse/MPIR-316) - Removed dependency org.codehaus.plexus:plexus-container-default:1.0-alpha-9
+ * [MPIR-322](https://issues.apache.org/jira/browse/MPIR-322) - Dependencies Files Details should reuse installed jars instead of target/classes
+ * [MPIR-326](https://issues.apache.org/jira/browse/MPIR-326) - Remove notes to ancient version of this plugin or the Site Plugin in the apt files
 
 New Features:
 
- * {% ajl MPIR-288 %} - Add a skipEmptyReport option
- * {% ajl MPIR-297 %} - add a skip parameter
+ * [MPIR-288](https://issues.apache.org/jira/browse/MPIR-288) - Add a skipEmptyReport option
+ * [MPIR-297](https://issues.apache.org/jira/browse/MPIR-297) - add a skip parameter
 
 
 Tasks:
 
- * {% ajl MPIR-317 %} - Remove FAQ entry for Recaptcha Mailhide
- * {% ajl MPIR-318 %} - Link time zone FAQ entry to the POM reference documentation
- * {% ajl MPIR-324 %} - Clean up unused and used undeclared dependencies
+ * [MPIR-317](https://issues.apache.org/jira/browse/MPIR-317) - Remove FAQ entry for Recaptcha Mailhide
+ * [MPIR-318](https://issues.apache.org/jira/browse/MPIR-318) - Link time zone FAQ entry to the POM reference documentation
+ * [MPIR-324](https://issues.apache.org/jira/browse/MPIR-324) - Clean up unused and used undeclared dependencies
 
 
 Enjoy,

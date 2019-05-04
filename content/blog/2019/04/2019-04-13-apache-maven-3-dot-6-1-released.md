@@ -168,60 +168,60 @@ Detailed explanations can be found in [Inheritance Assembly][inheritance-assembl
 
 ### Bugs:
 
- - {%ajl MNG-5705 %} - NPE on parallel build in BuilderCommon.handleBuildError(BuilderCommon.java:147)
- - {%ajl MNG-5965 %} - Parallel build multiplies work if multiple goals are given
- - {%ajl MNG-5995 %} - Maven itself cannot run without maven-compat
- - {%ajl MNG-6256 %} - Maven script can break if "-f" path contains special characters
- - {%ajl MNG-6261 %} - Relative parent POM resolution failing in 3.5.0 with complex multimodule builds
- - {%ajl MNG-6262 %} - getCanonicalFile() is not used consistently during project resolution
- - {%ajl MNG-6346 %} - ... was unexpected at this time when using -f option and path contains brackets
- - {%ajl MNG-6374 %} - ModelBuilder hangs with malformed pom.xml
- - {%ajl MNG-6429 %} - Integration Test site publishing requires Java 7 (or javadoc errors ignored)
- - {%ajl MNG-6495 %} - ModelResolver cannot be null
- - {%ajl MNG-6505 %} - child.(x.y).inherit.append.path value should be inherited
- - {%ajl MNG-6506 %} - Mojos are unable to load package annotations on Java >= 9
- - {%ajl MNG-6529 %} - `ProjectBuilder.build(List<File> projects, boolean, ProjectBuildingRequest)` doesn't honor `ProjectBuildingRequest.isResolveDependencies()`
- - {%ajl MNG-6530 %} - Regression in ProjectBuilder when file change between invocations (introduced by MNG-6311)
- - {%ajl MNG-6533 %} - `ProjectBuilder.build(list_of_projects,...)` does not contain MavenProject in exception report
- - {%ajl MNG-6543 %} - Upgrade plexus classworld to support java 9+ `ClassLoader.findClass(String moduleName, String name)` in Mojos
- - {%ajl MNG-6558 %} - ToolchainsBuildingResult event is not sent on EventSpy
- - {%ajl MNG-6577 %} - pom.xml: Uncaught IllegalArgumentException when parsing unicode entity ref
- - {%ajl MNG-6590 %} - DefaultProjectArtifactsCache java.lang.IllegalStateException: Duplicate artifact resolution result
- - {%ajl MNG-6599 %} - unknown version in model id when version is defined from parent
+ - [MNG-5705](https://issues.apache.org/jira/browse/MNG-5705) - NPE on parallel build in BuilderCommon.handleBuildError(BuilderCommon.java:147)
+ - [MNG-5965](https://issues.apache.org/jira/browse/MNG-5965) - Parallel build multiplies work if multiple goals are given
+ - [MNG-5995](https://issues.apache.org/jira/browse/MNG-5995) - Maven itself cannot run without maven-compat
+ - [MNG-6256](https://issues.apache.org/jira/browse/MNG-6256) - Maven script can break if "-f" path contains special characters
+ - [MNG-6261](https://issues.apache.org/jira/browse/MNG-6261) - Relative parent POM resolution failing in 3.5.0 with complex multimodule builds
+ - [MNG-6262](https://issues.apache.org/jira/browse/MNG-6262) - getCanonicalFile() is not used consistently during project resolution
+ - [MNG-6346](https://issues.apache.org/jira/browse/MNG-6346) - ... was unexpected at this time when using -f option and path contains brackets
+ - [MNG-6374](https://issues.apache.org/jira/browse/MNG-6374) - ModelBuilder hangs with malformed pom.xml
+ - [MNG-6429](https://issues.apache.org/jira/browse/MNG-6429) - Integration Test site publishing requires Java 7 (or javadoc errors ignored)
+ - [MNG-6495](https://issues.apache.org/jira/browse/MNG-6495) - ModelResolver cannot be null
+ - [MNG-6505](https://issues.apache.org/jira/browse/MNG-6505) - child.(x.y).inherit.append.path value should be inherited
+ - [MNG-6506](https://issues.apache.org/jira/browse/MNG-6506) - Mojos are unable to load package annotations on Java >= 9
+ - [MNG-6529](https://issues.apache.org/jira/browse/MNG-6529) - `ProjectBuilder.build(List<File> projects, boolean, ProjectBuildingRequest)` doesn't honor `ProjectBuildingRequest.isResolveDependencies()`
+ - [MNG-6530](https://issues.apache.org/jira/browse/MNG-6530) - Regression in ProjectBuilder when file change between invocations (introduced by MNG-6311)
+ - [MNG-6533](https://issues.apache.org/jira/browse/MNG-6533) - `ProjectBuilder.build(list_of_projects,...)` does not contain MavenProject in exception report
+ - [MNG-6543](https://issues.apache.org/jira/browse/MNG-6543) - Upgrade plexus classworld to support java 9+ `ClassLoader.findClass(String moduleName, String name)` in Mojos
+ - [MNG-6558](https://issues.apache.org/jira/browse/MNG-6558) - ToolchainsBuildingResult event is not sent on EventSpy
+ - [MNG-6577](https://issues.apache.org/jira/browse/MNG-6577) - pom.xml: Uncaught IllegalArgumentException when parsing unicode entity ref
+ - [MNG-6590](https://issues.apache.org/jira/browse/MNG-6590) - DefaultProjectArtifactsCache java.lang.IllegalStateException: Duplicate artifact resolution result
+ - [MNG-6599](https://issues.apache.org/jira/browse/MNG-6599) - unknown version in model id when version is defined from parent
 
 ### Improvements
 
- - {%ajl MNG-6059 %} - Important use cases not covered, as child.inherit.append.path affects all children
- - {%ajl MNG-6159 %} - Child path adjustments break git scm urls
- - {%ajl MNG-6213 %} - Maven doesn't check the validity of scope value
- - {%ajl MNG-6481 %} - Allow to compile and test Maven with Java 11
- - {%ajl MNG-6513 %} - Replace depreated Plexus javadoc tags with annotations in ITs
- - {%ajl MNG-6515 %} - Fix javadoc build errors under Java 8 and 11
- - {%ajl MNG-6520 %} - Update assembly descriptors to 2.0.0
- - {%ajl MNG-6522 %} - Prepare Maven's Core Integration Test Suite to test with Java 12 and 13-ea
- - {%ajl MNG-6572 %} - use int or long instead of BigIntegers for little numbers in ComparableVersion
- - {%ajl MNG-6593 %} - track input location for super-pom
- - {%ajl MNG-6597 %} - add input location tracking for plugins configuration
- - {%ajl MNG-6600 %} - add input location tracking for default lifecycle bindings executions
- - {%ajl MNG-6601 %} - add input location tracking for site's reportPlugins injected by reports conversion
- - {%ajl MNG-6605 %} - Allow to suppress download messages in interactive mode
- - {%ajl MNG-6611 %} - Update animal-sniffer-maven-plugin to 1.17
+ - [MNG-6059](https://issues.apache.org/jira/browse/MNG-6059) - Important use cases not covered, as child.inherit.append.path affects all children
+ - [MNG-6159](https://issues.apache.org/jira/browse/MNG-6159) - Child path adjustments break git scm urls
+ - [MNG-6213](https://issues.apache.org/jira/browse/MNG-6213) - Maven doesn't check the validity of scope value
+ - [MNG-6481](https://issues.apache.org/jira/browse/MNG-6481) - Allow to compile and test Maven with Java 11
+ - [MNG-6513](https://issues.apache.org/jira/browse/MNG-6513) - Replace depreated Plexus javadoc tags with annotations in ITs
+ - [MNG-6515](https://issues.apache.org/jira/browse/MNG-6515) - Fix javadoc build errors under Java 8 and 11
+ - [MNG-6520](https://issues.apache.org/jira/browse/MNG-6520) - Update assembly descriptors to 2.0.0
+ - [MNG-6522](https://issues.apache.org/jira/browse/MNG-6522) - Prepare Maven's Core Integration Test Suite to test with Java 12 and 13-ea
+ - [MNG-6572](https://issues.apache.org/jira/browse/MNG-6572) - use int or long instead of BigIntegers for little numbers in ComparableVersion
+ - [MNG-6593](https://issues.apache.org/jira/browse/MNG-6593) - track input location for super-pom
+ - [MNG-6597](https://issues.apache.org/jira/browse/MNG-6597) - add input location tracking for plugins configuration
+ - [MNG-6600](https://issues.apache.org/jira/browse/MNG-6600) - add input location tracking for default lifecycle bindings executions
+ - [MNG-6601](https://issues.apache.org/jira/browse/MNG-6601) - add input location tracking for site's reportPlugins injected by reports conversion
+ - [MNG-6605](https://issues.apache.org/jira/browse/MNG-6605) - Allow to suppress download messages in interactive mode
+ - [MNG-6611](https://issues.apache.org/jira/browse/MNG-6611) - Update animal-sniffer-maven-plugin to 1.17
 
 ### Wish
 
- - {%ajl MNG-6571 %} - Maven memory consumption issue
+ - [MNG-6571](https://issues.apache.org/jira/browse/MNG-6571) - Maven memory consumption issue
 
 ### Task
 
- - {%ajl MNG-6538 %} - Upgrade Maven Artifact Resolver to 1.3.3 to restore API
- - {%ajl MNG-6544 %} - Replace CacheUtils#{eq,hash} with Objects
- - {%ajl MNG-6573 %} - Use latest Maven 3.6.0 to build Maven Core and plugins with ASF CI
- - {%ajl MNG-6618 %} - Maven doesn't export org.slf4j.event.Level
+ - [MNG-6538](https://issues.apache.org/jira/browse/MNG-6538) - Upgrade Maven Artifact Resolver to 1.3.3 to restore API
+ - [MNG-6544](https://issues.apache.org/jira/browse/MNG-6544) - Replace CacheUtils#{eq,hash} with Objects
+ - [MNG-6573](https://issues.apache.org/jira/browse/MNG-6573) - Use latest Maven 3.6.0 to build Maven Core and plugins with ASF CI
+ - [MNG-6618](https://issues.apache.org/jira/browse/MNG-6618) - Maven doesn't export org.slf4j.event.Level
 
 ### Dependency upgrade
 
- - {%ajl MNG-6526 %} - Upgrade to Wagon 3.3.1 (from 3.2.0)
- - {%ajl MNG-6591 %} - Upgrade to Wagon 3.3.2
+ - [MNG-6526](https://issues.apache.org/jira/browse/MNG-6526) - Upgrade to Wagon 3.3.1 (from 3.2.0)
+ - [MNG-6591](https://issues.apache.org/jira/browse/MNG-6591) - Upgrade to Wagon 3.3.2
 
 
 The full list of changes can be found in our [issue management system][4].

@@ -49,17 +49,17 @@ this:
 
 Bugs:
 
- * {% chjl MSHARED-261 %} - DefaultInvoker does not set M2_HOME
- * {% chjl MSHARED-278 %} - NullPointerException in MavenCommandLineBuilder
- * {% chjl MSHARED-411 %} - maven-invoker - addShellEnvironment forgets variable settings on successive calls
+ * [MSHARED-261](https://issues.apache.org/jira/browse/MSHARED-261) - DefaultInvoker does not set M2_HOME
+ * [MSHARED-278](https://issues.apache.org/jira/browse/MSHARED-278) - NullPointerException in MavenCommandLineBuilder
+ * [MSHARED-411](https://issues.apache.org/jira/browse/MSHARED-411) - maven-invoker - addShellEnvironment forgets variable settings on successive calls
 
 Improvements:
 
- * {% chjl MSHARED-358 %} - Update version of plexus-utils to 3.0.15
- * {% chjl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
- * {% chjl MSHARED-379 %} - Upgrade plexus-utils to 3.0.20
- * {% chjl MSHARED-413 %} - Invoker fails on Windows since Maven-3.3.x
- * {% chjl MSHARED-414 %} - Upgrade to JUnit4
+ * [MSHARED-358](https://issues.apache.org/jira/browse/MSHARED-358) - Update version of plexus-utils to 3.0.15
+ * [MSHARED-371](https://issues.apache.org/jira/browse/MSHARED-371) - Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * [MSHARED-379](https://issues.apache.org/jira/browse/MSHARED-379) - Upgrade plexus-utils to 3.0.20
+ * [MSHARED-413](https://issues.apache.org/jira/browse/MSHARED-413) - Invoker fails on Windows since Maven-3.3.x
+ * [MSHARED-414](https://issues.apache.org/jira/browse/MSHARED-414) - Upgrade to JUnit4
 
 Enjoy,
 

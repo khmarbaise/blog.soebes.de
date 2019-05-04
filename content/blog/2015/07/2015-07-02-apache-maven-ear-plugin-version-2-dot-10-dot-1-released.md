@@ -27,14 +27,14 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% ajl MEAR-214 %} - RarModule not seen as standard artifact type
+ * [MEAR-214](https://issues.apache.org/jira/browse/MEAR-214) - RarModule not seen as standard artifact type
 
 Improvements:
 
- * {% ajl MEAR-159 %} - encoding when filtering resources
- * {% ajl MEAR-218 %} - Upgrade plexus-archiver to 2.10.3
- * {% ajl MEAR-219 %} - Upgrade to fluido skin
- * {% ajl MEAR-220 %} - Upgrade plexus-utils to 3.0.22
+ * [MEAR-159](https://issues.apache.org/jira/browse/MEAR-159) - encoding when filtering resources
+ * [MEAR-218](https://issues.apache.org/jira/browse/MEAR-218) - Upgrade plexus-archiver to 2.10.3
+ * [MEAR-219](https://issues.apache.org/jira/browse/MEAR-219) - Upgrade to fluido skin
+ * [MEAR-220](https://issues.apache.org/jira/browse/MEAR-220) - Upgrade plexus-utils to 3.0.22
 
 Enjoy,
 

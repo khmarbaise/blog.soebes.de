@@ -24,14 +24,14 @@ mvn tidy:pom
 
 Bugs fixed:
 
- * {% chjl MOJO-1942 %} - Whitespace gets mangled
- * {% chjl MOJO-1943 %} - Additional tabs inserted
- * {% chjl MOJO-1989 %} - tidy:pom drops some CR chars in new line on Windows
+ * [MOJO-1942] - Whitespace gets mangled
+ * [MOJO-1943] - Additional tabs inserted
+ * [MOJO-1989] - tidy:pom drops some CR chars in new line on Windows
 
 Improvements:
 
- * {% chjl MOJO-1939 %} - Preserve tabs while sorting pom
- * {% chjl MOJO-1983 %} - Add xml declaration
+ * [MOJO-1939] - Preserve tabs while sorting pom
+ * [MOJO-1983] - Add xml declaration
 
 
 Enjoy,

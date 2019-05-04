@@ -22,17 +22,17 @@ You can download the appropriate [sources etc. from the download page](https://m
 
 Bug:
 
- * {%ajl SCM-777 %} - scm:validate ignores scmCheckWorkingDirectoryUrl configuration in favor of system property
+ * [SCM-777](https://issues.apache.org/jira/browse/SCM-777) - scm:validate ignores scmCheckWorkingDirectoryUrl configuration in favor of system property
 
 New Features:
 
- * {%ajl SCM-318 %} - Allow tags to be removed with Git implementation
- * {%ajl SCM-832 %} - maven-scm-provider-jgit should support SSH public key auth
+ * [SCM-318](https://issues.apache.org/jira/browse/SCM-318) - Allow tags to be removed with Git implementation
+ * [SCM-832](https://issues.apache.org/jira/browse/SCM-832) - maven-scm-provider-jgit should support SSH public key auth
 
 Improvements:
 
- * {%ajl SCM-917 %} - Allow tags to be removed with Subversion implementation
- * {%ajl SCM-919 %} - Fix codecheck violations in JGit provider
+ * [SCM-917](https://issues.apache.org/jira/browse/SCM-917) - Allow tags to be removed with Subversion implementation
+ * [SCM-919](https://issues.apache.org/jira/browse/SCM-919) - Fix codecheck violations in JGit provider
 
 Enjoy,
 

@@ -25,10 +25,10 @@ Analyzes the dependencies of a project for undeclared or unused artifacts.
 
 Bugs:
 
- * {% chjl MSHARED-285 %} - Port tests to JUnit 4.11
- * {% chjl MSHARED-307 %} - Performance: The implementation of DefaultClassAnalyzer unnecessarily scans jar files bodies
- * {% chjl MSHARED-323 %} - DefaultProjectDependencyAnalyzer does not correctly transform Files with Spaces to URLs
- * {% chjl MSHARED-327 %} - maven-dependency-analyzer not compatible with Java 8
+ * [MSHARED-285](https://issues.apache.org/jira/browse/MSHARED-285) - Port tests to JUnit 4.11
+ * [MSHARED-307](https://issues.apache.org/jira/browse/MSHARED-307) - Performance: The implementation of DefaultClassAnalyzer unnecessarily scans jar files bodies
+ * [MSHARED-323](https://issues.apache.org/jira/browse/MSHARED-323) - DefaultProjectDependencyAnalyzer does not correctly transform Files with Spaces to URLs
+ * [MSHARED-327](https://issues.apache.org/jira/browse/MSHARED-327) - maven-dependency-analyzer not compatible with Java 8
 
 Enjoy,
 

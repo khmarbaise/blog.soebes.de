@@ -27,12 +27,12 @@ You should specify the version in your project's dependency list:
 
 Bugs:
 
- * {%ajl MSHARED-665 %} - ASMDependencyAnalyzer.analyze(...) returns non-classes
- * {%ajl MSHARED-674 %} - Maven Dependency Analyzer ignores Java 8 type annotations
+ * [MSHARED-665](https://issues.apache.org/jira/browse/MSHARED-665) - ASMDependencyAnalyzer.analyze(...) returns non-classes
+ * [MSHARED-674](https://issues.apache.org/jira/browse/MSHARED-674) - Maven Dependency Analyzer ignores Java 8 type annotations
 
 Dependency upgrade:
 
- * {%ajl MSHARED-660 %} - Upgrade to asm 6.0 for JDK9 
+ * [MSHARED-660](https://issues.apache.org/jira/browse/MSHARED-660) - Upgrade to asm 6.0 for JDK9 
 
 Enjoy,
 

@@ -27,10 +27,10 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% ajl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
- * {% ajl MSHARED-395 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% ajl MSHARED-397 %} - Upgrade maven-shared-utils to 0.7
- * {% ajl MSHARED-398 %} - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
+ * [MSHARED-371](https://issues.apache.org/jira/browse/MSHARED-371) - Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * [MSHARED-395](https://issues.apache.org/jira/browse/MSHARED-395) - Upgrade to Maven 2.2.1 compatiblity
+ * [MSHARED-397](https://issues.apache.org/jira/browse/MSHARED-397) - Upgrade maven-shared-utils to 0.7
+ * [MSHARED-398](https://issues.apache.org/jira/browse/MSHARED-398) - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
 
 Enjoy,
 

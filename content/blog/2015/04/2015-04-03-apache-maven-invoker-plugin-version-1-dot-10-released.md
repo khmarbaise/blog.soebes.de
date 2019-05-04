@@ -32,21 +32,21 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MINVOKER-155 %} - Invoker plugin does not allow multiple environment variables to be set
- * {% chjl MINVOKER-176 %} - Update to plexus-interpolation 1.21 for thread safety issues
- * {% chjl MINVOKER-183 %} - IT failing when path contains accents
- * {% chjl MINVOKER-185 %} - Cannot run invoker ITs on Windows with Maven 3.3.1
+ * [MINVOKER-155](https://issues.apache.org/jira/browse/MINVOKER-155) - Invoker plugin does not allow multiple environment variables to be set
+ * [MINVOKER-176](https://issues.apache.org/jira/browse/MINVOKER-176) - Update to plexus-interpolation 1.21 for thread safety issues
+ * [MINVOKER-183](https://issues.apache.org/jira/browse/MINVOKER-183) - IT failing when path contains accents
+ * [MINVOKER-185](https://issues.apache.org/jira/browse/MINVOKER-185) - Cannot run invoker ITs on Windows with Maven 3.3.1
 
 Improvements:
 
- * {% chjl MINVOKER-170 %} - Better document the usage of options for Maven
- * {% chjl MINVOKER-175 %} - Fix RAT Report
- * {% chjl MINVOKER-177 %} - Upgrade to maven-plugins version 25 to 26
- * {% chjl MINVOKER-178 %} - Make invoker copy support symlinks
- * {% chjl MINVOKER-179 %} - Upgrade to maven-plugins parent version 27
- * {% chjl MINVOKER-181 %} - Create single summary file
- * {% chjl MINVOKER-184 %} - Implement IT in an other way.
- * {% chjl MINVOKER-186 %} - Filter other files except pom like .mvn/extensions.xml
+ * [MINVOKER-170](https://issues.apache.org/jira/browse/MINVOKER-170) - Better document the usage of options for Maven
+ * [MINVOKER-175](https://issues.apache.org/jira/browse/MINVOKER-175) - Fix RAT Report
+ * [MINVOKER-177](https://issues.apache.org/jira/browse/MINVOKER-177) - Upgrade to maven-plugins version 25 to 26
+ * [MINVOKER-178](https://issues.apache.org/jira/browse/MINVOKER-178) - Make invoker copy support symlinks
+ * [MINVOKER-179](https://issues.apache.org/jira/browse/MINVOKER-179) - Upgrade to maven-plugins parent version 27
+ * [MINVOKER-181](https://issues.apache.org/jira/browse/MINVOKER-181) - Create single summary file
+ * [MINVOKER-184](https://issues.apache.org/jira/browse/MINVOKER-184) - Implement IT in an other way.
+ * [MINVOKER-186](https://issues.apache.org/jira/browse/MINVOKER-186) - Filter other files except pom like .mvn/extensions.xml
 
 Enjoy,
 

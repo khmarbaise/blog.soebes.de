@@ -26,11 +26,11 @@ This project aims to be a functional replacement for plexus-utils in Maven.
 
 Bug:
 
- * {% ajl MSHARED-369 %} - ReflectionValueExtractor regression; incorrect parsing
+ * [MSHARED-369](https://issues.apache.org/jira/browse/MSHARED-369) - ReflectionValueExtractor regression; incorrect parsing
 
 Improvement:
 
-* {% ajl MSHARED-415 %} - Allow passing a Charset to be used by the StreamPumper to read from the input streams
+* [MSHARED-415](https://issues.apache.org/jira/browse/MSHARED-415) - Allow passing a Charset to be used by the StreamPumper to read from the input streams
 
 Enjoy,
 

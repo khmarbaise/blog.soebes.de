@@ -30,6 +30,6 @@ plugin configuration:
 
 The following improvement has been made:
 
-* {% chjl MCLIRR-61 %} - Allow any classpath artifact to be checked for changes
+* [MCLIRR--61] - Allow any classpath artifact to be checked for changes
 
 

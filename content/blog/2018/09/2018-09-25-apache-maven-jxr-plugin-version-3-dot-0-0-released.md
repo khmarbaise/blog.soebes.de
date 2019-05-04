@@ -30,33 +30,33 @@ NOTE: Special thanks for the contributions retrieved during the hackathon at JCr
 
 Bugs:
 
- * {%ajl JXR-68 %} - ignores classes with same name in other packages
- * {%ajl JXR-98 %} - Nested classes aren't linked correctly
- * {%ajl JXR-100 %} - Method declaration: using spaces before or after parenthesis prevents cross references generation
- * {%ajl JXR-126 %} - File write using platform default encoding
- * {%ajl JXR-135 %} - Invalid representation of inner class
- * {%ajl JXR-140 %} - Proper URL handling
+ * [JXR-68](https://issues.apache.org/jira/browse/JXR-68) - ignores classes with same name in other packages
+ * [JXR-98](https://issues.apache.org/jira/browse/JXR-98) - Nested classes aren't linked correctly
+ * [JXR-100](https://issues.apache.org/jira/browse/JXR-100) - Method declaration: using spaces before or after parenthesis prevents cross references generation
+ * [JXR-126](https://issues.apache.org/jira/browse/JXR-126) - File write using platform default encoding
+ * [JXR-135](https://issues.apache.org/jira/browse/JXR-135) - Invalid representation of inner class
+ * [JXR-140](https://issues.apache.org/jira/browse/JXR-140) - Proper URL handling
 
 Improvements:
 
- * {%ajl JXR-110 %} - Use equivalent css/images of javadoc
- * {%ajl JXR-124 %} - Remove excluded DEPENDENCIES file if new parent is used.
- * {%ajl JXR-125 %} - Upgrade to Maven 3.0 compatiblity
- * {%ajl JXR-127 %} - Create anchor for classes generated from a Java source file
- * {%ajl JXR-131 %} - Reports 'jxr' and 'test-jxr' do not contain generated sources.
- * {%ajl JXR-132 %} - Aggregator reports should not require modules to be installed/deployed.
+ * [JXR-110](https://issues.apache.org/jira/browse/JXR-110) - Use equivalent css/images of javadoc
+ * [JXR-124](https://issues.apache.org/jira/browse/JXR-124) - Remove excluded DEPENDENCIES file if new parent is used.
+ * [JXR-125](https://issues.apache.org/jira/browse/JXR-125) - Upgrade to Maven 3.0 compatiblity
+ * [JXR-127](https://issues.apache.org/jira/browse/JXR-127) - Create anchor for classes generated from a Java source file
+ * [JXR-131](https://issues.apache.org/jira/browse/JXR-131) - Reports 'jxr' and 'test-jxr' do not contain generated sources.
+ * [JXR-132](https://issues.apache.org/jira/browse/JXR-132) - Aggregator reports should not require modules to be installed/deployed.
 
 Task:
 
- * {%ajl JXR-134 %} - switch to Git
+ * [JXR-134](https://issues.apache.org/jira/browse/JXR-134) - switch to Git
 
 Dependency upgrades:
 
- * {%ajl JXR-128 %} - Upgrade maven parent to version 30
- * {%ajl JXR-129 %} - Upgrade of plexus-utils to 3.0.24.
- * {%ajl JXR-130 %} - Upgrade of commons-io to 2.5.
- * {%ajl JXR-136 %} - Upgrade plexus-utils 3.1.0
- * {%ajl JXR-138 %} - Upgrade parent to 31
+ * [JXR-128](https://issues.apache.org/jira/browse/JXR-128) - Upgrade maven parent to version 30
+ * [JXR-129](https://issues.apache.org/jira/browse/JXR-129) - Upgrade of plexus-utils to 3.0.24.
+ * [JXR-130](https://issues.apache.org/jira/browse/JXR-130) - Upgrade of commons-io to 2.5.
+ * [JXR-136](https://issues.apache.org/jira/browse/JXR-136) - Upgrade plexus-utils 3.1.0
+ * [JXR-138](https://issues.apache.org/jira/browse/JXR-138) - Upgrade parent to 31
 
 Enjoy,
 

@@ -32,17 +32,17 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {%ajl MPMD-268 %} - Missing warnings about deprecated rules
- * {%ajl MPMD-266 %} - Aggregate report in multi-module projects does not use correct auxclasspath
+ * [MPMD-268](https://issues.apache.org/jira/browse/MPMD-268) - Missing warnings about deprecated rules
+ * [MPMD-266](https://issues.apache.org/jira/browse/MPMD-266) - Aggregate report in multi-module projects does not use correct auxclasspath
 
 New Feature:
 
- * {%ajl MPMD-272 %} - Support ignoreAnnotations options for CPD
+ * [MPMD-272](https://issues.apache.org/jira/browse/MPMD-272) - Support ignoreAnnotations options for CPD
 
 Tasks:
 
- * {%ajl MPMD-271 %} - Upgrade pmd 6.8.0
- * {%ajl MPMD-270 %} - JDK 11 compatibility
+ * [MPMD-271](https://issues.apache.org/jira/browse/MPMD-271) - Upgrade pmd 6.8.0
+ * [MPMD-270](https://issues.apache.org/jira/browse/MPMD-270) - JDK 11 compatibility
 
 Enjoy,
 

@@ -31,41 +31,41 @@ Important Note since 3.0.0:
 
 Bugs:
 
- * {% ajl MEJB-109 %} - JDK 9 - EA compatibility Issue
+ * [MEJB-109](https://issues.apache.org/jira/browse/MEJB-109) - JDK 9 - EA compatibility Issue
 
 Improvements:
 
- * {% ajl MEJB-72 %} - Add LifecycleMapping and ArtifactHandler from maven-core to target packaging plugin
- * {% ajl MEJB-81 %} - Upgrade to Maven 3.X only compatiblity
- * {% ajl MEJB-86 %} - Make naming of properties consistent
- * {% ajl MEJB-87 %} - Upgrade EJB Version default to 3.1 in accordance with Java EE 6
- * {% ajl MEJB-88 %} - Change package to org.apache.maven.plugins to prevent conflict with Maven Core
- * {% ajl MEJB-92 %} - Make separate classifier for client and main aritfact
- * {% ajl MEJB-93 %} - Prevent re-adding of main artifact twice
- * {% ajl MEJB-94 %} - Make integration tests more reliable
- * {% ajl MEJB-97 %} - Remove param properties that doesn't make sense for CLI usage
- * {% ajl MEJB-101 %} - Upgrade maven-shared-components parent to version 30
- * {% ajl MEJB-108 %} - Upgrade bound plugins to life cycle
- * {% ajl MEJB-113 %} - Move component.xml to correct location.
+ * [MEJB-72](https://issues.apache.org/jira/browse/MEJB-72) - Add LifecycleMapping and ArtifactHandler from maven-core to target packaging plugin
+ * [MEJB-81](https://issues.apache.org/jira/browse/MEJB-81) - Upgrade to Maven 3.X only compatiblity
+ * [MEJB-86](https://issues.apache.org/jira/browse/MEJB-86) - Make naming of properties consistent
+ * [MEJB-87](https://issues.apache.org/jira/browse/MEJB-87) - Upgrade EJB Version default to 3.1 in accordance with Java EE 6
+ * [MEJB-88](https://issues.apache.org/jira/browse/MEJB-88) - Change package to org.apache.maven.plugins to prevent conflict with Maven Core
+ * [MEJB-92](https://issues.apache.org/jira/browse/MEJB-92) - Make separate classifier for client and main aritfact
+ * [MEJB-93](https://issues.apache.org/jira/browse/MEJB-93) - Prevent re-adding of main artifact twice
+ * [MEJB-94](https://issues.apache.org/jira/browse/MEJB-94) - Make integration tests more reliable
+ * [MEJB-97](https://issues.apache.org/jira/browse/MEJB-97) - Remove param properties that doesn't make sense for CLI usage
+ * [MEJB-101](https://issues.apache.org/jira/browse/MEJB-101) - Upgrade maven-shared-components parent to version 30
+ * [MEJB-108](https://issues.apache.org/jira/browse/MEJB-108) - Upgrade bound plugins to life cycle
+ * [MEJB-113](https://issues.apache.org/jira/browse/MEJB-113) - Move component.xml to correct location.
 
 Dependency Upgrades:
 
- * {% ajl MEJB-114 %} - Upgrade plexus-utils to version 3.1.0
- * {% ajl MEJB-111 %} - Upgrade plexus-archiver to 3.5.
- * {% ajl MEJB-110 %} - Updated maven-archiver to 3.2.0
- * {% ajl MEJB-107 %} - Upgrade of plexus-interpolation to 1.24.
- * {% ajl MEJB-106 %} - Upgrade of maven-archiver to 3.1.1.
- * {% ajl MEJB-105 %} - Upgrade of maven-archiver to 3.1.0.
- * {% ajl MEJB-104 %} - Upgrade of maven-filtering to 3.1.1.
- * {% ajl MEJB-103 %} - Upgrade of plexus-interpolation to 1.22.
- * {% ajl MEJB-102 %} - Upgrade of plexus-archiver to 3.4.
- * {% ajl MEJB-100 %} - Upgrade plexus-archiver from 3.2 to 3.3
- * {% ajl MEJB-99 %} - Upgrade maven-filtering to 3.1.0
- * {% ajl MEJB-98 %} - Upgrade maven-archiver to 3.0.2
- * {% ajl MEJB-96 %} - Upgrade plexus-archiver to 3.1.1
- * {% ajl MEJB-95 %} - Upgrade plexus-archiver from 3.0.1 to 3.0.3
- * {% ajl MEJB-91 %} - Upgrade plexus-archiver from 2.10.2 to 3.0.1
- * {% ajl MEJB-90 %} - Upgrade commons-io to 2.4
+ * [MEJB-114](https://issues.apache.org/jira/browse/MEJB-114) - Upgrade plexus-utils to version 3.1.0
+ * [MEJB-111](https://issues.apache.org/jira/browse/MEJB-111) - Upgrade plexus-archiver to 3.5.
+ * [MEJB-110](https://issues.apache.org/jira/browse/MEJB-110) - Updated maven-archiver to 3.2.0
+ * [MEJB-107](https://issues.apache.org/jira/browse/MEJB-107) - Upgrade of plexus-interpolation to 1.24.
+ * [MEJB-106](https://issues.apache.org/jira/browse/MEJB-106) - Upgrade of maven-archiver to 3.1.1.
+ * [MEJB-105](https://issues.apache.org/jira/browse/MEJB-105) - Upgrade of maven-archiver to 3.1.0.
+ * [MEJB-104](https://issues.apache.org/jira/browse/MEJB-104) - Upgrade of maven-filtering to 3.1.1.
+ * [MEJB-103](https://issues.apache.org/jira/browse/MEJB-103) - Upgrade of plexus-interpolation to 1.22.
+ * [MEJB-102](https://issues.apache.org/jira/browse/MEJB-102) - Upgrade of plexus-archiver to 3.4.
+ * [MEJB-100](https://issues.apache.org/jira/browse/MEJB-100) - Upgrade plexus-archiver from 3.2 to 3.3
+ * [MEJB-99](https://issues.apache.org/jira/browse/MEJB-99) - Upgrade maven-filtering to 3.1.0
+ * [MEJB-98](https://issues.apache.org/jira/browse/MEJB-98) - Upgrade maven-archiver to 3.0.2
+ * [MEJB-96](https://issues.apache.org/jira/browse/MEJB-96) - Upgrade plexus-archiver to 3.1.1
+ * [MEJB-95](https://issues.apache.org/jira/browse/MEJB-95) - Upgrade plexus-archiver from 3.0.1 to 3.0.3
+ * [MEJB-91](https://issues.apache.org/jira/browse/MEJB-91) - Upgrade plexus-archiver from 2.10.2 to 3.0.1
+ * [MEJB-90](https://issues.apache.org/jira/browse/MEJB-90) - Upgrade commons-io to 2.4
 
 
 Enjoy,

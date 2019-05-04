@@ -11,7 +11,7 @@ contains two bug fixes:
 
 Fixed bugs:
 
- * {% chjl MINSTALL-98 %} - installAtEnd broken with parallel builds
- * {% chjl MINSTALL-99 %}  - InstallAtEnd should respect plugin-configuration per project
+ * [MINSTALL-98](https://issues.apache.org/jira/browse/MINSTALL-98) - installAtEnd broken with parallel builds
+ * [MINSTALL-99](https://issues.apache.org/jira/browse/MINSTALL-99)  - InstallAtEnd should respect plugin-configuration per project
 
 Thanks to the Maven Team.

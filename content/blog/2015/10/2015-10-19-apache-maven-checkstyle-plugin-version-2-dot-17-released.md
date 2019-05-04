@@ -27,20 +27,20 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MCHECKSTYLE-302 %} - Using inline configuration does not work with Maven 2.2.1
- * {% ajl MCHECKSTYLE-304 %} - Using inline configuration, checkstyle-checker.xml is generated using DTD v1.2
- * {% ajl MCHECKSTYLE-310 %} - Parrallel build failing with various errors
- * {% ajl MCHECKSTYLE-311 %} - "mvn clean site -Preporting" fails with Could not find resource 'config/maven_checks.xml'
+ * [MCHECKSTYLE-302](https://issues.apache.org/jira/browse/MCHECKSTYLE-302) - Using inline configuration does not work with Maven 2.2.1
+ * [MCHECKSTYLE-304](https://issues.apache.org/jira/browse/MCHECKSTYLE-304) - Using inline configuration, checkstyle-checker.xml is generated using DTD v1.2
+ * [MCHECKSTYLE-310](https://issues.apache.org/jira/browse/MCHECKSTYLE-310) - Parrallel build failing with various errors
+ * [MCHECKSTYLE-311](https://issues.apache.org/jira/browse/MCHECKSTYLE-311) - "mvn clean site -Preporting" fails with Could not find resource 'config/maven_checks.xml'
 
 Improvements:
 
- * {% ajl MCHECKSTYLE-291 %} - Change format of violation message
- * {% ajl MCHECKSTYLE-293 %} - Update to use non deprecated method Checker.setClassLoader()
+ * [MCHECKSTYLE-291](https://issues.apache.org/jira/browse/MCHECKSTYLE-291) - Change format of violation message
+ * [MCHECKSTYLE-293](https://issues.apache.org/jira/browse/MCHECKSTYLE-293) - Update to use non deprecated method Checker.setClassLoader()
 
 Tasks:
 
- * {% ajl MCHECKSTYLE-307 %} - Upgrade to Checkstyle 6.11
- * {% ajl MCHECKSTYLE-313 %} - Upgrade to Checkstyle 6.11.2
+ * [MCHECKSTYLE-307](https://issues.apache.org/jira/browse/MCHECKSTYLE-307) - Upgrade to Checkstyle 6.11
+ * [MCHECKSTYLE-313](https://issues.apache.org/jira/browse/MCHECKSTYLE-313) - Upgrade to Checkstyle 6.11.2
 
 
 Enjoy,

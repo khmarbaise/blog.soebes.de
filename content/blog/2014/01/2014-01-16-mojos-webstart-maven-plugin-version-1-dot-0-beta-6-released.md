@@ -43,20 +43,20 @@ Some links:
 
 Fixed Bugs:
 
- * {% chjl MWEBSTART-131 %} - Webstart plugin, with no main class
- * {% chjl MWEBSTART-143 %} - An error occurred attempting to copy a file to the JNLP output directory.
- * {% chjl MWEBSTART-203 %} - Problem copying dependent jar files
- * {% chjl MWEBSTART-244 %} - Using outputJarVersions does not works with extensions
- * {% chjl MWEBSTART-245 %} - filenameMapping is by default full, but file are still using the simple mode
+ * [MWEBSTART-131] - Webstart plugin, with no main class
+ * [MWEBSTART-143] - An error occurred attempting to copy a file to the JNLP output directory.
+ * [MWEBSTART-203] - Problem copying dependent jar files
+ * [MWEBSTART-244] - Using outputJarVersions does not works with extensions
+ * [MWEBSTART-245] - filenameMapping is by default full, but file are still using the simple mode
 
 Improvements:
 
- * {% chjl MWEBSTART-88 %} - HttpJarSignClient - New goal "httpsign" which will sign jar files by submitting them to a signing service via HTTP Post
- * {% chjl MWEBSTART-126 %} - The plugin should be silent
+ * [MWEBSTART-88] - HttpJarSignClient - New goal "httpsign" which will sign jar files by submitting them to a signing service via HTTP Post
+ * [MWEBSTART-126] - The plugin should be silent
 
 New Feature:
 
- * {% chjl MWEBSTART-11 %} - Support generation of JNLP components
+ * [MWEBSTART-11] - Support generation of JNLP components
 
 
 Have Fun!

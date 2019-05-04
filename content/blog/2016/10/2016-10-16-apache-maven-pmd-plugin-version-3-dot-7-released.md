@@ -31,23 +31,23 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MPMD-162 %} - PMD/CPD report does not take into account pmd.excludeFromFailureFile
- * {% ajl MPMD-178 %} - ExcludeRoots doesn't handle subdirectories (PMD isn't working nicely with Android projects)
- * {% ajl MPMD-213 %} - Remove unnecessary (read-only) parameter "language" from check goal
- * {% ajl MPMD-219 %} - Maven PMD Plugin ignores PMD processing errors
+ * [MPMD-162](https://issues.apache.org/jira/browse/MPMD-162) - PMD/CPD report does not take into account pmd.excludeFromFailureFile
+ * [MPMD-178](https://issues.apache.org/jira/browse/MPMD-178) - ExcludeRoots doesn't handle subdirectories (PMD isn't working nicely with Android projects)
+ * [MPMD-213](https://issues.apache.org/jira/browse/MPMD-213) - Remove unnecessary (read-only) parameter "language" from check goal
+ * [MPMD-219](https://issues.apache.org/jira/browse/MPMD-219) - Maven PMD Plugin ignores PMD processing errors
 
 Improvements:
 
- * {% ajl MPMD-212 %} - Add documentation and IT for MPMD-206
- * {% ajl MPMD-220 %} - Upgrade to PMD 5.5.1 (requires Java 7)
- * {% ajl MPMD-227 %} - Document multimodule configuration example
- * {% ajl MPMD-228 %} - Upgrade maven-plugins to version 30
- * {% ajl MPMD-229 %} - Cleanup POM, remove temporary workarounds
+ * [MPMD-212](https://issues.apache.org/jira/browse/MPMD-212) - Add documentation and IT for MPMD-206
+ * [MPMD-220](https://issues.apache.org/jira/browse/MPMD-220) - Upgrade to PMD 5.5.1 (requires Java 7)
+ * [MPMD-227](https://issues.apache.org/jira/browse/MPMD-227) - Document multimodule configuration example
+ * [MPMD-228](https://issues.apache.org/jira/browse/MPMD-228) - Upgrade maven-plugins to version 30
+ * [MPMD-229](https://issues.apache.org/jira/browse/MPMD-229) - Cleanup POM, remove temporary workarounds
 
 Tasks:
 
- * {% ajl MPMD-196 %} - Do not rely in tests on toLowerCase but on toLowerCase(Locale.ROOT)
- * {% ajl MPMD-226 %} - Require Java 7
+ * [MPMD-196](https://issues.apache.org/jira/browse/MPMD-196) - Do not rely in tests on toLowerCase but on toLowerCase(Locale.ROOT)
+ * [MPMD-226](https://issues.apache.org/jira/browse/MPMD-226) - Require Java 7
 
 Enjoy,
 

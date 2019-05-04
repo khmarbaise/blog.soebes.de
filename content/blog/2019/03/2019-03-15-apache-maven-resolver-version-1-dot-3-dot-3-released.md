@@ -29,11 +29,11 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bug:
 
- * {%ajl MRESOLVER-67 %} - The Maven resolver API 1.3.2 JAR deployed on Maven central has been built with Java 11
+ * [MRESOLVER-67](https://issues.apache.org/jira/browse/MRESOLVER-67) - The Maven resolver API 1.3.2 JAR deployed on Maven central has been built with Java 11
 
 Wish:
 
- * {%ajl MRESOLVER-53 %} - Document runtime exceptions
+ * [MRESOLVER-53](https://issues.apache.org/jira/browse/MRESOLVER-53) - Document runtime exceptions
 
 Enjoy,
 

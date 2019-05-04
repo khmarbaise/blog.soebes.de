@@ -31,13 +31,13 @@ Important Note:
 
 Bugs:
 
- * {% ajl MJAR-223 %} - classpathLayoutType is not taken into account when building the classpath attribute in the manifest
- * {% ajl MJAR-228 %} - Plugin generates wrong Class-Path in MANIFEST
- * {% ajl MJAR-229 %} - Upgrade maven-archiver to 3.1.1
+ * [MJAR-223](https://issues.apache.org/jira/browse/MJAR-223) - classpathLayoutType is not taken into account when building the classpath attribute in the manifest
+ * [MJAR-228](https://issues.apache.org/jira/browse/MJAR-228) - Plugin generates wrong Class-Path in MANIFEST
+ * [MJAR-229](https://issues.apache.org/jira/browse/MJAR-229) - Upgrade maven-archiver to 3.1.1
 
 Task:
 
- * {% ajl MJAR-230 %} - Upgrade of plexus-archiver to 3.4.
+ * [MJAR-230](https://issues.apache.org/jira/browse/MJAR-230) - Upgrade of plexus-archiver to 3.4.
 
 Enjoy,
 

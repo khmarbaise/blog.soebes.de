@@ -35,18 +35,18 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bug:
 
- * {% ajl MSHARED-466 %} -  Filtering dependencies does not retain the order of the unfiltered list
+ * [MSHARED-466](https://issues.apache.org/jira/browse/MSHARED-466) -  Filtering dependencies does not retain the order of the unfiltered list
 
 Improvements:
 
- * {% ajl MSHARED-403 %} -  Upgrade to Maven 2.2.1 compatiblity
- * {% ajl MSHARED-404 %} -  Upgrade maven-shared-utils to 0.7
- * {% ajl MSHARED-423 %} -  Change JDK + Maven requirements
- * {% ajl MSHARED-424 %} -  Add Filter mechanism which can be passed to Sonatype/Eclipse Aether
- * {% ajl MSHARED-425 %} -  Change construct-method signatures of ArtifactTransitivityFilter; don't use deprecated M2 code
- * {% ajl MSHARED-450 %} -  Upgrade maven-shared-utils to 3.0.0
- * {% ajl MSHARED-458 %} -  Upgrade maven-shared-components parent to version 22
- * {% ajl MSHARED-468 %} -  Remove @Deprecated marked code
+ * [MSHARED-403](https://issues.apache.org/jira/browse/MSHARED-403) -  Upgrade to Maven 2.2.1 compatiblity
+ * [MSHARED-404](https://issues.apache.org/jira/browse/MSHARED-404) -  Upgrade maven-shared-utils to 0.7
+ * [MSHARED-423](https://issues.apache.org/jira/browse/MSHARED-423) -  Change JDK + Maven requirements
+ * [MSHARED-424](https://issues.apache.org/jira/browse/MSHARED-424) -  Add Filter mechanism which can be passed to Sonatype/Eclipse Aether
+ * [MSHARED-425](https://issues.apache.org/jira/browse/MSHARED-425) -  Change construct-method signatures of ArtifactTransitivityFilter; don't use deprecated M2 code
+ * [MSHARED-450](https://issues.apache.org/jira/browse/MSHARED-450) -  Upgrade maven-shared-utils to 3.0.0
+ * [MSHARED-458](https://issues.apache.org/jira/browse/MSHARED-458) -  Upgrade maven-shared-components parent to version 22
+ * [MSHARED-468](https://issues.apache.org/jira/browse/MSHARED-468) -  Remove @Deprecated marked code
 
  
 Enjoy,

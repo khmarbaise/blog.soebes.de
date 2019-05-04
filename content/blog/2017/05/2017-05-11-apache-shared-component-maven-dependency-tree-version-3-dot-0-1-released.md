@@ -25,12 +25,12 @@ A tree-based API for resolution of Maven project dependencies.
 
 Bug:
 
- * {% ajl MSHARED-437 %} - - maven-dependency-tree removes optional flag from managed dependencies
+ * [MSHARED-437](https://issues.apache.org/jira/browse/MSHARED-437) - - maven-dependency-tree removes optional flag from managed dependencies
 
 Improvements:
 
- * {% ajl MSHARED-526 %} - - Upgrade maven-shared-components parent to version 30
- * {% ajl MSHARED-615 %} - - Change characters used to diplay trees to make relationships clearer
+ * [MSHARED-526](https://issues.apache.org/jira/browse/MSHARED-526) - - Upgrade maven-shared-components parent to version 30
+ * [MSHARED-615](https://issues.apache.org/jira/browse/MSHARED-615) - - Change characters used to diplay trees to make relationships clearer
  
 
 Enjoy,

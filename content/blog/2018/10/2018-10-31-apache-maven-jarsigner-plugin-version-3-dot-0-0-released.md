@@ -30,27 +30,27 @@ You should specify the component in your pom file like this:
 
 Bug:
 
- * {%ajl MSHARED-654 %} - Add support of the "certchain" parameter in JarSigner sign operation
+ * [MSHARED-654](https://issues.apache.org/jira/browse/MSHARED-654) - Add support of the "certchain" parameter in JarSigner sign operation
 
 Improvements:
 
- * {%ajl MSHARED-507 %} - Upgrade maven-shared-components parent to version 22
- * {%ajl MSHARED-508 %} - Upgrade maven-shared-utils to 3.0.0
- * {%ajl MSHARED-510 %} - Add missing apache-rat-plugin configuration for keystore
- * {%ajl MSHARED-530 %} - Upgrade maven-shared-components parent to version 30
- * {%ajl MSHARED-764 %} - Upgrade to JDK 1.7
+ * [MSHARED-507](https://issues.apache.org/jira/browse/MSHARED-507) - Upgrade maven-shared-components parent to version 22
+ * [MSHARED-508](https://issues.apache.org/jira/browse/MSHARED-508) - Upgrade maven-shared-utils to 3.0.0
+ * [MSHARED-510](https://issues.apache.org/jira/browse/MSHARED-510) - Add missing apache-rat-plugin configuration for keystore
+ * [MSHARED-530](https://issues.apache.org/jira/browse/MSHARED-530) - Upgrade maven-shared-components parent to version 30
+ * [MSHARED-764](https://issues.apache.org/jira/browse/MSHARED-764) - Upgrade to JDK 1.7
 
 Tasks:
 
- * {%ajl MSHARED-509 %} - Upgrade Maven 3.X Only JDK 1.6
- * {%ajl MSHARED-626 %} - Upgrade of 'maven-shared-utils' to 3.2.0.
+ * [MSHARED-509](https://issues.apache.org/jira/browse/MSHARED-509) - Upgrade Maven 3.X Only JDK 1.6
+ * [MSHARED-626](https://issues.apache.org/jira/browse/MSHARED-626) - Upgrade of 'maven-shared-utils' to 3.2.0.
 
 Dependency upgrades:
 
- * {%ajl MSHARED-736 %} - Upgrade parent to 31
- * {%ajl MSHARED-739 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
- * {%ajl MSHARED-745 %} - Upgrade maven-shared-utils to 3.2.1
- * {%ajl MSHARED-746 %} - Upgrade junit to junit 4.12
+ * [MSHARED-736](https://issues.apache.org/jira/browse/MSHARED-736) - Upgrade parent to 31
+ * [MSHARED-739](https://issues.apache.org/jira/browse/MSHARED-739) - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * [MSHARED-745](https://issues.apache.org/jira/browse/MSHARED-745) - Upgrade maven-shared-utils to 3.2.1
+ * [MSHARED-746](https://issues.apache.org/jira/browse/MSHARED-746) - Upgrade junit to junit 4.12
 
 Enjoy,
 

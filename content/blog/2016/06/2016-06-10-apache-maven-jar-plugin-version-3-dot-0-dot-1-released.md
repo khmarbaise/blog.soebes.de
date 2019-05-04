@@ -31,13 +31,13 @@ Important Note:
 
 Bug:
 
- * {% ajl MJAR-226 %} - Memory issues - Upgrade maven-archiver to 3.1.0
+ * [MJAR-226](https://issues.apache.org/jira/browse/MJAR-226) - Memory issues - Upgrade maven-archiver to 3.1.0
 
 Improvements:
 
- * {% ajl MJAR-219 %} - Improve confusing text wrt Jarsigner plugin on Usage page
- * {% ajl MJAR-225 %} - Upgrade maven-plugins to version 30
- * {% ajl MJAR-227 %} - Upgrade of 'plexus-archiver' to version 3.3.
+ * [MJAR-219](https://issues.apache.org/jira/browse/MJAR-219) - Improve confusing text wrt Jarsigner plugin on Usage page
+ * [MJAR-225](https://issues.apache.org/jira/browse/MJAR-225) - Upgrade maven-plugins to version 30
+ * [MJAR-227](https://issues.apache.org/jira/browse/MJAR-227) - Upgrade of 'plexus-archiver' to version 3.3.
 
 Enjoy,
 

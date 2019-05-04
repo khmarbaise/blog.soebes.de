@@ -32,19 +32,19 @@ You can download the [appropriate sources etc. from the download page][download-
 
 Bug:
 
- * {%ajl MSHADE-302 %} - maven-shade-plugin fails to minimize JAR with Java 11
+ * [MSHADE-302](https://issues.apache.org/jira/browse/MSHADE-302) - maven-shade-plugin fails to minimize JAR with Java 11
 
 Improvement:
 
- * {%ajl MSHADE-303 %} - Suppress module-info.class warning if the file if filtered
+ * [MSHADE-303](https://issues.apache.org/jira/browse/MSHADE-303) - Suppress module-info.class warning if the file if filtered
 
 Task:
 
- * {%ajl MSHADE-301 %} - java11 support
+ * [MSHADE-301](https://issues.apache.org/jira/browse/MSHADE-301) - java11 support
 
 Dependency upgrade:
 
- * {%ajl MSHADE-299 %} - Upgrade maven-dependency-tree to 3.0.1
+ * [MSHADE-299](https://issues.apache.org/jira/browse/MSHADE-299) - Upgrade maven-dependency-tree to 3.0.1
 
 Enjoy,
 

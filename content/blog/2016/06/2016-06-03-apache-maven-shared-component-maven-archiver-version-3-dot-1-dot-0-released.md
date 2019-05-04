@@ -38,17 +38,17 @@ Important Notes since Version 3.1.0:
 
 Bugs:
 
- * {% ajl MSHARED-494 %} - Impossible to generate a reproducible build due to timestamp in pom.properties
- * {% ajl MSHARED-544 %} - Remove maven-fluido-skin from site descriptor
+ * [MSHARED-494](https://issues.apache.org/jira/browse/MSHARED-494) - Impossible to generate a reproducible build due to timestamp in pom.properties
+ * [MSHARED-544](https://issues.apache.org/jira/browse/MSHARED-544) - Remove maven-fluido-skin from site descriptor
 
 Improvements:
 
- * {% ajl MSHARED-515 %} - Addition of xz compression support.
- * {% ajl MSHARED-522 %} - Upgrade maven-shared-components parent to version 30
- * {% ajl MSHARED-539 %} - Upgrade plexus-utils to 3.0.24
- * {% ajl MSHARED-540 %} - Upgrade plexus-interpolation to 1.22
- * {% ajl MSHARED-541 %} - Upgrade maven-shared-utils to 3.0.1
- * {% ajl MSHARED-542 %} - Upgrade plexus-archiver to 3.3
+ * [MSHARED-515](https://issues.apache.org/jira/browse/MSHARED-515) - Addition of xz compression support.
+ * [MSHARED-522](https://issues.apache.org/jira/browse/MSHARED-522) - Upgrade maven-shared-components parent to version 30
+ * [MSHARED-539](https://issues.apache.org/jira/browse/MSHARED-539) - Upgrade plexus-utils to 3.0.24
+ * [MSHARED-540](https://issues.apache.org/jira/browse/MSHARED-540) - Upgrade plexus-interpolation to 1.22
+ * [MSHARED-541](https://issues.apache.org/jira/browse/MSHARED-541) - Upgrade maven-shared-utils to 3.0.1
+ * [MSHARED-542](https://issues.apache.org/jira/browse/MSHARED-542) - Upgrade plexus-archiver to 3.3
  
 Enjoy,
 

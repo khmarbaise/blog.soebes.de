@@ -38,22 +38,22 @@ Important Notes since Version 3.0.0:
 
 Bugs:
 
- * {% ajl MSHARED-154 %} -  pomPropertiesFile does not actually permit override
- * {% ajl MSHARED-191 %} -  Specification-Version must not contain "-SNAPSHOT"
- * {% ajl MSHARED-298 %} -  Errors in manifest example on site
+ * [MSHARED-154](https://issues.apache.org/jira/browse/MSHARED-154) -  pomPropertiesFile does not actually permit override
+ * [MSHARED-191](https://issues.apache.org/jira/browse/MSHARED-191) -  Specification-Version must not contain "-SNAPSHOT"
+ * [MSHARED-298](https://issues.apache.org/jira/browse/MSHARED-298) -  Errors in manifest example on site
 
 Improvements:
 
- * {% ajl MSHARED-296 %} -  Improve header of pom.properties
- * {% ajl MSHARED-465 %} -  Remove @Deprecated marked code
- * {% ajl MSHARED-506 %} -  Upgrade plexus-archiver from 2.9.1 to 3.1.1
- * {% ajl MSHARED-511 %} -  Using structures to keep insertion order for MANIFEST.MF
- * {% ajl MSHARED-512 %} -  Remove @Deprecated marked code which has been missed.
+ * [MSHARED-296](https://issues.apache.org/jira/browse/MSHARED-296) -  Improve header of pom.properties
+ * [MSHARED-465](https://issues.apache.org/jira/browse/MSHARED-465) -  Remove @Deprecated marked code
+ * [MSHARED-506](https://issues.apache.org/jira/browse/MSHARED-506) -  Upgrade plexus-archiver from 2.9.1 to 3.1.1
+ * [MSHARED-511](https://issues.apache.org/jira/browse/MSHARED-511) -  Using structures to keep insertion order for MANIFEST.MF
+ * [MSHARED-512](https://issues.apache.org/jira/browse/MSHARED-512) -  Remove @Deprecated marked code which has been missed.
 
 Tasks:
 
- * {% ajl MSHARED-492 %} -  Upgrade parent to version 22
- * {% ajl MSHARED-493 %} -  Clean up warnings emitted by Javadoc 8 (doclint) and Checkstyle
+ * [MSHARED-492](https://issues.apache.org/jira/browse/MSHARED-492) -  Upgrade parent to version 22
+ * [MSHARED-493](https://issues.apache.org/jira/browse/MSHARED-493) -  Clean up warnings emitted by Javadoc 8 (doclint) and Checkstyle
 
 Enjoy,
 

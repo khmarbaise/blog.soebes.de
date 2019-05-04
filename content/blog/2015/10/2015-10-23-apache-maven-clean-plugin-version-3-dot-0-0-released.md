@@ -33,13 +33,13 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% ajl MCLEAN-56 %} -  Make Plugin only 3.X compatible - get rid of Maven 2.
- * {% ajl MCLEAN-62 %} -  Upgrade to maven-plugins parent version 27
- * {% ajl MCLEAN-63 %} -  Make naming of properties consistent
- * {% ajl MCLEAN-65 %} -  Bump version to 3.0.0
- * {% ajl MCLEAN-66 %} -  Upgrade maven-shared-utils to 0.9
- * {% ajl MCLEAN-67 %} -  Change package name to org.apache.maven.plugins
- * {% ajl MCLEAN-69 %} -  Upgrade maven-shared-utils to 3.0.0
+ * [MCLEAN-56](https://issues.apache.org/jira/browse/MCLEAN-56) -  Make Plugin only 3.X compatible - get rid of Maven 2.
+ * [MCLEAN-62](https://issues.apache.org/jira/browse/MCLEAN-62) -  Upgrade to maven-plugins parent version 27
+ * [MCLEAN-63](https://issues.apache.org/jira/browse/MCLEAN-63) -  Make naming of properties consistent
+ * [MCLEAN-65](https://issues.apache.org/jira/browse/MCLEAN-65) -  Bump version to 3.0.0
+ * [MCLEAN-66](https://issues.apache.org/jira/browse/MCLEAN-66) -  Upgrade maven-shared-utils to 0.9
+ * [MCLEAN-67](https://issues.apache.org/jira/browse/MCLEAN-67) -  Change package name to org.apache.maven.plugins
+ * [MCLEAN-69](https://issues.apache.org/jira/browse/MCLEAN-69) -  Upgrade maven-shared-utils to 3.0.0
 
 
 Enjoy,

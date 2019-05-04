@@ -31,18 +31,18 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bugs:
 
- * {% ajl ARCHETYPE-518 %} - - Archetype cannot be created from project if parent pom.xml evaluates system properties 
- * {% ajl ARCHETYPE-519 %} - - archetype:generate with specified remote archetypeCatalog falls back to internal catalog 
- * {% ajl ARCHETYPE-520 %} - - Following mirror configuration from settings.xml for downloading archetype metadata 
- * {% ajl ARCHETYPE-524 %} - - CreateArchetypeFromProject creates extra folders if a folder contains both filtered and non-filtered files.
+ * [ARCHETYPE-518](https://issues.apache.org/jira/browse/ARCHETYPE-518) - - Archetype cannot be created from project if parent pom.xml evaluates system properties 
+ * [ARCHETYPE-519](https://issues.apache.org/jira/browse/ARCHETYPE-519) - - archetype:generate with specified remote archetypeCatalog falls back to internal catalog 
+ * [ARCHETYPE-520](https://issues.apache.org/jira/browse/ARCHETYPE-520) - - Following mirror configuration from settings.xml for downloading archetype metadata 
+ * [ARCHETYPE-524](https://issues.apache.org/jira/browse/ARCHETYPE-524) - - CreateArchetypeFromProject creates extra folders if a folder contains both filtered and non-filtered files.
 
 Improvement:
 
- * {% ajl ARCHETYPE-522 %} - - Introduce MRM for archetype-maven-plugin ITs
+ * [ARCHETYPE-522](https://issues.apache.org/jira/browse/ARCHETYPE-522) - - Introduce MRM for archetype-maven-plugin ITs
 
 Question:
 
- * {% ajl ARCHETYPE-521 %} - - Cannot specify remote repository for generate project from archetype
+ * [ARCHETYPE-521](https://issues.apache.org/jira/browse/ARCHETYPE-521) - - Cannot specify remote repository for generate project from archetype
 
 Enjoy,
 

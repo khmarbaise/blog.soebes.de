@@ -26,18 +26,18 @@ To get this update, simply specify the version in your project's plugin configur
 
 Bug:
 
- * {% chjl MJDEPEND-8 %} - Add missing scm entry in pom
+ * [MJDEPEND-8](https://issues.apache.org/jira/browse/MJDEPEND-8) - Add missing scm entry in pom
 
 Improvements:
 
- * {% chjl MJDEPEND-6 %} - Stabilize Plugin IT's by using a setup project
- * {% chjl MJDEPEND-9 %} - Improve Usage page
- * {% chjl MJDEPEND-10 %} - State that plugin uses the JDepend library and include link
- * {% chjl MJDEPEND-11 %} - Change the license text.
+ * [MJDEPEND-6](https://issues.apache.org/jira/browse/MJDEPEND-6) - Stabilize Plugin IT's by using a setup project
+ * [MJDEPEND-9](https://issues.apache.org/jira/browse/MJDEPEND-9) - Improve Usage page
+ * [MJDEPEND-10](https://issues.apache.org/jira/browse/MJDEPEND-10) - State that plugin uses the JDepend library and include link
+ * [MJDEPEND-11](https://issues.apache.org/jira/browse/MJDEPEND-11) - Change the license text.
 
 New Feature:
 
- * {% chjl MJDEPEND-1 %} - Add a -no-fork goal
+ * [MJDEPEND-1](https://issues.apache.org/jira/browse/MJDEPEND-1) - Add a -no-fork goal
 
 Enjoy,
 

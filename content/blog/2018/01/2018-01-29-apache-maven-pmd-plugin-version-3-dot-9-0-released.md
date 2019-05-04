@@ -34,19 +34,19 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {%ajl MPMD-235 %} - Javadoc errors when building with java8
- * {%ajl MPMD-240 %} - Migrate plugin to Maven 3.0
- * {%ajl MPMD-244 %} - Maven PMD plugin fails but no reason is given for the failure
- * {%ajl MPMD-245 %} - targetJdk property should use maven.compiler.source by default
- * {%ajl MPMD-248 %} - cpd-check goal leaks file handle
- * {%ajl MPMD-249 %} - The plugin documentation point to old (deprecated) rulesets
- * {%ajl MPMD-251 %} - Invalid report XML is generated with includeXmlInSite=true
+ * [MPMD-235](https://issues.apache.org/jira/browse/MPMD-235) - Javadoc errors when building with java8
+ * [MPMD-240](https://issues.apache.org/jira/browse/MPMD-240) - Migrate plugin to Maven 3.0
+ * [MPMD-244](https://issues.apache.org/jira/browse/MPMD-244) - Maven PMD plugin fails but no reason is given for the failure
+ * [MPMD-245](https://issues.apache.org/jira/browse/MPMD-245) - targetJdk property should use maven.compiler.source by default
+ * [MPMD-248](https://issues.apache.org/jira/browse/MPMD-248) - cpd-check goal leaks file handle
+ * [MPMD-249](https://issues.apache.org/jira/browse/MPMD-249) - The plugin documentation point to old (deprecated) rulesets
+ * [MPMD-251](https://issues.apache.org/jira/browse/MPMD-251) - Invalid report XML is generated with includeXmlInSite=true
 
 Improvements:
 
- * {%ajl MPMD-239 %} - Add documentation about upgrading PMD version at runtime
- * {%ajl MPMD-246 %} - Output details of processing errors
- * {%ajl MPMD-247 %} - Upgrade to PMD 6.0.1
+ * [MPMD-239](https://issues.apache.org/jira/browse/MPMD-239) - Add documentation about upgrading PMD version at runtime
+ * [MPMD-246](https://issues.apache.org/jira/browse/MPMD-246) - Output details of processing errors
+ * [MPMD-247](https://issues.apache.org/jira/browse/MPMD-247) - Upgrade to PMD 6.0.1
 
 Enjoy,
 

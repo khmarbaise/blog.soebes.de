@@ -24,12 +24,12 @@ The Apache Maven team is pleased to announce the release of the
 
 Bug:
 
- * {% ajl MSHARED-422 %} Change DependencyGraphBuilder method signatures
+ * [MSHARED-422](https://issues.apache.org/jira/browse/MSHARED-422) Change DependencyGraphBuilder method signatures
 
 Improvements:
 
- * {% ajl MSHARED-421 %} Change JDK + Maven requirements
- * {% ajl MSHARED-371 %} Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * [MSHARED-421](https://issues.apache.org/jira/browse/MSHARED-421) Change JDK + Maven requirements
+ * [MSHARED-371](https://issues.apache.org/jira/browse/MSHARED-371) Increase chance of java8 compliance by updating to plexus-component-* 1.6
 
 Enjoy,
 

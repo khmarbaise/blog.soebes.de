@@ -35,11 +35,11 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Improvements:
 
- * {% ajl MSHARED-471 %} - Upgrade maven-shared-components parent to version 22
- * {% ajl MSHARED-472 %} - Upgrade maven-shared-utils to 3.0.0
- * {% ajl MSHARED-473 %} - Upgrade Maven 3.X Only JDK 1.6
- * {% ajl MSHARED-476 %} - Removed the empty interface MultiChannelMessageHolder
- * {% ajl MSHARED-479 %} - Bump version to 3.0.0-SNAPSHOT
+ * [MSHARED-471](https://issues.apache.org/jira/browse/MSHARED-471) - Upgrade maven-shared-components parent to version 22
+ * [MSHARED-472](https://issues.apache.org/jira/browse/MSHARED-472) - Upgrade maven-shared-utils to 3.0.0
+ * [MSHARED-473](https://issues.apache.org/jira/browse/MSHARED-473) - Upgrade Maven 3.X Only JDK 1.6
+ * [MSHARED-476](https://issues.apache.org/jira/browse/MSHARED-476) - Removed the empty interface MultiChannelMessageHolder
+ * [MSHARED-479](https://issues.apache.org/jira/browse/MSHARED-479) - Bump version to 3.0.0-SNAPSHOT
  
 Enjoy,
  

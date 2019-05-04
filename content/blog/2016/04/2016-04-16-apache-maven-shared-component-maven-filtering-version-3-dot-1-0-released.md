@@ -37,9 +37,9 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% ajl MSHARED-495 %} -  Add convenience method to move code into Maven Filtering
- * {% ajl MSHARED-496 %} -  Change version from 3.0.1 to 3.1.0-SNAPSHOT to follow semver.
- * {% ajl MSHARED-497 %} -  Allow copying of defaultExcluded files like .gitignore etc. 
+ * [MSHARED-495](https://issues.apache.org/jira/browse/MSHARED-495) -  Add convenience method to move code into Maven Filtering
+ * [MSHARED-496](https://issues.apache.org/jira/browse/MSHARED-496) -  Change version from 3.0.1 to 3.1.0-SNAPSHOT to follow semver.
+ * [MSHARED-497](https://issues.apache.org/jira/browse/MSHARED-497) -  Allow copying of defaultExcluded files like .gitignore etc. 
 
 Enjoy,
 

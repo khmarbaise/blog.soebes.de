@@ -36,24 +36,24 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% ajl MSHARED-368 %} -  Update plexus-interpolation to 1.21 to avoid potential thread safety issues
+ * [MSHARED-368](https://issues.apache.org/jira/browse/MSHARED-368) -  Update plexus-interpolation to 1.21 to avoid potential thread safety issues
 
 Improvements:
 
- * {% ajl MSHARED-367 %} -  Fixed Checkstyle reported errors / warnings
- * {% ajl MSHARED-370 %} -  Text on the main page should be changed
- * {% ajl MSHARED-371 %} -  Increase chance of java8 compliance by updating to plexus-component-* 1.6
- * {% ajl MSHARED-378 %} -  Upgrade maven-shared-utils to 0.7
- * {% ajl MSHARED-441 %} -  Upgrade maven-shared-utils to 3.0.0
- * {% ajl MSHARED-451 %} -  Upgrade Maven 3.0 + JDK 6
- * {% ajl MSHARED-454 %} -  Removed hard code version for maven-changes-plugin
- * {% ajl MSHARED-455 %} -  Update to new maven-shared-components parent pom version 22
- * {% ajl MSHARED-463 %} -  Upgrade to annotation based usage instead of XDoclet
- * {% ajl MSHARED-464 %} -  Upgrade user documentation
+ * [MSHARED-367](https://issues.apache.org/jira/browse/MSHARED-367) -  Fixed Checkstyle reported errors / warnings
+ * [MSHARED-370](https://issues.apache.org/jira/browse/MSHARED-370) -  Text on the main page should be changed
+ * [MSHARED-371](https://issues.apache.org/jira/browse/MSHARED-371) -  Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * [MSHARED-378](https://issues.apache.org/jira/browse/MSHARED-378) -  Upgrade maven-shared-utils to 0.7
+ * [MSHARED-441](https://issues.apache.org/jira/browse/MSHARED-441) -  Upgrade maven-shared-utils to 3.0.0
+ * [MSHARED-451](https://issues.apache.org/jira/browse/MSHARED-451) -  Upgrade Maven 3.0 + JDK 6
+ * [MSHARED-454](https://issues.apache.org/jira/browse/MSHARED-454) -  Removed hard code version for maven-changes-plugin
+ * [MSHARED-455](https://issues.apache.org/jira/browse/MSHARED-455) -  Update to new maven-shared-components parent pom version 22
+ * [MSHARED-463](https://issues.apache.org/jira/browse/MSHARED-463) -  Upgrade to annotation based usage instead of XDoclet
+ * [MSHARED-464](https://issues.apache.org/jira/browse/MSHARED-464) -  Upgrade user documentation
 
 Task:
 
- * {% ajl MSHARED-456 %} -  Removed @Deprecated marked code
+ * [MSHARED-456](https://issues.apache.org/jira/browse/MSHARED-456) -  Removed @Deprecated marked code
 
 Enjoy,
 

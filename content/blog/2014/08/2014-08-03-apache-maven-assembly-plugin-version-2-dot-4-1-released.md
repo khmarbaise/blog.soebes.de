@@ -26,20 +26,20 @@ and other files into a single distributable archive.
 
 Bugs:
 
- * {% chjl MASSEMBLY-637 %} - fileSet <lineEnding>unix</lineEnding> strips last newline of file
- * {% chjl MASSEMBLY-651 %} - REOPEN - OutOfMemory when running maven-assembly-plugin
- * {% chjl MASSEMBLY-652 %} - Resource filtering does not work if line contains single @
- * {% chjl MASSEMBLY-696 %} - Internal Regexp Error with Windows Paths
+ * [MASSEMBLY-637](https://issues.apache.org/jira/browse/MASSEMBLY-637) - fileSet <lineEnding>unix</lineEnding> strips last newline of file
+ * [MASSEMBLY-651](https://issues.apache.org/jira/browse/MASSEMBLY-651) - REOPEN - OutOfMemory when running maven-assembly-plugin
+ * [MASSEMBLY-652](https://issues.apache.org/jira/browse/MASSEMBLY-652) - Resource filtering does not work if line contains single @
+ * [MASSEMBLY-696](https://issues.apache.org/jira/browse/MASSEMBLY-696) - Internal Regexp Error with Windows Paths
 
 Improvements:
 
- * {% chjl MASSEMBLY-639 %} - Change default for recompressZippedFIles back to true
- * {% chjl MASSEMBLY-682 %} - Make a link to the MavenArchiver documentation
- * {% chjl MASSEMBLY-686 %} - Update version of maven-filtering to 1.2
- * {% chjl MASSEMBLY-687 %} - Change the prefered location for assembly descriptors and filter files
- * {% chjl MASSEMBLY-690 %} - Think about WARNING for module dependencies
- * {% chjl MASSEMBLY-693 %} - Update XSD Versions in examples
- * {% chjl MASSEMBLY-694 %} - Generation of the site does not work with Maven 3.2.1
+ * [MASSEMBLY-639](https://issues.apache.org/jira/browse/MASSEMBLY-639) - Change default for recompressZippedFIles back to true
+ * [MASSEMBLY-682](https://issues.apache.org/jira/browse/MASSEMBLY-682) - Make a link to the MavenArchiver documentation
+ * [MASSEMBLY-686](https://issues.apache.org/jira/browse/MASSEMBLY-686) - Update version of maven-filtering to 1.2
+ * [MASSEMBLY-687](https://issues.apache.org/jira/browse/MASSEMBLY-687) - Change the prefered location for assembly descriptors and filter files
+ * [MASSEMBLY-690](https://issues.apache.org/jira/browse/MASSEMBLY-690) - Think about WARNING for module dependencies
+ * [MASSEMBLY-693](https://issues.apache.org/jira/browse/MASSEMBLY-693) - Update XSD Versions in examples
+ * [MASSEMBLY-694](https://issues.apache.org/jira/browse/MASSEMBLY-694) - Generation of the site does not work with Maven 3.2.1
 
 Enjoy,
 

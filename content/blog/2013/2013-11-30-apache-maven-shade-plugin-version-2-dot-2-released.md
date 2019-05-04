@@ -29,6 +29,6 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% chjl MSHADE-158 %} - Allow shading of test jar
+ * [MSHADE-158](https://issues.apache.org/jira/browse/MSHADE-158) - Allow shading of test jar
 
 Have fun.

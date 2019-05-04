@@ -39,10 +39,10 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Dependency upgrades:
 
- * {%ajl MPLUGIN-333 %} - Upgrade parent to 31
- * {%ajl MPLUGIN-334 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
- * {%ajl MPLUGIN-335 %} - Support JDK 10 for plugin generation: upgrade asm
- * {%ajl MPLUGIN-338 %} - Upgrade plexus-archiver to 3.6.0
+ * [MPLUGIN-333](https://issues.apache.org/jira/browse/MPLUGIN-333) - Upgrade parent to 31
+ * [MPLUGIN-334](https://issues.apache.org/jira/browse/MPLUGIN-334) - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * [MPLUGIN-335](https://issues.apache.org/jira/browse/MPLUGIN-335) - Support JDK 10 for plugin generation: upgrade asm
+ * [MPLUGIN-338](https://issues.apache.org/jira/browse/MPLUGIN-338) - Upgrade plexus-archiver to 3.6.0
 
 Enjoy,
 

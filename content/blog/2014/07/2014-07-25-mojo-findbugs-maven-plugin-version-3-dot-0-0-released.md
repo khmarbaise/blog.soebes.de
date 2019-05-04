@@ -32,6 +32,6 @@ Release Notes - Mojo's FindBugs Maven Plugin - Version 3.0.0
 
 New Feature:
 
- * {% chjl MFINDBUGS-199 %} - Upgrade to Findbugs 3.0.0
+ * [MFINDBUGS-199] - Upgrade to Findbugs 3.0.0
 
 

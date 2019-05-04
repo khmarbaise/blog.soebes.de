@@ -38,49 +38,49 @@ Important Note:
 
 Bugs:
 
- * {% ajl MWAR-367 %} - Overlay removes /META-INF/context.xml
- * {% ajl MWAR-369 %} - Upgrade to XStream 1.4.9
- * {% ajl MWAR-379 %} - manifest goal violates general Maven principle and creates file into src/main/..
+ * [MWAR-367](https://issues.apache.org/jira/browse/MWAR-367) - Overlay removes /META-INF/context.xml
+ * [MWAR-369](https://issues.apache.org/jira/browse/MWAR-369) - Upgrade to XStream 1.4.9
+ * [MWAR-379](https://issues.apache.org/jira/browse/MWAR-379) - manifest goal violates general Maven principle and creates file into src/main/..
 
 Documentation:
 
- * {% ajl MWAR-346 %} - Fix broken links
+ * [MWAR-346](https://issues.apache.org/jira/browse/MWAR-346) - Fix broken links
 
 Improvements:
 
- * {% ajl MWAR-225 %} - Add support for customizing filtering delimiters like the resources plugin
- * {% ajl MWAR-262 %} - <failOnMissingWebXml> default value should be false for Servlet level > 2.5 projects
- * {% ajl MWAR-326 %} - Add LifecycleMapping and ArtifactHandler from maven-core to target packaging plugin
- * {% ajl MWAR-328 %} - Upgrade to Maven 3.0 compatiblity / JDK 6
- * {% ajl MWAR-347 %} - Upgrade plexus-io to 2.6
- * {% ajl MWAR-348 %} - Upgrade maven-invoker-plugin to 1.10
- * {% ajl MWAR-349 %} - Upgrade to fluido skin 1.4.0
- * {% ajl MWAR-361 %} - Removed unused dependencies in project
- * {% ajl MWAR-362 %} - Bump version to 3.0.0-SNAPSHOT
- * {% ajl MWAR-363 %} - Removed hard coded version for maven-invoker-plugin
- * {% ajl MWAR-364 %} - Upgrade plexus-utils to 3.0.22
- * {% ajl MWAR-365 %} - Upgrade plexus-archiver from 3.0.1 to 3.0.3
- * {% ajl MWAR-366 %} - Change package to org.apache.maven.plugins to prevent conflict with Maven Core
- * {% ajl MWAR-370 %} - Upgrade plexus-archiver 3.0.3 to 3.1.1
- * {% ajl MWAR-372 %} - Upgrade maven-archiver to 3.0.1
- * {% ajl MWAR-373 %} - Make finalName readonly parameter
- * {% ajl MWAR-376 %} - Remove param properties that doesn't make sense for CLI usage
- * {% ajl MWAR-380 %} - Filtered resources folder should be changed
- * {% ajl MWAR-381 %} - Upgrade maven-archiver to 3.0.2
- * {% ajl MWAR-382 %} - Upgrade plexus-utils to 3.0.24
- * {% ajl MWAR-383 %} - Upgrade plexus-archiver to 3.2 / commons-io to 2.5
- * {% ajl MWAR-385 %} - Upgrade maven-plugins to version 30
- * {% ajl MWAR-387 %} - Upgrade of 'plexus-archiver' to version 3.3.
- * {% ajl MWAR-388 %} - Upgrade maven-archiver to 3.1.0
- * {% ajl MWAR-389 %} - Upgrade maven-filtering to 3.1.1
+ * [MWAR-225](https://issues.apache.org/jira/browse/MWAR-225) - Add support for customizing filtering delimiters like the resources plugin
+ * [MWAR-262](https://issues.apache.org/jira/browse/MWAR-262) - <failOnMissingWebXml> default value should be false for Servlet level > 2.5 projects
+ * [MWAR-326](https://issues.apache.org/jira/browse/MWAR-326) - Add LifecycleMapping and ArtifactHandler from maven-core to target packaging plugin
+ * [MWAR-328](https://issues.apache.org/jira/browse/MWAR-328) - Upgrade to Maven 3.0 compatiblity / JDK 6
+ * [MWAR-347](https://issues.apache.org/jira/browse/MWAR-347) - Upgrade plexus-io to 2.6
+ * [MWAR-348](https://issues.apache.org/jira/browse/MWAR-348) - Upgrade maven-invoker-plugin to 1.10
+ * [MWAR-349](https://issues.apache.org/jira/browse/MWAR-349) - Upgrade to fluido skin 1.4.0
+ * [MWAR-361](https://issues.apache.org/jira/browse/MWAR-361) - Removed unused dependencies in project
+ * [MWAR-362](https://issues.apache.org/jira/browse/MWAR-362) - Bump version to 3.0.0-SNAPSHOT
+ * [MWAR-363](https://issues.apache.org/jira/browse/MWAR-363) - Removed hard coded version for maven-invoker-plugin
+ * [MWAR-364](https://issues.apache.org/jira/browse/MWAR-364) - Upgrade plexus-utils to 3.0.22
+ * [MWAR-365](https://issues.apache.org/jira/browse/MWAR-365) - Upgrade plexus-archiver from 3.0.1 to 3.0.3
+ * [MWAR-366](https://issues.apache.org/jira/browse/MWAR-366) - Change package to org.apache.maven.plugins to prevent conflict with Maven Core
+ * [MWAR-370](https://issues.apache.org/jira/browse/MWAR-370) - Upgrade plexus-archiver 3.0.3 to 3.1.1
+ * [MWAR-372](https://issues.apache.org/jira/browse/MWAR-372) - Upgrade maven-archiver to 3.0.1
+ * [MWAR-373](https://issues.apache.org/jira/browse/MWAR-373) - Make finalName readonly parameter
+ * [MWAR-376](https://issues.apache.org/jira/browse/MWAR-376) - Remove param properties that doesn't make sense for CLI usage
+ * [MWAR-380](https://issues.apache.org/jira/browse/MWAR-380) - Filtered resources folder should be changed
+ * [MWAR-381](https://issues.apache.org/jira/browse/MWAR-381) - Upgrade maven-archiver to 3.0.2
+ * [MWAR-382](https://issues.apache.org/jira/browse/MWAR-382) - Upgrade plexus-utils to 3.0.24
+ * [MWAR-383](https://issues.apache.org/jira/browse/MWAR-383) - Upgrade plexus-archiver to 3.2 / commons-io to 2.5
+ * [MWAR-385](https://issues.apache.org/jira/browse/MWAR-385) - Upgrade maven-plugins to version 30
+ * [MWAR-387](https://issues.apache.org/jira/browse/MWAR-387) - Upgrade of 'plexus-archiver' to version 3.3.
+ * [MWAR-388](https://issues.apache.org/jira/browse/MWAR-388) - Upgrade maven-archiver to 3.1.0
+ * [MWAR-389](https://issues.apache.org/jira/browse/MWAR-389) - Upgrade maven-filtering to 3.1.1
 
 New Feature:
 
- * {% ajl MWAR-350 %} - Add Skip Parameter to Skip the process
+ * [MWAR-350](https://issues.apache.org/jira/browse/MWAR-350) - Add Skip Parameter to Skip the process
 Task
- * {% ajl MWAR-391 %} - Upgrade of plexus-archiver to 3.4.
- * {% ajl MWAR-392 %} - Upgrade of plexus-interpolation to 1.22.
- * {% ajl MWAR-393 %} - Upgrade of maven-archiver to 3.1.1.
+ * [MWAR-391](https://issues.apache.org/jira/browse/MWAR-391) - Upgrade of plexus-archiver to 3.4.
+ * [MWAR-392](https://issues.apache.org/jira/browse/MWAR-392) - Upgrade of plexus-interpolation to 1.22.
+ * [MWAR-393](https://issues.apache.org/jira/browse/MWAR-393) - Upgrade of maven-archiver to 3.1.1.
 
 Enjoy,
 

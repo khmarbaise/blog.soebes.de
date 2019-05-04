@@ -38,25 +38,25 @@ https://maven.apache.org/pom/maven/download.html
 
 Bug:
 
- * {%ajl MPOM-202 %} - Links to nabble archive only work with http
+ * [MPOM-202](https://issues.apache.org/jira/browse/MPOM-202) - Links to nabble archive only work with http
 
 Improvement:
 
- * {%ajl MPOM-203 %} - Links to mailing list will not open mail 
+ * [MPOM-203](https://issues.apache.org/jira/browse/MPOM-203) - Links to mailing list will not open mail 
 
 Wish:
 
- * {%ajl MPOM-197 %} - Remove deprecated plexus-maven-plugin from pluginManagement
+ * [MPOM-197](https://issues.apache.org/jira/browse/MPOM-197) - Remove deprecated plexus-maven-plugin from pluginManagement
 
 Tasks:
  
- * {%ajl MPOM-199 %} - remove Archetypes parent POM from menu
- * {%ajl MPOM-201 %} - configure m2e lifecyle-mapping to ignore rat:check 
- * {%ajl MPOM-206 %} - use sha512 instead of sha1 for source release distribution
+ * [MPOM-199](https://issues.apache.org/jira/browse/MPOM-199) - remove Archetypes parent POM from menu
+ * [MPOM-201](https://issues.apache.org/jira/browse/MPOM-201) - configure m2e lifecyle-mapping to ignore rat:check 
+ * [MPOM-206](https://issues.apache.org/jira/browse/MPOM-206) - use sha512 instead of sha1 for source release distribution
 
 Dependency upgrade:
 
- * {%ajl MPOM-198 %} - Update plexus-utils to 3.1.0 for Doxia Tools
+ * [MPOM-198](https://issues.apache.org/jira/browse/MPOM-198) - Update plexus-utils to 3.1.0 for Doxia Tools
 
 Enjoy,
 - The Apache Maven Team

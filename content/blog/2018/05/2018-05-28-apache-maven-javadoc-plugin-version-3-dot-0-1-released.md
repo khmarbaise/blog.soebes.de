@@ -31,21 +31,21 @@ https://maven.apache.org/plugins/maven-javadoc-plugin/download.cgi
 
 Bugs:
 
- * {%ajl MJAVADOC-427 %} - "Error fetching URL" for valid non-Java API links
- * {%ajl MJAVADOC-504 %} - NullPointerException in JavadocUtil.getJavaHome() when JAVA_HOME isn't set
- * {%ajl MJAVADOC-512 %} - Even when <javadocVersion>1.8.0</javadocVersion> matches there still is a warning.
- * {%ajl MJAVADOC-517 %} - NPE under Java 10 RC
+ * [MJAVADOC-427](https://issues.apache.org/jira/browse/MJAVADOC-427) - "Error fetching URL" for valid non-Java API links
+ * [MJAVADOC-504](https://issues.apache.org/jira/browse/MJAVADOC-504) - NullPointerException in JavadocUtil.getJavaHome() when JAVA_HOME isn't set
+ * [MJAVADOC-512](https://issues.apache.org/jira/browse/MJAVADOC-512) - Even when <javadocVersion>1.8.0</javadocVersion> matches there still is a warning.
+ * [MJAVADOC-517](https://issues.apache.org/jira/browse/MJAVADOC-517) - NPE under Java 10 RC
 
 Improvements:
 
- * {%ajl MJAVADOC-487 %} - Follow redirects
- * {%ajl MJAVADOC-508 %} - Option to fail in case of javadoc warning
+ * [MJAVADOC-487](https://issues.apache.org/jira/browse/MJAVADOC-487) - Follow redirects
+ * [MJAVADOC-508](https://issues.apache.org/jira/browse/MJAVADOC-508) - Option to fail in case of javadoc warning
 
 Dependency upgrades:
 
- * {%ajl MJAVADOC-515 %} - Upgrade parent to 31
- * {%ajl MJAVADOC-520 %} - Upgrade plexus-utils/qdox/plexus-archiver/
- * {%ajl MJAVADOC-521 %} - Add documentation information for GitHub
+ * [MJAVADOC-515](https://issues.apache.org/jira/browse/MJAVADOC-515) - Upgrade parent to 31
+ * [MJAVADOC-520](https://issues.apache.org/jira/browse/MJAVADOC-520) - Upgrade plexus-utils/qdox/plexus-archiver/
+ * [MJAVADOC-521](https://issues.apache.org/jira/browse/MJAVADOC-521) - Add documentation information for GitHub
 
 
 Enjoy,

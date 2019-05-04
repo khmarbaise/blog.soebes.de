@@ -29,12 +29,12 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% chjl MPMD-192 %} - Regression MPMD-89 is showing up with Maven 2.2.1 again for maven-pmd-plugin-3.3
+ * [MPMD-192](https://issues.apache.org/jira/browse/MPMD-192) - Regression MPMD-89 is showing up with Maven 2.2.1 again for maven-pmd-plugin-3.3
 
 Improvements:
 
- * {% chjl MPMD-189 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MPMD-191 %} - Update to PMD 5.2.1
+ * [MPMD-189](https://issues.apache.org/jira/browse/MPMD-189) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MPMD-191](https://issues.apache.org/jira/browse/MPMD-191) - Update to PMD 5.2.1
 
 Enjoy,
 

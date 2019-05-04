@@ -30,13 +30,13 @@ Important Note:
 
 Bug:
 
- * {% ajl MRESOURCES-225 %} - Hyperlink error on character encoding example page
+ * [MRESOURCES-225](https://issues.apache.org/jira/browse/MRESOURCES-225) - Hyperlink error on character encoding example page
 
 Improvements:
 
- * {% ajl MRESOURCES-226 %} - Too much logging in normal mode
- * {% ajl MRESOURCES-227 %} - Upgrade maven-plugins to version 30
- * {% ajl MRESOURCES-229 %} - Upgrade plexus-interpolation to 1.22
+ * [MRESOURCES-226](https://issues.apache.org/jira/browse/MRESOURCES-226) - Too much logging in normal mode
+ * [MRESOURCES-227](https://issues.apache.org/jira/browse/MRESOURCES-227) - Upgrade maven-plugins to version 30
+ * [MRESOURCES-229](https://issues.apache.org/jira/browse/MRESOURCES-229) - Upgrade plexus-interpolation to 1.22
 
 
 

@@ -27,17 +27,17 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MCOMPILER-157 %} - Maven Compiler Plugin should add to compileSourceRoots for next plugins to consider as source directory for generated files
- * {% chjl MCOMPILER-224 %} - Maven compiler plugin does not properly consume plexus compiler output
+ * [MCOMPILER-157](https://issues.apache.org/jira/browse/MCOMPILER-157) - Maven Compiler Plugin should add to compileSourceRoots for next plugins to consider as source directory for generated files
+ * [MCOMPILER-224](https://issues.apache.org/jira/browse/MCOMPILER-224) - Maven compiler plugin does not properly consume plexus compiler output
 
 Improvements:
 
- * {% chjl MCOMPILER-159 %} - generatedSourcesDirectory should be included in list provided by org.apache.maven.project.MavenProject.getCompileClasspathElements()
- * {% chjl MCOMPILER-232 %} - Fix RAT Report
+ * [MCOMPILER-159](https://issues.apache.org/jira/browse/MCOMPILER-159) - generatedSourcesDirectory should be included in list provided by org.apache.maven.project.MavenProject.getCompileClasspathElements()
+ * [MCOMPILER-232](https://issues.apache.org/jira/browse/MCOMPILER-232) - Fix RAT Report
 
 Task:
 
- * {% chjl MCOMPILER-220 %} - Fix o.a.m.p.c.CompilerMojoTestCase.testCompilerFork(), which fails when javac is not on the PATH
+ * [MCOMPILER-220](https://issues.apache.org/jira/browse/MCOMPILER-220) - Fix o.a.m.p.c.CompilerMojoTestCase.testCompilerFork(), which fails when javac is not on the PATH
 
 
 Enjoy,

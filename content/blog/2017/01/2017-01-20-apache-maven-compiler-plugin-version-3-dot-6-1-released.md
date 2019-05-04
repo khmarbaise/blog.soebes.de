@@ -33,17 +33,17 @@ Most important change is the support for test-compile when using JDK 9 build b14
 
 Bugs:
 
- * {% ajl MCOMPILER-282 %} - Remove link to non-existing Codehaus wiki
- * {% ajl MCOMPILER-284 %} - maven.test.skip doesn't skip test compilation
- * {% ajl MCOMPILER-287 %} - Adjust documentation module-info
+ * [MCOMPILER-282](https://issues.apache.org/jira/browse/MCOMPILER-282) - Remove link to non-existing Codehaus wiki
+ * [MCOMPILER-284](https://issues.apache.org/jira/browse/MCOMPILER-284) - maven.test.skip doesn't skip test compilation
+ * [MCOMPILER-287](https://issues.apache.org/jira/browse/MCOMPILER-287) - Adjust documentation module-info
 
 Documentation:
 
- * {% ajl MCOMPILER-281 %} - Remove reference to Maven 1's Java plugin
+ * [MCOMPILER-281](https://issues.apache.org/jira/browse/MCOMPILER-281) - Remove reference to Maven 1's Java plugin
 
 Improvement:
 
- * {% ajl MCOMPILER-285 %} - Support test-compile for JDK 9 build b148+
+ * [MCOMPILER-285](https://issues.apache.org/jira/browse/MCOMPILER-285) - Support test-compile for JDK 9 build b148+
 
 Enjoy,
 

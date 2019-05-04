@@ -50,44 +50,44 @@ Release Notes - Maven - Version 3.5.3
 
 **Known issue:**
 
- * {%ajl MNG-6372 %} - On Windows with -T option, Maven can output spurious ANSI escapes such as [0m [0m
+ * [MNG-6372](https://issues.apache.org/jira/browse/MNG-6372) - On Windows with -T option, Maven can output spurious ANSI escapes such as [0m [0m
 
 Bugs:
 
- * {%ajl MNG-6188 %} - Console color not properly reset when interrupting build process
- * {%ajl MNG-6255 %} - Maven script cannot parse jvm.config with CRLF
- * {%ajl MNG-6282 %} - Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]
- * {%ajl MNG-6296 %} - New option -Dstyle.color is not working
- * {%ajl MNG-6298 %} - 3.5.2: ClassNotFoundException: javax.annotation.security.  RolesAllowed
- * {%ajl MNG-6300 %} - Multi module release creates empty directories in war file instead of jars
- * {%ajl MNG-6305 %} - Validation of CI friendly version incorrect
- * {%ajl MNG-6320 %} - Apparently wrong encoding of non-ascii java class filename in error messages in the maven log
- * {%ajl MNG-6323 %} - Deadlock in multithreaded dependency resolution
- * {%ajl MNG-6330 %} - [regression] Parents relativePath not verified anymore
+ * [MNG-6188](https://issues.apache.org/jira/browse/MNG-6188) - Console color not properly reset when interrupting build process
+ * [MNG-6255](https://issues.apache.org/jira/browse/MNG-6255) - Maven script cannot parse jvm.config with CRLF
+ * [MNG-6282](https://issues.apache.org/jira/browse/MNG-6282) - Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]
+ * [MNG-6296](https://issues.apache.org/jira/browse/MNG-6296) - New option -Dstyle.color is not working
+ * [MNG-6298](https://issues.apache.org/jira/browse/MNG-6298) - 3.5.2: ClassNotFoundException: javax.annotation.security.  RolesAllowed
+ * [MNG-6300](https://issues.apache.org/jira/browse/MNG-6300) - Multi module release creates empty directories in war file instead of jars
+ * [MNG-6305](https://issues.apache.org/jira/browse/MNG-6305) - Validation of CI friendly version incorrect
+ * [MNG-6320](https://issues.apache.org/jira/browse/MNG-6320) - Apparently wrong encoding of non-ascii java class filename in error messages in the maven log
+ * [MNG-6323](https://issues.apache.org/jira/browse/MNG-6323) - Deadlock in multithreaded dependency resolution
+ * [MNG-6330](https://issues.apache.org/jira/browse/MNG-6330) - [regression] Parents relativePath not verified anymore
 
 New Feature:
 
- * {%ajl MNG-6302 %} - Provide some "progress" hints
+ * [MNG-6302](https://issues.apache.org/jira/browse/MNG-6302) - Provide some "progress" hints
 
 Improvement:
 
- * {%ajl MNG-5992 %} - Git passwords are exposed as the Super POM still uses Maven Release Plugin 2.3.2
- * {%ajl MNG-6306 %} - Replace use of Guava in maven-resolver-provider with a lighter weight alternative
- * {%ajl MNG-6308 %} - display packaging & groupId:artifactId when building a module
- * {%ajl MNG-6332 %} - Cleaned up mvn.cmd Script
- * {%ajl MNG-6340 %} - [Performance]To make System.gc() call configurable in target summary code
- * {%ajl MNG-6342 %} - Emit a WARNING about LATEST/RELEASE in parent
- * {%ajl MNG-6352 %} - Printout version information at the end of the build
+ * [MNG-5992](https://issues.apache.org/jira/browse/MNG-5992) - Git passwords are exposed as the Super POM still uses Maven Release Plugin 2.3.2
+ * [MNG-6306](https://issues.apache.org/jira/browse/MNG-6306) - Replace use of Guava in maven-resolver-provider with a lighter weight alternative
+ * [MNG-6308](https://issues.apache.org/jira/browse/MNG-6308) - display packaging & groupId:artifactId when building a module
+ * [MNG-6332](https://issues.apache.org/jira/browse/MNG-6332) - Cleaned up mvn.cmd Script
+ * [MNG-6340](https://issues.apache.org/jira/browse/MNG-6340) - [Performance]To make System.gc() call configurable in target summary code
+ * [MNG-6342](https://issues.apache.org/jira/browse/MNG-6342) - Emit a WARNING about LATEST/RELEASE in parent
+ * [MNG-6352](https://issues.apache.org/jira/browse/MNG-6352) - Printout version information at the end of the build
 
 Task:
 
- * {%ajl MNG-6331 %} - Remove maven-bundle-pugin from build pluginManagement
+ * [MNG-6331](https://issues.apache.org/jira/browse/MNG-6331) - Remove maven-bundle-pugin from build pluginManagement
 
 Dependency upgrade:
 
- * {%ajl MNG-6312 %} - Update Maven Wagon dependency
- * {%ajl MNG-6335 %} - Update test framework Mockito from 1.10 to 2.12
- * {%ajl MNG-6353 %} - Upgrade maven-shared-utils to 3.2.1
+ * [MNG-6312](https://issues.apache.org/jira/browse/MNG-6312) - Update Maven Wagon dependency
+ * [MNG-6335](https://issues.apache.org/jira/browse/MNG-6335) - Update test framework Mockito from 1.10 to 2.12
+ * [MNG-6353](https://issues.apache.org/jira/browse/MNG-6353) - Upgrade maven-shared-utils to 3.2.1
 
 Enjoy,
 

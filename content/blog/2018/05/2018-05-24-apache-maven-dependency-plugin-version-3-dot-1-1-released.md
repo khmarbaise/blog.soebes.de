@@ -36,13 +36,13 @@ https://maven.apache.org/plugins/maven-dependency-plugin/download.cgi
 
 Bug:
 
- * {%ajl MDEP-607 %} - maven-dependency-plugin:3.1.0:analyze failed.: NullPointerException
+ * [MDEP-607](https://issues.apache.org/jira/browse/MDEP-607) - maven-dependency-plugin:3.1.0:analyze failed.: NullPointerException
 
 Dependency upgrades:
  
- * {%ajl MDEP-611 %} - Upgrade plexus-archiver to 3.6.0
- * {%ajl MDEP-612 %} - Upgrade maven-dependency-analyzer to 1.10
- * {%ajl MDEP-614 %} - Upgrade file-management to 3.0.0
+ * [MDEP-611](https://issues.apache.org/jira/browse/MDEP-611) - Upgrade plexus-archiver to 3.6.0
+ * [MDEP-612](https://issues.apache.org/jira/browse/MDEP-612) - Upgrade maven-dependency-analyzer to 1.10
+ * [MDEP-614](https://issues.apache.org/jira/browse/MDEP-614) - Upgrade file-management to 3.0.0
 
 Many thanks to all reporters/contributors/testers of this release.
 

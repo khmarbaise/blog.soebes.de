@@ -40,15 +40,15 @@ You can download the appropriate [sources etc. from the download page](https://m
 
 Improvement:
 
- * {%ajl MPH-154 %} - The output of the plugin should be flushed when using forceStdout
+ * [MPH-154](https://issues.apache.org/jira/browse/MPH-154) - The output of the plugin should be flushed when using forceStdout
 
 Dependency upgrades:
 
- * {%ajl MPH-153 %} - Upgrade maven-plugins parent to version 32
- * {%ajl MPH-156 %} - Upgrade maven-artifact-transfer to 0.10.0
- * {%ajl MPH-157 %} - Upgrade plexus-interactivity-api 1.0-alpha-6
- * {%ajl MPH-158 %} - Upgrade xstream 1.4.11.1
- * {%ajl MPH-159 %} - Upgrade JUnit 4.12
+ * [MPH-153](https://issues.apache.org/jira/browse/MPH-153) - Upgrade maven-plugins parent to version 32
+ * [MPH-156](https://issues.apache.org/jira/browse/MPH-156) - Upgrade maven-artifact-transfer to 0.10.0
+ * [MPH-157](https://issues.apache.org/jira/browse/MPH-157) - Upgrade plexus-interactivity-api 1.0-alpha-6
+ * [MPH-158](https://issues.apache.org/jira/browse/MPH-158) - Upgrade xstream 1.4.11.1
+ * [MPH-159](https://issues.apache.org/jira/browse/MPH-159) - Upgrade JUnit 4.12
 
 Enjoy,
 

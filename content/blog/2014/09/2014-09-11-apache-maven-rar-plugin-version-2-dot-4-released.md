@@ -29,14 +29,14 @@ Archive or RAR) which can be deployed to a J2EE server.
 
 Improvements:
 
- * {% chjl MRAR-28 %} - Add Support for Classifier
- * {% chjl MRAR-35 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MRAR-37 %} - Upgrade maven-filtering to 1.2
- * {% chjl MRAR-38 %} - Upgrade to Maven 2.2.1 compatiblity
+ * [MRAR-28](https://issues.apache.org/jira/browse/MRAR-28) - Add Support for Classifier
+ * [MRAR-35](https://issues.apache.org/jira/browse/MRAR-35) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MRAR-37](https://issues.apache.org/jira/browse/MRAR-37) - Upgrade maven-filtering to 1.2
+ * [MRAR-38](https://issues.apache.org/jira/browse/MRAR-38) - Upgrade to Maven 2.2.1 compatiblity
 
 New Feature:
 
- * {% chjl MRAR-34 %} - provide "skip" parameter for the plugin
+ * [MRAR-34](https://issues.apache.org/jira/browse/MRAR-34) - provide "skip" parameter for the plugin
 
 Enjoy,
 

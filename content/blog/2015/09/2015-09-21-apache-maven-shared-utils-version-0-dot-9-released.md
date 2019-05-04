@@ -27,13 +27,13 @@ You should specify the version in your project's dependencies configuration:
 
 Bugs:
 
- * {% ajl MSHARED-426 %} - Upgrade maven-assembly-plugin to Version 2.5.5
- * {% ajl MSHARED-434 %} - NPE due to concurrent calls in close() method of StreamFeeder class
- * {% ajl MSHARED-435 %} - createSymbolicLink() ClassCastException
+ * [MSHARED-426](https://issues.apache.org/jira/browse/MSHARED-426) - Upgrade maven-assembly-plugin to Version 2.5.5
+ * [MSHARED-434](https://issues.apache.org/jira/browse/MSHARED-434) - NPE due to concurrent calls in close() method of StreamFeeder class
+ * [MSHARED-435](https://issues.apache.org/jira/browse/MSHARED-435) - createSymbolicLink() ClassCastException
 
 Improvement:
 
- * {% ajl MSHARED-436 %} - PrettyPrintXmlWriter produces too much garbage and is therefore slower than needed
+ * [MSHARED-436](https://issues.apache.org/jira/browse/MSHARED-436) - PrettyPrintXmlWriter produces too much garbage and is therefore slower than needed
 
 Enjoy,
 

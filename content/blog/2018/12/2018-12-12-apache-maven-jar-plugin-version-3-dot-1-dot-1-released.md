@@ -32,22 +32,22 @@ Important Note:
 
 Bug:
 
- * {%ajl MJAR-241 %} - Jar package does not have a size in ZipEntry
+ * [MJAR-241](https://issues.apache.org/jira/browse/MJAR-241) - Jar package does not have a size in ZipEntry
 
 Improvement:
 
- * {%ajl MJAR-260 %} - Upgrade to Archiver 3.3.0 and add ITs
+ * [MJAR-260](https://issues.apache.org/jira/browse/MJAR-260) - Upgrade to Archiver 3.3.0 and add ITs
 
 Task:
 
- * {%ajl MJAR-251 %} - Add documentation information for GitHub
+ * [MJAR-251](https://issues.apache.org/jira/browse/MJAR-251) - Add documentation information for GitHub
 
 Dependency upgrades:
 
- * {%ajl MJAR-252 %} - Upgrade plexus-archiver to 3.6.0
- * {%ajl MJAR-255 %} - Upgrade maven-plugins parent to version 32
- * {%ajl MJAR-256 %} - Upgrade JUnit to 4.12
- * {%ajl MJAR-261 %} - Upgrade plexus-archiver 3.7.0
+ * [MJAR-252](https://issues.apache.org/jira/browse/MJAR-252) - Upgrade plexus-archiver to 3.6.0
+ * [MJAR-255](https://issues.apache.org/jira/browse/MJAR-255) - Upgrade maven-plugins parent to version 32
+ * [MJAR-256](https://issues.apache.org/jira/browse/MJAR-256) - Upgrade JUnit to 4.12
+ * [MJAR-261](https://issues.apache.org/jira/browse/MJAR-261) - Upgrade plexus-archiver 3.7.0
 
 Enjoy,
 

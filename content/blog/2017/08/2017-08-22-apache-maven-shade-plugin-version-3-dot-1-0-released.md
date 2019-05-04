@@ -34,15 +34,15 @@ You can download the [appropriate sources etc. from the download page](https://m
 
 Bugs:
 
- * {% ajl MSHADE-242 %} - Plugin does not work with Java 9
- * {% ajl MSHADE-247 %} - NullpointerException when createSourcesJar = true and source jar cannot be found
- * {% ajl MSHADE-253 %} - NullPointerException if minimizeJar == true && packaging == pom
- * {% ajl MSHADE-255 %} - IllegalArgumentException on relocating class
- * {% ajl MSHADE-258 %} - RemappingClassAdapter is deprecated and throws an exception with ASM 6.0 beta
+ * [MSHADE-242](https://issues.apache.org/jira/browse/MSHADE-242) - Plugin does not work with Java 9
+ * [MSHADE-247](https://issues.apache.org/jira/browse/MSHADE-247) - NullpointerException when createSourcesJar = true and source jar cannot be found
+ * [MSHADE-253](https://issues.apache.org/jira/browse/MSHADE-253) - NullPointerException if minimizeJar == true && packaging == pom
+ * [MSHADE-255](https://issues.apache.org/jira/browse/MSHADE-255) - IllegalArgumentException on relocating class
+ * [MSHADE-258](https://issues.apache.org/jira/browse/MSHADE-258) - RemappingClassAdapter is deprecated and throws an exception with ASM 6.0 beta
 
 Improvement:
 
- * {% ajl MSHADE-257 %} - Bad zero length source jars published by 3rd parties cause source jar creation to fail.
+ * [MSHADE-257](https://issues.apache.org/jira/browse/MSHADE-257) - Bad zero length source jars published by 3rd parties cause source jar creation to fail.
 
 
 Enjoy,

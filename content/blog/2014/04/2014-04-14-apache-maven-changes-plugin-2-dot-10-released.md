@@ -27,27 +27,27 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MCHANGES-329 %} RestJiraDownloader does not handle components, type, updated or version
- * {% chjl MCHANGES-326 %} announcement-mail does not respect templateEncoding
- * {% chjl MCHANGES-324 %} Plugin logs into JIRA, but doesn't seem to make the status request with the session
- * {% chjl MCHANGES-323 %} Incompatible Jira Issue Management URL suggested in documentation
- * {% chjl MCHANGES-280 %} announcement-mail broken when using the announcementFile parameter
- * {% chjl MCHANGES-266 %} It is not possible to disable the reports in submodules
+ * [MCHANGES-329](https://issues.apache.org/jira/browse/MCHANGES-329) RestJiraDownloader does not handle components, type, updated or version
+ * [MCHANGES-326](https://issues.apache.org/jira/browse/MCHANGES-326) announcement-mail does not respect templateEncoding
+ * [MCHANGES-324](https://issues.apache.org/jira/browse/MCHANGES-324) Plugin logs into JIRA, but doesn't seem to make the status request with the session
+ * [MCHANGES-323](https://issues.apache.org/jira/browse/MCHANGES-323) Incompatible Jira Issue Management URL suggested in documentation
+ * [MCHANGES-280](https://issues.apache.org/jira/browse/MCHANGES-280) announcement-mail broken when using the announcementFile parameter
+ * [MCHANGES-266](https://issues.apache.org/jira/browse/MCHANGES-266) It is not possible to disable the reports in submodules
 
 Improvements:
 
- * {% chjl MCHANGES-328 %} Allow setting useJql parameter from the command line
- * {% chjl MCHANGES-303 %} Add an option to enable tls
- * {% chjl MCHANGES-282 %} New parameter releaseDateLocale in changes-check goal
+ * [MCHANGES-328](https://issues.apache.org/jira/browse/MCHANGES-328) Allow setting useJql parameter from the command line
+ * [MCHANGES-303](https://issues.apache.org/jira/browse/MCHANGES-303) Add an option to enable tls
+ * [MCHANGES-282](https://issues.apache.org/jira/browse/MCHANGES-282) New parameter releaseDateLocale in changes-check goal
 
 New Feature:
 
- * {% chjl MCHANGES-292 %} announcement-generate goal doesn't respect useJql parameter
+ * [MCHANGES-292](https://issues.apache.org/jira/browse/MCHANGES-292) announcement-generate goal doesn't respect useJql parameter
 
 Task:
 
- * {% chjl MCHANGES-332 %} Update to maven-reporting-impl 2.2
- * {% chjl MCHANGES-331 %} Update to Doxia 1.4 and Doxia Sitetools 1.4
+ * [MCHANGES-332](https://issues.apache.org/jira/browse/MCHANGES-332) Update to maven-reporting-impl 2.2
+ * [MCHANGES-331](https://issues.apache.org/jira/browse/MCHANGES-331) Update to Doxia 1.4 and Doxia Sitetools 1.4
 
 
 Enjoy,

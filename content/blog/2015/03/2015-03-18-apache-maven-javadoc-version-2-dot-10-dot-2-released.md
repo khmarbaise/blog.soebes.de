@@ -24,12 +24,12 @@ The Apache Maven team is pleased to announce the release of the
 
 Bug:
 
- * {% chjl MJAVADOC-365 %} - Patch: sourceFileExcludes does not work due to inclusion of packages
+ * [MJAVADOC-365](https://issues.apache.org/jira/browse/MJAVADOC-365) - Patch: sourceFileExcludes does not work due to inclusion of packages
 
 Improvements:
 
- * {% chjl MJAVADOC-415 %} - Update plexus-archiver to 2.6.3 and p-utils to 3.0.18
- * {% chjl MJAVADOC-417 %} - Update version of plexus-archive from 2.5 to 2.9
+ * [MJAVADOC-415](https://issues.apache.org/jira/browse/MJAVADOC-415) - Update plexus-archiver to 2.6.3 and p-utils to 3.0.18
+ * [MJAVADOC-417](https://issues.apache.org/jira/browse/MJAVADOC-417) - Update version of plexus-archive from 2.5 to 2.9
 
 
 Enjoy,

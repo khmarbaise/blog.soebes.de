@@ -38,11 +38,11 @@ the version upgrade to 2.0.0.
 
 Bug:
 
- * {% ajl MINVOKER-187 %} - Cloned IT project must be writable
+ * [MINVOKER-187](https://issues.apache.org/jira/browse/MINVOKER-187) - Cloned IT project must be writable
 
 Improvement:
 
- * {% ajl MINVOKER-192 %} - Using fluido skin
+ * [MINVOKER-192](https://issues.apache.org/jira/browse/MINVOKER-192) - Using fluido skin
 
 Enjoy,
 

@@ -29,7 +29,7 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bug:
 
- * {%ajl MRESOLVER-60 %} - Possible NPE when calling RepositorySystemSession.getFileTransformerManager(
+ * [MRESOLVER-60](https://issues.apache.org/jira/browse/MRESOLVER-60) - Possible NPE when calling RepositorySystemSession.getFileTransformerManager(
 
 Enjoy,
 

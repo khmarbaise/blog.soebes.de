@@ -28,18 +28,18 @@ To get this update, simply specify the version in your project's plugin configur
 
 Bugs:
 
-* {% chjl MBUILDNUM-66 %} - Git - problems with scmBranch resolving
-* {% chjl MBUILDNUM-112 %} - No property for getRevisionOnlyOnce
-* {% chjl MBUILDNUM-114 %} - TestCreateMojo failing on Win7
+* [MBUILDNUM-66](https://issues.apache.org/jira/browse/MBUILDNUM-66) - Git - problems with scmBranch resolving
+* [MBUILDNUM-112](https://issues.apache.org/jira/browse/MBUILDNUM-112) - No property for getRevisionOnlyOnce
+* [MBUILDNUM-114](https://issues.apache.org/jira/browse/MBUILDNUM-114) - TestCreateMojo failing on Win7
 
 Improvements:
 
-* {% chjl MBUILDNUM-98 %} - The CreateTimestampMojo needs to be marked with @threadSafe
-* {% chjl MBUILDNUM-103 %} - provide a way to skip mojo execution
-* {% chjl MBUILDNUM-117 %} - Update to java5 mojo annotations
-* {% chjl MBUILDNUM-118 %} - Update to maven-scm 1.9
-* {% chjl MBUILDNUM-119 %} - Docs should be updated according to svn/git usage
-* {% chjl MBUILDNUM-120 %} - Lower buildnumber:create verbosity
+* [MBUILDNUM-98](https://issues.apache.org/jira/browse/MBUILDNUM-98) - The CreateTimestampMojo needs to be marked with @threadSafe
+* [MBUILDNUM-103](https://issues.apache.org/jira/browse/MBUILDNUM-103) - provide a way to skip mojo execution
+* [MBUILDNUM-117](https://issues.apache.org/jira/browse/MBUILDNUM-117) - Update to java5 mojo annotations
+* [MBUILDNUM-118](https://issues.apache.org/jira/browse/MBUILDNUM-118) - Update to maven-scm 1.9
+* [MBUILDNUM-119](https://issues.apache.org/jira/browse/MBUILDNUM-119) - Docs should be updated according to svn/git usage
+* [MBUILDNUM-120](https://issues.apache.org/jira/browse/MBUILDNUM-120) - Lower buildnumber:create verbosity
 
 
 Enjoy,

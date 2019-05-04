@@ -28,13 +28,13 @@ non redistributable reference implementations).
 
 Bugs:
 
- * {% chjl MDEPLOY-172 %} - Concurrency problem with deployAtEnd in parallel builds
- * {% chjl MDEPLOY-174 %} - [REGRESSION] url not required anymore, causing a NullPointerException
+ * [MDEPLOY-172](https://issues.apache.org/jira/browse/MDEPLOY-172) - Concurrency problem with deployAtEnd in parallel builds
+ * [MDEPLOY-174](https://issues.apache.org/jira/browse/MDEPLOY-174) - [REGRESSION] url not required anymore, causing a NullPointerException
 
 Improvements:
 
- * {% chjl MDEPLOY-185 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MDEPLOY-186 %} - Upgrade to Maven 2.2.1 compatiblity
+ * [MDEPLOY-185](https://issues.apache.org/jira/browse/MDEPLOY-185) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MDEPLOY-186](https://issues.apache.org/jira/browse/MDEPLOY-186) - Upgrade to Maven 2.2.1 compatiblity
 
 
 Enjoy,

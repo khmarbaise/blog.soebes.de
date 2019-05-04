@@ -32,11 +32,11 @@ https://maven.apache.org/shared/maven-shared-utils/download.cgi
 
 New Feature:
 
- * {%ajl MSHARED-648 %} - Add registerShutdownHook to MessageUtils
+ * [MSHARED-648](https://issues.apache.org/jira/browse/MSHARED-648) - Add registerShutdownHook to MessageUtils
 
 Dependency upgrade:
 
- * {%ajl MSHARED-672 %} - Upgrade plexus-container-default to 1.7.1
+ * [MSHARED-672](https://issues.apache.org/jira/browse/MSHARED-672) - Upgrade plexus-container-default to 1.7.1
 
 
 Enjoy,

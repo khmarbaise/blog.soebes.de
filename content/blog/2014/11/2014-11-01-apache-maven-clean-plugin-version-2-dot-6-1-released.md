@@ -26,15 +26,15 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MCLEAN-47 %} - On windows if there are junctions on the cleaned directories, clean deletes `.*` resources under junction's target along with junction.
- * {% chjl MCLEAN-55 %} - maven clean seems to use old java.io API to clean the target directory
- * {% chjl MCLEAN-58 %} - Maven Clean Plugin ignores followSymLinks parameter on Windows
+ * [MCLEAN-47](https://issues.apache.org/jira/browse/MCLEAN-47) - On windows if there are junctions on the cleaned directories, clean deletes `.*` resources under junction's target along with junction.
+ * [MCLEAN-55](https://issues.apache.org/jira/browse/MCLEAN-55) - maven clean seems to use old java.io API to clean the target directory
+ * [MCLEAN-58](https://issues.apache.org/jira/browse/MCLEAN-58) - Maven Clean Plugin ignores followSymLinks parameter on Windows
 
 Improvements:
 
- * {% chjl MCLEAN-59 %} - Upgrade maven-plugins-testing-harness from 1.1 to 1.3
- * {% chjl MCLEAN-60 %} - Fixed Checkstyle reported errors / warnings
- * {% chjl MCLEAN-61 %} - Upgrade to org.apache.maven.plugins:maven-plugins:26
+ * [MCLEAN-59](https://issues.apache.org/jira/browse/MCLEAN-59) - Upgrade maven-plugins-testing-harness from 1.1 to 1.3
+ * [MCLEAN-60](https://issues.apache.org/jira/browse/MCLEAN-60) - Fixed Checkstyle reported errors / warnings
+ * [MCLEAN-61](https://issues.apache.org/jira/browse/MCLEAN-61) - Upgrade to org.apache.maven.plugins:maven-plugins:26
 
 Enjoy,
 

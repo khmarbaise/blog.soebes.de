@@ -29,7 +29,7 @@ To get this update, simply specify the version in your project's plugin configur
 
 Release Notes
 
-* {% chjl MSONAR-77 %} - Unable to analyze deep multi-module projects on SonarQube 4.3+
+* [MSONAR-77] - Unable to analyze deep multi-module projects on SonarQube 4.3+
 
 Enjoy,
 

@@ -47,7 +47,7 @@ Release Notes - Mojo Animal Sniffer - Version 1.11
 
 Improvement:
 
- * {% chjl MANIMALSNIFFER-41 %} - Define a custom annotation instead of relying on @IgnoreJRERequirement
+ * [MANIMALSNIFFER-41](https://issues.apache.org/jira/browse/MANIMALSNIFFER-41) - Define a custom annotation instead of relying on @IgnoreJRERequirement
 
  Enjoy,
 

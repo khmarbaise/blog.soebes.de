@@ -29,28 +29,28 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MCHANGELOG-68 %} - testReadFile unit test timebased comparisons fail
- * {% chjl MCHANGELOG-108 %} - read/write changelog.xml inconsistency
- * {% chjl MCHANGELOG-129 %} - use maven-plugin-tools' java 5 annotations
- * {% chjl MCHANGELOG-130 %} - NullPointerException when no SCM <url> is defined
- * {% chjl MCHANGELOG-133 %} - ChangeLog: allow encoding of file paths for gitblit
- * {% chjl MCHANGELOG-134 %} - ChangeLog: added include/exclude support to filter uninteresting files
+ * [MCHANGELOG-68](https://issues.apache.org/jira/browse/MCHANGELOG-68) - testReadFile unit test timebased comparisons fail
+ * [MCHANGELOG-108](https://issues.apache.org/jira/browse/MCHANGELOG-108) - read/write changelog.xml inconsistency
+ * [MCHANGELOG-129](https://issues.apache.org/jira/browse/MCHANGELOG-129) - use maven-plugin-tools' java 5 annotations
+ * [MCHANGELOG-130](https://issues.apache.org/jira/browse/MCHANGELOG-130) - NullPointerException when no SCM <url> is defined
+ * [MCHANGELOG-133](https://issues.apache.org/jira/browse/MCHANGELOG-133) - ChangeLog: allow encoding of file paths for gitblit
+ * [MCHANGELOG-134](https://issues.apache.org/jira/browse/MCHANGELOG-134) - ChangeLog: added include/exclude support to filter uninteresting files
 
 Improvements:
 
- * {% chjl MCHANGELOG-110 %} - use ${project.reporting.outputEncoding} as default value for "outputEncoding" parameter and default to UTF-8
- * {% chjl MCHANGELOG-114 %} - add standard skip configuration option
- * {% chjl MCHANGELOG-123 %} - Patch with support for SCM provider implementations (similar to release plugin)
- * {% chjl MCHANGELOG-126 %} - Upgrade to Maven SCM 1.8
- * {% chjl MCHANGELOG-131 %} - Resource bundle for Spanish Argentina
+ * [MCHANGELOG-110](https://issues.apache.org/jira/browse/MCHANGELOG-110) - use ${project.reporting.outputEncoding} as default value for "outputEncoding" parameter and default to UTF-8
+ * [MCHANGELOG-114](https://issues.apache.org/jira/browse/MCHANGELOG-114) - add standard skip configuration option
+ * [MCHANGELOG-123](https://issues.apache.org/jira/browse/MCHANGELOG-123) - Patch with support for SCM provider implementations (similar to release plugin)
+ * [MCHANGELOG-126](https://issues.apache.org/jira/browse/MCHANGELOG-126) - Upgrade to Maven SCM 1.8
+ * [MCHANGELOG-131](https://issues.apache.org/jira/browse/MCHANGELOG-131) - Resource bundle for Spanish Argentina
 
 New Feature:
 
- * {% chjl MCHANGELOG-122 %} - Add pt_BR localization
+ * [MCHANGELOG-122](https://issues.apache.org/jira/browse/MCHANGELOG-122) - Add pt_BR localization
 
 Task
 
- * {% chjl MCHANGELOG-100 %} - Bump to Doxia 1.1.4
+ * [MCHANGELOG-100](https://issues.apache.org/jira/browse/MCHANGELOG-100) - Bump to Doxia 1.1.4
 
 Enjoy,
 

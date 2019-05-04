@@ -34,17 +34,17 @@ You can use the following Maven coordinates to get the latest version via Maven 
 
 Fixed Bug:
 
- * {% chjl MAPPASM-215 %} - The environments variables in the generated batch file are not local.
+ * [MAPPASM-215] - The environments variables in the generated batch file are not local.
 
 Improvements:
 
- * {% chjl MAPPASM-195 %} - Support other methods of JSW integration than WrapperSimpleApp
- * {% chjl MAPPASM-210 %} - Allow copyConfigurationDirectory for both script and jsw
- * {% chjl MAPPASM-216 %} - Add option to pre insert a config fragment into wrapper.conf
+ * [MAPPASM-195] - Support other methods of JSW integration than WrapperSimpleApp
+ * [MAPPASM-210] - Allow copyConfigurationDirectory for both script and jsw
+ * [MAPPASM-216] - Add option to pre insert a config fragment into wrapper.conf
 
 New Features:
 
- * {% chjl MAPPASM-78 %} - Add support for JSW integration method 2
- * {% chjl MAPPASM-214 %} - Add ability to configure chkconfig run level
+ * [MAPPASM-78] - Add support for JSW integration method 2
+ * [MAPPASM-214] - Add ability to configure chkconfig run level
 
 The Mojo Team.

@@ -32,12 +32,12 @@ You can download the appropriate [sources etc. from the download page](https://m
 
 Improvements:
 
- * {%ajl MEAR-265 %} - Add documentation information for GitHub
- * {%ajl MEAR-266 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * [MEAR-265](https://issues.apache.org/jira/browse/MEAR-265) - Add documentation information for GitHub
+ * [MEAR-266](https://issues.apache.org/jira/browse/MEAR-266) - Upgrade mave-surefire/failsafe-plugin 2.21.0
 
 Dependency upgrade:
 
- * {%ajl MEAR-268 %} - Upgrade plexus-archiver to 3.6.0
+ * [MEAR-268](https://issues.apache.org/jira/browse/MEAR-268) - Upgrade plexus-archiver to 3.6.0
 
 Enjoy,
 

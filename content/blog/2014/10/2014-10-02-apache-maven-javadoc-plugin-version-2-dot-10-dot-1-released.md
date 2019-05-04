@@ -25,13 +25,13 @@ The Javadoc Plugin uses the Javadoc tool to generate javadocs for the specified 
 
 Bugs:
 
- * {% chjl MJAVADOC-406 %} - Regression: MJAVADOC-398 commit changed wrong line
- * {% chjl MJAVADOC-407 %} - Cannot parse annotations when generating javadoc
- * {% chjl MJAVADOC-416 %} - java.lang.ClassCastException: com.sun.tools.javadoc.ClassDocImpl cannot be cast to com.sun.javadoc.AnnotationTypeDoc
+ * [MJAVADOC-406](https://issues.apache.org/jira/browse/MJAVADOC-406) - Regression: MJAVADOC-398 commit changed wrong line
+ * [MJAVADOC-407](https://issues.apache.org/jira/browse/MJAVADOC-407) - Cannot parse annotations when generating javadoc
+ * [MJAVADOC-416](https://issues.apache.org/jira/browse/MJAVADOC-416) - java.lang.ClassCastException: com.sun.tools.javadoc.ClassDocImpl cannot be cast to com.sun.javadoc.AnnotationTypeDoc
 
 Improvement:
 
- * {% chjl MJAVADOC-412 %} - Update version of plexus-archiver to 2.5
+ * [MJAVADOC-412](https://issues.apache.org/jira/browse/MJAVADOC-412) - Update version of plexus-archiver to 2.5
 
 
 Enjoy,

@@ -30,25 +30,25 @@ which has been moved from Codehaus to Apache Software Foundation
 
 Bugs:
 
- * {% ajl MSKINS-81 %} - Decoration model body/footer not correctly implemented by site.vm
- * {% ajl MSKINS-86 %} - class prettyprint not added to pre tags
- * {% ajl MSKINS-92 %} - Facebook Like iframe too narrow when in topbar
- * {% ajl MSKINS-93 %} - Wrong file extension for 'apache-maven-project-2.png'
+ * [MSKINS-81](https://issues.apache.org/jira/browse/MSKINS-81) - Decoration model body/footer not correctly implemented by site.vm
+ * [MSKINS-86](https://issues.apache.org/jira/browse/MSKINS-86) - class prettyprint not added to pre tags
+ * [MSKINS-92](https://issues.apache.org/jira/browse/MSKINS-92) - Facebook Like iframe too narrow when in topbar
+ * [MSKINS-93](https://issues.apache.org/jira/browse/MSKINS-93) - Wrong file extension for 'apache-maven-project-2.png'
 
 Improvements:
 
- * {% ajl MSKINS-91 %} - Should use as possible https resources
- * {% ajl MSKINS-110 %} - Changed size of left navigation bar
+ * [MSKINS-91](https://issues.apache.org/jira/browse/MSKINS-91) - Should use as possible https resources
+ * [MSKINS-110](https://issues.apache.org/jira/browse/MSKINS-110) - Changed size of left navigation bar
 
 New Feature:
 
- * {% ajl MSKINS-90 %} - Upgrade Jquery to 1.10.2
+ * [MSKINS-90](https://issues.apache.org/jira/browse/MSKINS-90) - Upgrade Jquery to 1.10.2
 
 Tasks:
 
- * {% ajl MSKINS-74 %} - Upgrade jQuery to v1.9.1
- * {% ajl MSKINS-96 %} - Downgrade to Bootstrap 2.3.x
- * {% ajl MSKINS-99 %} - Upgrade jQuery to 1.11.2
+ * [MSKINS-74](https://issues.apache.org/jira/browse/MSKINS-74) - Upgrade jQuery to v1.9.1
+ * [MSKINS-96](https://issues.apache.org/jira/browse/MSKINS-96) - Downgrade to Bootstrap 2.3.x
+ * [MSKINS-99](https://issues.apache.org/jira/browse/MSKINS-99) - Upgrade jQuery to 1.11.2
 
 Enjoy,
 

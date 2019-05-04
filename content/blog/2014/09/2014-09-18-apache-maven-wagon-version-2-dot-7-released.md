@@ -18,13 +18,13 @@ artifact and repository handling code.
 
 New Feature:
 
- * {% chjl WAGON-420 %} - Implements RFC 6585 (return code 429: too many requests)
+ * [WAGON-420](https://issues.apache.org/jira/browse/WAGON-420) - Implements RFC 6585 (return code 429: too many requests)
 
 Bugs:
 
- * {% chjl WAGON-407 %} - wagon-maven-plugin ITs fail with missing class: org.apache.commons.io.IOUtils
- * {% chjl WAGON-418 %} - Changes from WAGON-388 broke the WebDAV Wagon
- * {% chjl WAGON-419 %} - HTTP wagons incorrectly encode blank space in URLs causing resources to be uploaded/looked up with a "+" sign
+ * [WAGON-407](https://issues.apache.org/jira/browse/WAGON-407) - wagon-maven-plugin ITs fail with missing class: org.apache.commons.io.IOUtils
+ * [WAGON-418](https://issues.apache.org/jira/browse/WAGON-418) - Changes from WAGON-388 broke the WebDAV Wagon
+ * [WAGON-419](https://issues.apache.org/jira/browse/WAGON-419) - HTTP wagons incorrectly encode blank space in URLs causing resources to be uploaded/looked up with a "+" sign
 
 
 Enjoy,

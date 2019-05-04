@@ -39,7 +39,7 @@ Important Notes since Version 3.0.0:
 
 Bug:
 
- * {% ajl MSHARED-551 %} - classpathLayoutType is not taken into account when building the classpath attribute in the manifest
+ * [MSHARED-551](https://issues.apache.org/jira/browse/MSHARED-551) - classpathLayoutType is not taken into account when building the classpath attribute in the manifest
 
  
 Enjoy,

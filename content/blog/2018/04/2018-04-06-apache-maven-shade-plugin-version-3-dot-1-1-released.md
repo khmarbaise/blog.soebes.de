@@ -34,22 +34,22 @@ You can download the [appropriate sources etc. from the download page](https://m
 
 Bugs:
 
- * {%ajl MSHADE-273 %} - Shading of paths starting with / ignores excludes
- * {%ajl MSHADE-275 %} - Maven Shade Plugin does not work under Java 10
+ * [MSHADE-273](https://issues.apache.org/jira/browse/MSHADE-273) - Shading of paths starting with / ignores excludes
+ * [MSHADE-275](https://issues.apache.org/jira/browse/MSHADE-275) - Maven Shade Plugin does not work under Java 10
 
 Improvements:
 
- * {%ajl MSHADE-277 %} - Identify issue related IT failure mini-jar-malformed-dependencies/pom.xml
- * {%ajl MSHADE-278 %} - Print out the jar responsible for exceptions like "Error creating shaded jar: invalid LOC header (bad signature)"
- * {%ajl MSHADE-283 %} - Add documentation information for GitHub
+ * [MSHADE-277](https://issues.apache.org/jira/browse/MSHADE-277) - Identify issue related IT failure mini-jar-malformed-dependencies/pom.xml
+ * [MSHADE-278](https://issues.apache.org/jira/browse/MSHADE-278) - Print out the jar responsible for exceptions like "Error creating shaded jar: invalid LOC header (bad signature)"
+ * [MSHADE-283](https://issues.apache.org/jira/browse/MSHADE-283) - Add documentation information for GitHub
 
 Dependency upgrades:
 
- * {%ajl MSHADE-276 %} - Upgrade parent to 31
- * {%ajl MSHADE-279 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
- * {%ajl MSHADE-280 %} - Upgrade jdom 1.1.3 to jdom2 2.0.6
- * {%ajl MSHADE-281 %} - Upgrade plexus-utils 3.1.0
- * {%ajl MSHADE-282 %} - Remove not used directories rel-path-test-files
+ * [MSHADE-276](https://issues.apache.org/jira/browse/MSHADE-276) - Upgrade parent to 31
+ * [MSHADE-279](https://issues.apache.org/jira/browse/MSHADE-279) - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * [MSHADE-280](https://issues.apache.org/jira/browse/MSHADE-280) - Upgrade jdom 1.1.3 to jdom2 2.0.6
+ * [MSHADE-281](https://issues.apache.org/jira/browse/MSHADE-281) - Upgrade plexus-utils 3.1.0
+ * [MSHADE-282](https://issues.apache.org/jira/browse/MSHADE-282) - Remove not used directories rel-path-test-files
 
 Many thanks to all reporters/contributors/testers of this release.
 

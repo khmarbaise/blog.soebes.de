@@ -28,12 +28,12 @@ You should specify the version in your project's dependency list:
 
 Bugs:
 
- * {% ajl MSHARED-361 %} - DefaultProjectDependencyAnalyzer.buildArtifactClassMap assumes dependencies are jar files (regression)
- * {% ajl MSHARED-382 %} - JarFile object is not being closed
+ * [MSHARED-361](https://issues.apache.org/jira/browse/MSHARED-361) - DefaultProjectDependencyAnalyzer.buildArtifactClassMap assumes dependencies are jar files (regression)
+ * [MSHARED-382](https://issues.apache.org/jira/browse/MSHARED-382) - JarFile object is not being closed
 
 Improvement:
 
- * {% ajl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * [MSHARED-371](https://issues.apache.org/jira/browse/MSHARED-371) - Increase chance of java8 compliance by updating to plexus-component-* 1.6
 
 
 Enjoy,

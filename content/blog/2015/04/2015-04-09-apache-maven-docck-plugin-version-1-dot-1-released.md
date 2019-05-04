@@ -32,14 +32,14 @@ from Codehaus to Apache Software Foundation
 
 Improvments:
 
- * {% ajl MDOCCK-31 %} Upgrade maven-plugin-tools 3.2
- * {% ajl MDOCCK-30 %} Upgrade to maven-plugins parent version 27
- * {% ajl MDOCCK-29 %} Upgrade to Maven 2.2.1 compatiblity
- * {% ajl MDOCCK-19 %} Mark plugin as @threadSafe
+ * [MDOCCK-31](https://issues.apache.org/jira/browse/MDOCCK-31) Upgrade maven-plugin-tools 3.2
+ * [MDOCCK-30](https://issues.apache.org/jira/browse/MDOCCK-30) Upgrade to maven-plugins parent version 27
+ * [MDOCCK-29](https://issues.apache.org/jira/browse/MDOCCK-29) Upgrade to Maven 2.2.1 compatiblity
+ * [MDOCCK-19](https://issues.apache.org/jira/browse/MDOCCK-19) Mark plugin as @threadSafe
 
 Task:  
 
- * {% ajl MDOCCK-25 %} use maven-plugin-tools' java 5 annotations
+ * [MDOCCK-25](https://issues.apache.org/jira/browse/MDOCCK-25) use maven-plugin-tools' java 5 annotations
 
 Enjoy,
 

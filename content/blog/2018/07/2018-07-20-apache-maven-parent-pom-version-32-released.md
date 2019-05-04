@@ -38,19 +38,19 @@ https://maven.apache.org/pom/maven/download.html
 
 Improvements:
 
- * {%ajl MPOM-187 %} - Add autoVersionSubmodules=true to maven-release-plugin configuration
- * {%ajl MPOM-189 %} - Ensure that Jenkins will fail when maven-invoker-plugin has failures
- * {%ajl MPOM-190 %} - Change to https instead of http
+ * [MPOM-187](https://issues.apache.org/jira/browse/MPOM-187) - Add autoVersionSubmodules=true to maven-release-plugin configuration
+ * [MPOM-189](https://issues.apache.org/jira/browse/MPOM-189) - Ensure that Jenkins will fail when maven-invoker-plugin has failures
+ * [MPOM-190](https://issues.apache.org/jira/browse/MPOM-190) - Change to https instead of http
 
 Task:
 
- * {%ajl MPOM-183 %} - remove maven-archetype-bundles
+ * [MPOM-183](https://issues.apache.org/jira/browse/MPOM-183) - remove maven-archetype-bundles
 
 Dependency upgrades:
 
- * {%ajl MPOM-184 %} - Upgrade maven-surefire/failsafe to 2.21.0 based on JDK 10 issues
- * {%ajl MPOM-188 %} - maven-invoker-plugin should copy value of https.protocols system property during invocation
- * {%ajl MPOM-193 %} - Upgrade extra-enforcer-rule to 1.0-beta-9
+ * [MPOM-184](https://issues.apache.org/jira/browse/MPOM-184) - Upgrade maven-surefire/failsafe to 2.21.0 based on JDK 10 issues
+ * [MPOM-188](https://issues.apache.org/jira/browse/MPOM-188) - maven-invoker-plugin should copy value of https.protocols system property during invocation
+ * [MPOM-193](https://issues.apache.org/jira/browse/MPOM-193) - Upgrade extra-enforcer-rule to 1.0-beta-9
 
 Changes since version 31:
 

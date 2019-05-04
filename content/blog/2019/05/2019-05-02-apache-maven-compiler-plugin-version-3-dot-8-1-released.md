@@ -14,7 +14,7 @@ The Compiler Plugin is used to compile the sources of your project.
 Important Notes since Version 3.8.1
 
  * The default value for source/target has been lifted 
-   from 1.5 to 1.6 see {%ajl MCOMPILER-335 %}.
+   from 1.5 to 1.6 see [MCOMPILER-335](https://issues.apache.org/jira/browse/MCOMPILER-335).
 
 
 You should specify the version in your project's plugin configuration:
@@ -33,15 +33,15 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MCOMPILER-306 %} - Incorrect `compilerArgs` example usage
- * {% ajl MCOMPILER-349 %} - maven-compiler-plugin does not recompile a module if a dependency module has been updated & recompiled
- * {% ajl MCOMPILER-360 %} - NPE when calculating modulepath with invalid entries
- * {% ajl MCOMPILER-379 %} - Fatal error compiling: basedir ... arget/generated-sources/annotations does not exist
+ * [MCOMPILER-306](https://issues.apache.org/jira/browse/MCOMPILER-306) - Incorrect `compilerArgs` example usage
+ * [MCOMPILER-349](https://issues.apache.org/jira/browse/MCOMPILER-349) - maven-compiler-plugin does not recompile a module if a dependency module has been updated & recompiled
+ * [MCOMPILER-360](https://issues.apache.org/jira/browse/MCOMPILER-360) - NPE when calculating modulepath with invalid entries
+ * [MCOMPILER-379](https://issues.apache.org/jira/browse/MCOMPILER-379) - Fatal error compiling: basedir ... arget/generated-sources/annotations does not exist
 
 Improvements:
 
- * {% ajl MCOMPILER-322 %} - Set the JPMS module version
- * {% ajl MCOMPILER-366 %} - Warning about automodules should provide the list of offending libraries
+ * [MCOMPILER-322](https://issues.apache.org/jira/browse/MCOMPILER-322) - Set the JPMS module version
+ * [MCOMPILER-366](https://issues.apache.org/jira/browse/MCOMPILER-366) - Warning about automodules should provide the list of offending libraries
 
 Enjoy,
  

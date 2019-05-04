@@ -37,7 +37,7 @@ https://maven.apache.org/plugins/maven-jlink-plugin/download.cgi
 
 Dependency upgrade:
 
- * {% ajl MJLINK-2 %} - Upgrade several plugins to get a working site generation
+ * [MJLINK-2](https://issues.apache.org/jira/browse/MJLINK-2) - Upgrade several plugins to get a working site generation
 
 Enjoy,
 

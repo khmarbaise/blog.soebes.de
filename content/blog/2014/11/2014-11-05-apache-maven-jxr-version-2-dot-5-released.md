@@ -25,25 +25,25 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% chjl JXR-122 %} - apache-rat-plugin Configuration for DEPENDENCIES file.
+ * [JXR-122](https://issues.apache.org/jira/browse/JXR-122) - apache-rat-plugin Configuration for DEPENDENCIES file.
 
 Improvements:
 
- * {% chjl JXR-111 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% chjl JXR-112 %} - Update version of plexus-utils to 3.0.20
- * {% chjl JXR-113 %} - Update maven-reporting-impl to 2.3
- * {% chjl JXR-114 %} - Remove deprecated marked entries in the code.
- * {% chjl JXR-115 %} - Fix WARNING for maven-surefire-plugin and duplicate test output..
- * {% chjl JXR-116 %} - Upgrade doxia from 1.2 to 1.4
- * {% chjl JXR-118 %} - Fixed Checkstyle reported errors/warnings
- * {% chjl JXR-119 %} - Upgrade org.apache.maven:maven-parent to version 25
- * {% chjl JXR-120 %} - Configure maven release plugin to autoVersionSubmodules
- * {% chjl JXR-121 %} - Release failed
- * {% chjl JXR-123 %} - Upgrade maven-plugin-annotations and maven-plugin-plugin from 3.2 to 3.3
+ * [JXR-111](https://issues.apache.org/jira/browse/JXR-111) - Upgrade to Maven 2.2.1 compatiblity
+ * [JXR-112](https://issues.apache.org/jira/browse/JXR-112) - Update version of plexus-utils to 3.0.20
+ * [JXR-113](https://issues.apache.org/jira/browse/JXR-113) - Update maven-reporting-impl to 2.3
+ * [JXR-114](https://issues.apache.org/jira/browse/JXR-114) - Remove deprecated marked entries in the code.
+ * [JXR-115](https://issues.apache.org/jira/browse/JXR-115) - Fix WARNING for maven-surefire-plugin and duplicate test output..
+ * [JXR-116](https://issues.apache.org/jira/browse/JXR-116) - Upgrade doxia from 1.2 to 1.4
+ * [JXR-118](https://issues.apache.org/jira/browse/JXR-118) - Fixed Checkstyle reported errors/warnings
+ * [JXR-119](https://issues.apache.org/jira/browse/JXR-119) - Upgrade org.apache.maven:maven-parent to version 25
+ * [JXR-120](https://issues.apache.org/jira/browse/JXR-120) - Configure maven release plugin to autoVersionSubmodules
+ * [JXR-121](https://issues.apache.org/jira/browse/JXR-121) - Release failed
+ * [JXR-123](https://issues.apache.org/jira/browse/JXR-123) - Upgrade maven-plugin-annotations and maven-plugin-plugin from 3.2 to 3.3
 
 Task:
 
- * {% chjl JXR-109 %} - use maven-plugin-tools' java 5 annotations
+ * [JXR-109](https://issues.apache.org/jira/browse/JXR-109) - use maven-plugin-tools' java 5 annotations
 
 Enjoy,
 

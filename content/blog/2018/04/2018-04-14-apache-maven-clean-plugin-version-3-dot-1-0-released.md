@@ -33,21 +33,21 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {%ajl MCLEAN-77 %} - Remove link to non-existing Codehaus wiki
+ * [MCLEAN-77](https://issues.apache.org/jira/browse/MCLEAN-77) - Remove link to non-existing Codehaus wiki
 
 Tasks:
 
- * {%ajl MCLEAN-73 %} - Upgrade of maven-shared-utils to 3.0.1.
- * {%ajl MCLEAN-74 %} - Upgrade of commons-io to 2.5.
- * {%ajl MCLEAN-83 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
- * {%ajl MCLEAN-84 %} - Lift JDK minimum to JDK 7
+ * [MCLEAN-73](https://issues.apache.org/jira/browse/MCLEAN-73) - Upgrade of maven-shared-utils to 3.0.1.
+ * [MCLEAN-74](https://issues.apache.org/jira/browse/MCLEAN-74) - Upgrade of commons-io to 2.5.
+ * [MCLEAN-83](https://issues.apache.org/jira/browse/MCLEAN-83) - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * [MCLEAN-84](https://issues.apache.org/jira/browse/MCLEAN-84) - Lift JDK minimum to JDK 7
 
 Dependency upgrades:
 
- * {%ajl MCLEAN-75 %} - Upgrade maven-plugins to version 30
- * {%ajl MCLEAN-80 %} - Upgrade maven-shared-utils to 3.2.0
- * {%ajl MCLEAN-81 %} - Upgrade parent to 31
- * {%ajl MCLEAN-85 %} - Upgrade maven-shared-utils to 3.2.1
+ * [MCLEAN-75](https://issues.apache.org/jira/browse/MCLEAN-75) - Upgrade maven-plugins to version 30
+ * [MCLEAN-80](https://issues.apache.org/jira/browse/MCLEAN-80) - Upgrade maven-shared-utils to 3.2.0
+ * [MCLEAN-81](https://issues.apache.org/jira/browse/MCLEAN-81) - Upgrade parent to 31
+ * [MCLEAN-85](https://issues.apache.org/jira/browse/MCLEAN-85) - Upgrade maven-shared-utils to 3.2.1
 
 
 Enjoy,

@@ -88,8 +88,8 @@ mirrored to central.
 
 Bug:
 
- * {% chjl MLICENSE-108 %} - copyright owner is not working properly
- * {% chjl MLICENSE-113 %} - Eclipse Public License includes Eclipse Distribution License by mistake
+ * [MLICENSE--108] - copyright owner is not working properly
+ * [MLICENSE--113] - Eclipse Public License includes Eclipse Distribution License by mistake
 
 Enjoy,
 

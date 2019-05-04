@@ -25,13 +25,13 @@ An API to install, deploy and resolving artifacts with Maven3
 
 Bug:
 
- * {% ajl MSHARED-602 %} - - NoSuchMethodException using DependencyCollector with Maven 3.0
+ * [MSHARED-602](https://issues.apache.org/jira/browse/MSHARED-602) - - NoSuchMethodException using DependencyCollector with Maven 3.0
 
 Improvements:
 
- * {% ajl MSHARED-635 %} - - Upgrade to plexus-component-metadata/plexus-component-annotation to 1.7.1
- * {% ajl MSHARED-636 %} - - Upgrade maven-common-artifact-filters to 3.0.1
- * {% ajl MSHARED-637 %} - - Remove IOException from ProjectDeployer cause it's not thrown by the code
+ * [MSHARED-635](https://issues.apache.org/jira/browse/MSHARED-635) - - Upgrade to plexus-component-metadata/plexus-component-annotation to 1.7.1
+ * [MSHARED-636](https://issues.apache.org/jira/browse/MSHARED-636) - - Upgrade maven-common-artifact-filters to 3.0.1
+ * [MSHARED-637](https://issues.apache.org/jira/browse/MSHARED-637) - - Remove IOException from ProjectDeployer cause it's not thrown by the code
 
 Enjoy,
 

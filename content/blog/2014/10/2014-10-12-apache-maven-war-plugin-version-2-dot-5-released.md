@@ -29,27 +29,27 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MWAR-305 %} - Filtering doesn't work as expected after switching from maven-filtering:1.0-beta-2 to maven-filtering:1.1
- * {% chjl MWAR-306] - [regression %} Filtering doesn't work if a lone @ is found in a line to interpolate
- * {% chjl MWAR-311 %} - Filtering of resources broken in version 2.4
- * {% chjl MWAR-312 %} - Document about Skinny War might need update
+ * [MWAR-305](https://issues.apache.org/jira/browse/MWAR-305) - Filtering doesn't work as expected after switching from maven-filtering:1.0-beta-2 to maven-filtering:1.1
+ * [MWAR-306] - [regression](https://issues.apache.org/jira/browse/MWAR-306] - [regression) Filtering doesn't work if a lone @ is found in a line to interpolate
+ * [MWAR-311](https://issues.apache.org/jira/browse/MWAR-311) - Filtering of resources broken in version 2.4
+ * [MWAR-312](https://issues.apache.org/jira/browse/MWAR-312) - Document about Skinny War might need update
 
 Improvements:
 
- * {% chjl MWAR-313 %} - Upgrade maven-filtering to 1.2
- * {% chjl MWAR-316 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MWAR-317 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% chjl MWAR-319 %} - Fix RAT Report
- * {% chjl MWAR-320 %} - Update version of plexus-archiver to 2.6.1
- * {% chjl MWAR-321 %} - Upgrade plexus archiver to 2.6.3
- * {% chjl MWAR-322 %} - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
- * {% chjl MWAR-323 %} - Upgrade xstream version to 1.4.4
- * {% chjl MWAR-324 %} - Upgrade plexus-io to 2.1.3
- * {% chjl MWAR-325 %} - Fixed CPD / Checkstyle WARNINGS
+ * [MWAR-313](https://issues.apache.org/jira/browse/MWAR-313) - Upgrade maven-filtering to 1.2
+ * [MWAR-316](https://issues.apache.org/jira/browse/MWAR-316) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MWAR-317](https://issues.apache.org/jira/browse/MWAR-317) - Upgrade to Maven 2.2.1 compatiblity
+ * [MWAR-319](https://issues.apache.org/jira/browse/MWAR-319) - Fix RAT Report
+ * [MWAR-320](https://issues.apache.org/jira/browse/MWAR-320) - Update version of plexus-archiver to 2.6.1
+ * [MWAR-321](https://issues.apache.org/jira/browse/MWAR-321) - Upgrade plexus archiver to 2.6.3
+ * [MWAR-322](https://issues.apache.org/jira/browse/MWAR-322) - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
+ * [MWAR-323](https://issues.apache.org/jira/browse/MWAR-323) - Upgrade xstream version to 1.4.4
+ * [MWAR-324](https://issues.apache.org/jira/browse/MWAR-324) - Upgrade plexus-io to 2.1.3
+ * [MWAR-325](https://issues.apache.org/jira/browse/MWAR-325) - Fixed CPD / Checkstyle WARNINGS
 
 Task:
 
-* {% chjl MWAR-302 %} - Use the maven-mapping shared component
+* [MWAR-302](https://issues.apache.org/jira/browse/MWAR-302) - Use the maven-mapping shared component
 
 Enjoy,
 

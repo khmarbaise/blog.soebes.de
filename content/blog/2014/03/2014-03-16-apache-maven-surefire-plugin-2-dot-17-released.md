@@ -32,28 +32,28 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl SUREFIRE-1031 %} - Temp files are not deleted properly
- * {% chjl SUREFIRE-1033 %} - Invalid XML on documentation page
- * {% chjl SUREFIRE-1038 %} - Regression: Method depends on nonexistent group
- * {% chjl SUREFIRE-1040 %} - Typo in documentation of IntegrationTestMojo#test
- * {% chjl SUREFIRE-1041 %} - JUnit47 provider: Exception in JUnit Runner can crash test run without visible stack trace
- * {% chjl SUREFIRE-1044 %} - Changed behaviour of TestNG test execution after implementing runOrder support
- * {% chjl SUREFIRE-1046 %} - Inproc test running does not work with java 8
- * {% chjl SUREFIRE-1051 %} - Surefire plugin creates files in /tmp and does not delete them on exit
- * {% chjl SUREFIRE-1055 %} - Parallel JUnit does not run all test methods with parallel=classesAndMethods perCoreThreadCount=false useUnlimitedThreads=true and threadCountMethods specified
- * {% chjl SUREFIRE-1056 %} - fractional forkCount does not work as intended on single core machines
- * {% chjl SUREFIRE-1063 %} - Typo in error message
+ * [SUREFIRE-1031](https://issues.apache.org/jira/browse/SUREFIRE-1031) - Temp files are not deleted properly
+ * [SUREFIRE-1033](https://issues.apache.org/jira/browse/SUREFIRE-1033) - Invalid XML on documentation page
+ * [SUREFIRE-1038](https://issues.apache.org/jira/browse/SUREFIRE-1038) - Regression: Method depends on nonexistent group
+ * [SUREFIRE-1040](https://issues.apache.org/jira/browse/SUREFIRE-1040) - Typo in documentation of IntegrationTestMojo#test
+ * [SUREFIRE-1041](https://issues.apache.org/jira/browse/SUREFIRE-1041) - JUnit47 provider: Exception in JUnit Runner can crash test run without visible stack trace
+ * [SUREFIRE-1044](https://issues.apache.org/jira/browse/SUREFIRE-1044) - Changed behaviour of TestNG test execution after implementing runOrder support
+ * [SUREFIRE-1046](https://issues.apache.org/jira/browse/SUREFIRE-1046) - Inproc test running does not work with java 8
+ * [SUREFIRE-1051](https://issues.apache.org/jira/browse/SUREFIRE-1051) - Surefire plugin creates files in /tmp and does not delete them on exit
+ * [SUREFIRE-1055](https://issues.apache.org/jira/browse/SUREFIRE-1055) - Parallel JUnit does not run all test methods with parallel=classesAndMethods perCoreThreadCount=false useUnlimitedThreads=true and threadCountMethods specified
+ * [SUREFIRE-1056](https://issues.apache.org/jira/browse/SUREFIRE-1056) - fractional forkCount does not work as intended on single core machines
+ * [SUREFIRE-1063](https://issues.apache.org/jira/browse/SUREFIRE-1063) - Typo in error message
 
 Improvements:
 
- * {% chjl SUREFIRE-1030 %} - Remove nested exception wrappers
- * {% chjl SUREFIRE-1047 %} - Add @{...} property evaluation for the argLine
- * {% chjl SUREFIRE-1058 %} - TestSetFailedException trying to use maven-surefire-plugin + regular expressions for TestNG groups
- * {% chjl SUREFIRE-1062 %} - TestNG listeners on separate lines in pom.xml
+ * [SUREFIRE-1030](https://issues.apache.org/jira/browse/SUREFIRE-1030) - Remove nested exception wrappers
+ * [SUREFIRE-1047](https://issues.apache.org/jira/browse/SUREFIRE-1047) - Add @{...} property evaluation for the argLine
+ * [SUREFIRE-1058](https://issues.apache.org/jira/browse/SUREFIRE-1058) - TestSetFailedException trying to use maven-surefire-plugin + regular expressions for TestNG groups
+ * [SUREFIRE-1062](https://issues.apache.org/jira/browse/SUREFIRE-1062) - TestNG listeners on separate lines in pom.xml
 
 Wishes:
 
- * {% chjl SUREFIRE-1025 %} - TestSetRunListener.testSetCompleted() should write files first before reporting the completion on console.
+ * [SUREFIRE-1025](https://issues.apache.org/jira/browse/SUREFIRE-1025) - TestSetRunListener.testSetCompleted() should write files first before reporting the completion on console.
 
 
 Enjoy,

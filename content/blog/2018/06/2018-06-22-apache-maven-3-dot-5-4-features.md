@@ -56,31 +56,31 @@ Release Notes - Maven - Version 3.5.4
 
 Bugs:
 
- * {%ajl MNG-6370 %} - ConcurrencyDependencyGraph#getNumberOfBuilds() does not remove finished projects from unfinished ones
- * {%ajl MNG-6372 %} - On Windows Maven can output spurious ANSI escapes such as [0m [0m
- * {%ajl MNG-6382 %} - JANSI fails frequently with NumberFormatException when building in parallel
- * {%ajl MNG-6386 %} - ${project.baseUri} is not a valid URI (according to RFC 3986)
- * {%ajl MNG-6388 %} - Error Fetching Artifacts: "[B cannot be cast to java.lang.String"
- * {%ajl MNG-6403 %} - Artifact#VERSION_FILE_PATTERN does not escape period between date and time
- * {%ajl MNG-6410 %} - Add groupId to --resume-from suggestion if artifactId is not unique in reactor
+ * [MNG-6370](https://issues.apache.org/jira/browse/MNG-6370) - ConcurrencyDependencyGraph#getNumberOfBuilds() does not remove finished projects from unfinished ones
+ * [MNG-6372](https://issues.apache.org/jira/browse/MNG-6372) - On Windows Maven can output spurious ANSI escapes such as [0m [0m
+ * [MNG-6382](https://issues.apache.org/jira/browse/MNG-6382) - JANSI fails frequently with NumberFormatException when building in parallel
+ * [MNG-6386](https://issues.apache.org/jira/browse/MNG-6386) - ${project.baseUri} is not a valid URI (according to RFC 3986)
+ * [MNG-6388](https://issues.apache.org/jira/browse/MNG-6388) - Error Fetching Artifacts: "[B cannot be cast to java.lang.String"
+ * [MNG-6403](https://issues.apache.org/jira/browse/MNG-6403) - Artifact#VERSION_FILE_PATTERN does not escape period between date and time
+ * [MNG-6410](https://issues.apache.org/jira/browse/MNG-6410) - Add groupId to --resume-from suggestion if artifactId is not unique in reactor
 
 Improvements:
 
- * {%ajl MNG-5756 %} - Java home output in mvn -v is misleading
- * {%ajl MNG-5940 %} - Change the maven-source-plugin jar goal into jar-no-fork in Maven Super POM
- * {%ajl MNG-6362 %} - Add documentation information for GitHub
- * {%ajl MNG-6363 %} - Remove secret thread configuration property from code
- * {%ajl MNG-6364 %} - Enhanced Jenkinsfile to test Core with JDK 9
- * {%ajl MNG-6411 %} - Improve readability of project list returned when --resume-from option value is invalid
+ * [MNG-5756](https://issues.apache.org/jira/browse/MNG-5756) - Java home output in mvn -v is misleading
+ * [MNG-5940](https://issues.apache.org/jira/browse/MNG-5940) - Change the maven-source-plugin jar goal into jar-no-fork in Maven Super POM
+ * [MNG-6362](https://issues.apache.org/jira/browse/MNG-6362) - Add documentation information for GitHub
+ * [MNG-6363](https://issues.apache.org/jira/browse/MNG-6363) - Remove secret thread configuration property from code
+ * [MNG-6364](https://issues.apache.org/jira/browse/MNG-6364) - Enhanced Jenkinsfile to test Core with JDK 9
+ * [MNG-6411](https://issues.apache.org/jira/browse/MNG-6411) - Improve readability of project list returned when --resume-from option value is invalid
 
 Task:
 
- * {%ajl MNG-6377 %} - switch from Git-WIP to Gitbox
+ * [MNG-6377](https://issues.apache.org/jira/browse/MNG-6377) - switch from Git-WIP to Gitbox
 
 Dependency upgrades:
 
- * {%ajl MNG-6344 %} - Upgrade Guice to 4.2.0
- * {%ajl MNG-6423 %} - Upgrade to Wagon 3.1.0
+ * [MNG-6344](https://issues.apache.org/jira/browse/MNG-6344) - Upgrade Guice to 4.2.0
+ * [MNG-6423](https://issues.apache.org/jira/browse/MNG-6423) - Upgrade to Wagon 3.1.0
 
 Share and Enjoy,
 

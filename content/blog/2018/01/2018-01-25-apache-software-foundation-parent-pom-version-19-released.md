@@ -29,32 +29,32 @@ Release Notes - Maven POMs - Version ASF-19
 
 Improvements:
 
- * {%ajl MPOM-118 %} - Enforce strong GPG signatures by default
- * {%ajl MPOM-124 %} - Text about for default compiler version giving 1.4 which is wrong
- * {%ajl MPOM-129 %} - Upgrade apache-rat-plugin to 0.12
- * {%ajl MPOM-130 %} - Upgrade maven-jar-plugin to version 3.0.2
- * {%ajl MPOM-131 %} - Upgrade maven-source-plugin to 3.0.1
- * {%ajl MPOM-136 %} - Upgrade maven-resources-plugin to 3.0.1
- * {%ajl MPOM-137 %} - Upgrade maven-scm-plugin to 1.9.5
- * {%ajl MPOM-164 %} - Require Maven 3.0 to build ASF projects
- * {%ajl MPOM-169 %} - Update to latest RAT 0.12
+ * [MPOM-118](https://issues.apache.org/jira/browse/MPOM-118) - Enforce strong GPG signatures by default
+ * [MPOM-124](https://issues.apache.org/jira/browse/MPOM-124) - Text about for default compiler version giving 1.4 which is wrong
+ * [MPOM-129](https://issues.apache.org/jira/browse/MPOM-129) - Upgrade apache-rat-plugin to 0.12
+ * [MPOM-130](https://issues.apache.org/jira/browse/MPOM-130) - Upgrade maven-jar-plugin to version 3.0.2
+ * [MPOM-131](https://issues.apache.org/jira/browse/MPOM-131) - Upgrade maven-source-plugin to 3.0.1
+ * [MPOM-136](https://issues.apache.org/jira/browse/MPOM-136) - Upgrade maven-resources-plugin to 3.0.1
+ * [MPOM-137](https://issues.apache.org/jira/browse/MPOM-137) - Upgrade maven-scm-plugin to 1.9.5
+ * [MPOM-164](https://issues.apache.org/jira/browse/MPOM-164) - Require Maven 3.0 to build ASF projects
+ * [MPOM-169](https://issues.apache.org/jira/browse/MPOM-169) - Update to latest RAT 0.12
 
 Tasks:
 
- * {%ajl MPOM-132 %} - assembly plugin should use posix, not gnu for tarLongFileMode
- * {%ajl MPOM-141 %} - Upgrade maven-assembly-plugin to 3.0.0.
- * {%ajl MPOM-142 %} - Upgrade maven-compiler-plugin to 3.6.0.
- * {%ajl MPOM-144 %} - Upgrade maven-javadoc-plugin to 2.10.4.
- * {%ajl MPOM-146 %} - Upgrade maven-resources-plugin to 3.0.2.
- * {%ajl MPOM-147 %} - Upgrade maven-war-plugin to 3.0.0.
- * {%ajl MPOM-148 %} - Upgrade clirr-maven-plugin to 2.8.
- * {%ajl MPOM-165 %} - upgrade maven-invoker-plugin to 3.0.1
- * {%ajl MPOM-166 %} - upgrade maven-plugin-plugin to 3.5
- * {%ajl MPOM-170 %} - migrate to Git
+ * [MPOM-132](https://issues.apache.org/jira/browse/MPOM-132) - assembly plugin should use posix, not gnu for tarLongFileMode
+ * [MPOM-141](https://issues.apache.org/jira/browse/MPOM-141) - Upgrade maven-assembly-plugin to 3.0.0.
+ * [MPOM-142](https://issues.apache.org/jira/browse/MPOM-142) - Upgrade maven-compiler-plugin to 3.6.0.
+ * [MPOM-144](https://issues.apache.org/jira/browse/MPOM-144) - Upgrade maven-javadoc-plugin to 2.10.4.
+ * [MPOM-146](https://issues.apache.org/jira/browse/MPOM-146) - Upgrade maven-resources-plugin to 3.0.2.
+ * [MPOM-147](https://issues.apache.org/jira/browse/MPOM-147) - Upgrade maven-war-plugin to 3.0.0.
+ * [MPOM-148](https://issues.apache.org/jira/browse/MPOM-148) - Upgrade clirr-maven-plugin to 2.8.
+ * [MPOM-165](https://issues.apache.org/jira/browse/MPOM-165) - upgrade maven-invoker-plugin to 3.0.1
+ * [MPOM-166](https://issues.apache.org/jira/browse/MPOM-166) - upgrade maven-plugin-plugin to 3.5
+ * [MPOM-170](https://issues.apache.org/jira/browse/MPOM-170) - migrate to Git
  
 Dependency upgrade:
 
- * {%ajl MPOM-173 %} - Upgrade mave-surefire/failsafe-plugin 2.20.1
+ * [MPOM-173](https://issues.apache.org/jira/browse/MPOM-173) - Upgrade mave-surefire/failsafe-plugin 2.20.1
 
 Changes since version 18:
 

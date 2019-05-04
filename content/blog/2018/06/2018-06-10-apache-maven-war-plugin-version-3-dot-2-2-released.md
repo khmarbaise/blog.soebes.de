@@ -38,11 +38,11 @@ Important Note:
 
 Bug:
 
- * {%ajl MWAR-303 %} - filtering of ${project.developers[0].id} does not work
+ * [MWAR-303](https://issues.apache.org/jira/browse/MWAR-303) - filtering of ${project.developers[0].id} does not work
 
 Dependency upgrade:
 
- * {%ajl MWAR-417 %} - Upgrade to plexus-interpolation to version 1.25
+ * [MWAR-417](https://issues.apache.org/jira/browse/MWAR-417) - Upgrade to plexus-interpolation to version 1.25
 
 Many thanks to all reporters/contributors/testers of this release.
 

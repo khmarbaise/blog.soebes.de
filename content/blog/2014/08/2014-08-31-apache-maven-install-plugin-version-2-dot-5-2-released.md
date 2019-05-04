@@ -27,13 +27,13 @@ the local repository.
 
 Bugs:
 
- * {% chjl MINSTALL-100 %} - Update description for installAtEnd param
- * {% chjl MINSTALL-103 %} - Concurrency problem with installAtEnd in parallel builds
+ * [MINSTALL-100](https://issues.apache.org/jira/browse/MINSTALL-100) - Update description for installAtEnd param
+ * [MINSTALL-103](https://issues.apache.org/jira/browse/MINSTALL-103) - Concurrency problem with installAtEnd in parallel builds
 
 Improvements:
 
- * {% chjl MINSTALL-106 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MINSTALL-107 %} - Upgrade to Maven 2.2.1 compatiblity
+ * [MINSTALL-106](https://issues.apache.org/jira/browse/MINSTALL-106) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MINSTALL-107](https://issues.apache.org/jira/browse/MINSTALL-107) - Upgrade to Maven 2.2.1 compatiblity
 
 
 Enjoy,

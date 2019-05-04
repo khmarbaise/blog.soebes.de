@@ -31,17 +31,17 @@ You should specify the version in your project's plugin configuration:
 
 New Feature:
 
- * {% ajl MCOMPILER-203 %} -  Allow compiler-plugin to specify annotation processor dependencies
+ * [MCOMPILER-203](https://issues.apache.org/jira/browse/MCOMPILER-203) -  Allow compiler-plugin to specify annotation processor dependencies
 
 Bug:
 
- * {% ajl MCOMPILER-211 %} -  Compiler plugin (3.x) fails in eclipse
+ * [MCOMPILER-211](https://issues.apache.org/jira/browse/MCOMPILER-211) -  Compiler plugin (3.x) fails in eclipse
 
 Improvement:
 
- * {% ajl MCOMPILER-257 %} -  Require Maven 3.0
- * {% ajl MCOMPILER-258 %} -  Removing exclusions from maven-core
- * {% ajl MCOMPILER-259 %} -  Upgrade maven-shared-utils to 3.0.0
+ * [MCOMPILER-257](https://issues.apache.org/jira/browse/MCOMPILER-257) -  Require Maven 3.0
+ * [MCOMPILER-258](https://issues.apache.org/jira/browse/MCOMPILER-258) -  Removing exclusions from maven-core
+ * [MCOMPILER-259](https://issues.apache.org/jira/browse/MCOMPILER-259) -  Upgrade maven-shared-utils to 3.0.0
 
 Enjoy,
 

@@ -34,12 +34,12 @@ following snippet to the plugins or plugin management section of your POM:
 
 Bug:
 
- * {% chjl MJARSIGNER-34 %} - The 'verify' goal of the plugin is passing '-keystore' but not '-storetype'.
- * {% chjl MJARSIGNER-35 %} - verbose mode shows keystore password in clear text
+ * [MJARSIGNER-34](https://issues.apache.org/jira/browse/MJARSIGNER-34) - The 'verify' goal of the plugin is passing '-keystore' but not '-storetype'.
+ * [MJARSIGNER-35](https://issues.apache.org/jira/browse/MJARSIGNER-35) - verbose mode shows keystore password in clear text
 
 Task:
 
- * {% chjl MJARSIGNER-36 %} - Use maven-shared-utils 0.6 and maven-jarsigner 1.3.2
+ * [MJARSIGNER-36](https://issues.apache.org/jira/browse/MJARSIGNER-36) - Use maven-shared-utils 0.6 and maven-jarsigner 1.3.2
 
 Enjoy,
 

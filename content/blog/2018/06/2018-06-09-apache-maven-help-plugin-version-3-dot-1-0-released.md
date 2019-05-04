@@ -40,22 +40,22 @@ You can download the appropriate [sources etc. from the download page](https://m
 
 New Feature:
 
- * {%ajl MPH-144 %} - Add ability to print mvn help:evaluate output to stdout in quiet mode
+ * [MPH-144](https://issues.apache.org/jira/browse/MPH-144) - Add ability to print mvn help:evaluate output to stdout in quiet mode
 
 Improvement:
 
- * {%ajl MPH-151 %} - Add documentation information for GitHub
+ * [MPH-151](https://issues.apache.org/jira/browse/MPH-151) - Add documentation information for GitHub
 
 Tasks:
 
- * {%ajl MPH-145 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
- * {%ajl MPH-146 %} - JavaDoc Issues / Code cleanups
+ * [MPH-145](https://issues.apache.org/jira/browse/MPH-145) - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * [MPH-146](https://issues.apache.org/jira/browse/MPH-146) - JavaDoc Issues / Code cleanups
 
 Dependency upgrades:
 
- * {%ajl MPH-147 %} - plexus-interactivity-api to 1.0-alpha-6
- * {%ajl MPH-148 %} - Upgrade xstream to 1.4.10
- * {%ajl MPH-149 %} - Upgrade jdom-legacy to jdom2 2.0.6
+ * [MPH-147](https://issues.apache.org/jira/browse/MPH-147) - plexus-interactivity-api to 1.0-alpha-6
+ * [MPH-148](https://issues.apache.org/jira/browse/MPH-148) - Upgrade xstream to 1.4.10
+ * [MPH-149](https://issues.apache.org/jira/browse/MPH-149) - Upgrade jdom-legacy to jdom2 2.0.6
 
 Enjoy,
 

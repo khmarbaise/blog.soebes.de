@@ -31,10 +31,10 @@ which has been moved from Codehaus to [Apache Software Foundation](https://issue
 
 Bugs:
 
- * {% ajl MJAVADOC-347 %} - javadoc:aggregate-jar doesn't create Javadoc JAR if failOnError=false and there is an error
- * {% ajl MJAVADOC-414 %} - Artifacts missing from test classpath.
- * {% ajl MJAVADOC-424 %} - Compile errors and warning when generating the test-javadoc
- * {% ajl MJAVADOC-425 %} - Outdated doxia's version is used in plugin
+ * [MJAVADOC-347](https://issues.apache.org/jira/browse/MJAVADOC-347) - javadoc:aggregate-jar doesn't create Javadoc JAR if failOnError=false and there is an error
+ * [MJAVADOC-414](https://issues.apache.org/jira/browse/MJAVADOC-414) - Artifacts missing from test classpath.
+ * [MJAVADOC-424](https://issues.apache.org/jira/browse/MJAVADOC-424) - Compile errors and warning when generating the test-javadoc
+ * [MJAVADOC-425](https://issues.apache.org/jira/browse/MJAVADOC-425) - Outdated doxia's version is used in plugin
 
 Enjoy,
 

@@ -28,25 +28,25 @@ https://maven.apache.org/plugins/maven-site-plugin/download.cgi
 
 Bugs:
 
- * {%ajl MSITE-806 %} - Site generation does not work when no report configured nor Doxia document provided
- * {%ajl MSITE-809 %} - Documentation: examples/configuring-reports.html includes invalid XML
- * {%ajl MSITE-812 %} - Missing '/' in log when deploying documentation by site:stage
- * {%ajl MSITE-817 %} - inherit edit value in site.xml
- * {%ajl MSITE-818 %} - site:run fails to find locale when zh_CN is used
+ * [MSITE-806](https://issues.apache.org/jira/browse/MSITE-806) - Site generation does not work when no report configured nor Doxia document provided
+ * [MSITE-809](https://issues.apache.org/jira/browse/MSITE-809) - Documentation: examples/configuring-reports.html includes invalid XML
+ * [MSITE-812](https://issues.apache.org/jira/browse/MSITE-812) - Missing '/' in log when deploying documentation by site:stage
+ * [MSITE-817](https://issues.apache.org/jira/browse/MSITE-817) - inherit edit value in site.xml
+ * [MSITE-818](https://issues.apache.org/jira/browse/MSITE-818) - site:run fails to find locale when zh_CN is used
 
 Improvements:
 
- * {%ajl MSITE-811 %} - Upgrade parent to 31
- * {%ajl MSITE-819 %} - improve display of site rendering with locale info
+ * [MSITE-811](https://issues.apache.org/jira/browse/MSITE-811) - Upgrade parent to 31
+ * [MSITE-819](https://issues.apache.org/jira/browse/MSITE-819) - improve display of site rendering with locale info
 
 Wish:
 
- * {%ajl MSITE-815 %} - highlight skin used to render site and documents statistics
+ * [MSITE-815](https://issues.apache.org/jira/browse/MSITE-815) - highlight skin used to render site and documents statistics
 
 Tasks:
 
- * {%ajl MSITE-767 %} - Revert r1729902 caused by DOXIASITETOOLS-155 and fix ITs as soon as parent POMs and site.xml descriptors have been upgraded
- * {%ajl MSITE-821 %} - add documentation on site plugin dependencies
+ * [MSITE-767](https://issues.apache.org/jira/browse/MSITE-767) - Revert r1729902 caused by DOXIASITETOOLS-155 and fix ITs as soon as parent POMs and site.xml descriptors have been upgraded
+ * [MSITE-821](https://issues.apache.org/jira/browse/MSITE-821) - add documentation on site plugin dependencies
 
 Enjoy,
 

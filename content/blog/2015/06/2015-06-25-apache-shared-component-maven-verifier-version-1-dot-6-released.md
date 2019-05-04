@@ -27,13 +27,13 @@ You should specify the version in your project's dependencies configuration:
 
 Bug:
 
- * {% ajl MSHARED-410 %} - Verifier mishandles systemProperties
+ * [MSHARED-410](https://issues.apache.org/jira/browse/MSHARED-410) - Verifier mishandles systemProperties
 
 Improvements:
 
- * {% ajl MSHARED-405 %} - Upgrade maven-shared-utils to 0.7
- * {% ajl MSHARED-418 %} - Verifier should not use hard coded CLI options without possibility to modify them
- * {% ajl MSHARED-427 %} - Upgrade maven-shared-utils to 0.8
+ * [MSHARED-405](https://issues.apache.org/jira/browse/MSHARED-405) - Upgrade maven-shared-utils to 0.7
+ * [MSHARED-418](https://issues.apache.org/jira/browse/MSHARED-418) - Verifier should not use hard coded CLI options without possibility to modify them
+ * [MSHARED-427](https://issues.apache.org/jira/browse/MSHARED-427) - Upgrade maven-shared-utils to 0.8
 
 Enjoy,
 

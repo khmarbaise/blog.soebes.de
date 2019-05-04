@@ -26,15 +26,15 @@ The Patch Plugin is used to apply patches to source files.
 
 Improvement:
 
- * {% chjl MPATCH-17 %} - Make Plugin only 2.2.1 compatible - get rid of Maven 2.0
+ * [MPATCH-17](https://issues.apache.org/jira/browse/MPATCH-17) - Make Plugin only 2.2.1 compatible - get rid of Maven 2.0
 
 New Feature:
 
- * {% chjl MPATCH-15 %} - Expose the "binary" option as a parameter
+ * [MPATCH-15](https://issues.apache.org/jira/browse/MPATCH-15) - Expose the "binary" option as a parameter
 
 Task:
 
- * {% chjl MPATCH-14 %} - use maven-plugin-tools' java 5 annotations
+ * [MPATCH-14](https://issues.apache.org/jira/browse/MPATCH-14) - use maven-plugin-tools' java 5 annotations
 
 Enjoy,
 

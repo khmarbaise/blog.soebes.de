@@ -25,7 +25,7 @@ To use the Maven Jarsigner, add the following dependency to your project:
 
 Fixed Bug:
 
- * {% chjl MSHARED-314 %} - Unsigning a jar is not correct
+ * [MSHARED-314](https://issues.apache.org/jira/browse/MSHARED-314) - Unsigning a jar is not correct
 
 Enjoy,
 

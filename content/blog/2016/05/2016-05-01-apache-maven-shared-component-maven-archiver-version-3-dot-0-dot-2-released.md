@@ -38,7 +38,7 @@ Important Notes since Version 3.0.0:
 
 Bugs:
 
- * {% ajl MSHARED-513 %} -  Regression: Created-By row in manifest does not include Maven version
+ * [MSHARED-513](https://issues.apache.org/jira/browse/MSHARED-513) -  Regression: Created-By row in manifest does not include Maven version
 
 
 Enjoy,

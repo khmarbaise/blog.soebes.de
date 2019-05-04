@@ -17,8 +17,8 @@ artifact and repository handling code.
 
 Bugs:
 
- * {% chjl WAGON-416 %} - Lightweight HTTP Wagon doesn't set Proxy-Authorization header
- * {% chjl WAGON-422 %} - HTTP wagon AuthScope is not definable from settings
+ * [WAGON-416](https://issues.apache.org/jira/browse/WAGON-416) - Lightweight HTTP Wagon doesn't set Proxy-Authorization header
+ * [WAGON-422](https://issues.apache.org/jira/browse/WAGON-422) - HTTP wagon AuthScope is not definable from settings
 
 
 Have fun

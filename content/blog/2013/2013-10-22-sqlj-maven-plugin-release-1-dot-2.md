@@ -26,16 +26,16 @@ To get this update, simply specify the version in your project`s plugin configur
 
 The following bugs have been fixed:
 
- * {% chjl MSQLJ-11 %} - Wrong web access url for scm
- * {% chjl MSQLJ-13 %} - sqlj:sqlj fails if status param is configured to false 
+ * [MSQLJ--11] - Wrong web access url for scm
+ * [MSQLJ--13] - sqlj:sqlj fails if status param is configured to false 
 
 Improvements:
 
- * {% chjl MSQLJ-6 %} - Make plugin m2e compatible 
- * {% chjl MSQLJ-12 %} - Print out the version of sqlj being used 
- * {% chjl MSQLJ-14 %} - Rework how the output of processing (status) info works 
+ * [MSQLJ--6] - Make plugin m2e compatible 
+ * [MSQLJ--12] - Print out the version of sqlj being used 
+ * [MSQLJ--14] - Rework how the output of processing (status) info works 
 
 Tasks:
 
- * {% chjl MSQLJ-7 %} - Convert ITs to maven-invoker-plugin 
- * {% chjl MSQLJ-8 %} - Switch to Mojo Java annotations 
+ * [MSQLJ--7] - Convert ITs to maven-invoker-plugin 
+ * [MSQLJ--8] - Switch to Mojo Java annotations 

@@ -25,11 +25,11 @@ To get this update, simply specify the version in your project´s plugin configu
 
 Improvements:
 
- * {% chjl MSQLJ-15 %} - Plugin does not include project dependencies when translating
+ * [MSQLJ--15] - Plugin does not include project dependencies when translating
 
 Task:
 
- * {% chjl MSQLJ-16 %} - Convert FAQ page to fml format
+ * [MSQLJ--16] - Convert FAQ page to fml format
 
 
 Enjoy,

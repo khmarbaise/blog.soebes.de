@@ -28,12 +28,12 @@ configuration:
 
 Bugs:
 
- * {% chjl MBUILDHELPER-69 %} - buildNumber parsed results are different between snapshot and release
- * {% chjl MBUILDHELPER-70 %} - Invalid usage of String.compareTo
+ * [MBUILDHELPER-69](https://issues.apache.org/jira/browse/MBUILDHELPER-69) - buildNumber parsed results are different between snapshot and release
+ * [MBUILDHELPER-70](https://issues.apache.org/jira/browse/MBUILDHELPER-70) - Invalid usage of String.compareTo
 
 Task:
 
- * {% chjl MBUILDHELPER-68 %} - maven 2.2.1 as minimum maven runtime
+ * [MBUILDHELPER-68](https://issues.apache.org/jira/browse/MBUILDHELPER-68) - maven 2.2.1 as minimum maven runtime
 
 Enjoy,
 

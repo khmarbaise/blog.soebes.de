@@ -27,21 +27,21 @@ from within your Apache Maven build.
 
 Improvements:
 
- * {% chjl MCASSANDRA-16 %} - Cassandra plugin force to use slf4j log4j binding
- * {% chjl MCASSANDRA-22 %} - Add support for CQL3
- * {% chjl MCASSANDRA-24 %} - Add failOnError option to delete goal
- * {% chjl MCASSANDRA-25 %} - Logging configuration
- * {% chjl MCASSANDRA-31 %} - Enable User to set 'native_transport_port'
- * {% chjl MCASSANDRA-32 %} - Support Cassandra 2.0.x
+ * [MCASSANDRA-16](https://issues.apache.org/jira/browse/MCASSANDRA-16) - Cassandra plugin force to use slf4j log4j binding
+ * [MCASSANDRA-22](https://issues.apache.org/jira/browse/MCASSANDRA-22) - Add support for CQL3
+ * [MCASSANDRA-24](https://issues.apache.org/jira/browse/MCASSANDRA-24) - Add failOnError option to delete goal
+ * [MCASSANDRA-25](https://issues.apache.org/jira/browse/MCASSANDRA-25) - Logging configuration
+ * [MCASSANDRA-31](https://issues.apache.org/jira/browse/MCASSANDRA-31) - Enable User to set 'native_transport_port'
+ * [MCASSANDRA-32](https://issues.apache.org/jira/browse/MCASSANDRA-32) - Support Cassandra 2.0.x
 
 New Features:
 
- * {% chjl MCASSANDRA-17 %} - CassandraUnit Integration
- * {% chjl MCASSANDRA-27 %} - add system properties to cassandra cli when starting
+ * [MCASSANDRA-17](https://issues.apache.org/jira/browse/MCASSANDRA-17) - CassandraUnit Integration
+ * [MCASSANDRA-27](https://issues.apache.org/jira/browse/MCASSANDRA-27) - add system properties to cassandra cli when starting
 
 Fixed Bugs:
 
- * {% chjl MCASSANDRA-26 %} - Issue starting cassandra "java.lang.UnsatisfiedLinkError: no snappyjava in java.library.path "
- * {% chjl MCASSANDRA-30 %} - Fix smoke it
+ * [MCASSANDRA-26](https://issues.apache.org/jira/browse/MCASSANDRA-26) - Issue starting cassandra "java.lang.UnsatisfiedLinkError: no snappyjava in java.library.path "
+ * [MCASSANDRA-30](https://issues.apache.org/jira/browse/MCASSANDRA-30) - Fix smoke it
 
 Have Fun.

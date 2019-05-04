@@ -30,19 +30,19 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MENFORCER-222 %} - RequireSameVersion rule regression between 1.3 and 1.4
- * {% ajl MENFORCER-224 %} - Regression from 1.3.1 to 1.4 with bannedDependencies rule
- * {% ajl MENFORCER-229 %} - Ban Distribution Management documentation example doesn't work
- * {% ajl MENFORCER-237 %} - Resources Link to codehaus is wrong
+ * [MENFORCER-222](https://issues.apache.org/jira/browse/MENFORCER-222) - RequireSameVersion rule regression between 1.3 and 1.4
+ * [MENFORCER-224](https://issues.apache.org/jira/browse/MENFORCER-224) - Regression from 1.3.1 to 1.4 with bannedDependencies rule
+ * [MENFORCER-229](https://issues.apache.org/jira/browse/MENFORCER-229) - Ban Distribution Management documentation example doesn't work
+ * [MENFORCER-237](https://issues.apache.org/jira/browse/MENFORCER-237) - Resources Link to codehaus is wrong
 
 Improvements:
 
- * {% ajl MENFORCER-223 %} - Upgrade mrm-maven-plugin to 1.0-beta-2
- * {% ajl MENFORCER-227 %} - Document nullability with @Nonnull on EnforcerRule API
- * {% ajl MENFORCER-233 %} - Upgrade maven-invoker-plugin to 2.0.0
- * {% ajl MENFORCER-235 %} - Use maven-fluido-skin 1.4
- * {% ajl MENFORCER-236 %} - Upgrade maven-assembly-plugin version from 2.4 to 2.5.5 in integration test
- * {% ajl MENFORCER-238 %} - Upgrade plexus-utils to 3.0.22
+ * [MENFORCER-223](https://issues.apache.org/jira/browse/MENFORCER-223) - Upgrade mrm-maven-plugin to 1.0-beta-2
+ * [MENFORCER-227](https://issues.apache.org/jira/browse/MENFORCER-227) - Document nullability with @Nonnull on EnforcerRule API
+ * [MENFORCER-233](https://issues.apache.org/jira/browse/MENFORCER-233) - Upgrade maven-invoker-plugin to 2.0.0
+ * [MENFORCER-235](https://issues.apache.org/jira/browse/MENFORCER-235) - Use maven-fluido-skin 1.4
+ * [MENFORCER-236](https://issues.apache.org/jira/browse/MENFORCER-236) - Upgrade maven-assembly-plugin version from 2.4 to 2.5.5 in integration test
+ * [MENFORCER-238](https://issues.apache.org/jira/browse/MENFORCER-238) - Upgrade plexus-utils to 3.0.22
 
 Enjoy,
 

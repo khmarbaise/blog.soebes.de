@@ -29,29 +29,29 @@ Abstract classes to manage report generation, which can be run both:
 
 Bugs:
 
- * {% ajl MSHARED-392 %} - - AbstractMavenReportRenderer#applyPattern(String) chokes on some specific input and produces useless segments
- * {% ajl MSHARED-489 %} - - AbstractMavenReportRenderer#linkPatternedText ignores name if href is invalid
- * {% ajl MSHARED-608 %} - - Remove index.html-adding block in AbstractMavenReportRenderer#getValidHref()
+ * [MSHARED-392](https://issues.apache.org/jira/browse/MSHARED-392) - - AbstractMavenReportRenderer#applyPattern(String) chokes on some specific input and produces useless segments
+ * [MSHARED-489](https://issues.apache.org/jira/browse/MSHARED-489) - - AbstractMavenReportRenderer#linkPatternedText ignores name if href is invalid
+ * [MSHARED-608](https://issues.apache.org/jira/browse/MSHARED-608) - - Remove index.html-adding block in AbstractMavenReportRenderer#getValidHref()
 
 Improvements:
 
- * {% ajl MSHARED-430 %} - - Update JDK requirement to 1.6 / upgrade Maven Core dependencies to 3.0
- * {% ajl MSHARED-582 %} - - Upgrade maven-shared-components parent to version 30
- * {% ajl MSHARED-583 %} - - Make three digit version number
- * {% ajl MSHARED-642 %} - - Upgrade to maven-shared-utils 3.2.0
+ * [MSHARED-430](https://issues.apache.org/jira/browse/MSHARED-430) - - Update JDK requirement to 1.6 / upgrade Maven Core dependencies to 3.0
+ * [MSHARED-582](https://issues.apache.org/jira/browse/MSHARED-582) - - Upgrade maven-shared-components parent to version 30
+ * [MSHARED-583](https://issues.apache.org/jira/browse/MSHARED-583) - - Make three digit version number
+ * [MSHARED-642](https://issues.apache.org/jira/browse/MSHARED-642) - - Upgrade to maven-shared-utils 3.2.0
 
 Tasks:
 
- * {% ajl MSHARED-606 %} - - Upgrade to Commons Validator 1.5.1
- * {% ajl MSHARED-609 %} - - Partially revert MSHARED-429
- * {% ajl MSHARED-611 %} - - Drop any href validation and pass as-is
- * {% ajl MSHARED-612 %} - - Upgrade to Doxia 1.7
- * {% ajl MSHARED-613 %} - - Upgrade to Doxia Sitetools 1.7.4
- * {% ajl MSHARED-614 %} - - Upgrade to Maven Shared Utils 3.1.0
+ * [MSHARED-606](https://issues.apache.org/jira/browse/MSHARED-606) - - Upgrade to Commons Validator 1.5.1
+ * [MSHARED-609](https://issues.apache.org/jira/browse/MSHARED-609) - - Partially revert MSHARED-429
+ * [MSHARED-611](https://issues.apache.org/jira/browse/MSHARED-611) - - Drop any href validation and pass as-is
+ * [MSHARED-612](https://issues.apache.org/jira/browse/MSHARED-612) - - Upgrade to Doxia 1.7
+ * [MSHARED-613](https://issues.apache.org/jira/browse/MSHARED-613) - - Upgrade to Doxia Sitetools 1.7.4
+ * [MSHARED-614](https://issues.apache.org/jira/browse/MSHARED-614) - - Upgrade to Maven Shared Utils 3.1.0
 
 Wish:
 
- * {% ajl MSHARED-488 %} - - Make input source file encoding default to platform encoding
+ * [MSHARED-488](https://issues.apache.org/jira/browse/MSHARED-488) - - Make input source file encoding default to platform encoding
 
 Enjoy,
 

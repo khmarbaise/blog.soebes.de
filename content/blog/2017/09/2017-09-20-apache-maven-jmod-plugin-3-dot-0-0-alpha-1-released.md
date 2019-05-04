@@ -38,10 +38,10 @@ https://maven.apache.org/plugins/maven-jmod-plugin/download.cgi
 
 Improvements:
 
- * {% ajl MJMOD-1 %} - Upgrade dependencies in component
- * {% ajl MJMOD-2 %} - Classpath / Modulepath using the dependencies of the current project.
- * {% ajl MJMOD-3 %} - Changed moduleName into outputFileName to prevent confusion
- * {% ajl MJMOD-5 %} - Usage of moduleName in describe/list goal / classpath usage in create goal
+ * [MJMOD-1](https://issues.apache.org/jira/browse/MJMOD-1) - Upgrade dependencies in component
+ * [MJMOD-2](https://issues.apache.org/jira/browse/MJMOD-2) - Classpath / Modulepath using the dependencies of the current project.
+ * [MJMOD-3](https://issues.apache.org/jira/browse/MJMOD-3) - Changed moduleName into outputFileName to prevent confusion
+ * [MJMOD-5](https://issues.apache.org/jira/browse/MJMOD-5) - Usage of moduleName in describe/list goal / classpath usage in create goal
 
 Enjoy,
 

@@ -40,12 +40,12 @@ configuration:
 
 Bug:
 
- * {% chjl MOJO-2037 %} - java.lang.AssertionError: The file xyz.jar is corrupt or invalid
+ * [MOJO-2037] - java.lang.AssertionError: The file xyz.jar is corrupt or invalid
 
 Improvements:
 
- * {% chjl MOJO-1988 %} - Make excluding test dependencies configurable
- * {% chjl MOJO-2008 %} - Give version of the bytecode found in a bad dependency
+ * [MOJO-1988] - Make excluding test dependencies configurable
+ * [MOJO-2008] - Give version of the bytecode found in a bad dependency
 
 
 Enjoy, 

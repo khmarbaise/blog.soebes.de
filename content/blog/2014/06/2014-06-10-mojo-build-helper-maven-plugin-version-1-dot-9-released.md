@@ -29,15 +29,15 @@ configuration:
 
 Improvement:
 
- * {% chjl MBUILDHELPER-64 %} - Add ability to execute mutiple RegexProperty per execution to simply the xml configuration in pom
+ * [MBUILDHELPER-64](https://issues.apache.org/jira/browse/MBUILDHELPER-64) - Add ability to execute mutiple RegexProperty per execution to simply the xml configuration in pom
 
 New Feature:
 
- * {% chjl MBUILDHELPER-66 %} - Add ability to retrieve number of available CPUs
+ * [MBUILDHELPER-66](https://issues.apache.org/jira/browse/MBUILDHELPER-66) - Add ability to retrieve number of available CPUs
 
 Task:
 
- * {% chjl MBUILDHELPER-65 %} - reserve-ports-with-min IT fails on windows
+ * [MBUILDHELPER-65](https://issues.apache.org/jira/browse/MBUILDHELPER-65) - reserve-ports-with-min IT fails on windows
 
 Enjoy,
 

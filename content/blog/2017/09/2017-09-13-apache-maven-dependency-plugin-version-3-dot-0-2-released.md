@@ -37,19 +37,19 @@ https://maven.apache.org/plugins/maven-dependency-plugin/download.cgi
 
 Bugs:
 
- * {% ajl MDEP-571 %} - JDK9: Issue with list goal fails with java.lang.NoSuchMethodException
- * {% ajl MDEP-573 %} - "purge-local-repository -Dinclude" does not work as described
- * {% ajl MDEP-577 %} - dependency:list doesn't show module name
- * {% ajl MDEP-583 %} - Failed to create release on JDK 8 based on JavaDoc issues
+ * [MDEP-571](https://issues.apache.org/jira/browse/MDEP-571) - JDK9: Issue with list goal fails with java.lang.NoSuchMethodException
+ * [MDEP-573](https://issues.apache.org/jira/browse/MDEP-573) - "purge-local-repository -Dinclude" does not work as described
+ * [MDEP-577](https://issues.apache.org/jira/browse/MDEP-577) - dependency:list doesn't show module name
+ * [MDEP-583](https://issues.apache.org/jira/browse/MDEP-583) - Failed to create release on JDK 8 based on JavaDoc issues
 
 Improvements:
 
- * {% ajl MDEP-578 %} - Add message in case module name cannot be extracted from jar.
- * {% ajl MDEP-580 %} - Recognize source of name for automatic modules
+ * [MDEP-578](https://issues.apache.org/jira/browse/MDEP-578) - Add message in case module name cannot be extracted from jar.
+ * [MDEP-580](https://issues.apache.org/jira/browse/MDEP-580) - Recognize source of name for automatic modules
 
 Task:
 
- * {% ajl MDEP-581 %} - Downgrade maven-artifact-transfer to release version instead of SNAPSHOT
+ * [MDEP-581](https://issues.apache.org/jira/browse/MDEP-581) - Downgrade maven-artifact-transfer to release version instead of SNAPSHOT
 
 Enjoy,
 

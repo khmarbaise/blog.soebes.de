@@ -32,9 +32,9 @@ Release Notes - Mojo's FindBugs Maven Plugin - Version 2.5.5
 
 Bug:
 
- * {% chjl MFINDBUGS-198 %} - Add maxRank to the check goal to allow eclipse m2e findbugs plugin to pick up this configuration
+ * [MFINDBUGS-198] - Add maxRank to the check goal to allow eclipse m2e findbugs plugin to pick up this configuration
 
 Improvement:
 
- * {% chjl MFINDBUGS-197 %} - Remove redundant "Report" word on report name labels
+ * [MFINDBUGS-197] - Remove redundant "Report" word on report name labels
 

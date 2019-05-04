@@ -29,18 +29,18 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MPMD-208 %} Warning about deprecated Rule name when using rulesets/maven.xml
- * {% ajl MPMD-205 %} Javascript violations won't fail the build
+ * [MPMD-208](https://issues.apache.org/jira/browse/MPMD-208) Warning about deprecated Rule name when using rulesets/maven.xml
+ * [MPMD-205](https://issues.apache.org/jira/browse/MPMD-205) Javascript violations won't fail the build
 
 Improvements:
 
- * {% ajl MPMD-211 %} Upgrade plexus-resources from 1.0-alpha-7 to 1.1
- * {% ajl MPMD-209 %} Upgrade to PMD 5.3.2
- * {% ajl MPMD-206 %} Make the sourceDirectories configurable
+ * [MPMD-211](https://issues.apache.org/jira/browse/MPMD-211) Upgrade plexus-resources from 1.0-alpha-7 to 1.1
+ * [MPMD-209](https://issues.apache.org/jira/browse/MPMD-209) Upgrade to PMD 5.3.2
+ * [MPMD-206](https://issues.apache.org/jira/browse/MPMD-206) Make the sourceDirectories configurable
 
 New Feature:
 
- * {% ajl MPMD-207 %} Support Javascript and JSP for CPD
+ * [MPMD-207](https://issues.apache.org/jira/browse/MPMD-207) Support Javascript and JSP for CPD
 
 Enjoy,
 

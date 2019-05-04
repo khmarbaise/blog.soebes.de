@@ -30,21 +30,21 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MDEP-109 %} - Dependency plugin loses file permissions when unpacking or copying artifact items
- * {% chjl MDEP-242 %} - Exclude does not work correctly for tar.gz (but is working for zip)
- * {% chjl MDEP-397 %} - When using unpack-dependencies with a zip created on unixes, contained symlinks aren't correctly unpackaged
- * {% chjl MDEP-436 %} - German umlauts in outputDirectory and destFileName getting garbled
- * {% chjl MDEP-466 %} - analyze fails on multimodule project (regression)
+ * [MDEP-109](https://issues.apache.org/jira/browse/MDEP-109) - Dependency plugin loses file permissions when unpacking or copying artifact items
+ * [MDEP-242](https://issues.apache.org/jira/browse/MDEP-242) - Exclude does not work correctly for tar.gz (but is working for zip)
+ * [MDEP-397](https://issues.apache.org/jira/browse/MDEP-397) - When using unpack-dependencies with a zip created on unixes, contained symlinks aren't correctly unpackaged
+ * [MDEP-436](https://issues.apache.org/jira/browse/MDEP-436) - German umlauts in outputDirectory and destFileName getting garbled
+ * [MDEP-466](https://issues.apache.org/jira/browse/MDEP-466) - analyze fails on multimodule project (regression)
 
 Improvements:
 
- * {% chjl MDEP-465 %} - Update version of plexus-archiver from 2.4.4 to 2.9
- * {% chjl MDEP-467 %} - Update plexus-io from 2.0.9 to 2.2
- * {% chjl MDEP-472 %} - Upgrade to maven-plugins parent version 27
+ * [MDEP-465](https://issues.apache.org/jira/browse/MDEP-465) - Update version of plexus-archiver from 2.4.4 to 2.9
+ * [MDEP-467](https://issues.apache.org/jira/browse/MDEP-467) - Update plexus-io from 2.0.9 to 2.2
+ * [MDEP-472](https://issues.apache.org/jira/browse/MDEP-472) - Upgrade to maven-plugins parent version 27
 
 New Feature:
 
- * {% chjl MDEP-476 %} - add the ability to ignore dependencies in the analyze-* goals
+ * [MDEP-476](https://issues.apache.org/jira/browse/MDEP-476) - add the ability to ignore dependencies in the analyze-* goals
 
 
 Enjoy,

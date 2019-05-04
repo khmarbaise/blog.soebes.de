@@ -95,15 +95,15 @@ Release Notes
 
 Bug:
 
- * {% chjl MLICENSE-55 %}  - "could not rename" warning whenever the header of a source file is updated
- * {% chjl MLICENSE-79 %}  - add-third-party mojo may add unwanted dependencies to the generated 
+ * [MLICENSE--55]  - "could not rename" warning whenever the header of a source file is updated
+ * [MLICENSE--79]  - add-third-party mojo may add unwanted dependencies to the generated 
                              third party file when executing in multiple projects in a single maven build.
- * {% chjl MLICENSE-86 %}  - \[WARNING\] could not rename
- * {% chjl MLICENSE-105 %} - Fix some log messages
+ * [MLICENSE--86]  - \[WARNING\] could not rename
+ * [MLICENSE--105] - Fix some log messages
 
 Improvement:
 
- * {% chjl MLICENSE-103 %} - Don't show each single file name
+ * [MLICENSE--103] - Don't show each single file name
 
 Enjoy,
 

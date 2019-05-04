@@ -31,16 +31,16 @@ https://maven.apache.org/resolver/download.cgi
 
 Bugs:
 
- * {%ajl MRESOLVER-30 %} - Use last Wagon 3.0.0
- * {%ajl MRESOLVER-39 %} - deadlock during multithreaded dependency resolution
+ * [MRESOLVER-30](https://issues.apache.org/jira/browse/MRESOLVER-30) - Use last Wagon 3.0.0
+ * [MRESOLVER-39](https://issues.apache.org/jira/browse/MRESOLVER-39) - deadlock during multithreaded dependency resolution
 
 Task:
 
- * {%ajl MRESOLVER-28 %} - Move demos into master as new module
+ * [MRESOLVER-28](https://issues.apache.org/jira/browse/MRESOLVER-28) - Move demos into master as new module
 
 Dependency upgrade:
 
- * {%ajl MRESOLVER-34 %} - Update dependencies and plugins to latest versions
+ * [MRESOLVER-34](https://issues.apache.org/jira/browse/MRESOLVER-34) - Update dependencies and plugins to latest versions
 
 Enjoy,
 

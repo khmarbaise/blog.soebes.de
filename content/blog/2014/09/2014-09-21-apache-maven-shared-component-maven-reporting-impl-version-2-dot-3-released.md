@@ -30,20 +30,20 @@ Abstract classes to manage report generation, which can be run both:
 
 Sub-task:
 
- * {% chjl MSHARED-240 %} - Port maven-reporting-impl to maven-shared-utils
+ * [MSHARED-240](https://issues.apache.org/jira/browse/MSHARED-240) - Port maven-reporting-impl to maven-shared-utils
 
 Bugs:
 
- * {% chjl MSHARED-328 %} - use @parameter default-value instead of @parameter expression in sample
- * {% chjl MSHARED-346 %} - missing properties usually set by m-site-p (outputEncoding, ...)
+ * [MSHARED-328](https://issues.apache.org/jira/browse/MSHARED-328) - use @parameter default-value instead of @parameter expression in sample
+ * [MSHARED-346](https://issues.apache.org/jira/browse/MSHARED-346) - missing properties usually set by m-site-p (outputEncoding, ...)
 
 Improvement:
 
- * {% chjl MSHARED-348 %} - support reporting encoding configuration when used as goal
+ * [MSHARED-348](https://issues.apache.org/jira/browse/MSHARED-348) - support reporting encoding configuration when used as goal
 
 New Feature:
 
- * {% chjl MSHARED-347 %} - use plugin-tools java 5 annotations to avoid fields copy/paste when implementing
+ * [MSHARED-347](https://issues.apache.org/jira/browse/MSHARED-347) - use plugin-tools java 5 annotations to avoid fields copy/paste when implementing
 
 
 Enjoy,

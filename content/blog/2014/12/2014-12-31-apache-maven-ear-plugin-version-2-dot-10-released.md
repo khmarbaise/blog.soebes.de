@@ -27,34 +27,34 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MEAR-180 %} - Artifacts with same artifactId/version are ignored in packaging
- * {% chjl MEAR-183 %} - Extra 'temp' directory created in wrong place
- * {% chjl MEAR-188 %} - Project property cannot be resolved inside <env-entry> element
+ * [MEAR-180](https://issues.apache.org/jira/browse/MEAR-180) - Artifacts with same artifactId/version are ignored in packaging
+ * [MEAR-183](https://issues.apache.org/jira/browse/MEAR-183) - Extra 'temp' directory created in wrong place
+ * [MEAR-188](https://issues.apache.org/jira/browse/MEAR-188) - Project property cannot be resolved inside <env-entry> element
 
 Improvements:
 
- * {% chjl MEAR-182 %} - Skinny WAR's - Skip Class-Path Modification in Manifest
- * {% chjl MEAR-191 %} - Set prerequisites to Maven 2.2.1
- * {% chjl MEAR-192 %} - Update version of plexus-archiver to 2.5
- * {% chjl MEAR-195 %} - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
- * {% chjl MEAR-196 %} - Update version of plexus-archiver to 2.6.1
- * {% chjl MEAR-197 %} - Update version of plexus-archiver to 2.6.2
- * {% chjl MEAR-199 %} - Fix integration test which is currently ignored
- * {% chjl MEAR-200 %} - Upgrade to plexus-archiver 2.7
- * {% chjl MEAR-202 %} - Upgrade to maven-plugins version 25 to 26
- * {% chjl MEAR-203 %} - Upgrade maven-filtering to 1.3
- * {% chjl MEAR-204 %} - Upgrade maven-archiver dependency to v2.6
- * {% chjl MEAR-205 %} - Upgrade to maven-plugins parent version 27
- * {% chjl MEAR-210 %} - Following naming conventions of maven-surefire/failsafe-plugin
+ * [MEAR-182](https://issues.apache.org/jira/browse/MEAR-182) - Skinny WAR's - Skip Class-Path Modification in Manifest
+ * [MEAR-191](https://issues.apache.org/jira/browse/MEAR-191) - Set prerequisites to Maven 2.2.1
+ * [MEAR-192](https://issues.apache.org/jira/browse/MEAR-192) - Update version of plexus-archiver to 2.5
+ * [MEAR-195](https://issues.apache.org/jira/browse/MEAR-195) - Removed dependency plexus-container-default:1.0-alpha-9-stable-1
+ * [MEAR-196](https://issues.apache.org/jira/browse/MEAR-196) - Update version of plexus-archiver to 2.6.1
+ * [MEAR-197](https://issues.apache.org/jira/browse/MEAR-197) - Update version of plexus-archiver to 2.6.2
+ * [MEAR-199](https://issues.apache.org/jira/browse/MEAR-199) - Fix integration test which is currently ignored
+ * [MEAR-200](https://issues.apache.org/jira/browse/MEAR-200) - Upgrade to plexus-archiver 2.7
+ * [MEAR-202](https://issues.apache.org/jira/browse/MEAR-202) - Upgrade to maven-plugins version 25 to 26
+ * [MEAR-203](https://issues.apache.org/jira/browse/MEAR-203) - Upgrade maven-filtering to 1.3
+ * [MEAR-204](https://issues.apache.org/jira/browse/MEAR-204) - Upgrade maven-archiver dependency to v2.6
+ * [MEAR-205](https://issues.apache.org/jira/browse/MEAR-205) - Upgrade to maven-plugins parent version 27
+ * [MEAR-210](https://issues.apache.org/jira/browse/MEAR-210) - Following naming conventions of maven-surefire/failsafe-plugin
 
 New Feature:
 
- * {% chjl MEAR-181 %} - Adding ejb-ref in application.xml
+ * [MEAR-181](https://issues.apache.org/jira/browse/MEAR-181) - Adding ejb-ref in application.xml
 
 Tasks:
 
- * {% chjl MEAR-176 %} - Upgrading maven-filtering breaks IT
- * {% chjl MEAR-190 %} - Remove the alias of defaultLibBundleDir
+ * [MEAR-176](https://issues.apache.org/jira/browse/MEAR-176) - Upgrading maven-filtering breaks IT
+ * [MEAR-190](https://issues.apache.org/jira/browse/MEAR-190) - Remove the alias of defaultLibBundleDir
 
 Enjoy,
 

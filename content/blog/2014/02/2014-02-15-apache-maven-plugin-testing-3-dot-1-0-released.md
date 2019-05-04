@@ -26,8 +26,8 @@ You should specify the version in your project's dependency configuration:
 
 Improvement:
 
- * {% chjl MPLUGINTESTING-36 %} - Helpers to manage test projects
- * {% chjl MPLUGINTESTING-37 %} - Provide convenince methods to work with MavenProject
+ * [MPLUGINTESTING-36](https://issues.apache.org/jira/browse/MPLUGINTESTING-36) - Helpers to manage test projects
+ * [MPLUGINTESTING-37](https://issues.apache.org/jira/browse/MPLUGINTESTING-37) - Provide convenince methods to work with MavenProject
 
 
 Enjoy,

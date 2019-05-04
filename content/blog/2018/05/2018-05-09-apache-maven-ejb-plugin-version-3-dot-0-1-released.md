@@ -31,19 +31,19 @@ Important Note since 3.0.1:
 
 Bug:
 
- * {%ajl MEJB-115 %} - Wrong default EJB version stated on Usage page
+ * [MEJB-115](https://issues.apache.org/jira/browse/MEJB-115) - Wrong default EJB version stated on Usage page
 
 Tasks:
 
- * {%ajl MEJB-116 %} - Clarify "properties removed" on intro page of site
- * {%ajl MEJB-117 %} - Remove reference to old wiki page on intro page
- * {%ajl MEJB-118 %} - Remove "J2EE" from plugin description and site
+ * [MEJB-116](https://issues.apache.org/jira/browse/MEJB-116) - Clarify "properties removed" on intro page of site
+ * [MEJB-117](https://issues.apache.org/jira/browse/MEJB-117) - Remove reference to old wiki page on intro page
+ * [MEJB-118](https://issues.apache.org/jira/browse/MEJB-118) - Remove "J2EE" from plugin description and site
 
 Dependency upgrades:
 
- * {%ajl MEJB-119 %} - Upgrade parent to 31
- * {%ajl MEJB-120 %} - Upgrade mave-surefire/failsafe-plugin 2.21.0
- * {%ajl MEJB-121 %} - Add documentation information for GitHub
+ * [MEJB-119](https://issues.apache.org/jira/browse/MEJB-119) - Upgrade parent to 31
+ * [MEJB-120](https://issues.apache.org/jira/browse/MEJB-120) - Upgrade mave-surefire/failsafe-plugin 2.21.0
+ * [MEJB-121](https://issues.apache.org/jira/browse/MEJB-121) - Add documentation information for GitHub
 
 
 Enjoy,

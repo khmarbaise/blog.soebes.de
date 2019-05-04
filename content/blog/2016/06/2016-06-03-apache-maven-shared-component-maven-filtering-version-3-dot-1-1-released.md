@@ -37,12 +37,12 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% ajl MSHARED-516 %} - Change info logging output to debug (ignoreDelta)
- * {% ajl MSHARED-517 %} - Refactor Code to remove usage of deprecated marked code.
- * {% ajl MSHARED-528 %} - Upgrade maven-shared-components parent to version 30
- * {% ajl MSHARED-532 %} - Upgrade plexus-utils to 3.0.24
- * {% ajl MSHARED-533 %} - Upgrade plexus-interpolation to 1.22
- * {% ajl MSHARED-543 %} - Change info logging output to debug
+ * [MSHARED-516](https://issues.apache.org/jira/browse/MSHARED-516) - Change info logging output to debug (ignoreDelta)
+ * [MSHARED-517](https://issues.apache.org/jira/browse/MSHARED-517) - Refactor Code to remove usage of deprecated marked code.
+ * [MSHARED-528](https://issues.apache.org/jira/browse/MSHARED-528) - Upgrade maven-shared-components parent to version 30
+ * [MSHARED-532](https://issues.apache.org/jira/browse/MSHARED-532) - Upgrade plexus-utils to 3.0.24
+ * [MSHARED-533](https://issues.apache.org/jira/browse/MSHARED-533) - Upgrade plexus-interpolation to 1.22
+ * [MSHARED-543](https://issues.apache.org/jira/browse/MSHARED-543) - Change info logging output to debug
 
 Enjoy,
 

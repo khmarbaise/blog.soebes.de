@@ -36,30 +36,30 @@ following snippet to the plugins or plugin management section of your POM:
 
 Bug:
 
- * {% chjl MJARSIGNER-13 %} - signing in multi-module project fails on windows
- * {% chjl MJARSIGNER-21 %} - jars signed using Java 7 have "invalid SHA1 signature"
- * {% chjl MJARSIGNER-26 %} - Jar Signer does not support protected authentication path
- * {% chjl MJARSIGNER-29 %} - verbose parameter is not filled in jarsigner requests
+ * [MJARSIGNER-13](https://issues.apache.org/jira/browse/MJARSIGNER-13) - signing in multi-module project fails on windows
+ * [MJARSIGNER-21](https://issues.apache.org/jira/browse/MJARSIGNER-21) - jars signed using Java 7 have "invalid SHA1 signature"
+ * [MJARSIGNER-26](https://issues.apache.org/jira/browse/MJARSIGNER-26) - Jar Signer does not support protected authentication path
+ * [MJARSIGNER-29](https://issues.apache.org/jira/browse/MJARSIGNER-29) - verbose parameter is not filled in jarsigner requests
 
 Improvements:
 
- * {% chjl MJARSIGNER-28 %} - verify mojo can also use keystore and alias parameters
+ * [MJARSIGNER-28](https://issues.apache.org/jira/browse/MJARSIGNER-28) - verify mojo can also use keystore and alias parameters
 
 New Features:
 
- * {% chjl MJARSIGNER-12 %} - It should be possible to save the keystore in one location for multi module projects
- * {% chjl MJARSIGNER-16 %} - Add the option -tsa to the configuration
- * {% chjl MJARSIGNER-18 %} - Support for Jar plugin´s "errorWhenNotSigned" option
- * {% chjl MJARSIGNER-24 %} - Use Password Encryption in pom.xml
+ * [MJARSIGNER-12](https://issues.apache.org/jira/browse/MJARSIGNER-12) - It should be possible to save the keystore in one location for multi module projects
+ * [MJARSIGNER-16](https://issues.apache.org/jira/browse/MJARSIGNER-16) - Add the option -tsa to the configuration
+ * [MJARSIGNER-18](https://issues.apache.org/jira/browse/MJARSIGNER-18) - Support for Jar plugin´s "errorWhenNotSigned" option
+ * [MJARSIGNER-24](https://issues.apache.org/jira/browse/MJARSIGNER-24) - Use Password Encryption in pom.xml
 
 Tasks:
 
- * {% chjl MJARSIGNER-9 %} - Add toolchain in JarSignMojo.java#getJDKCommandExe()
- * {% chjl MJARSIGNER-22 %} - Add french translations
- * {% chjl MJARSIGNER-25 %} - use maven-plugin-tools´ java 5 annotations
- * {% chjl MJARSIGNER-27 %} - Use maven-jarsigner 1.3
- * {% chjl MJARSIGNER-31 %} - Update maven-shared-utils to 0.5
- * {% chjl MJARSIGNER-32 %} - Update requirements to maven 2.1.0
+ * [MJARSIGNER-9](https://issues.apache.org/jira/browse/MJARSIGNER-9) - Add toolchain in JarSignMojo.java#getJDKCommandExe()
+ * [MJARSIGNER-22](https://issues.apache.org/jira/browse/MJARSIGNER-22) - Add french translations
+ * [MJARSIGNER-25](https://issues.apache.org/jira/browse/MJARSIGNER-25) - use maven-plugin-tools´ java 5 annotations
+ * [MJARSIGNER-27](https://issues.apache.org/jira/browse/MJARSIGNER-27) - Use maven-jarsigner 1.3
+ * [MJARSIGNER-31](https://issues.apache.org/jira/browse/MJARSIGNER-31) - Update maven-shared-utils to 0.5
+ * [MJARSIGNER-32](https://issues.apache.org/jira/browse/MJARSIGNER-32) - Update requirements to maven 2.1.0
 
 Enjoy,
 

@@ -27,9 +27,9 @@ Release Notes - [Apache Maven Checkstyle Plugin - Version 2.12.1](http://jira.co
 
 Bugs:
 
- * {% chjl MCHECKSTYLE-227 %} Avalon and turbine checks are broken
- * {% chjl MCHECKSTYLE-225 %} headerLocation no longer sets checkstyle.header.file
- * {% chjl MCHECKSTYLE-224 %} Warning about missing XRef for module with no files to check
+ * [MCHECKSTYLE-227](https://issues.apache.org/jira/browse/MCHECKSTYLE-227) Avalon and turbine checks are broken
+ * [MCHECKSTYLE-225](https://issues.apache.org/jira/browse/MCHECKSTYLE-225) headerLocation no longer sets checkstyle.header.file
+ * [MCHECKSTYLE-224](https://issues.apache.org/jira/browse/MCHECKSTYLE-224) Warning about missing XRef for module with no files to check
 
 
 Enjoy,

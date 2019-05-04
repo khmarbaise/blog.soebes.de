@@ -32,16 +32,16 @@ adding the following dependency:
 
 Bug:
 
- * {% chjl MSHARED-274 %} - Missing license file
+ * [MSHARED-274](https://issues.apache.org/jira/browse/MSHARED-274) - Missing license file
 
 Improvements:
 
- * {% chjl MSHARED-371 %} - Increase chance of java8 compliance by updating to plexus-component-* 1.6
- * {% chjl MSHARED-383 %} - Remove annyoing stacktrace that is logged in a non-exceptional case
+ * [MSHARED-371](https://issues.apache.org/jira/browse/MSHARED-371) - Increase chance of java8 compliance by updating to plexus-component-* 1.6
+ * [MSHARED-383](https://issues.apache.org/jira/browse/MSHARED-383) - Remove annyoing stacktrace that is logged in a non-exceptional case
 
 Task:
 
- * {% chjl MSHARED-184 %} - remove DigestUtils
+ * [MSHARED-184](https://issues.apache.org/jira/browse/MSHARED-184) - remove DigestUtils
 
 Enjoy,
 

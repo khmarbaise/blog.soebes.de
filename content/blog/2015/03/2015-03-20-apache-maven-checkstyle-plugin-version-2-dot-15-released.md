@@ -29,18 +29,18 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MCHECKSTYLE-288 %} NullPointerException during building a multi-module project
- * {% chjl MCHECKSTYLE-250 %} NPE on tying to load LICENSE.txt resource from non-jar plugin dependencies
+ * [MCHECKSTYLE-288](https://issues.apache.org/jira/browse/MCHECKSTYLE-288) NullPointerException during building a multi-module project
+ * [MCHECKSTYLE-250](https://issues.apache.org/jira/browse/MCHECKSTYLE-250) NPE on tying to load LICENSE.txt resource from non-jar plugin dependencies
 
 Improvements:
 
- * {% chjl MCHECKSTYLE-286 %} Add info on ruleset used in console output
- * {% chjl MCHECKSTYLE-261 %} Upgrade to Checkstyle 6.1.1
+ * [MCHECKSTYLE-286](https://issues.apache.org/jira/browse/MCHECKSTYLE-286) Add info on ruleset used in console output
+ * [MCHECKSTYLE-261](https://issues.apache.org/jira/browse/MCHECKSTYLE-261) Upgrade to Checkstyle 6.1.1
 
 Tasks:
 
- * {% chjl MCHECKSTYLE-277 %} Require Java 6
- * {% chjl MCHECKSTYLE-273 %} Remove Turbine configuration since it is not used any more
+ * [MCHECKSTYLE-277](https://issues.apache.org/jira/browse/MCHECKSTYLE-277) Require Java 6
+ * [MCHECKSTYLE-273](https://issues.apache.org/jira/browse/MCHECKSTYLE-273) Remove Turbine configuration since it is not used any more
 
 Enjoy,
 

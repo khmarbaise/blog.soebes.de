@@ -30,21 +30,21 @@ maintaining two sets of metadata.
 
 Bugs:
 
- * {% chjl MDOAP-38 %} - <shortdesc> too long value provide better error message
- * {% chjl MDOAP-42 %} - Updated plexus-interpolation for thread safety issues
+ * [MDOAP-38](https://issues.apache.org/jira/browse/MDOAP-38) - <shortdesc> too long value provide better error message
+ * [MDOAP-42](https://issues.apache.org/jira/browse/MDOAP-42) - Updated plexus-interpolation for thread safety issues
 
 Improvements:
 
- * {% chjl MDOAP-39 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% chjl MDOAP-40 %} - Upgrade to scm 1.9.1
- * {% chjl MDOAP-41 %} - Update version of plexus-utils to 3.0.18
- * {% chjl MDOAP-43 %} - Upgrade to scm 1.9.2
- * {% chjl MDOAP-44 %} - Upgrade plexus-utils to 3.0.20
- * {% chjl MDOAP-45 %} - Upgrade plexus-i18n to 1.0-beta-10
+ * [MDOAP-39](https://issues.apache.org/jira/browse/MDOAP-39) - Upgrade to Maven 2.2.1 compatiblity
+ * [MDOAP-40](https://issues.apache.org/jira/browse/MDOAP-40) - Upgrade to scm 1.9.1
+ * [MDOAP-41](https://issues.apache.org/jira/browse/MDOAP-41) - Update version of plexus-utils to 3.0.18
+ * [MDOAP-43](https://issues.apache.org/jira/browse/MDOAP-43) - Upgrade to scm 1.9.2
+ * [MDOAP-44](https://issues.apache.org/jira/browse/MDOAP-44) - Upgrade plexus-utils to 3.0.20
+ * [MDOAP-45](https://issues.apache.org/jira/browse/MDOAP-45) - Upgrade plexus-i18n to 1.0-beta-10
 
 Task:
 
- * {% chjl MDOAP-37 %} - use maven-plugin-tools' java 5 annotations
+ * [MDOAP-37](https://issues.apache.org/jira/browse/MDOAP-37) - use maven-plugin-tools' java 5 annotations
 
 Enjoy,
 

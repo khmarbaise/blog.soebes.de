@@ -31,8 +31,8 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MRELEASE-812 %} - "prepare" does not commit before tagging and therefore deploys snapshot instead of release
- * {% chjl MRELEASE-862 %} - Upgrade to Apache Maven SCM 1.9
+ * [MRELEASE-812](https://issues.apache.org/jira/browse/MRELEASE-812) - "prepare" does not commit before tagging and therefore deploys snapshot instead of release
+ * [MRELEASE-862](https://issues.apache.org/jira/browse/MRELEASE-862) - Upgrade to Apache Maven SCM 1.9
 
 
 Note in particular that MRELEASE-862 fixes the release plugin to work

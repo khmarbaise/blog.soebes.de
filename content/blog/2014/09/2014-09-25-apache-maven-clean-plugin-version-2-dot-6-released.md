@@ -26,11 +26,11 @@ in a project's directory.
 
 Bug:
 
- * {% chjl MCLEAN-52 %} - Use new annotations
+ * [MCLEAN-52](https://issues.apache.org/jira/browse/MCLEAN-52) - Use new annotations
 
 Improvement:
 
- * {% chjl MCLEAN-57 %} - Set prerequisites to Maven 2.2.1
+ * [MCLEAN-57](https://issues.apache.org/jira/browse/MCLEAN-57) - Set prerequisites to Maven 2.2.1
 
 Enjoy,
 

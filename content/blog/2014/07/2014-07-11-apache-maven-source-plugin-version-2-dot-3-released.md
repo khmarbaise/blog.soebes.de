@@ -29,14 +29,14 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MSOURCES-63 %} - Non-working links on doc site
- * {% chjl MSOURCES-64 %} - forceCreation=true doesn't create test source package when src/test missing
+ * [MSOURCES-63](https://issues.apache.org/jira/browse/MSOURCES-63) - Non-working links on doc site
+ * [MSOURCES-64](https://issues.apache.org/jira/browse/MSOURCES-64) - forceCreation=true doesn't create test source package when src/test missing
 
 Improvements:
 
- * {% chjl MSOURCES-68 %} - Add Maven version used to Created-By entry in manifest
- * {% chjl MSOURCES-69 %} - Update version of plexus-archiver to 2.4.4
- * {% chjl MSOURCES-70 %} - Update of maven-invoker-plugin to 1.9
+ * [MSOURCES-68](https://issues.apache.org/jira/browse/MSOURCES-68) - Add Maven version used to Created-By entry in manifest
+ * [MSOURCES-69](https://issues.apache.org/jira/browse/MSOURCES-69) - Update version of plexus-archiver to 2.4.4
+ * [MSOURCES-70](https://issues.apache.org/jira/browse/MSOURCES-70) - Update of maven-invoker-plugin to 1.9
 
 Enjoy,
 

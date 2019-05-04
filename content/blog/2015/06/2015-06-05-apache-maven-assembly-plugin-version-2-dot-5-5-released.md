@@ -32,9 +32,9 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MASSEMBLY-767 %} - Schema missing from the web site
- * {% ajl MASSEMBLY-768 %} - JarInputStream unable to find  manifest created by version 2.5.4
- * {% ajl MASSEMBLY-769 %} - ZIP fileMode permissions not properly set with dependencySet and unpackOptions
+ * [MASSEMBLY-767](https://issues.apache.org/jira/browse/MASSEMBLY-767) - Schema missing from the web site
+ * [MASSEMBLY-768](https://issues.apache.org/jira/browse/MASSEMBLY-768) - JarInputStream unable to find  manifest created by version 2.5.4
+ * [MASSEMBLY-769](https://issues.apache.org/jira/browse/MASSEMBLY-769) - ZIP fileMode permissions not properly set with dependencySet and unpackOptions
 
 
 Enjoy,

@@ -25,7 +25,7 @@ Analyzes the dependencies of a project for undeclared or unused artifacts.
 
 Bug:
 
- * {%ajl MSHARED-786 %} - jdk8 incompatibility at runtime (NoSuchMethodError)
+ * [MSHARED-786](https://issues.apache.org/jira/browse/MSHARED-786) - jdk8 incompatibility at runtime (NoSuchMethodError)
 
 Enjoy,
 

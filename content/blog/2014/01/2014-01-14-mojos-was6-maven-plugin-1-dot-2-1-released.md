@@ -28,13 +28,13 @@ To get this update, simply specify the version in your project´s plugin configu
 
 Fixed Bugs:
 
- * {% chjl MWAS-70 %} - Skip does not work for wsAdmin, wsStartServer and wsStopServer
- * {% chjl MWAS-72 %} - WSEJBDeploy fails when pom uses system or provided dependencies.
- * {% chjl MWAS-73 %} - WSDL2Java fails when pom uses system or provided dependencies.
+ * [MWAS-70](https://issues.apache.org/jira/browse/MWAS-70) - Skip does not work for wsAdmin, wsStartServer and wsStopServer
+ * [MWAS-72](https://issues.apache.org/jira/browse/MWAS-72) - WSEJBDeploy fails when pom uses system or provided dependencies.
+ * [MWAS-73](https://issues.apache.org/jira/browse/MWAS-73) - WSDL2Java fails when pom uses system or provided dependencies.
 
 New Feature:
 
- * {% chjl MWAS-59 %} - Support install/uninstall and start/stop for WARs
+ * [MWAS-59](https://issues.apache.org/jira/browse/MWAS-59) - Support install/uninstall and start/stop for WARs
 
 Enjoy,
 

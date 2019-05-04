@@ -90,29 +90,29 @@ mirrored to central.
 
 Fixed Bugs:
 
- * {% chjl MLICENSE-68 %} - license:third-party-report doesn't honour licenseMerges
- * {% chjl MLICENSE-91 %} - .property files mangled after adding license header
- * {% chjl MLICENSE-96 %} - Some licenses contain whitespace errors
- * {% chjl MLICENSE-97 %} - Add the copyright section in MIT License
+ * [MLICENSE--68] - license:third-party-report doesn't honour licenseMerges
+ * [MLICENSE--91] - .property files mangled after adding license header
+ * [MLICENSE--96] - Some licenses contain whitespace errors
+ * [MLICENSE--97] - Add the copyright section in MIT License
 
 Improvements:
 
- * {% chjl MLICENSE-80 %} - Add BSD licenses to the built-ins
- * {% chjl MLICENSE-82 %} - Remove empty license groups from result file if using license merges
- * {% chjl MLICENSE-84 %} - Option to sort licenses by letter if grouped by license
- * {% chjl MLICENSE-88 %} - Support for EUPL v1.1
- * {% chjl MLICENSE-94 %} - Add license.includeTransitiveDependencies property access
- * {% chjl MLICENSE-95 %} - Include copyright year range, not just inception year
- * {% chjl MLICENSE-99 %} - Add  EPL v1.0 license
- * {% chjl MLICENSE-100 %} - Update some dependencies and plugins versions
+ * [MLICENSE--80] - Add BSD licenses to the built-ins
+ * [MLICENSE--82] - Remove empty license groups from result file if using license merges
+ * [MLICENSE--84] - Option to sort licenses by letter if grouped by license
+ * [MLICENSE--88] - Support for EUPL v1.1
+ * [MLICENSE--94] - Add license.includeTransitiveDependencies property access
+ * [MLICENSE--95] - Include copyright year range, not just inception year
+ * [MLICENSE--99] - Add  EPL v1.0 license
+ * [MLICENSE--100] - Update some dependencies and plugins versions
 
 New Feature:
 
- * {% chjl MLICENSE-92 %} - license repository files can be dynamic
+ * [MLICENSE--92] - license repository files can be dynamic
 
 Task:
 
- * {% chjl MLICENSE-93 %} - use java 5 plexus annotations
+ * [MLICENSE--93] - use java 5 plexus annotations
 
 Enjoy,
 

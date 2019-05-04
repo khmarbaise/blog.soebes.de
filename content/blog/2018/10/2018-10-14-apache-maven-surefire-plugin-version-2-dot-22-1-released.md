@@ -51,32 +51,32 @@ or for surefire-report:
 
 Bugs:
 
- * {%ajl SUREFIRE-1532 %} - MIME type for javascript is now officially application/javascript
- * {%ajl SUREFIRE-1535 %} - Surefire unable to run testng suites in parallel
- * {%ajl SUREFIRE-1538 %} - Git considers PNG files as changed although there is no change
- * {%ajl SUREFIRE-1550 %} - The surefire XSD published on maven site lacks of some rerun element
- * {%ajl SUREFIRE-1559 %} - XML Report elements rerunError, rerunFailure, flakyFailure, flakyError should contain element stackTrace and should not be simpleContent.
- * {%ajl SUREFIRE-1561 %} - Logs in Parallel Tests are mixed up when forkMode=never or forkCount=0
- * {%ajl SUREFIRE-1564 %} - Can't override platform version through project/plugin dependencies
- * {%ajl SUREFIRE-1579 %} - Forks mixed up characters in standard output
+ * [SUREFIRE-1532](https://issues.apache.org/jira/browse/SUREFIRE-1532) - MIME type for javascript is now officially application/javascript
+ * [SUREFIRE-1535](https://issues.apache.org/jira/browse/SUREFIRE-1535) - Surefire unable to run testng suites in parallel
+ * [SUREFIRE-1538](https://issues.apache.org/jira/browse/SUREFIRE-1538) - Git considers PNG files as changed although there is no change
+ * [SUREFIRE-1550](https://issues.apache.org/jira/browse/SUREFIRE-1550) - The surefire XSD published on maven site lacks of some rerun element
+ * [SUREFIRE-1559](https://issues.apache.org/jira/browse/SUREFIRE-1559) - XML Report elements rerunError, rerunFailure, flakyFailure, flakyError should contain element stackTrace and should not be simpleContent.
+ * [SUREFIRE-1561](https://issues.apache.org/jira/browse/SUREFIRE-1561) - Logs in Parallel Tests are mixed up when forkMode=never or forkCount=0
+ * [SUREFIRE-1564](https://issues.apache.org/jira/browse/SUREFIRE-1564) - Can't override platform version through project/plugin dependencies
+ * [SUREFIRE-1579](https://issues.apache.org/jira/browse/SUREFIRE-1579) - Forks mixed up characters in standard output
 
 Improvements:
 
- * {%ajl SUREFIRE-1552 %} - Nil element "failureMessage" in failsafe-summary.xml should have self closed tag
- * {%ajl SUREFIRE-1554 %} - Fix old test resources TEST-*.xml in favor of continuing with SUREFIRE-1550
- * {%ajl SUREFIRE-1555 %} - Elapsed time in XML Report should satisfy pattern in XSD.
- * {%ajl SUREFIRE-1562 %} - Support Java 11
- * {%ajl SUREFIRE-1565 %} - Surefire should support parameterized reportsDirectory
+ * [SUREFIRE-1552](https://issues.apache.org/jira/browse/SUREFIRE-1552) - Nil element "failureMessage" in failsafe-summary.xml should have self closed tag
+ * [SUREFIRE-1554](https://issues.apache.org/jira/browse/SUREFIRE-1554) - Fix old test resources TEST-*.xml in favor of continuing with SUREFIRE-1550
+ * [SUREFIRE-1555](https://issues.apache.org/jira/browse/SUREFIRE-1555) - Elapsed time in XML Report should satisfy pattern in XSD.
+ * [SUREFIRE-1562](https://issues.apache.org/jira/browse/SUREFIRE-1562) - Support Java 11
+ * [SUREFIRE-1565](https://issues.apache.org/jira/browse/SUREFIRE-1565) - Surefire should support parameterized reportsDirectory
 
 Tasks:
 
- * {%ajl SUREFIRE-1569 %} - m-invoker-p:3.1.0 attempts to reolve maven-surefire-common:jar:2.22.1-SNAPSHOT from remote repo 'apache.snapshots'
- * {%ajl SUREFIRE-1578 %} - Remove obsolete module surefire-setup-integration-tests
+ * [SUREFIRE-1569](https://issues.apache.org/jira/browse/SUREFIRE-1569) - m-invoker-p:3.1.0 attempts to reolve maven-surefire-common:jar:2.22.1-SNAPSHOT from remote repo 'apache.snapshots'
+ * [SUREFIRE-1578](https://issues.apache.org/jira/browse/SUREFIRE-1578) - Remove obsolete module surefire-setup-integration-tests
 
 Dependency upgrades:
 
- * {%ajl SUREFIRE-1540 %} - Upgrade maven-plugins parent to version 32
- * {%ajl SUREFIRE-1571 %} - Upgrade maven-plugins parent to version 33
+ * [SUREFIRE-1540](https://issues.apache.org/jira/browse/SUREFIRE-1540) - Upgrade maven-plugins parent to version 32
+ * [SUREFIRE-1571](https://issues.apache.org/jira/browse/SUREFIRE-1571) - Upgrade maven-plugins parent to version 33
 
 Enjoy,
 

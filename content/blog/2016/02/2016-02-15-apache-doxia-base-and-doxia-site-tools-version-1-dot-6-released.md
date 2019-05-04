@@ -27,56 +27,56 @@ Release Notes - Maven Doxia Sitetools - Version 1.7
 
 Bugs:
 
- * {% ajl DOXIASITETOOLS-93 %} -  request-scoped default Velocity Tools are not accessible
- * {% ajl DOXIASITETOOLS-107 %} -  Fix link to plexus page in the doxia-site- renderer web page
- * {% ajl DOXIASITETOOLS-130 %} -  Doxia document not rendered if ".<extension>" in filename
- * {% ajl DOXIASITETOOLS-145 %} -  when called from Maven 3, SiteTool.getParentProject() should just return project.getParent()
+ * [DOXIASITETOOLS-93](https://issues.apache.org/jira/browse/DOXIASITETOOLS-93) -  request-scoped default Velocity Tools are not accessible
+ * [DOXIASITETOOLS-107](https://issues.apache.org/jira/browse/DOXIASITETOOLS-107) -  Fix link to plexus page in the doxia-site- renderer web page
+ * [DOXIASITETOOLS-130](https://issues.apache.org/jira/browse/DOXIASITETOOLS-130) -  Doxia document not rendered if ".<extension>" in filename
+ * [DOXIASITETOOLS-145](https://issues.apache.org/jira/browse/DOXIASITETOOLS-145) -  when called from Maven 3, SiteTool.getParentProject() should just return project.getParent()
 
 Improvements:
 
- * {% ajl DOXIASITETOOLS-82 %} -  Decoration model body/footer type mismatch
- * {% ajl DOXIASITETOOLS-94 %} -  add plexus container to Velocity context
- * {% ajl DOXIASITETOOLS-99 %} -  Add typed context variable for creationDate
- * {% ajl DOXIASITETOOLS-100 %} -  Deprecate all context properties which are duplicate or already available through Velocity tools
- * {% ajl DOXIASITETOOLS-102 %} -  Allow multiple extensions for given format
- * {% ajl DOXIASITETOOLS-103 %} -  Don't create outputFile in case of an external report
- * {% ajl DOXIASITETOOLS-105 %} -  add Markdown to dependencies
- * {% ajl DOXIASITETOOLS-118 %} -  Separate inheritance and interpolation 
- * {% ajl DOXIASITETOOLS-120 %} -  Print artifactId only in modules menu when module has no name
- * {% ajl DOXIASITETOOLS-122 %} -  improve API regarding locales
- * {% ajl DOXIASITETOOLS-126 %} -  don't copy resources when rendering documents but copy all resources in 1 call
- * {% ajl DOXIASITETOOLS-132 %} -  do not override existing content with template when copyResources()
- * {% ajl DOXIASITETOOLS-136 %} -  improve "Could not parse date: ..., ignoring!" message with document reference
- * {% ajl DOXIASITETOOLS-147 %} -  link breadcrumbs to index.html instead of directory (like menus)
- * {% ajl DOXIASITETOOLS-155 %} -  Change type of decoration model's body/head element to string
+ * [DOXIASITETOOLS-82](https://issues.apache.org/jira/browse/DOXIASITETOOLS-82) -  Decoration model body/footer type mismatch
+ * [DOXIASITETOOLS-94](https://issues.apache.org/jira/browse/DOXIASITETOOLS-94) -  add plexus container to Velocity context
+ * [DOXIASITETOOLS-99](https://issues.apache.org/jira/browse/DOXIASITETOOLS-99) -  Add typed context variable for creationDate
+ * [DOXIASITETOOLS-100](https://issues.apache.org/jira/browse/DOXIASITETOOLS-100) -  Deprecate all context properties which are duplicate or already available through Velocity tools
+ * [DOXIASITETOOLS-102](https://issues.apache.org/jira/browse/DOXIASITETOOLS-102) -  Allow multiple extensions for given format
+ * [DOXIASITETOOLS-103](https://issues.apache.org/jira/browse/DOXIASITETOOLS-103) -  Don't create outputFile in case of an external report
+ * [DOXIASITETOOLS-105](https://issues.apache.org/jira/browse/DOXIASITETOOLS-105) -  add Markdown to dependencies
+ * [DOXIASITETOOLS-118](https://issues.apache.org/jira/browse/DOXIASITETOOLS-118) -  Separate inheritance and interpolation 
+ * [DOXIASITETOOLS-120](https://issues.apache.org/jira/browse/DOXIASITETOOLS-120) -  Print artifactId only in modules menu when module has no name
+ * [DOXIASITETOOLS-122](https://issues.apache.org/jira/browse/DOXIASITETOOLS-122) -  improve API regarding locales
+ * [DOXIASITETOOLS-126](https://issues.apache.org/jira/browse/DOXIASITETOOLS-126) -  don't copy resources when rendering documents but copy all resources in 1 call
+ * [DOXIASITETOOLS-132](https://issues.apache.org/jira/browse/DOXIASITETOOLS-132) -  do not override existing content with template when copyResources()
+ * [DOXIASITETOOLS-136](https://issues.apache.org/jira/browse/DOXIASITETOOLS-136) -  improve "Could not parse date: ..., ignoring!" message with document reference
+ * [DOXIASITETOOLS-147](https://issues.apache.org/jira/browse/DOXIASITETOOLS-147) -  link breadcrumbs to index.html instead of directory (like menus)
+ * [DOXIASITETOOLS-155](https://issues.apache.org/jira/browse/DOXIASITETOOLS-155) -  Change type of decoration model's body/head element to string
 
 New Features:
 
- * {% ajl DOXIASITETOOLS-133 %} -  for Velocity processed Doxia files (*.extension.vm), add an option to dump generated markup (= *.extension)
- * {% ajl DOXIASITETOOLS-149 %} -  Create a skin descriptor to contain metadata about the skin
- * {% ajl DOXIASITETOOLS-150 %} -  create a "isLink(href)" function for use in skins
- * {% ajl DOXIASITETOOLS-154 %} -  Add encoding to skin descriptor to define the encoding of site.vm
+ * [DOXIASITETOOLS-133](https://issues.apache.org/jira/browse/DOXIASITETOOLS-133) -  for Velocity processed Doxia files (*.extension.vm), add an option to dump generated markup (= *.extension)
+ * [DOXIASITETOOLS-149](https://issues.apache.org/jira/browse/DOXIASITETOOLS-149) -  Create a skin descriptor to contain metadata about the skin
+ * [DOXIASITETOOLS-150](https://issues.apache.org/jira/browse/DOXIASITETOOLS-150) -  create a "isLink(href)" function for use in skins
+ * [DOXIASITETOOLS-154](https://issues.apache.org/jira/browse/DOXIASITETOOLS-154) -  Add encoding to skin descriptor to define the encoding of site.vm
 
 Tasks:
 
- * {% ajl DOXIASITETOOLS-98 %} -  Decoration model's Modello doc point to a statically versioned schema file
- * {% ajl DOXIASITETOOLS-115 %} -  move doxia-integration-tools from Doxia Tools to Doxia Sitetools
- * {% ajl DOXIASITETOOLS-123 %} -  remove long deprecated SiteTool API
- * {% ajl DOXIASITETOOLS-125 %} -  getDecorationModel() change siteDirectory from String to File
- * {% ajl DOXIASITETOOLS-131 %} -  don't add Template-specific variables in general document Velocity context
- * {% ajl DOXIASITETOOLS-134 %} -  Remove special handling of date format in DefaultSiteRenderer
- * {% ajl DOXIASITETOOLS-135 %} -  Make input source file encoding default to platform encoding
- * {% ajl DOXIASITETOOLS-137 %} -  add documentation on how site is rendered, merging documents and decoration
- * {% ajl DOXIASITETOOLS-138 %} -  remove skinFile parameter from createContextForTemplate
- * {% ajl DOXIASITETOOLS-151 %} -  Upgrade default skin to Default Skin 1.1
- * {% ajl DOXIASITETOOLS-153 %} -  Deprecate direct template usage in favor of skin only
+ * [DOXIASITETOOLS-98](https://issues.apache.org/jira/browse/DOXIASITETOOLS-98) -  Decoration model's Modello doc point to a statically versioned schema file
+ * [DOXIASITETOOLS-115](https://issues.apache.org/jira/browse/DOXIASITETOOLS-115) -  move doxia-integration-tools from Doxia Tools to Doxia Sitetools
+ * [DOXIASITETOOLS-123](https://issues.apache.org/jira/browse/DOXIASITETOOLS-123) -  remove long deprecated SiteTool API
+ * [DOXIASITETOOLS-125](https://issues.apache.org/jira/browse/DOXIASITETOOLS-125) -  getDecorationModel() change siteDirectory from String to File
+ * [DOXIASITETOOLS-131](https://issues.apache.org/jira/browse/DOXIASITETOOLS-131) -  don't add Template-specific variables in general document Velocity context
+ * [DOXIASITETOOLS-134](https://issues.apache.org/jira/browse/DOXIASITETOOLS-134) -  Remove special handling of date format in DefaultSiteRenderer
+ * [DOXIASITETOOLS-135](https://issues.apache.org/jira/browse/DOXIASITETOOLS-135) -  Make input source file encoding default to platform encoding
+ * [DOXIASITETOOLS-137](https://issues.apache.org/jira/browse/DOXIASITETOOLS-137) -  add documentation on how site is rendered, merging documents and decoration
+ * [DOXIASITETOOLS-138](https://issues.apache.org/jira/browse/DOXIASITETOOLS-138) -  remove skinFile parameter from createContextForTemplate
+ * [DOXIASITETOOLS-151](https://issues.apache.org/jira/browse/DOXIASITETOOLS-151) -  Upgrade default skin to Default Skin 1.1
+ * [DOXIASITETOOLS-153](https://issues.apache.org/jira/browse/DOXIASITETOOLS-153) -  Deprecate direct template usage in favor of skin only
 
 Wishes:
 
- * {% ajl DOXIASITETOOLS-92 %} -  Upgrade Velocity from 1.5 to 1.7
- * {% ajl DOXIASITETOOLS-124 %} -  streamline SiteTools API: hide methods that are only used internally
- * {% ajl DOXIASITETOOLS-139 %} -  don't render Apache license from default template
- * {% ajl DOXIASITETOOLS-146 %} -  don't translate APT source comments into output comments
+ * [DOXIASITETOOLS-92](https://issues.apache.org/jira/browse/DOXIASITETOOLS-92) -  Upgrade Velocity from 1.5 to 1.7
+ * [DOXIASITETOOLS-124](https://issues.apache.org/jira/browse/DOXIASITETOOLS-124) -  streamline SiteTools API: hide methods that are only used internally
+ * [DOXIASITETOOLS-139](https://issues.apache.org/jira/browse/DOXIASITETOOLS-139) -  don't render Apache license from default template
+ * [DOXIASITETOOLS-146](https://issues.apache.org/jira/browse/DOXIASITETOOLS-146) -  don't translate APT source comments into output comments
 
 Enjoy,
 

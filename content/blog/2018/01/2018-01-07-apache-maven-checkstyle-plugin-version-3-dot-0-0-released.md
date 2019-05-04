@@ -33,25 +33,25 @@ https://maven.apache.org/plugins/maven-checkstyle-plugin/download.cgi
 
 Bugs:
 
- * {%ajl MCHECKSTYLE-220 %} - Debug shows unnecessary stacktrace with java.net.MalformedURLException: no protocol: LICENSE.txt
- * {%ajl MCHECKSTYLE-260 %} - sourceDirectories property is ignored in multi-modules
- * {%ajl MCHECKSTYLE-301 %} - Plugin in check goal should print the name of the rule that was violated
- * {%ajl MCHECKSTYLE-322 %} - Update plugin to use 6.18 checkstyle (last version that is based on jdk7)
- * {%ajl MCHECKSTYLE-332 %} - maven plugin not using cache property
- * {%ajl MCHECKSTYLE-337 %} - checkstyle:check only supports xml output format, but the docs say it supports plain as well
+ * [MCHECKSTYLE-220](https://issues.apache.org/jira/browse/MCHECKSTYLE-220) - Debug shows unnecessary stacktrace with java.net.MalformedURLException: no protocol: LICENSE.txt
+ * [MCHECKSTYLE-260](https://issues.apache.org/jira/browse/MCHECKSTYLE-260) - sourceDirectories property is ignored in multi-modules
+ * [MCHECKSTYLE-301](https://issues.apache.org/jira/browse/MCHECKSTYLE-301) - Plugin in check goal should print the name of the rule that was violated
+ * [MCHECKSTYLE-322](https://issues.apache.org/jira/browse/MCHECKSTYLE-322) - Update plugin to use 6.18 checkstyle (last version that is based on jdk7)
+ * [MCHECKSTYLE-332](https://issues.apache.org/jira/browse/MCHECKSTYLE-332) - maven plugin not using cache property
+ * [MCHECKSTYLE-337](https://issues.apache.org/jira/browse/MCHECKSTYLE-337) - checkstyle:check only supports xml output format, but the docs say it supports plain as well
 
 Improvements:
 
- * {%ajl MCHECKSTYLE-320 %} - Upgrade maven-plugins to version 30
- * {%ajl MCHECKSTYLE-335 %} - Migrate plugin to Maven 3.0
- * {%ajl MCHECKSTYLE-336 %} - Fail the build when deprecated parameters sourceDirectory or testSourceDirectory are used
- * {%ajl MCHECKSTYLE-338 %} - Add support for 'omitIgnoredModules'
- * {%ajl MCHECKSTYLE-340 %} - Migrate plugin to Maven 3.0
+ * [MCHECKSTYLE-320](https://issues.apache.org/jira/browse/MCHECKSTYLE-320) - Upgrade maven-plugins to version 30
+ * [MCHECKSTYLE-335](https://issues.apache.org/jira/browse/MCHECKSTYLE-335) - Migrate plugin to Maven 3.0
+ * [MCHECKSTYLE-336](https://issues.apache.org/jira/browse/MCHECKSTYLE-336) - Fail the build when deprecated parameters sourceDirectory or testSourceDirectory are used
+ * [MCHECKSTYLE-338](https://issues.apache.org/jira/browse/MCHECKSTYLE-338) - Add support for 'omitIgnoredModules'
+ * [MCHECKSTYLE-340](https://issues.apache.org/jira/browse/MCHECKSTYLE-340) - Migrate plugin to Maven 3.0
 
 Tasks:
 
- * {%ajl MCHECKSTYLE-275 %} - remove old deprecated parameters from report
- * {%ajl MCHECKSTYLE-331 %} - Upgrade of plexus-interpolation to 1.24.
+ * [MCHECKSTYLE-275](https://issues.apache.org/jira/browse/MCHECKSTYLE-275) - remove old deprecated parameters from report
+ * [MCHECKSTYLE-331](https://issues.apache.org/jira/browse/MCHECKSTYLE-331) - Upgrade of plexus-interpolation to 1.24.
 
 Enjoy,
 

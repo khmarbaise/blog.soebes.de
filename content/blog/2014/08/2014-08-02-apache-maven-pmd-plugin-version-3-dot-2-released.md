@@ -29,8 +29,8 @@ You should specify the version in your project's plugin configuration:
 
 Task:
 
- * {% chjl MPMD-188 %} Require Java 6
- * {% chjl MPMD-182 %} Upgrade to PMD 5.1.2
+ * [MPMD-188](https://issues.apache.org/jira/browse/MPMD-188) Require Java 6
+ * [MPMD-182](https://issues.apache.org/jira/browse/MPMD-182) Upgrade to PMD 5.1.2
 
 
 Enjoy,

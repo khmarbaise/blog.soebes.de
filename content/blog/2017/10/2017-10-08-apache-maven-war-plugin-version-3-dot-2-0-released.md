@@ -38,12 +38,12 @@ Important Note:
 
 Bug:
 
- * {% ajl MWAR-407 %} - Binary files are modified during web.xml filtering; revert MWAR-404
+ * [MWAR-407](https://issues.apache.org/jira/browse/MWAR-407) - Binary files are modified during web.xml filtering; revert MWAR-404
 
 Dependency upgrades:
 
- * {% ajl MWAR-409 %} - Upgrade maven-archiver to 3.2.0 / plexus-archiver 3.5
- * {% ajl MWAR-410 %} - Upgrade plexus-utils to version 3.1.0
+ * [MWAR-409](https://issues.apache.org/jira/browse/MWAR-409) - Upgrade maven-archiver to 3.2.0 / plexus-archiver 3.5
+ * [MWAR-410](https://issues.apache.org/jira/browse/MWAR-410) - Upgrade plexus-utils to version 3.1.0
 
 Enjoy,
 

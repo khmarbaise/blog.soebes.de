@@ -25,13 +25,13 @@ Analyzes the dependencies of a project for undeclared or unused artifacts.
 
 Improvements:
 
- * {%ajl MSHARED-770 %} - Upgrade org.ow2.asm:asm to 7.0
- * {%ajl MSHARED-780 %} - Add GitHub Informations.
+ * [MSHARED-770](https://issues.apache.org/jira/browse/MSHARED-770) - Upgrade org.ow2.asm:asm to 7.0
+ * [MSHARED-780](https://issues.apache.org/jira/browse/MSHARED-780) - Add GitHub Informations.
 
 Dependency upgrades:
 
- * {%ajl MSHARED-776 %} - Upgrade maven-shared-components to 33
- * {%ajl MSHARED-779 %} - Upgrade maven-invoker to 3.0.1
+ * [MSHARED-776](https://issues.apache.org/jira/browse/MSHARED-776) - Upgrade maven-shared-components to 33
+ * [MSHARED-779](https://issues.apache.org/jira/browse/MSHARED-779) - Upgrade maven-invoker to 3.0.1
 
 Enjoy,
 

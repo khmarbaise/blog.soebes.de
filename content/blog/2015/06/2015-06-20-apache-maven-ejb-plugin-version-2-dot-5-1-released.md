@@ -27,11 +27,11 @@ associated client jar.
 
 Bug:
 
- * {% ajl MEJB-83 %} - EJB jar build on windows has broken file permissions Improvement
+ * [MEJB-83](https://issues.apache.org/jira/browse/MEJB-83) - EJB jar build on windows has broken file permissions Improvement
 
 Improvements:
 
- * {% ajl MEJB-84 %} - Update to fluido skin 1.4
+ * [MEJB-84](https://issues.apache.org/jira/browse/MEJB-84) - Update to fluido skin 1.4
 
 Enjoy,
 

@@ -29,23 +29,23 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MSHADE-155 %} - dependency-reduced-pom should use shadedArtifactId
- * {% ajl MSHADE-169 %} - Typos in warning message
- * {% ajl MSHADE-172 %} - "java.lang.ArithmeticException: / by zero" in MinijarFilter
- * {% ajl MSHADE-174 %} - Unable to shade Java 8 jarfiles with static interface methods using minimizeJar
- * {% ajl MSHADE-183 %} - Getting "Error creating shaded jar: java.util.jar.Attributes cannot be cast to java.lang.String" error when using ManifestResourceTransformer with Maven 3.2.5
- * {% ajl MSHADE-185 %} - systemPath content is interpolated for system dependencies
+ * [MSHADE-155](https://issues.apache.org/jira/browse/MSHADE-155) - dependency-reduced-pom should use shadedArtifactId
+ * [MSHADE-169](https://issues.apache.org/jira/browse/MSHADE-169) - Typos in warning message
+ * [MSHADE-172](https://issues.apache.org/jira/browse/MSHADE-172) - "java.lang.ArithmeticException: / by zero" in MinijarFilter
+ * [MSHADE-174](https://issues.apache.org/jira/browse/MSHADE-174) - Unable to shade Java 8 jarfiles with static interface methods using minimizeJar
+ * [MSHADE-183](https://issues.apache.org/jira/browse/MSHADE-183) - Getting "Error creating shaded jar: java.util.jar.Attributes cannot be cast to java.lang.String" error when using ManifestResourceTransformer with Maven 3.2.5
+ * [MSHADE-185](https://issues.apache.org/jira/browse/MSHADE-185) - systemPath content is interpolated for system dependencies
 
 Improvements:
 
- * {% ajl MSHADE-177 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% ajl MSHADE-178 %} - Removing plexus-container-default dependency
- * {% ajl MSHADE-179 %} - Fix RAT Report
- * {% ajl MSHADE-180 %} - Upgrade plexus-utils to 3.0.18
- * {% ajl MSHADE-188 %} - Upgrade maven-dependency-tree to 2.2
- * {% ajl MSHADE-191 %} - Upgrade plexus-utils to 3.0.22
- * {% ajl MSHADE-192 %} - Upgrade maven-invoker to 1.10
- * {% ajl MSHADE-193 %} - Upgrade to fluido skin 1.4.0
+ * [MSHADE-177](https://issues.apache.org/jira/browse/MSHADE-177) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MSHADE-178](https://issues.apache.org/jira/browse/MSHADE-178) - Removing plexus-container-default dependency
+ * [MSHADE-179](https://issues.apache.org/jira/browse/MSHADE-179) - Fix RAT Report
+ * [MSHADE-180](https://issues.apache.org/jira/browse/MSHADE-180) - Upgrade plexus-utils to 3.0.18
+ * [MSHADE-188](https://issues.apache.org/jira/browse/MSHADE-188) - Upgrade maven-dependency-tree to 2.2
+ * [MSHADE-191](https://issues.apache.org/jira/browse/MSHADE-191) - Upgrade plexus-utils to 3.0.22
+ * [MSHADE-192](https://issues.apache.org/jira/browse/MSHADE-192) - Upgrade maven-invoker to 1.10
+ * [MSHADE-193](https://issues.apache.org/jira/browse/MSHADE-193) - Upgrade to fluido skin 1.4.0
 
 
 Enjoy,

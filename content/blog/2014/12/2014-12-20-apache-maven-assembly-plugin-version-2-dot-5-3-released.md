@@ -31,18 +31,18 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MASSEMBLY-648 %} - lineEnding in fileSet corrupts jar files
- * {% chjl MASSEMBLY-665 %} - OS dependent behaviour while packaging
- * {% chjl MASSEMBLY-735 %} - NullPointerException at org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode(FallbackZipEncoding.java:80)
- * {% chjl MASSEMBLY-739 %} - directory permissions are not 755 but 000 in zip
- * {% chjl MASSEMBLY-741 %} - wrong paths in file-modes tests
- * {% chjl MASSEMBLY-742 %} - Unclosed ZipFile warnings when ZIP archives are included
- * {% chjl MASSEMBLY-743 %} - <includeBaseDirectory> not correct
+ * [MASSEMBLY-648](https://issues.apache.org/jira/browse/MASSEMBLY-648) - lineEnding in fileSet corrupts jar files
+ * [MASSEMBLY-665](https://issues.apache.org/jira/browse/MASSEMBLY-665) - OS dependent behaviour while packaging
+ * [MASSEMBLY-735](https://issues.apache.org/jira/browse/MASSEMBLY-735) - NullPointerException at org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode(FallbackZipEncoding.java:80)
+ * [MASSEMBLY-739](https://issues.apache.org/jira/browse/MASSEMBLY-739) - directory permissions are not 755 but 000 in zip
+ * [MASSEMBLY-741](https://issues.apache.org/jira/browse/MASSEMBLY-741) - wrong paths in file-modes tests
+ * [MASSEMBLY-742](https://issues.apache.org/jira/browse/MASSEMBLY-742) - Unclosed ZipFile warnings when ZIP archives are included
+ * [MASSEMBLY-743](https://issues.apache.org/jira/browse/MASSEMBLY-743) - <includeBaseDirectory> not correct
 
 Improvements:
 
- * {% chjl MASSEMBLY-720 %} - Fixed Checkstyle reported errors / warnings
- * {% chjl MASSEMBLY-738 %} - Upgrade to plexus-archiver from 2.8.4 to 2.9.1 and plexus-io from 2.3.5 to 2.4.1
+ * [MASSEMBLY-720](https://issues.apache.org/jira/browse/MASSEMBLY-720) - Fixed Checkstyle reported errors / warnings
+ * [MASSEMBLY-738](https://issues.apache.org/jira/browse/MASSEMBLY-738) - Upgrade to plexus-archiver from 2.8.4 to 2.9.1 and plexus-io from 2.3.5 to 2.4.1
 
 
 Enjoy,

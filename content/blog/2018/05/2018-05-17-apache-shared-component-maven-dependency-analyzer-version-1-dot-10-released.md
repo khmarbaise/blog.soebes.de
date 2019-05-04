@@ -25,7 +25,7 @@ Analyzes the dependencies of a project for undeclared or unused artifacts.
 
 Dependency upgrade:
 
- * {%ajl MSHARED-718 %} - Upgrade asm to most recent version 6.1.1
+ * [MSHARED-718](https://issues.apache.org/jira/browse/MSHARED-718) - Upgrade asm to most recent version 6.1.1
 
 Enjoy,
 

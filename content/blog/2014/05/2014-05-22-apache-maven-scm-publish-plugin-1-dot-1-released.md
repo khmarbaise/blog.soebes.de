@@ -32,15 +32,15 @@ Release Notes - Maven SCM Publish Plugin - Version 1.1
 
 Bug:
 
- * {% chjl MSCMPUB-12 %} - scmBranch ignored when tryUpdate is specified
+ * [MSCMPUB-12](https://issues.apache.org/jira/browse/MSCMPUB-12) - scmBranch ignored when tryUpdate is specified
 
 Improvement:
 
- * {% chjl MSCMPUB-15 %} - log files and directories added/deleted as INFO
+ * [MSCMPUB-15](https://issues.apache.org/jira/browse/MSCMPUB-15) - log files and directories added/deleted as INFO
 
 New Feature:
 
- * {% chjl MSCMPUB-14 %} - add all directories in 1 command per default
+ * [MSCMPUB-14](https://issues.apache.org/jira/browse/MSCMPUB-14) - add all directories in 1 command per default
 
 Enjoy,
 

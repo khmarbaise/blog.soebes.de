@@ -30,27 +30,27 @@ which has been moved from Codehaus to [Apache Software Foundation](https://issue
 
 Bugs:
 
- * {% ajl MJAVADOC-404 %} - Goal resource-bundle generates faulty JAR file
- * {% ajl MJAVADOC-423 %} - Wrong link generation for org.xml.sax.helpers.DefaultHandler
- * {% ajl MJAVADOC-431 %} - Allow Javadoc Jar to contain Maven descriptor
- * {% ajl MJAVADOC-437 %} - javadoc:aggregate fails on initial build
- * {% ajl MJAVADOC-441 %} - javadoc plugin fails with recent jdk9-ea builds
+ * [MJAVADOC-404](https://issues.apache.org/jira/browse/MJAVADOC-404) - Goal resource-bundle generates faulty JAR file
+ * [MJAVADOC-423](https://issues.apache.org/jira/browse/MJAVADOC-423) - Wrong link generation for org.xml.sax.helpers.DefaultHandler
+ * [MJAVADOC-431](https://issues.apache.org/jira/browse/MJAVADOC-431) - Allow Javadoc Jar to contain Maven descriptor
+ * [MJAVADOC-437](https://issues.apache.org/jira/browse/MJAVADOC-437) - javadoc:aggregate fails on initial build
+ * [MJAVADOC-441](https://issues.apache.org/jira/browse/MJAVADOC-441) - javadoc plugin fails with recent jdk9-ea builds
 
 Documentation:
 
- * {% ajl MJAVADOC-385 %} - Fix documentation of <additionalDependencies> feature
+ * [MJAVADOC-385](https://issues.apache.org/jira/browse/MJAVADOC-385) - Fix documentation of <additionalDependencies> feature
 
 Improvements:
 
- * {% ajl MJAVADOC-384 %} - Allow whitespace in javadoc exclude list
- * {% ajl MJAVADOC-442 %} - Support new jdk9 java version scheme
- * {% ajl MJAVADOC-446 %} - Upgrade plexus-archiver from 3.0.3 to 3.1
- * {% ajl MJAVADOC-454 %} - Upgrade of 'plexus-archiver' to version 3.3.
- * {% ajl MJAVADOC-455 %} - Change IT whitelist to blacklist
+ * [MJAVADOC-384](https://issues.apache.org/jira/browse/MJAVADOC-384) - Allow whitespace in javadoc exclude list
+ * [MJAVADOC-442](https://issues.apache.org/jira/browse/MJAVADOC-442) - Support new jdk9 java version scheme
+ * [MJAVADOC-446](https://issues.apache.org/jira/browse/MJAVADOC-446) - Upgrade plexus-archiver from 3.0.3 to 3.1
+ * [MJAVADOC-454](https://issues.apache.org/jira/browse/MJAVADOC-454) - Upgrade of 'plexus-archiver' to version 3.3.
+ * [MJAVADOC-455](https://issues.apache.org/jira/browse/MJAVADOC-455) - Change IT whitelist to blacklist
 
 Wish:
 
- * {% ajl MJAVADOC-432 %} - Downgrade "Error fetching link: .../package-list"
+ * [MJAVADOC-432](https://issues.apache.org/jira/browse/MJAVADOC-432) - Downgrade "Error fetching link: .../package-list"
 
 
 

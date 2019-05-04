@@ -31,20 +31,20 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% chjl MSCMPUB-6 %} - when creating a directory in svn, if checkout fails, wait 
+ * [MSCMPUB-6](https://issues.apache.org/jira/browse/MSCMPUB-6) - when creating a directory in svn, if checkout fails, wait 
 a few seconds and retry
- * {% chjl MSCMPUB-7 %} - Add timestamp when commit starts (and ends)
- * {% chjl MSCMPUB-10 %} - Pick up SCM credentials from settings.xml server section
- * {% chjl MSCMPUB-11 %} - display content size (number of directories, files, and size)
+ * [MSCMPUB-7](https://issues.apache.org/jira/browse/MSCMPUB-7) - Add timestamp when commit starts (and ends)
+ * [MSCMPUB-10](https://issues.apache.org/jira/browse/MSCMPUB-10) - Pick up SCM credentials from settings.xml server section
+ * [MSCMPUB-11](https://issues.apache.org/jira/browse/MSCMPUB-11) - display content size (number of directories, files, and size)
 
 Story:
 
- * {% chjl MSCMPUB-4 %} - Need a working example for GitHub/gh-pages, preferably 
+ * [MSCMPUB-4](https://issues.apache.org/jira/browse/MSCMPUB-4) - Need a working example for GitHub/gh-pages, preferably 
 naturally linked to natural site lifecycle, and multi-module
 
 Task:
 
- * {% chjl MSCMPUB-3 %} - Upgrade to SCM-1.9
+ * [MSCMPUB-3](https://issues.apache.org/jira/browse/MSCMPUB-3) - Upgrade to SCM-1.9
 
 Enjoy,
 

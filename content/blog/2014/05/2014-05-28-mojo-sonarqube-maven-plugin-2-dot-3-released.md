@@ -27,10 +27,10 @@ To get this update, simply specify the version in your project's plugin configur
 
 Bugs:
 
-* {% chjl MSONAR-46 %} - Add the "skip" option
-* {% chjl MSONAR-61 %} - Improve support of advanced reactor options
-* {% chjl MSONAR-69 %} - Support Maven encryption mechanism for SonarQube passwords
-* {% chjl MSONAR-60 %} - Embed sonar-runner
+* [MSONAR-46] - Add the "skip" option
+* [MSONAR-61] - Improve support of advanced reactor options
+* [MSONAR-69] - Support Maven encryption mechanism for SonarQube passwords
+* [MSONAR-60] - Embed sonar-runner
 
 Enjoy,
 

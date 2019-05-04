@@ -26,15 +26,15 @@ asdlfjadfkThe Javadoc Plugin uses the Javadoc tool to generate javadocs for the 
 
 Bug:
 
- * {% chjl MRESOURCES-182 %} - Example Custom resource filters incorrect
+ * [MRESOURCES-182](https://issues.apache.org/jira/browse/MRESOURCES-182) - Example Custom resource filters incorrect
 
 Improvements:
 
- * {% chjl MRESOURCES-177 %} - Use version 1.2 of maven-filtering to use improvements
- * {% chjl MRESOURCES-180 %} - Documentation does not use correct versions
- * {% chjl MRESOURCES-181 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MRESOURCES-183 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% chjl MRESOURCES-184 %} - Removing plexus-container-default dependency
+ * [MRESOURCES-177](https://issues.apache.org/jira/browse/MRESOURCES-177) - Use version 1.2 of maven-filtering to use improvements
+ * [MRESOURCES-180](https://issues.apache.org/jira/browse/MRESOURCES-180) - Documentation does not use correct versions
+ * [MRESOURCES-181](https://issues.apache.org/jira/browse/MRESOURCES-181) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MRESOURCES-183](https://issues.apache.org/jira/browse/MRESOURCES-183) - Upgrade to Maven 2.2.1 compatiblity
+ * [MRESOURCES-184](https://issues.apache.org/jira/browse/MRESOURCES-184) - Removing plexus-container-default dependency
 
 
 Enjoy,

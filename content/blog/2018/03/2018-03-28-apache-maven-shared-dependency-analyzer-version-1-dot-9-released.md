@@ -27,12 +27,12 @@ You should specify the version in your project's dependency list:
 
 Bug:
 
- * {%ajl MSHARED-710 %} - JDK 9 / 10 Issue - Unknown constant pool type
+ * [MSHARED-710](https://issues.apache.org/jira/browse/MSHARED-710) - JDK 9 / 10 Issue - Unknown constant pool type
 
 Dependency upgrades:
 
- * {%ajl MSHARED-707 %} - Upgrade parent to 31
- * {%ajl MSHARED-708 %} - Upgrade org.ow2.asm:asm:6.0 to 6.1 JDK 10 issues
+ * [MSHARED-707](https://issues.apache.org/jira/browse/MSHARED-707) - Upgrade parent to 31
+ * [MSHARED-708](https://issues.apache.org/jira/browse/MSHARED-708) - Upgrade org.ow2.asm:asm:6.0 to 6.1 JDK 10 issues
 
 
 Enjoy,

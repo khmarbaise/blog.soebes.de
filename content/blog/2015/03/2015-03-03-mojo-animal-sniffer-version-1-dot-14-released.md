@@ -40,15 +40,15 @@ The artifacts have are available from the Maven Central repository.
 
 Bugs:
 
- * {% chjl MANIMALSNIFFER-49 %} - Support covariant return types
- * {% chjl MANIMALSNIFFER-53 %} - Documentation error : checking dependency classes
+ * [MANIMALSNIFFER-49](https://issues.apache.org/jira/browse/MANIMALSNIFFER-49) - Support covariant return types
+ * [MANIMALSNIFFER-53](https://issues.apache.org/jira/browse/MANIMALSNIFFER-53) - Documentation error : checking dependency classes
 
 Improvement:
 
- * {% chjl MANIMALSNIFFER-50 %} - Apply plugin Annotations (instead of current doclet tags)
+ * [MANIMALSNIFFER-50](https://issues.apache.org/jira/browse/MANIMALSNIFFER-50) - Apply plugin Annotations (instead of current doclet tags)
 
 Task:
 
- * {% chjl MANIMALSNIFFER-51 %} - Upgrade ASM to 5.0.3
+ * [MANIMALSNIFFER-51](https://issues.apache.org/jira/browse/MANIMALSNIFFER-51) - Upgrade ASM to 5.0.3
 
 The Mojo Team.

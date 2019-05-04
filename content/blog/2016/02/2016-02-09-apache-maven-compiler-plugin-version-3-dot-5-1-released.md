@@ -31,9 +31,9 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% ajl MCOMPILER-236 %} -  Compilation error due to MCOMPILER-157 in deploy phase
- * {% ajl MCOMPILER-240 %} -  Generated sources directory should not be added to compiler's source roots
- * {% ajl MCOMPILER-262 %} -  When using annotationProcessorPaths, the project dependencies must not be added as well
+ * [MCOMPILER-236](https://issues.apache.org/jira/browse/MCOMPILER-236) -  Compilation error due to MCOMPILER-157 in deploy phase
+ * [MCOMPILER-240](https://issues.apache.org/jira/browse/MCOMPILER-240) -  Generated sources directory should not be added to compiler's source roots
+ * [MCOMPILER-262](https://issues.apache.org/jira/browse/MCOMPILER-262) -  When using annotationProcessorPaths, the project dependencies must not be added as well
 
 Enjoy,
 

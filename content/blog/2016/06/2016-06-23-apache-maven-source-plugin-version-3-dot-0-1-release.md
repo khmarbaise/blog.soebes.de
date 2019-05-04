@@ -30,20 +30,20 @@ You can download the appropriate sources etc. from the [download page][download]
 
 Bug:
 
- * {% ajl MSOURCES-94 %} - Heap space OOM
+ * [MSOURCES-94](https://issues.apache.org/jira/browse/MSOURCES-94) - Heap space OOM
 
 Improvements:
 
- * {% ajl MSOURCES-96 %} - Upgrade plexus-archiver from 3.0.3 to 3.1
- * {% ajl MSOURCES-97 %} - Make finalName readonly parameter
- * {% ajl MSOURCES-98 %} - Upgrade of 'plexus-archiver' to version 3.3.
- * {% ajl MSOURCES-100 %} - Upgrade maven-shared-components parent to version 30
- * {% ajl MSOURCES-101 %} - Upgrade maven-archiver to 3.1.0
+ * [MSOURCES-96](https://issues.apache.org/jira/browse/MSOURCES-96) - Upgrade plexus-archiver from 3.0.3 to 3.1
+ * [MSOURCES-97](https://issues.apache.org/jira/browse/MSOURCES-97) - Make finalName readonly parameter
+ * [MSOURCES-98](https://issues.apache.org/jira/browse/MSOURCES-98) - Upgrade of 'plexus-archiver' to version 3.3.
+ * [MSOURCES-100](https://issues.apache.org/jira/browse/MSOURCES-100) - Upgrade maven-shared-components parent to version 30
+ * [MSOURCES-101](https://issues.apache.org/jira/browse/MSOURCES-101) - Upgrade maven-archiver to 3.1.0
 
 Tasks:
 
- * {% ajl MSOURCES-102 %} - Upgrade of plexus-archiver to 3.4.
- * {% ajl MSOURCES-103 %} - Upgrade of maven-archiver to 3.1.1.
+ * [MSOURCES-102](https://issues.apache.org/jira/browse/MSOURCES-102) - Upgrade of plexus-archiver to 3.4.
+ * [MSOURCES-103](https://issues.apache.org/jira/browse/MSOURCES-103) - Upgrade of maven-archiver to 3.1.1.
 
 Enjoy,
 

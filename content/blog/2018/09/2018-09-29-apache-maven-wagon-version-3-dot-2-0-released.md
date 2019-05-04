@@ -20,33 +20,33 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bugs:
 
- * {%ajl WAGON-478 %} - WebDavWagon accepts SC_OK for MKCOL
- * {%ajl WAGON-486 %} - Wagon fails to download artifacts if number of dropped pooled connections (by intermediate) are greater than default retry count
- * {%ajl WAGON-500 %} - Re-enable ScmCvsExeWagonTest
+ * [WAGON-478](https://issues.apache.org/jira/browse/WAGON-478) - WebDavWagon accepts SC_OK for MKCOL
+ * [WAGON-486](https://issues.apache.org/jira/browse/WAGON-486) - Wagon fails to download artifacts if number of dropped pooled connections (by intermediate) are greater than default retry count
+ * [WAGON-500](https://issues.apache.org/jira/browse/WAGON-500) - Re-enable ScmCvsExeWagonTest
 
 New Features:
 
- * {%ajl WAGON-526 %} - Make the retry handling of HttpClient configurable
- * {%ajl WAGON-531 %} - Add default TTL for HTTP connections
+ * [WAGON-526](https://issues.apache.org/jira/browse/WAGON-526) - Make the retry handling of HttpClient configurable
+ * [WAGON-531](https://issues.apache.org/jira/browse/WAGON-531) - Add default TTL for HTTP connections
 
 Improvement:
 
- * {%ajl WAGON-525 %} - Support for detecting and using of KiTTY's klink.exe and kscp.exe
+ * [WAGON-525](https://issues.apache.org/jira/browse/WAGON-525) - Support for detecting and using of KiTTY's klink.exe and kscp.exe
 
 Tasks:
 
- * {%ajl WAGON-527 %} - Drop custom user agent in WebDAV Wagon
- * {%ajl WAGON-528 %} - Extend and unify compression capabilities in HTTP (Lightweight) Wagon
- * {%ajl WAGON-529 %} - Clean up inconsistent status code and reason phrase handling
- * {%ajl WAGON-530 %} - Drop invalid header 'Expires'
+ * [WAGON-527](https://issues.apache.org/jira/browse/WAGON-527) - Drop custom user agent in WebDAV Wagon
+ * [WAGON-528](https://issues.apache.org/jira/browse/WAGON-528) - Extend and unify compression capabilities in HTTP (Lightweight) Wagon
+ * [WAGON-529](https://issues.apache.org/jira/browse/WAGON-529) - Clean up inconsistent status code and reason phrase handling
+ * [WAGON-530](https://issues.apache.org/jira/browse/WAGON-530) - Drop invalid header 'Expires'
 
 Dependency upgrades:
 
- * {%ajl WAGON-532 %} - Upgrade Maven SCM to 1.11.1
- * {%ajl WAGON-533 %} - Upgrade HttpCore to 4.4.10
- * {%ajl WAGON-534 %} - Upgrade HttpClient to 4.5.6
- * {%ajl WAGON-535 %} - Upgrade EasyMock to 3.6
- * {%ajl WAGON-536 %} - Upgrade parent to 32
+ * [WAGON-532](https://issues.apache.org/jira/browse/WAGON-532) - Upgrade Maven SCM to 1.11.1
+ * [WAGON-533](https://issues.apache.org/jira/browse/WAGON-533) - Upgrade HttpCore to 4.4.10
+ * [WAGON-534](https://issues.apache.org/jira/browse/WAGON-534) - Upgrade HttpClient to 4.5.6
+ * [WAGON-535](https://issues.apache.org/jira/browse/WAGON-535) - Upgrade EasyMock to 3.6
+ * [WAGON-536](https://issues.apache.org/jira/browse/WAGON-536) - Upgrade parent to 32
 
 Enjoy,
 

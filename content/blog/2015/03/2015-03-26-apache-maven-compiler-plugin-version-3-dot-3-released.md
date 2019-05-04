@@ -28,14 +28,14 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% chjl MCOMPILER-223 %} - Move to a non-ancient maven-toolchain dependency
+ * [MCOMPILER-223](https://issues.apache.org/jira/browse/MCOMPILER-223) - Move to a non-ancient maven-toolchain dependency
 
 Improvements:
 
- * {% chjl MCOMPILER-237 %} - Upgrade to Maven 2.2.1 compatiblity
- * {% chjl MCOMPILER-238 %} - Upgrade to maven-plugins parent version 27
- * {% chjl MCOMPILER-239 %} - Upgrade maven-shared-utils to 0.7
- * {% chjl MCOMPILER-241 %} - Upgrade plexus-compiler-api to 2.5
+ * [MCOMPILER-237](https://issues.apache.org/jira/browse/MCOMPILER-237) - Upgrade to Maven 2.2.1 compatiblity
+ * [MCOMPILER-238](https://issues.apache.org/jira/browse/MCOMPILER-238) - Upgrade to maven-plugins parent version 27
+ * [MCOMPILER-239](https://issues.apache.org/jira/browse/MCOMPILER-239) - Upgrade maven-shared-utils to 0.7
+ * [MCOMPILER-241](https://issues.apache.org/jira/browse/MCOMPILER-241) - Upgrade plexus-compiler-api to 2.5
 
 Enjoy,
 

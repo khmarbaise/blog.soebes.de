@@ -29,7 +29,7 @@ You should specify the version in your project's plugin configuration:
 
 Improvements:
 
- * {% ajl MASSEMBLY-780 %} - Snappy supported
+ * [MASSEMBLY-780](https://issues.apache.org/jira/browse/MASSEMBLY-780) - Snappy supported
 
 Important Note:: This version requires Java 1.6.
 

@@ -30,8 +30,8 @@ All you need to do is add the plugin to the plugins in your build section.
 
 Release Notes:
 
-* {% chjl MOJO-2027 %} ability to preserve developer information
-* {% chjl MOJO-2030 %} flatten-maven-plugin overrides basedir and sets it to target/, so src/site/site.xml is not used and any documentation beneath src/site is not rendered
+* [MOJO-2027] ability to preserve developer information
+* [MOJO-2030] flatten-maven-plugin overrides basedir and sets it to target/, so src/site/site.xml is not used and any documentation beneath src/site is not rendered
 
 Enjoy,
 

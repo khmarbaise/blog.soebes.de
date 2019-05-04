@@ -39,18 +39,18 @@ https://maven.apache.org/plugins/maven-invoker-plugin/download.cgi
 
 Bug:
 
- * {%ajl MINVOKER-243 %} - invoker:install doesn't copy transitive dependencies anymore (as of 3.1.0)
+ * [MINVOKER-243](https://issues.apache.org/jira/browse/MINVOKER-243) - invoker:install doesn't copy transitive dependencies anymore (as of 3.1.0)
 
 Improvements:
 
- * {%ajl MINVOKER-190 %} - build.log file location causes problems
- * {%ajl MINVOKER-225 %} - strange message ordering in case of post-build  script failure
- * {%ajl MINVOKER-245 %} - Support toolchain selector
- * {%ajl MINVOKER-246 %} - Support hierarchical invoker.properties
+ * [MINVOKER-190](https://issues.apache.org/jira/browse/MINVOKER-190) - build.log file location causes problems
+ * [MINVOKER-225](https://issues.apache.org/jira/browse/MINVOKER-225) - strange message ordering in case of post-build  script failure
+ * [MINVOKER-245](https://issues.apache.org/jira/browse/MINVOKER-245) - Support toolchain selector
+ * [MINVOKER-246](https://issues.apache.org/jira/browse/MINVOKER-246) - Support hierarchical invoker.properties
 
 Dependency upgrade:
 
- * {%ajl MINVOKER-239 %} - Upgrade maven-plugins parent to version 32
+ * [MINVOKER-239](https://issues.apache.org/jira/browse/MINVOKER-239) - Upgrade maven-plugins parent to version 32
 
 Enjoy,
 

@@ -39,15 +39,15 @@ Important Notes since Version 3.2.0:
 
 Bug:
 
- * {% ajl MSHARED-601 %} - Update examples with "Archiver-Version" manifest entry
+ * [MSHARED-601](https://issues.apache.org/jira/browse/MSHARED-601) - Update examples with "Archiver-Version" manifest entry
 
 Improvements:
 
- * {% ajl MSHARED-578 %} - Upgrade maven-shared-utils to 3.1.0
- * {% ajl MSHARED-579 %} - Upgrade to plexus-archiver 3.4
- * {% ajl MSHARED-643 %} - Upgrade to maven-shared-utils 3.2.0
- * {% ajl MSHARED-644 %} - Removed prerequisites for none maven-plugin project
- * {% ajl MSHARED-653 %} - Upgrade to plexus-archiver 3.5
+ * [MSHARED-578](https://issues.apache.org/jira/browse/MSHARED-578) - Upgrade maven-shared-utils to 3.1.0
+ * [MSHARED-579](https://issues.apache.org/jira/browse/MSHARED-579) - Upgrade to plexus-archiver 3.4
+ * [MSHARED-643](https://issues.apache.org/jira/browse/MSHARED-643) - Upgrade to maven-shared-utils 3.2.0
+ * [MSHARED-644](https://issues.apache.org/jira/browse/MSHARED-644) - Removed prerequisites for none maven-plugin project
+ * [MSHARED-653](https://issues.apache.org/jira/browse/MSHARED-653) - Upgrade to plexus-archiver 3.5
 
  
 Enjoy,

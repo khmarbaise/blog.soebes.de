@@ -22,18 +22,18 @@ The release can be downloaded from https://maven.apache.org/download.cgi
 
 Bugs:
 
- * {% chjl MNG-5349 %} - NullPointerException if missing id in org.apache.maven.lifecycle.Lifecycle
- * {% chjl MNG-5655 %} - WeakMojoExecutionListener callbacks invoked multiple times in some cases
- * {% chjl MNG-5658 %} - Syntax error in bin/mvn on Solaris SPARC
- * {% chjl MNG-5663 %} - [regression] resolution of import-scoped transitive dependencies ignores additional repositories
- * {% chjl MNG-5670 %} - ConcurrentModificationException during DefaultMaven.newRepositorySession
- * {% chjl MNG-5677 %} - Fine-grained cache management
+ * [MNG-5349](https://issues.apache.org/jira/browse/MNG-5349) - NullPointerException if missing id in org.apache.maven.lifecycle.Lifecycle
+ * [MNG-5655](https://issues.apache.org/jira/browse/MNG-5655) - WeakMojoExecutionListener callbacks invoked multiple times in some cases
+ * [MNG-5658](https://issues.apache.org/jira/browse/MNG-5658) - Syntax error in bin/mvn on Solaris SPARC
+ * [MNG-5663](https://issues.apache.org/jira/browse/MNG-5663) - [regression] resolution of import-scoped transitive dependencies ignores additional repositories
+ * [MNG-5670](https://issues.apache.org/jira/browse/MNG-5670) - ConcurrentModificationException during DefaultMaven.newRepositorySession
+ * [MNG-5677](https://issues.apache.org/jira/browse/MNG-5677) - Fine-grained cache management
 
 Improvements:
 
- * {% chjl MNG-2570 %} - Maven needs to support multiple logging levels
- * {% chjl MNG-5672 %} - Switch access to Maven Central to HTTPS
+ * [MNG-2570](https://issues.apache.org/jira/browse/MNG-2570) - Maven needs to support multiple logging levels
+ * [MNG-5672](https://issues.apache.org/jira/browse/MNG-5672) - Switch access to Maven Central to HTTPS
 
 New Feature:
 
- * {% chjl MNG-5656 %} - Update maven-compiler-plugin in the default-bindings.xml
+ * [MNG-5656](https://issues.apache.org/jira/browse/MNG-5656) - Update maven-compiler-plugin in the default-bindings.xml

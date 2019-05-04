@@ -27,22 +27,22 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% chjl MANT-65 %} - Invalid check for junit
+ * [MANT-65](https://issues.apache.org/jira/browse/MANT-65) - Invalid check for junit
 
 Improvements:
 
- * {% chjl MANT-75 %} - Removed compatibility with Maven 2.0.X
- * {% chjl MANT-80 %} - Update version of plexus-utils to 3.0.18
- * {% chjl MANT-81 %} - Upgrade ant dep to 1.9.1
- * {% chjl MANT-82 %} - Upgrade maven-plugin-testing-harness to 1.3
- * {% chjl MANT-83 %} - Upgrade JUnit from 3.8.1 to 4.11
- * {% chjl MANT-84 %} - Upgrade ant dep to 1.9.4 to be consistent with maven-antrun-plugin
+ * [MANT-75](https://issues.apache.org/jira/browse/MANT-75) - Removed compatibility with Maven 2.0.X
+ * [MANT-80](https://issues.apache.org/jira/browse/MANT-80) - Update version of plexus-utils to 3.0.18
+ * [MANT-81](https://issues.apache.org/jira/browse/MANT-81) - Upgrade ant dep to 1.9.1
+ * [MANT-82](https://issues.apache.org/jira/browse/MANT-82) - Upgrade maven-plugin-testing-harness to 1.3
+ * [MANT-83](https://issues.apache.org/jira/browse/MANT-83) - Upgrade JUnit from 3.8.1 to 4.11
+ * [MANT-84](https://issues.apache.org/jira/browse/MANT-84) - Upgrade ant dep to 1.9.4 to be consistent with maven-antrun-plugin
 
 Tasks:
 
- * {% chjl MANT-69 %} - use maven-plugin-tools' java 5 annotations
- * {% chjl MANT-76 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MANT-77 %} - Upgrade ant dep to 1.8.1
+ * [MANT-69](https://issues.apache.org/jira/browse/MANT-69) - use maven-plugin-tools' java 5 annotations
+ * [MANT-76](https://issues.apache.org/jira/browse/MANT-76) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MANT-77](https://issues.apache.org/jira/browse/MANT-77) - Upgrade ant dep to 1.8.1
 
 Enjoy,
 

@@ -31,21 +31,21 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {%ajl MJDEPS-10 %} - Error: unknown option: -M while using module option of maven-jdeps-plugin
+ * [MJDEPS-10](https://issues.apache.org/jira/browse/MJDEPS-10) - Error: unknown option: -M while using module option of maven-jdeps-plugin
 
 New Features:
 
- * {%ajl MJDEPS-9 %} - Introduce failOnWarning as a named property
- * {%ajl MJDEPS-11 %} - Introduce --multi-release option
+ * [MJDEPS-9](https://issues.apache.org/jira/browse/MJDEPS-9) - Introduce failOnWarning as a named property
+ * [MJDEPS-11](https://issues.apache.org/jira/browse/MJDEPS-11) - Introduce --multi-release option
 
 Improvement:
 
- * {%ajl MJDEPS-12 %} - Add support for the '-package' options
+ * [MJDEPS-12](https://issues.apache.org/jira/browse/MJDEPS-12) - Add support for the '-package' options
 
 Dependency upgrade:
 
- * {%ajl MJDEPS-8 %} - Upgrade plexus-utils to version 3.1.0
- * {%ajl MJDEPS-13 %} - Upgrade parent to 31
+ * [MJDEPS-8](https://issues.apache.org/jira/browse/MJDEPS-8) - Upgrade plexus-utils to version 3.1.0
+ * [MJDEPS-13](https://issues.apache.org/jira/browse/MJDEPS-13) - Upgrade parent to 31
 
 Enjoy,
 

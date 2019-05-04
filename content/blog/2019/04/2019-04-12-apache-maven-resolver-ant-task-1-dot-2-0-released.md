@@ -21,23 +21,23 @@ the [download page](https://maven.apache.org/resolver-ant-tasks/download.cgi)
 
 Bug:
 
-- {%ajl MRESOLVER-83 %} - Classpath 'cp.runtime.test' in build.xml misses runtime dependencies
+- [MRESOLVER-83](https://issues.apache.org/jira/browse/MRESOLVER-83) - Classpath 'cp.runtime.test' in build.xml misses runtime dependencies
 
 Task:
 
-- {%ajl MRESOLVER-81 %} - Bump Java version to 7 in build.xml
+- [MRESOLVER-81](https://issues.apache.org/jira/browse/MRESOLVER-81) - Bump Java version to 7 in build.xml
 
 Dependency upgrades:
 
-- {%ajl MRESOLVER-70 %} - Upgrade Parent to 33
-- {%ajl MRESOLVER-71 %} - Upgrade Maven Resolver from 1.1.1 (used by Maven 3.5.3) to 1.3.3 (used by Maven 3.6.1)
-- {%ajl MRESOLVER-72 %} - Upgrade Ant to 1.8.4
-- {%ajl MRESOLVER-73 %} - Upgrade Plexus Utils to 3.2.0
-- {%ajl MRESOLVER-74 %} - Upgrade SLF4J to 1.7.25
-- {%ajl MRESOLVER-75 %} - Upgrade Plexus Interpolation to 1.25
-- {%ajl MRESOLVER-77 %} - Upgrade Sisu Plexus to 0.3.3
-- {%ajl MRESOLVER-78 %} - Upgrade JUnit to 4.12
-- {%ajl MRESOLVER-79 %} - Upgrade Maven Ant Run Plugin to 1.8
+- [MRESOLVER-70](https://issues.apache.org/jira/browse/MRESOLVER-70) - Upgrade Parent to 33
+- [MRESOLVER-71](https://issues.apache.org/jira/browse/MRESOLVER-71) - Upgrade Maven Resolver from 1.1.1 (used by Maven 3.5.3) to 1.3.3 (used by Maven 3.6.1)
+- [MRESOLVER-72](https://issues.apache.org/jira/browse/MRESOLVER-72) - Upgrade Ant to 1.8.4
+- [MRESOLVER-73](https://issues.apache.org/jira/browse/MRESOLVER-73) - Upgrade Plexus Utils to 3.2.0
+- [MRESOLVER-74](https://issues.apache.org/jira/browse/MRESOLVER-74) - Upgrade SLF4J to 1.7.25
+- [MRESOLVER-75](https://issues.apache.org/jira/browse/MRESOLVER-75) - Upgrade Plexus Interpolation to 1.25
+- [MRESOLVER-77](https://issues.apache.org/jira/browse/MRESOLVER-77) - Upgrade Sisu Plexus to 0.3.3
+- [MRESOLVER-78](https://issues.apache.org/jira/browse/MRESOLVER-78) - Upgrade JUnit to 4.12
+- [MRESOLVER-79](https://issues.apache.org/jira/browse/MRESOLVER-79) - Upgrade Maven Ant Run Plugin to 1.8
 
 Enjoy,
 

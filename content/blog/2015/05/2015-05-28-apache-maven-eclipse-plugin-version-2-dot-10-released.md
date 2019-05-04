@@ -31,21 +31,21 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% ajl MECLIPSE-731 %} - eclipse:clean not deleting ./settings folder that it creates
- * {% ajl MECLIPSE-738 %} - NullPointerException in LinkedResource if <locationURI> is present in .project
+ * [MECLIPSE-731](https://issues.apache.org/jira/browse/MECLIPSE-731) - eclipse:clean not deleting ./settings folder that it creates
+ * [MECLIPSE-738](https://issues.apache.org/jira/browse/MECLIPSE-738) - NullPointerException in LinkedResource if <locationURI> is present in .project
 
 Improvements:
 
- * {% ajl MECLIPSE-697 %} - Delete deprecated code
- * {% ajl MECLIPSE-721 %} - Improve documentation to explain why Eclipse sometimes does not import projects with correct project names.
- * {% ajl MECLIPSE-754 %} - UPdate plexus-archiver to 2.9,plexus-utils to 3.0.18 and maven-archiver to 2.5
- * {% ajl MECLIPSE-756 %} - Fix RAT Report
- * {% ajl MECLIPSE-757 %} - Add proper classpath entry names for Java 7 / 8
- * {% ajl MECLIPSE-758 %} - Use mojo annotations
+ * [MECLIPSE-697](https://issues.apache.org/jira/browse/MECLIPSE-697) - Delete deprecated code
+ * [MECLIPSE-721](https://issues.apache.org/jira/browse/MECLIPSE-721) - Improve documentation to explain why Eclipse sometimes does not import projects with correct project names.
+ * [MECLIPSE-754](https://issues.apache.org/jira/browse/MECLIPSE-754) - UPdate plexus-archiver to 2.9,plexus-utils to 3.0.18 and maven-archiver to 2.5
+ * [MECLIPSE-756](https://issues.apache.org/jira/browse/MECLIPSE-756) - Fix RAT Report
+ * [MECLIPSE-757](https://issues.apache.org/jira/browse/MECLIPSE-757) - Add proper classpath entry names for Java 7 / 8
+ * [MECLIPSE-758](https://issues.apache.org/jira/browse/MECLIPSE-758) - Use mojo annotations
 
 New Feature:
 
- * {% ajl MECLIPSE-759 %} - Add goal to resolve dependencies in .classpath files of a workspace
+ * [MECLIPSE-759](https://issues.apache.org/jira/browse/MECLIPSE-759) - Add goal to resolve dependencies in .classpath files of a workspace
 
 Enjoy,
 

@@ -35,48 +35,48 @@ You should specify the version in your project's plugin configuration:
 
 Bugs:
 
- * {% chjl MASSEMBLY-75 %} - Unpacked TAR dependencies do not preserve file mode nor uid/gid
- * {% chjl MASSEMBLY-458 %} - Directory name resolution ignores "$" and beyond
- * {% chjl MASSEMBLY-495 %} - Assembly changes timestamps when extracting dependency sets
- * {% chjl MASSEMBLY-523 %} - Filtering causes a loss of original unix file permissions
- * {% chjl MASSEMBLY-543 %} - japanese filenames cannot be correctly assembled by maven-assembly-plugin
- * {% chjl MASSEMBLY-557 %} - Corrupted zip created by assembly: extracting the zip forgets certain folders (or throws permission denied errors) possibly because zip index is corrupted
- * {% chjl MASSEMBLY-563 %} - JAR entry not found when including jar dependencies with "#" in classname
- * {% chjl MASSEMBLY-576 %} - addClasspath broken in new single goal
- * {% chjl MASSEMBLY-605 %} - Filtering does not work on files which are symlinks
- * {% chjl MASSEMBLY-615 %} - assembly:single fails with odd resource file name
- * {% chjl MASSEMBLY-622 %} - Unable to create "TAR" artifacts
- * {% chjl MASSEMBLY-641 %} - Assembly fails on resource name with a percent character
- * {% chjl MASSEMBLY-661 %} - Assembly plugin looses permissions when using fileSets
- * {% chjl MASSEMBLY-670 %} - Specifying <lineEnding> option of <fileSet> causes timestamps not to be preserved
- * {% chjl MASSEMBLY-684 %} - Parallel Execution w Custom Assembly Descriptor Fails
- * {% chjl MASSEMBLY-692 %} - Assembly ID is global
- * {% chjl MASSEMBLY-709 %} - When assembling a zip on windows duplicate files are added to the assembly
- * {% chjl MASSEMBLY-721 %} - Failing ITs for Maven 2.2.1
+ * [MASSEMBLY-75](https://issues.apache.org/jira/browse/MASSEMBLY-75) - Unpacked TAR dependencies do not preserve file mode nor uid/gid
+ * [MASSEMBLY-458](https://issues.apache.org/jira/browse/MASSEMBLY-458) - Directory name resolution ignores "$" and beyond
+ * [MASSEMBLY-495](https://issues.apache.org/jira/browse/MASSEMBLY-495) - Assembly changes timestamps when extracting dependency sets
+ * [MASSEMBLY-523](https://issues.apache.org/jira/browse/MASSEMBLY-523) - Filtering causes a loss of original unix file permissions
+ * [MASSEMBLY-543](https://issues.apache.org/jira/browse/MASSEMBLY-543) - japanese filenames cannot be correctly assembled by maven-assembly-plugin
+ * [MASSEMBLY-557](https://issues.apache.org/jira/browse/MASSEMBLY-557) - Corrupted zip created by assembly: extracting the zip forgets certain folders (or throws permission denied errors) possibly because zip index is corrupted
+ * [MASSEMBLY-563](https://issues.apache.org/jira/browse/MASSEMBLY-563) - JAR entry not found when including jar dependencies with "#" in classname
+ * [MASSEMBLY-576](https://issues.apache.org/jira/browse/MASSEMBLY-576) - addClasspath broken in new single goal
+ * [MASSEMBLY-605](https://issues.apache.org/jira/browse/MASSEMBLY-605) - Filtering does not work on files which are symlinks
+ * [MASSEMBLY-615](https://issues.apache.org/jira/browse/MASSEMBLY-615) - assembly:single fails with odd resource file name
+ * [MASSEMBLY-622](https://issues.apache.org/jira/browse/MASSEMBLY-622) - Unable to create "TAR" artifacts
+ * [MASSEMBLY-641](https://issues.apache.org/jira/browse/MASSEMBLY-641) - Assembly fails on resource name with a percent character
+ * [MASSEMBLY-661](https://issues.apache.org/jira/browse/MASSEMBLY-661) - Assembly plugin looses permissions when using fileSets
+ * [MASSEMBLY-670](https://issues.apache.org/jira/browse/MASSEMBLY-670) - Specifying <lineEnding> option of <fileSet> causes timestamps not to be preserved
+ * [MASSEMBLY-684](https://issues.apache.org/jira/browse/MASSEMBLY-684) - Parallel Execution w Custom Assembly Descriptor Fails
+ * [MASSEMBLY-692](https://issues.apache.org/jira/browse/MASSEMBLY-692) - Assembly ID is global
+ * [MASSEMBLY-709](https://issues.apache.org/jira/browse/MASSEMBLY-709) - When assembling a zip on windows duplicate files are added to the assembly
+ * [MASSEMBLY-721](https://issues.apache.org/jira/browse/MASSEMBLY-721) - Failing ITs for Maven 2.2.1
 
 Improvements:
 
- * {% chjl MASSEMBLY-479 %} - Add option to generate Posix tar files.
- * {% chjl MASSEMBLY-530 %} - Allow configuration of encoding
- * {% chjl MASSEMBLY-638 %} - \[PATCH\] Support tgz and tbz2 formats in assemblies
- * {% chjl MASSEMBLY-673 %} - Add support for "delimiters" and "useDefaultDelimiters" like the maven-resources-plugin 2.4 has
- * {% chjl MASSEMBLY-688 %} - Use maven-invoker-plugin 1.9
- * {% chjl MASSEMBLY-705 %} - Removed compatibility with Maven 2.0.X
- * {% chjl MASSEMBLY-706 %} - MavenProject/MavenSession Injection as a paremeter instead as a component.
- * {% chjl MASSEMBLY-707 %} - Remove unnecessary excludes / Cleaning up console output
- * {% chjl MASSEMBLY-710 %} - Fix RAT Report
- * {% chjl MASSEMBLY-712 %} - Update version of plexus-archiver to 2.5
- * {% chjl MASSEMBLY-714 %} - Update version of plexus-archiver to 2.7.1
- * {% chjl MASSEMBLY-716 %} - Update plexus-io from 2.0.9 to 2.3.2
- * {% chjl MASSEMBLY-719 %} - Ugrade to plexus-interpolation 1.21
+ * [MASSEMBLY-479](https://issues.apache.org/jira/browse/MASSEMBLY-479) - Add option to generate Posix tar files.
+ * [MASSEMBLY-530](https://issues.apache.org/jira/browse/MASSEMBLY-530) - Allow configuration of encoding
+ * [MASSEMBLY-638](https://issues.apache.org/jira/browse/MASSEMBLY-638) - \[PATCH\] Support tgz and tbz2 formats in assemblies
+ * [MASSEMBLY-673](https://issues.apache.org/jira/browse/MASSEMBLY-673) - Add support for "delimiters" and "useDefaultDelimiters" like the maven-resources-plugin 2.4 has
+ * [MASSEMBLY-688](https://issues.apache.org/jira/browse/MASSEMBLY-688) - Use maven-invoker-plugin 1.9
+ * [MASSEMBLY-705](https://issues.apache.org/jira/browse/MASSEMBLY-705) - Removed compatibility with Maven 2.0.X
+ * [MASSEMBLY-706](https://issues.apache.org/jira/browse/MASSEMBLY-706) - MavenProject/MavenSession Injection as a paremeter instead as a component.
+ * [MASSEMBLY-707](https://issues.apache.org/jira/browse/MASSEMBLY-707) - Remove unnecessary excludes / Cleaning up console output
+ * [MASSEMBLY-710](https://issues.apache.org/jira/browse/MASSEMBLY-710) - Fix RAT Report
+ * [MASSEMBLY-712](https://issues.apache.org/jira/browse/MASSEMBLY-712) - Update version of plexus-archiver to 2.5
+ * [MASSEMBLY-714](https://issues.apache.org/jira/browse/MASSEMBLY-714) - Update version of plexus-archiver to 2.7.1
+ * [MASSEMBLY-716](https://issues.apache.org/jira/browse/MASSEMBLY-716) - Update plexus-io from 2.0.9 to 2.3.2
+ * [MASSEMBLY-719](https://issues.apache.org/jira/browse/MASSEMBLY-719) - Ugrade to plexus-interpolation 1.21
 
 New Feature:
 
- * {% chjl MASSEMBLY-717 %} - Add an option to turn off project filters
+ * [MASSEMBLY-717](https://issues.apache.org/jira/browse/MASSEMBLY-717) - Add an option to turn off project filters
 
 Wish:
 
- * {% chjl MASSEMBLY-343 %} - add symbolic links managment (java7+ only supported)
+ * [MASSEMBLY-343](https://issues.apache.org/jira/browse/MASSEMBLY-343) - add symbolic links managment (java7+ only supported)
 
 Enjoy,
 

@@ -12,19 +12,19 @@ contains a number of bug fixes, improvements and a new feature.
 <!-- more -->
 The following bug fixes:
 
- * {% chjl MAPPASM-96 %} which solved a problem with deployment failures 
+ * [MAPPASM-96] which solved a problem with deployment failures 
 in relationship with maven-deploy-plugin.
- * {% chjl MAPPASM-152 %} which solved using repositoryName in generate-daemons to give a separate location 
+ * [MAPPASM-152] which solved using repositoryName in generate-daemons to give a separate location 
 for the repository (JSW)
- * {% chjl MAPPASM-190 %} wrong JAVA_HOME on moutian lion (Mac OS)
- * {% chjl MAPPASM-194 %} licenseHeaderFile ignored when generating booter daemons
+ * [MAPPASM-190] wrong JAVA_HOME on moutian lion (Mac OS)
+ * [MAPPASM-194] licenseHeaderFile ignored when generating booter daemons
 
 
 The following improvements:
 
- * {% chjl MAPPASM-93 %} generate-daemon should support setting config dir and repos dir
+ * [MAPPASM-93] generate-daemon should support setting config dir and repos dir
 
 And the following new feature:
 
- * {% chjl MAPPASM-71 %} Support Repo's File Name Mapping
+ * [MAPPASM-71] Support Repo's File Name Mapping
 

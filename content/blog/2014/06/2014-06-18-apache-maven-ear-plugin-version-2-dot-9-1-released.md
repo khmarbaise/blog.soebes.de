@@ -27,10 +27,10 @@ You should specify the version in your project's plugin configuration:
 
 Bug:
 
- * {% chjl MEAR-189 %} - fileNameMapping set to no-version breaks skinnyWars feature
+ * [MEAR-189](https://issues.apache.org/jira/browse/MEAR-189) - fileNameMapping set to no-version breaks skinnyWars feature
 
 Task:
 
- * {% chjl MEAR-185 %} - Deprecated reference to 'defaultJavaBundleDir' in plugin documentation
+ * [MEAR-185](https://issues.apache.org/jira/browse/MEAR-185) - Deprecated reference to 'defaultJavaBundleDir' in plugin documentation
 
 -- The Apache Maven Team.

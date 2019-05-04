@@ -39,17 +39,17 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 Bugs:
 
- * {%ajl MPLUGIN-336 %} - broken in JDK 10/JDK 11 - IllegalArgumentException
- * {%ajl MPLUGIN-337 %} - Try to derive JDK requirements also from release parameter
+ * [MPLUGIN-336](https://issues.apache.org/jira/browse/MPLUGIN-336) - broken in JDK 10/JDK 11 - IllegalArgumentException
+ * [MPLUGIN-337](https://issues.apache.org/jira/browse/MPLUGIN-337) - Try to derive JDK requirements also from release parameter
 
 Tasks:
 
- * {%ajl MPLUGIN-332 %} - remove plugin:updateRegistry goal, which is unused in Maven 3
- * {%ajl MPLUGIN-344 %} - Upgrade plexus-archiver 3.6.0
+ * [MPLUGIN-332](https://issues.apache.org/jira/browse/MPLUGIN-332) - remove plugin:updateRegistry goal, which is unused in Maven 3
+ * [MPLUGIN-344](https://issues.apache.org/jira/browse/MPLUGIN-344) - Upgrade plexus-archiver 3.6.0
 
 Dependency upgrade:
 
- * {%ajl MPLUGIN-342 %} - Upgrade maven-parent to 33
+ * [MPLUGIN-342](https://issues.apache.org/jira/browse/MPLUGIN-342) - Upgrade maven-parent to 33
 
 Enjoy,
 

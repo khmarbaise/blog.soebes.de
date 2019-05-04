@@ -37,17 +37,17 @@ You can download the appropriate sources etc. from the
 
 Improvement:
 
- * {%ajl MSHARED-702 %} - Remove hard coded versions for plexus-component-annotations/plexus-component-metadata
+ * [MSHARED-702](https://issues.apache.org/jira/browse/MSHARED-702) - Remove hard coded versions for plexus-component-annotations/plexus-component-metadata
 
 Tasks:
 
- * {%ajl MSHARED-625 %} - Refactored to use 'maven-shared-utils' instead of 'plexus-utils'.
- * {%ajl MSHARED-729 %} - Upgrade to JDK 7 minimum.
+ * [MSHARED-625](https://issues.apache.org/jira/browse/MSHARED-625) - Refactored to use 'maven-shared-utils' instead of 'plexus-utils'.
+ * [MSHARED-729](https://issues.apache.org/jira/browse/MSHARED-729) - Upgrade to JDK 7 minimum.
 
 Dependency upgrades:
 
- * {%ajl MSHARED-700 %} - Upgrade parent to 31
- * {%ajl MSHARED-728 %} - Upgrade maven-shared-utils to 3.2.1
+ * [MSHARED-700](https://issues.apache.org/jira/browse/MSHARED-700) - Upgrade parent to 31
+ * [MSHARED-728](https://issues.apache.org/jira/browse/MSHARED-728) - Upgrade maven-shared-utils to 3.2.1
 
 Enjoy,
 

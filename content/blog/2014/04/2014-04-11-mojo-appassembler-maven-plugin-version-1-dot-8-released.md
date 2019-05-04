@@ -33,18 +33,18 @@ You can use the following Maven coordinates to get the latest version via Maven 
 
 Improvement:
 
- * {% chjl MAPPASM-213 %} - Allow generation of logs directory and temp directory for an assembled app
- * {% chjl MAPPASM-219 %} - Documentation should be updated (Usage : Program)
- * {% chjl MAPPASM-224 %} - Make Plugin Java 5 Ready
- * {% chjl MAPPASM-226 %} - Add ability to rename the executable's prefix( ie wrapper)
+ * [MAPPASM-213] - Allow generation of logs directory and temp directory for an assembled app
+ * [MAPPASM-219] - Documentation should be updated (Usage : Program)
+ * [MAPPASM-224] - Make Plugin Java 5 Ready
+ * [MAPPASM-226] - Add ability to rename the executable's prefix( ie wrapper)
 
 New Feature:
 
- * {% chjl MAPPASM-201 %} - Add ability to filter the configuration directory
+ * [MAPPASM-201] - Add ability to filter the configuration directory
 
 Task:
 
- * {% chjl MAPPASM-217 %} - Remove deprecated configurations - useAllDependencies, useAsterikClassPath, repoPath
+ * [MAPPASM-217] - Remove deprecated configurations - useAllDependencies, useAsterikClassPath, repoPath
 
 
 The Mojo Team.

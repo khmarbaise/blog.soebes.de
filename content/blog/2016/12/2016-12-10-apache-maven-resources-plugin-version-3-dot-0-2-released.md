@@ -30,12 +30,12 @@ Important Note:
 
 Bugs:
 
- * {% ajl MRESOURCES-233 %} - Upgrade of plexus-interpolation 1.24 to correct escaping issue.
- * {% ajl MRESOURCES-234 %} - Upgrade of commons-io to 2.5 and correction of invalid scope.
+ * [MRESOURCES-233](https://issues.apache.org/jira/browse/MRESOURCES-233) - Upgrade of plexus-interpolation 1.24 to correct escaping issue.
+ * [MRESOURCES-234](https://issues.apache.org/jira/browse/MRESOURCES-234) - Upgrade of commons-io to 2.5 and correction of invalid scope.
 
 Task:
 
- * {% ajl MRESOURCES-235 %} - Revert enabling escaping by default introduced in 3.0.0.
+ * [MRESOURCES-235](https://issues.apache.org/jira/browse/MRESOURCES-235) - Revert enabling escaping by default introduced in 3.0.0.
 
 
 Enjos,

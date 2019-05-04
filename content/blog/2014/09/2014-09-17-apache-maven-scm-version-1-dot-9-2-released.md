@@ -20,13 +20,13 @@ Maven SCM with your favorite SCM tool.
 
 Bug:
 
- * {% chjl SCM-759 %} - cannot create Branch with TFS-provider: "TF10125: The path must start with $/"
+ * [SCM-759](https://issues.apache.org/jira/browse/SCM-759) - cannot create Branch with TFS-provider: "TF10125: The path must start with $/"
 
 Tasks:
 
- * {% chjl SCM-767 %} - mockito should be under test scope, not compile scope for accurev provider
- * {% chjl SCM-768 %} - TfsBranchCommandTest is failing
- * {% chjl SCM-769 %} - Unable to load maven-scm-provider-vss with Eclipse's M2E
+ * [SCM-767](https://issues.apache.org/jira/browse/SCM-767) - mockito should be under test scope, not compile scope for accurev provider
+ * [SCM-768](https://issues.apache.org/jira/browse/SCM-768) - TfsBranchCommandTest is failing
+ * [SCM-769](https://issues.apache.org/jira/browse/SCM-769) - Unable to load maven-scm-provider-vss with Eclipse's M2E
 
 
 Enjoy,

@@ -25,14 +25,14 @@ This plugin generates J2EE Application Client file.
 
 Bug:
 
- * {% chjl MACR-5 %} - Usage page is wrong: Maven 3.0.4 does not include ACR plugin
+ * [MACR-5](https://issues.apache.org/jira/browse/MACR-5) - Usage page is wrong: Maven 3.0.4 does not include ACR plugin
 
 Tasks:
 
- * {% chjl MACR-6 %} - use maven-plugin-tools' java 5 annotations
- * {% chjl MACR-7 %} - Removed warnings during build
- * {% chjl MACR-9 %} - Upgrade plexus-archiver to 2.4.4
- * {% chjl MACR-10 %} - Upgrade maven-filtering to 1.2
+ * [MACR-6](https://issues.apache.org/jira/browse/MACR-6) - use maven-plugin-tools' java 5 annotations
+ * [MACR-7](https://issues.apache.org/jira/browse/MACR-7) - Removed warnings during build
+ * [MACR-9](https://issues.apache.org/jira/browse/MACR-9) - Upgrade plexus-archiver to 2.4.4
+ * [MACR-10](https://issues.apache.org/jira/browse/MACR-10) - Upgrade maven-filtering to 1.2
  
 
 Enjoy,

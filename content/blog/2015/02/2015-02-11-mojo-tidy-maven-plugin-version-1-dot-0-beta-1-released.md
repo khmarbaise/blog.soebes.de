@@ -29,17 +29,17 @@ plugin configuration:
 
 Bugs:
 
- * {% chjl MOJO-1981 %} - Empty row inserted before closing project element
- * {% chjl MOJO-1990 %} - build end tag is not being indented correctly for tab indention
- * {% chjl MOJO-1991 %} - Whitespace gets deleted around toplevel XML comments
+ * [MOJO-1981] - Empty row inserted before closing project element
+ * [MOJO-1990] - build end tag is not being indented correctly for tab indention
+ * [MOJO-1991] - Whitespace gets deleted around toplevel XML comments
 
 Improvement:
 
- * {% chjl MOJO-2066 %} - JVM used to run Tidy Maven Plugin must now be Java 1.6 or newer
+ * [MOJO-2066] - JVM used to run Tidy Maven Plugin must now be Java 1.6 or newer
 
 Wish:
 
- * {% chjl MOJO-1945 %} - tidy check goal
+ * [MOJO-1945] - tidy check goal
 
 
 Enjoy,
