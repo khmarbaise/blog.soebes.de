@@ -3,6 +3,7 @@ rm -fr public
 hugo server --forceSyncStatic \
   --disableFastRender \
   -d public \
+	--log \
   --port 3300 \
   --cleanDestinationDir \
   --config config.toml

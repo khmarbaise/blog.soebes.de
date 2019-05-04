@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "The Jenkins API Client for Java Version 0.3.1 Released"
 date: 2015-08-31 19:07:00
 comments: true
-categories: News, Releases, Jenkins, Programming
+categories: [News, Releases, Jenkins, Programming]
 ---
 We have released a new version of the [`The Jenkins API client for Java`][1].
 The new released 0.3.1 contains several improvements and a few bugfixes.
