@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Bazaar Release 1.2 erschienen"
 date: 2008-03-17 01:11:00
 tags: SKM,Neue Versionen,Bazaar

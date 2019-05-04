@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus Animal Sniffer JRE8 signature version 1.0 Released"
 date: 2016-02-21 12:43:00
 comments: true

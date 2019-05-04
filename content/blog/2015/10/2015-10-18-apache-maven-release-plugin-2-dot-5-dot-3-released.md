@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Release Plugin Version 2.5.3 Released"
 date: 2015-10-18 11:00:00
 comments: true

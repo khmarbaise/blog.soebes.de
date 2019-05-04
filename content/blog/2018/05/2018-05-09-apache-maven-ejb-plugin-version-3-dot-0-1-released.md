@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven EJB Plugin Version 3.0.1 Released"
 date: 2018-05-09 21:12:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Dependency Analyzer Version 1.9 Released"
 date: 2018-03-28 21:45:00
 comments: true

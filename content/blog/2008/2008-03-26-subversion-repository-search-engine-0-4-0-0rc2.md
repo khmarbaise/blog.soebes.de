@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion Repository Search Engine 0.4.0.0RC2"
 date: 2008-03-26 17:30:33
 tags: SKM,Neue Versionen,Subversion,SupoSE

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven PMD Version 3.4 Released"
 date: 2015-02-03 21:43:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Resolver 1.3.3 Released"
 date: 2019-03-15 17:25:31
 comments: true

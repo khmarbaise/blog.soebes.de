@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven 3.6.0 Released"
 date: 2018-11-01 13:15:12
 comments: true

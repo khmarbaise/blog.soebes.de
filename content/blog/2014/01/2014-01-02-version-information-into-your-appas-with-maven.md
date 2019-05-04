@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Version Informations Into Your Apps With Maven"
 date: 2014-01-02 19:08:00
 comments: true

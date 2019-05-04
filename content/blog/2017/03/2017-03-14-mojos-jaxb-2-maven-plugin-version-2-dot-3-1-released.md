@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo's JAXB-2 Maven Plugin Version 2.3.1 - Released"
 date: 2017-03-14 20:15:34
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Chemnitzer Linux Tage 2009"
 date: 2009-03-15 18:34:28
 tags: Neuigkeiten

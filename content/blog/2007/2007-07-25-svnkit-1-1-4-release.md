@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SVNKit 1.1.4 Release"
 date: 2007-07-25 09:30:28
 tags: Java,SKM,Neue Versionen,Subversion

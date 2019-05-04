@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Bazaar Subversion Plugin 0.4.0 (Default"
 date: 2007-08-09 20:11:00
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar

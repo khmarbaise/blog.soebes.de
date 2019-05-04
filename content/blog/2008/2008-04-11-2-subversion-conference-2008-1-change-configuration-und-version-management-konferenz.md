@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "2. Subversion Conference 2008 / 1. Change, Configuration und Version Management Konferenz"
 date: 2008-04-11 00:00:42
 tags: Neuigkeiten

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Build Smells - Maven Assembly Plugin"
 date: 2013-09-28 14:00:00
 comments: true

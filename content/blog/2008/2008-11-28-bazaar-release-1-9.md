@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Bazaar Release 1.9"
 date: 2008-11-28 16:31:00
 tags: SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar

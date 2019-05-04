@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven 3 - beta - 1 -- Released"
 date: 2010-04-23 16:38:33
 tags: Neuigkeiten,Neue Versionen,BM,Maven

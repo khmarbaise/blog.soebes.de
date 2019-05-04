@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JavaDoc Version 2.10.2 Released"
 date: 2015-03-18 21:19:00
 comments: true

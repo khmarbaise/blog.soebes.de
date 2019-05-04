@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.7 RC4 erschienen"
 date: 2011-09-28 20:59:32
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

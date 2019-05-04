@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "GIT Release 1.6 erschienen"
 date: 2008-08-19 16:20:06
 tags: SKM,Neue Versionen,GIT

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Geänderten Text in Subversion filtern"
 date: 2010-04-29 11:07:08
 tags: SKM,Neuigkeiten,Subversion

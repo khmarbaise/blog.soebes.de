@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Continuum 1.1. beta 2"
 date: 2007-08-17 18:38:07
 tags: Java,Neuigkeiten,Neue Versionen,BM

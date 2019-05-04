@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Trac 0.10.3.1 Sercurity Update"
 date: 2007-03-09 06:20:14
 tags: SKM,Neue Versionen,Bug/Issue Tracking

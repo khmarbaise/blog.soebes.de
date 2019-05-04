@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "End Of Life Apache Maven 2.x"
 date: 2014-02-19 22:17:00
 comments: true

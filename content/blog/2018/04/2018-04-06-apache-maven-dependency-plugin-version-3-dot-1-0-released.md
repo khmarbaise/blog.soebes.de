@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Dependency Plugin Version 3.1.0 Released"
 date: 2018-04-06 18:20:54
 comments: true

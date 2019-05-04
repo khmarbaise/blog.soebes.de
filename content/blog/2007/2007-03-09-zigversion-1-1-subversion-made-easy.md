@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "ZigVersion 1.1 - Subversion Made Easy"
 date: 2007-03-09 08:06:21
 tags: SKM,Neue Versionen

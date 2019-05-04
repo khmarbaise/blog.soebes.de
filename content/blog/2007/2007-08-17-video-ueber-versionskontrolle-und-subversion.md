@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Video über Versionskontrolle und Subversion"
 date: 2007-08-17 19:24:46
 tags: SKM,Neuigkeiten,Subversion

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Version 3.3.9 Released"
 date: 2015-11-18 18:47:00
 comments: true

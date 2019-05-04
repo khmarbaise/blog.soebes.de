@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven Release 3.1 released"
 date: 2013-07-15 19:45:00
 tags: Neuigkeiten,BM,Maven

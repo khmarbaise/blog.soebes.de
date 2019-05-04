@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo Appassembler Maven Plugin Version 1.8.1 - Released"
 date: 2014-07-16 19:30:00
 comments: true

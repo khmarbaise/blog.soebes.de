@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JDeps Plugin 3.1.1 Released"
 date: 2018-02-28 23:15:00
 comments: true

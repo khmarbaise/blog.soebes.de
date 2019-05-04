@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven: How To Create a Release"
 date: 2016-08-08 08:15:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Version Control Tool Verbreitung"
 date: 2010-02-19 17:27:52
 tags: SKM,Neuigkeiten,Neue Versionen

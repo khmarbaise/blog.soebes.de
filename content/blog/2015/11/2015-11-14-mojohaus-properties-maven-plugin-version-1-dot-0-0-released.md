@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus Properties Maven Plugin Version 1.0.0 Released"
 date: 2015-11-14 23:31:00
 comments: true

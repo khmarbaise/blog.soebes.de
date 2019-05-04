@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Plexus Codehaus: Plexus Interpolation Version 1.25 Released"
 date: 2018-06-02 11:00:00
 comments: true

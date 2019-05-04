@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SVK 2.0.1 Erschienen"
 date: 2007-03-27 18:22:04
 tags: SKM,Neuigkeiten,Neue Versionen

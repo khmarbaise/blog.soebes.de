@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Shared Component Maven Verifier Version 1.6 Released"
 date: 2015-06-25 19:35:00
 comments: true

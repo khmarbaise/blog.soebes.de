@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JXR Plugin Version 3.0.0 Released"
 date: 2018-09-25 22:15:12
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo's JDepend Maven Plugin Version 2.0 - Released"
 date: 2014-04-22 21:33:00
 comments: true

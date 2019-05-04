@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven 2 + Hibernate3 PlugIn"
 date: 2008-08-30 14:06:22
 tags: Java,BM,Maven

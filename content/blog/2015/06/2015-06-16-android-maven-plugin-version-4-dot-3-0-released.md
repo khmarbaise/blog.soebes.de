@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Android Maven Plugin Version 4.3.0 Released"
 date: 2015-06-16 18:48:00
 comments: true

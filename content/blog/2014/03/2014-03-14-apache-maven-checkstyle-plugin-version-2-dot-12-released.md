@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Checkstyle Plugin Version 2.12 Released"
 date: 2014-03-14 18:34:00
 comments: true

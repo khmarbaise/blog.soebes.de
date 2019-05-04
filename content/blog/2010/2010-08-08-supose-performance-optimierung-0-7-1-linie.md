@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SupoSE - Performance Optimierung - 0.7.1 Linie"
 date: 2010-08-08 18:24:52
 tags: SKM,Neuigkeiten,Neue Versionen,Test,SupoSE

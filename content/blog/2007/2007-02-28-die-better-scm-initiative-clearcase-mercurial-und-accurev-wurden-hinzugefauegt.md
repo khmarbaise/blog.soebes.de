@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Die Better SCM Initiative: ClearCase, Mercurial und AccuRev wurden hinzugefügt."
 date: 2007-02-28 07:38:05
 tags: SKM,Neuigkeiten

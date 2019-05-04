@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven: The Definitive Guide....nun auch in deutsch"
 date: 2009-01-27 16:28:42
 tags: Neuigkeiten,BM,Maven

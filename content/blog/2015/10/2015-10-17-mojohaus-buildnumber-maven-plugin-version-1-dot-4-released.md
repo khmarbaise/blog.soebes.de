@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus Build Number Maven Plugin Version 1.4 Released"
 date: 2015-10-17 10:35:00
 comments: true

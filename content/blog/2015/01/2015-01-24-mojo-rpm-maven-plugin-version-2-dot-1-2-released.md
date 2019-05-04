@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo RPM Maven Plugin Version 2.1.2 Released"
 date: 2015-01-24 22:09:00
 comments: true

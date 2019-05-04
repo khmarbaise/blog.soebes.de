@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.7 Branch wurde erstellt."
 date: 2011-07-13 21:34:53
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

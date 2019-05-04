@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mercurial 1.6.3 - TortoiseHG - 1.1.3 erschienen"
 date: 2010-08-29 18:55:46
 tags: SKM,Neuigkeiten,Neue Versionen,Mercurial

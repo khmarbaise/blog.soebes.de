@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Branching Model für Git"
 date: 2010-10-23 19:20:25
 tags: SKM,Neuigkeiten,Subversion,GIT

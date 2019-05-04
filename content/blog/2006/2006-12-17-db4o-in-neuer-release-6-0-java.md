@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "db4o in neuer Release (6.0 Java)"
 date: 2006-12-17 15:24:18
 tags: Java,Neue Versionen

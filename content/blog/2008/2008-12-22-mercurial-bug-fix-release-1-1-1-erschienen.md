@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mercurial - Bug Fix Release 1.1.1 erschienen"
 date: 2008-12-22 12:32:06
 tags: SKM,Neuigkeiten,Neue Versionen,Mercurial

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven WAR Plugin Version 3.2.1 Released"
 date: 2018-05-13 12:05:22
 comments: true

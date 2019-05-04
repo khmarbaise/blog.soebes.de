@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven 3.6.1 Released"
 date: 2019-04-13 12:45:02
 comments: true

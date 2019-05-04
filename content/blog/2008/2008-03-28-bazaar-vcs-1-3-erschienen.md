@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Bazaar VCS 1.3 erschienen"
 date: 2008-03-28 20:19:58
 tags: SKM,Neue Versionen,Bazaar

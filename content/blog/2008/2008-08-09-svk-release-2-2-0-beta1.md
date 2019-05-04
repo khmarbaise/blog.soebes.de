@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SVK Release 2.2.0 beta1"
 date: 2008-08-09 19:25:35
 tags: SKM,Neuigkeiten,Neue Versionen,SVK

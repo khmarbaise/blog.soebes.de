@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.5 RC8"
 date: 2008-06-03 13:51:03
 tags: SKM,Neue Versionen,Subversion

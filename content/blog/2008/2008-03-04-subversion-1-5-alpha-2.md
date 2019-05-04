@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.5 - Alpha 2"
 date: 2008-03-04 22:14:24
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

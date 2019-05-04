@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Git Release 1.7 erschienen"
 date: 2010-02-19 14:36:41
 tags: SKM,Neuigkeiten,Neue Versionen,GIT

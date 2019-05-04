@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven: POM files without a version in it?"
 date: 2017-04-02 00:15:12
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Artifactory - Release 2.0"
 date: 2009-01-07 10:46:27
 tags: Neuigkeiten,Neue Versionen,BM,Maven

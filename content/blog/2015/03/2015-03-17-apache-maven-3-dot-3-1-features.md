@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven 3.3.1 Features"
 date: 2015-03-17 01:15:00
 comments: true

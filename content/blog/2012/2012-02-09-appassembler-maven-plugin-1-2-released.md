@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Appassembler-Maven-Plugin 1.2 - Released"
 date: 2012-02-09 21:45:46
 tags: Neuigkeiten,Neue Versionen,Maven

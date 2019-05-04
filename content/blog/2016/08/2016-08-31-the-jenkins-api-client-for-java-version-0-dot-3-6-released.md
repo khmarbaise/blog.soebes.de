@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "The Jenkins API Client for Java Version 0.3.6 Released"
 date: 2016-08-31 21:24:00
 comments: true

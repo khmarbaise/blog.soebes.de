@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Remote Resources Plugin Version 1.6.0 Released"
 date: 2018-11-01 13:45:00
 comments: true

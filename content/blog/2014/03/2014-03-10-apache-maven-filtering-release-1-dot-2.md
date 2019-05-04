@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Filtering - Release 1.2"
 date: 2014-03-10 22:05:00
 comments: true

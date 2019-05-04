@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "10 Wege zum Projekt Desaster mit Subversion"
 date: 2007-10-12 15:42:06
 tags: SKM,Neuigkeiten,Subversion

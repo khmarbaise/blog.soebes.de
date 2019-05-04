@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Artifact Resolver 1.3.0 Released"
 date: 2018-10-09 23:45:55
 comments: true

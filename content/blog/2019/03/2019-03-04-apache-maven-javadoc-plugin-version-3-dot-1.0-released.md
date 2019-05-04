@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JavaDoc Plugin Version 3.1.0 Released"
 date: 2019-03-04 22:45:00
 comments: true

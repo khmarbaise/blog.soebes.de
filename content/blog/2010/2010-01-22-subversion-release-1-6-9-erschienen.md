@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion Release 1.6.9 erschienen"
 date: 2010-01-22 09:29:00
 tags: SKM,Neue Versionen,Subversion

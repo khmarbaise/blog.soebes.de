@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Release Plugin - Release 2.4.2"
 date: 2013-10-28 20:35:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component - Maven Archiver Version 2.6 Released"
 date: 2014-11-01 13:44:00
 comments: true

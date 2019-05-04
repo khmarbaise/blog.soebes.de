@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Cargo Maven Plugin 1.4.5 Released"
 date: 2013-10-18 21:00:00
 comments: true

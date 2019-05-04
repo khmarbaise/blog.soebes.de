@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Clirr Maven Plugin Version 2.6.1 Released"
 date: 2013-11-25 20:05:00
 comments: true

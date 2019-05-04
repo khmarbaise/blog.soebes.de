@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Archiva 1.1 Released"
 date: 2008-07-20 13:56:57
 tags: BM,Maven

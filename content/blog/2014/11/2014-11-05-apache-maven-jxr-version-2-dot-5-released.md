@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JXR Version 2.5 Released"
 date: 2014-11-05 22:22:00
 comments: true

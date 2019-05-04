@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component - Maven Shared Utils Version 0.7 Released"
 date: 2014-10-18 14:27:00
 comments: true

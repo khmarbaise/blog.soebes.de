@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Doxia Site Tools Version 1.7.1 Released"
 date: 2016-04-10 08:30:22
 comments: true

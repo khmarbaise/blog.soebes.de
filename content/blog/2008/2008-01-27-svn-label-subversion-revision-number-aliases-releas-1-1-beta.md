@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SVN-Label: Subversion Revision Number Aliases - Releas 1.1 beta"
 date: 2008-01-27 15:22:08
 tags: SKM,Neue Versionen,Subversion

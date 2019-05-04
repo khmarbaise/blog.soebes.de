@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SupoSE Release 0.6.2 Calypso ist nun da"
 date: 2010-06-11 18:59:57
 tags: SKM,Neue Versionen,Subversion,SupoSE

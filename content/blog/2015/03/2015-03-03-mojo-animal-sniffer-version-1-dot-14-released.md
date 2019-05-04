@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo Animal Sniffer Version 1.14 Released"
 date: 2015-03-03 21:10:00
 comments: true

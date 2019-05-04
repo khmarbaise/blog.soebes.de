@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven SCM Plugin 1.9 Released"
 date: 2014-01-12 16:09:00
 comments: true

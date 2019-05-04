@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Continuum Release 1.1. erschienen."
 date: 2007-11-24 23:40:33
 tags: SKM,Continuum

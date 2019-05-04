@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Changes Plugin 2.10 Released"
 date: 2014-04-14 21:56:00
 comments: true

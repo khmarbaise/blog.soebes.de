@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven: Configuration For Multipe Environments"
 date: 2011-07-29 09:20:00
 tags: BM,Maven

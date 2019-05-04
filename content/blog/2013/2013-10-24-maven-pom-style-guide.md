@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven POM Style Guide?"
 date: 2013-10-24 19:15:02
 comments: true

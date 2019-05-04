@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Shared Component: Maven Artifact Transfer Version 0.10.0 Released"
 date: 2018-07-05 19:20:12
 comments: true

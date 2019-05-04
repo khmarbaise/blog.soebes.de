@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JavaDoc Plugin Version 2.10 Released"
 date: 2014-09-21 23:15:00
 comments: true

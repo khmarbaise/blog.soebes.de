@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo FindBugs Maven Plugin Version 2.5.4 Released"
 date: 2014-05-22 19:00:00
 comments: true

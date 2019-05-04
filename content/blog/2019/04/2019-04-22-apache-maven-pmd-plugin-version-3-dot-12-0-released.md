@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven PMD Plugin Version 3.12.0 Released"
 date: 2019-04-22 13:30:46
 comments: true

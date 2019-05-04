@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Tomcat und Applikationen die unter Root erreichbar sind"
 date: 2010-01-13 16:43:40
 tags: Java,Neuigkeiten

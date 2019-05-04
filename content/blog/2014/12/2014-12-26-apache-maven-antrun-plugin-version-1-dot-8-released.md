@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven AntRun Plugin Version 1.8 Released"
 date: 2014-12-26 13:13:00
 comments: true

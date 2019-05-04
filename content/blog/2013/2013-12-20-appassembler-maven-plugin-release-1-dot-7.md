@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Appassembler Maven Plugin 1.7 released"
 date: 2013-12-20 23:00:00
 comments: true

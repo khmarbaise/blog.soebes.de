@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo Tidy Maven Plugin Version 1.0-beta-1 Released"
 date: 2015-02-11 18:38:00
 comments: true

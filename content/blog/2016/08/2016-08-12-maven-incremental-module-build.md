@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven Incremental Module Build"
 date: 2016-08-12 16:30:34
 comments: true

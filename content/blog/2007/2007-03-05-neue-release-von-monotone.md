@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Neue Release von Monotone"
 date: 2007-03-05 15:27:50
 tags: SKM,Neue Versionen

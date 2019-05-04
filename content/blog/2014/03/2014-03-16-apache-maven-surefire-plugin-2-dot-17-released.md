@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Surefire Plugin 2.17 Released"
 date: 2014-03-16 11:18:00
 comments: true

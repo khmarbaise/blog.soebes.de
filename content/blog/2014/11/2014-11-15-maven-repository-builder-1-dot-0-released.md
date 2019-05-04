@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component - Maven Repository Builder 1.0 Released"
 date: 2014-11-15 18:50:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Jarsigner Version 3.0.0 Released"
 date: 2018-10-31 20:58:10
 comments: true

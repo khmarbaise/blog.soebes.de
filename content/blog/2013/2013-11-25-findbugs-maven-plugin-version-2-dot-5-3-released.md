@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "FindBugs Maven Plugin Version 2.5.3 released"
 date: 2013-11-25 20:31:00
 comments: true

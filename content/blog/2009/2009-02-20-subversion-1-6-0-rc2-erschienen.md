@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.6.0 RC2 erschienen"
 date: 2009-02-20 20:40:21
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

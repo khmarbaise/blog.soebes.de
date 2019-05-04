@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Enforcer Version 1.4.1 - Released"
 date: 2015-08-28 17:33:00
 comments: true

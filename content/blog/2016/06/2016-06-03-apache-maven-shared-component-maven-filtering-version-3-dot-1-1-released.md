@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component - Maven Filtering Version 3.1.1 Released"
 date: 2016-06-03 22:10:23
 comments: true

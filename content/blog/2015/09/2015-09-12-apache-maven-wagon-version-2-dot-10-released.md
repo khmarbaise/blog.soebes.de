@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Wagon Version 2.10 Released"
 date: 2015-09-12 22:18:00
 comments: true

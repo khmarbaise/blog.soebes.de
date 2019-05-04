@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Bazaar Release 1.4"
 date: 2008-05-10 19:59:00
 tags: SKM,Bazaar

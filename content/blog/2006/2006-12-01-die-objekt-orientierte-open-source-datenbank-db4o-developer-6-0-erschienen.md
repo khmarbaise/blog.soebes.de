@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Die objekt orientierte Open Source Datenbank db4o Developer 6.0 erschienen"
 date: 2006-12-01 19:56:47
 tags: Neuigkeiten,Neue Versionen

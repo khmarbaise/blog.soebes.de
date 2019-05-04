@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Parent POM Version 33 Released"
 date: 2018-09-15 22:05:33
 comments: true

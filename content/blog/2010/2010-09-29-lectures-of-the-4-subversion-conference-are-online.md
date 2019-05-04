@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Lectures of the 4. Subversion Conference are online"
 date: 2010-09-29 17:59:52
 tags: Neuigkeiten,BM,CI,SupoSE

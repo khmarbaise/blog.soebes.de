@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.7.0 erschienen"
 date: 2011-10-11 19:19:44
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

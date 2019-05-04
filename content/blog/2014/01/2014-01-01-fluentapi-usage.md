@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "FluentAPI - Usage"
 date: 2014-01-01 01:23:00
 comments: true

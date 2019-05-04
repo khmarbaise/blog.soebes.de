@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "TortoiseSVN 1.5.9 Released"
 date: 2009-02-28 15:29:27
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven-Echo-Plugin"
 date: 2012-01-19 22:47:01
 tags: Neuigkeiten,Maven

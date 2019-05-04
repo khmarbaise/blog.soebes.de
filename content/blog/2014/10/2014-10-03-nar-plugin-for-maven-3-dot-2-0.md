@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "NAR Plugin For Maven 3.2.0"
 date: 2014-10-03 21:04:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus Exec Maven Plugin Version 1.6.0 Released"
 date: 2017-03-06 20:33:25
 comments: true

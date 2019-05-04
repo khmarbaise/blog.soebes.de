@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Archiva Version 2.1.1 Released"
 date: 2014-09-05 19:37:00
 comments: true

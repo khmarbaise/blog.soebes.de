@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven EAR Plugin Version 3.0.1 Released"
 date: 2018-05-13 12:05:00
 comments: true

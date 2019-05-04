@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Surefire Version 2.18 Released"
 date: 2014-11-08 13:15:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Archetype 2.3 Released"
 date: 2015-03-13 23:47:00
 comments: true

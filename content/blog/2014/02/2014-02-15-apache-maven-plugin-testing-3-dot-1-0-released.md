@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Plugin Testing 3.1.0 Released"
 date: 2014-02-15 17:30:00
 comments: true

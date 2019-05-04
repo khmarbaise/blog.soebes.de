@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component: Maven Dependency Analyzer version 1.11.1 Released"
 date: 2018-12-25 17:15:12
 comments: true

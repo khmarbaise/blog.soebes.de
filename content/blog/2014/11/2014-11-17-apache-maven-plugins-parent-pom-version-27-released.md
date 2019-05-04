@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Plugins Parent POM Version 27 Released"
 date: 2014-11-17 22:02:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo's Exec Maven Plugin Version 1.3 - Released"
 date: 2014-04-22 21:37:00
 comments: true

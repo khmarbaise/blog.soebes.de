@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.5 - Beta 1"
 date: 2008-03-14 00:06:13
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

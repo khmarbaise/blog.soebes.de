@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Invoker Version 3.1.0 Released"
 date: 2018-05-31 01:00:00
 comments: true

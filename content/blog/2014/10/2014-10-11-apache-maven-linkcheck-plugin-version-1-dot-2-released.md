@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Linkcheck Plugin Version 1.2 Released"
 date: 2014-10-11 15:02:00
 comments: true

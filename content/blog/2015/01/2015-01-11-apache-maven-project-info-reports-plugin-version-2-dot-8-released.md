@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Project Info Reports Plugin Version 2.8 Released"
 date: 2015-01-11 14:11:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven SCM Version 1.9.1 Released"
 date: 2014-07-25 12:56:00
 comments: true

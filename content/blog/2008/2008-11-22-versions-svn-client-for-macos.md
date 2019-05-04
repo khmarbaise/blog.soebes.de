@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "VERSIONS - SVN Client for MacOS"
 date: 2008-11-22 12:57:20
 tags: SKM,Subversion

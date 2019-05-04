@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Wagon Version 3.2.0 Released"
 date: 2018-09-29 23:37:00
 comments: true

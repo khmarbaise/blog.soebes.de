@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Refactoring basierte Versions Kontrolle"
 date: 2007-02-28 07:47:15
 tags: SKM,Neuigkeiten

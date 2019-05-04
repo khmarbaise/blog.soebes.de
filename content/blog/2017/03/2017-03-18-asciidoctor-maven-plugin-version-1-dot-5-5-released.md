@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Asciidoctor Maven Plugin Version 1.5.5 Released"
 date: 2017-03-18 11:28:00
 comments: true

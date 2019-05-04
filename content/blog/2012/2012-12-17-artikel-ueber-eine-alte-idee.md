@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Artikel über eine alte Idee"
 date: 2012-12-17 21:45:02
 tags: Neuigkeiten,Maven,Ant,Ivy

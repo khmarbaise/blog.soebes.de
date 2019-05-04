@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JLink Plugin Version 3.0.0-alpha-1 Released"
 date: 2017-09-19 19:30:03
 comments: true

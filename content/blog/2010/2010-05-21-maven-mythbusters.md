@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven - Mythbusters"
 date: 2010-05-21 17:35:38
 tags: Neuigkeiten,BM,Maven

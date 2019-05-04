@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo Build Helper Maven Plugin Version 1.9 Released"
 date: 2014-06-10 18:20:00
 comments: true

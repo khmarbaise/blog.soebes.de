@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus Build Helper Maven Plugin Version 3.0.0 Released"
 date: 2017-02-02 15:00:00
 comments: true

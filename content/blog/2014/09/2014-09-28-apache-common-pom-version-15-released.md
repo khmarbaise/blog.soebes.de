@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Common POM Version 15 Released"
 date: 2014-09-28 13:22:00
 comments: true

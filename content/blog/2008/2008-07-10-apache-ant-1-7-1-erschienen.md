@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Ant 1.7.1 erschienen"
 date: 2008-07-10 20:54:37
 tags: Neue Versionen,Ant

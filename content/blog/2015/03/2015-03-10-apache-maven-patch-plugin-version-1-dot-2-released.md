@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Patch Plugin Version 1.2 Released"
 date: 2015-03-10 11:04:00
 comments: true

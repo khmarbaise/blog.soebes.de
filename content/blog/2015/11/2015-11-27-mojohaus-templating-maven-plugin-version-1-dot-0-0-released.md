@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus Templating Maven Plugin Version 1.0.0 Released"
 date: 2015-11-27 14:46:00
 comments: true

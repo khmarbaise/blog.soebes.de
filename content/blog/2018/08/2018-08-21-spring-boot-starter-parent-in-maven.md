@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Spring Boot Starter Parent Usage in Maven"
 date: 2018-08-21 19:09:56
 comments: true

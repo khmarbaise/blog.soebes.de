@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component - Maven Archiver Version 3.4.0 Released"
 date: 2019-02-24 23:34:53
 comments: true

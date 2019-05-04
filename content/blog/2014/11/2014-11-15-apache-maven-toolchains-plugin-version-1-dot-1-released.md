@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Toolchains Plugin Version 1.1 Released"
 date: 2014-11-15 12:23:00
 comments: true

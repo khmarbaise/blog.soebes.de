@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Bazaar Release 1.18"
 date: 2009-08-22 21:01:00
 tags: SKM,Neuigkeiten,Neue Versionen,Bazaar

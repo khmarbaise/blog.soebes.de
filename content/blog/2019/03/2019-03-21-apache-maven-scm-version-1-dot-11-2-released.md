@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven SCM Version 1.11.2 Released"
 date: 2019-03-21 14:45:35
 comments: true

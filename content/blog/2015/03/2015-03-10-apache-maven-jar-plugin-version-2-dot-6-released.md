@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Jar Plugin Version 2.6 Released"
 date: 2015-03-10 11:35:00
 comments: true

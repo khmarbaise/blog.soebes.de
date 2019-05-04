@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven ACR Plugin Version 3.0.0 Released"
 date: 2016-01-28 16:55:12
 comments: true

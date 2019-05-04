@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JLink / JMod Plugin VOTE for first Public Release started"
 date: 2017-09-09 16:15:20
 comments: true

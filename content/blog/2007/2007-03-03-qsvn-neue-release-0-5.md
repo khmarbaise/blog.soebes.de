@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "QSVN neue Release 0.5"
 date: 2007-03-03 14:22:56
 tags: SKM,Neuigkeiten,Neue Versionen

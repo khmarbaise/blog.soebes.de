@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Site Plugin Version 3.7.1 Released"
 date: 2018-04-29 09:30:45
 comments: true

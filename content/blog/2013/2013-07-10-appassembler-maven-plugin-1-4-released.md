@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Appassembler Maven Plugin 1.4 released"
 date: 2013-07-10 12:15:00
 tags: Neuigkeiten,BM,Maven

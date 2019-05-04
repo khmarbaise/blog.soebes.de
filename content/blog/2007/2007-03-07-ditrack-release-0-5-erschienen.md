@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "DITrack Release 0.5 erschienen"
 date: 2007-03-07 07:50:16
 tags: Neue Versionen,Bug/Issue Tracking

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Monotone 0.38 erschienen"
 date: 2007-12-15 00:12:33
 tags: SKM,Monotone

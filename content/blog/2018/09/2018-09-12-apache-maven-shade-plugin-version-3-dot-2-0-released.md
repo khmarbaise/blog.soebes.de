@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shade Plugin Version 3.2.0 Released"
 date: 2018-09-12 22:35:12
 comments: true

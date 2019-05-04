@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component: Maven Shared IO 3.0.0 Released"
 date: 2015-12-23 20:58:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "JDK9: Howto Create A Java Run-Time Image With Maven?"
 date: 2017-06-06 20:15:00
 comments: true

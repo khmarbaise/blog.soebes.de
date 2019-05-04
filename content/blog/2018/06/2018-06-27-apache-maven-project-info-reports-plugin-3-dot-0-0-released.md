@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Project Info Reports Plugin Version 3.0.0 Released"
 date: 2018-06-27 21:30:35
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Release Apache Maven 3.2.1"
 date: 2014-02-22 12:43:00
 comments: true

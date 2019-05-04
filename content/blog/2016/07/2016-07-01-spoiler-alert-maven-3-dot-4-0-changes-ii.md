@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Spoiler Alert: Upcoming Maven 3.4.0 - Changes - II"
 date: 2016-07-01 14:30:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo Cobertura Maven Plugin Version 2.7 Released"
 date: 2015-03-03 21:19:00
 comments: true

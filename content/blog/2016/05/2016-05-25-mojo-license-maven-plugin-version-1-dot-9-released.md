@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus License Maven Plugin Version 1.9 Released"
 date: 2016-05-25 10:58:00
 comments: true

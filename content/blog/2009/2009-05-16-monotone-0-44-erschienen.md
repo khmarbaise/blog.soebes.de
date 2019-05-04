@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Monotone 0.44 erschienen"
 date: 2009-05-16 20:48:18
 tags: SKM,Neuigkeiten,Neue Versionen,Monotone

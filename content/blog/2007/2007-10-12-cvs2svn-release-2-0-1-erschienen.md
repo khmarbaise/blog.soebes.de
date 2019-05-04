@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "cvs2svn Release 2.0.1 erschienen"
 date: 2007-10-12 15:01:48
 tags: SKM,Neue Versionen,Subversion

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven Anti Patterns: Build Helper Maven Plugin"
 date: 2016-06-11 13:26:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component: Maven Mapping 3.0.0 Released"
 date: 2015-11-20 17:40:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven 3: How Version Comparison Works?"
 date: 2017-02-04 14:23:00
 comments: true

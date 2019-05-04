@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component: Maven Reporting Impl. Version 3.0.0 Released"
 date: 2017-06-25 17:01:33
 comments: true

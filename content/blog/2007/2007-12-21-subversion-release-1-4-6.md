@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion Release 1.4.6"
 date: 2007-12-21 12:46:59
 tags: SKM,Neue Versionen,Subversion

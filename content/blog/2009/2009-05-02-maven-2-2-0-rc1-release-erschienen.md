@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven 2.2.0 RC1 Release erschienen"
 date: 2009-05-02 12:36:04
 tags: Neuigkeiten,Neue Versionen,BM,Maven

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Source Release Assembly Descriptor 1.0.5 Released"
 date: 2015-02-25 20:29:00
 comments: true

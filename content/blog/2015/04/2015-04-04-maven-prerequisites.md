@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven Prerequisites?"
 date: 2015-04-04 12:10:00
 comments: true

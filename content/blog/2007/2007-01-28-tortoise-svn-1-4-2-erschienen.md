@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Tortoise SVN 1.4.2 erschienen"
 date: 2007-01-28 17:47:18
 tags: SKM,Neuigkeiten,Neue Versionen

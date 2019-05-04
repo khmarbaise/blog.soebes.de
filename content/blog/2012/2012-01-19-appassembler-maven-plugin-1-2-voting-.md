@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Appassembler-Maven-Plugin 1.2 - Voting..."
 date: 2012-01-19 22:37:45
 tags: Neuigkeiten,Neue Versionen,Maven

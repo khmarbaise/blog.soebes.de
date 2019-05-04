@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven 2 und Delivery Problem mit Tomcat"
 date: 2008-09-08 21:12:24
 tags: BM,Maven

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.6.11 Release erschienen"
 date: 2010-04-17 12:36:05
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

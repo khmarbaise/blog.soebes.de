@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Software Foundation Parent POM Version 21 Released"
 date: 2018-08-23 09:23:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Archetype Plugin 3.1.0 Released"
 date: 2019-05-01 14:30:22
 comments: true

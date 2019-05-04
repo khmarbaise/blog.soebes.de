@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Ein Intressanter Blog Eintrag von Ben Collin Sussman"
 date: 2007-10-28 22:08:18
 tags: SKM,Neuigkeiten,Subversion,DVCS

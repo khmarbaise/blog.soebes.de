@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.6.16 erschienen"
 date: 2011-03-04 08:22:22
 tags: Neuigkeiten,Neue Versionen,Subversion

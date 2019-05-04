@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: " Plastic SCM - Release 1.5"
 date: 2007-08-09 19:32:35
 tags: SKM,Neuigkeiten,Plastic SCM

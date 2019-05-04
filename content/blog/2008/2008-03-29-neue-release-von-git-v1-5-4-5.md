@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Neue Release von git v1.5.4.5"
 date: 2008-03-29 13:04:09
 tags: SKM,Neue Versionen,GIT

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Source Plugin Version 3.0.0 Released"
 date: 2016-02-17 19:49:00
 comments: true

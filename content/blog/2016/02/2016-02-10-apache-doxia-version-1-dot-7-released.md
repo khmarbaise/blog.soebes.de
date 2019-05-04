@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Doxia Version 1.7 Released"
 date: 2016-02-10 19:00:00
 comments: true

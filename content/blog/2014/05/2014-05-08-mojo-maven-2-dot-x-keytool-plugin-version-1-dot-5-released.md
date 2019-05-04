@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo Maven 2.x Keytool plugin Version 1.5 Released"
 date: 2014-05-08 19:14:00
 comments: true

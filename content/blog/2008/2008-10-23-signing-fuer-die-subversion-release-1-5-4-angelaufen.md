@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Signing für die Subversion Release 1.5.4 angelaufen"
 date: 2008-10-23 09:46:14
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

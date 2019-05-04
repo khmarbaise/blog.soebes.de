@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Deploy Plugin - Release 2.8.1"
 date: 2013-10-19 15:30:00
 comments: true

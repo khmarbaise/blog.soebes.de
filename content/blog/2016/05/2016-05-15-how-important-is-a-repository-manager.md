@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "How Important is a Repository Manager?"
 date: 2016-05-15 15:14:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Utils Version 3.0.0 Released"
 date: 2015-10-16 11:05:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Dependency Analyzer Version 1.8 Released"
 date: 2018-01-17 21:30:34
 comments: true

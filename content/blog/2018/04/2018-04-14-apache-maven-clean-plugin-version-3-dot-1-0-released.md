@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Clean Plugin Version 3.1.0 Released"
 date: 2018-04-14 15:00:35
 comments: true

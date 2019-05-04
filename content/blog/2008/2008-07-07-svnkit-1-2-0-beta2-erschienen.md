@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SVNKit 1.2.0 Beta2 erschienen"
 date: 2008-07-07 22:47:05
 tags: Java,SKM,Neue Versionen,Subversion

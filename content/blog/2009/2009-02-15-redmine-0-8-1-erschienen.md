@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Redmine 0.8.1 erschienen"
 date: 2009-02-15 16:16:07
 tags: Neuigkeiten,Neue Versionen,Bug/Issue Tracking,Redmine

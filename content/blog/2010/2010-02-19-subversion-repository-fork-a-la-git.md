@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion Repository Fork á la Git ?"
 date: 2010-02-19 12:55:03
 tags: SKM,Neuigkeiten,Subversion,DVCS,GIT

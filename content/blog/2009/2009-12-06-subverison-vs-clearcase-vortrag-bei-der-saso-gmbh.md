@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subverison vs. ClearCase Vortrag bei der SASO GmbH"
 date: 2009-12-06 15:10:42
 tags: SKM,Neuigkeiten,Subversion,ClearCase

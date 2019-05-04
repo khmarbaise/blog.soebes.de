@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Plugin Tools Version 3.4 Released"
 date: 2015-01-05 21:06:00
 comments: true

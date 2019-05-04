@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven SCM Publish Plugin 1.1 Released"
 date: 2014-05-22 18:49:00
 comments: true

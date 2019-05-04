@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Continuous Delivery with Maven"
 date: 2018-08-26 17:15:12
 comments: true

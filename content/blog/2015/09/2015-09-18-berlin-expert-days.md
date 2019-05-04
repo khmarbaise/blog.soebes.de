@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Berlin Expert Days"
 date: 2015-09-18 15:26:00
 comments: true

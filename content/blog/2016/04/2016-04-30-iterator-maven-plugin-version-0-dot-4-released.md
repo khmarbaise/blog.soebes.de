@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Iterator Maven Plugin Version 0.4 Released"
 date: 2016-04-30 22:30:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared Component: Maven Common Artifact Filters 3.0.0 Released"
 date: 2015-12-02 08:00:00
 comments: true

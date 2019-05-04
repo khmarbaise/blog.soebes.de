@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven GPG Plugin Version 1.6 Released"
 date: 2015-01-20 19:34:00
 comments: true

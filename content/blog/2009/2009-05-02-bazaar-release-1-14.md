@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Bazaar Release 1.14"
 date: 2009-05-02 13:08:19
 tags: SKM,Neuigkeiten,Neue Versionen,Bazaar

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Compiler Plugin Version 3.3 Released"
 date: 2015-03-26 20:48:00
 comments: true

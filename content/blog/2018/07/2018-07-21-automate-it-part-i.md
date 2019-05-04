@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Automate it - Be Lazy - Part I"
 date: 2018-07-21 10:00:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion und die Weiteren Schritte"
 date: 2010-12-20 13:26:36
 tags: SKM,Neuigkeiten,Subversion

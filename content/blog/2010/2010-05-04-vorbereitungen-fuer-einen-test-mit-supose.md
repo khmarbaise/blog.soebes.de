@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Vorbereitungen für einen Test mit SupoSE"
 date: 2010-05-04 21:41:00
 tags: SKM,Subversion,Test,SupoSE

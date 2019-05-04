@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Assembly Plugin Version 2.5 Released"
 date: 2014-10-27 07:46:00
 comments: true

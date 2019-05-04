@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subverison 1.7 - Beta 3 Released"
 date: 2011-08-12 11:12:31
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

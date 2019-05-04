@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo Flatten Maven Plugin 1.0.0 beta 2 Released"
 date: 2014-06-07 13:44:00
 comments: true

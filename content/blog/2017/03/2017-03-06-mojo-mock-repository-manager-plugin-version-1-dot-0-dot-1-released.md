@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo Mock Repository Manager Plugin Version 1.0.1 Released"
 date: 2017-03-06 20:33:25
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion Repository Search Engine (SupoSE) Release 0.3.0.0RC1 (Earth)"
 date: 2007-12-21 12:39:21
 tags: Java,Neue Versionen,Subversion,SupoSE

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Java Batch Applikation und Maven 2"
 date: 2009-12-11 21:23:00
 tags: Java,Neuigkeiten,Maven

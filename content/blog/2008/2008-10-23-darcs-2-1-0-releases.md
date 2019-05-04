@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "darcs 2.1.0 - Releases"
 date: 2008-10-23 10:08:16
 tags: SKM,Neue Versionen,darcs

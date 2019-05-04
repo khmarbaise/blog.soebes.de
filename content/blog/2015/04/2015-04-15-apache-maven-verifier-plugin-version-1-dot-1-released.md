@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Verifier Plugin Version 1.1 Released"
 date: 2015-04-15 07:55:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Neue Release des sventon Projektes - 1.4.0RC1"
 date: 2008-03-04 18:37:02
 tags: SKM,Neue Versionen,Subversion

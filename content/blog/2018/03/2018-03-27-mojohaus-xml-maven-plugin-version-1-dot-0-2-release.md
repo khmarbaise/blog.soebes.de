@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus XML Maven Plugin Version 1.0.2 Released"
 date: 2018-03-27 17:30:00
 comments: true

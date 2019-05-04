@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "USVN - Release 0.7"
 date: 2008-01-27 15:35:21
 tags: SKM,Neue Versionen,Subversion

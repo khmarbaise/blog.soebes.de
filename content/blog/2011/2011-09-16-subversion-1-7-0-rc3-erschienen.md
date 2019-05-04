@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.7.0 RC3 erschienen"
 date: 2011-09-16 11:36:42
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

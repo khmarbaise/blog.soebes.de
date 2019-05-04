@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Tomcat as Daemon"
 date: 2010-04-29 09:21:37
 tags: Neuigkeiten,CI,Tomcat

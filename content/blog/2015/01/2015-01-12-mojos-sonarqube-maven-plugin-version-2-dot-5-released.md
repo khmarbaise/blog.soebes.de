@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo's SonarQube Maven Plugin Version 2.5 Released"
 date: 2015-01-12 23:20:00
 comments: true

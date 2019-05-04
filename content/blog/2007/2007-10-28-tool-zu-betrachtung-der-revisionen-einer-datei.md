@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Tool zu Betrachtung der Revisionen einer Datei"
 date: 2007-10-28 22:20:39
 tags: Java,SKM,Neuigkeiten,Subversion

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SVNKit 1.1.2 (Default)"
 date: 2007-04-03 22:18:15
 tags: Java,SKM,Neue Versionen

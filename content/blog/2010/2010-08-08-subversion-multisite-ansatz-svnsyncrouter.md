@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion - Multisite Ansatz - SVNSyncRouter"
 date: 2010-08-08 21:29:44
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

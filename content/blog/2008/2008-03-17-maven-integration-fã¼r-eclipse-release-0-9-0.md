@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven Integration für Eclipse - Release 0.9.0"
 date: 2008-03-17 01:27:45
 tags: Java,PlugIn,Maven

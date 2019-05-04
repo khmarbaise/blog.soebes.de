@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.5 - Beta 1 - Neuheiten - Teil 2 - Erweiterungen"
 date: 2008-03-25 20:23:47
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

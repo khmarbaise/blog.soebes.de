@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Interessanter Artikel zum Thema Verteilte Versionskontrolle"
 date: 2008-08-09 23:51:16
 tags: SKM,DVCS

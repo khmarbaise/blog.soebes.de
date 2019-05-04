@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus Extra Enforcer Rules 1.0-beta-4 Released"
 date: 2015-11-10 21:50:00
 comments: true

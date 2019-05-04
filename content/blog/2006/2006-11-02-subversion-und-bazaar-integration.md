@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion und Bazaar Integration"
 date: 2006-11-02 19:03:39
 tags: SKM

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Release 1.5 von GIT"
 date: 2007-02-28 07:22:00
 tags: SKM,Neue Versionen,GIT

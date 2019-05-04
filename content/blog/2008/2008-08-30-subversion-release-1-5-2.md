@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion Release 1.5.2"
 date: 2008-08-30 21:25:07
 tags: SKM,Neue Versionen,Subversion

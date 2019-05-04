@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven Artifact Checksums - What?"
 date: 2018-10-13 16:30:33
 comments: true

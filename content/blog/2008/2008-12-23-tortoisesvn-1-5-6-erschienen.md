@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "TortoiseSVN 1.5.6 erschienen"
 date: 2008-12-23 14:29:30
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

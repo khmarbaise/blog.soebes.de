@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversive 1.1.0 Release erschienen"
 date: 2007-03-13 18:39:19
 tags: Java,SKM,Neue Versionen,PlugIn,Bug/Issue Tracking

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Tidy Maven Plugin 1.0-alpha-2 Released"
 date: 2013-12-19 19:00:05
 comments: true

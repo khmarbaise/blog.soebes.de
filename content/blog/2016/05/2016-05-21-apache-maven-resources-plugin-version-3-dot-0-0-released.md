@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Resources Plugin Version 3.0.0 Released"
 date: 2016-05-21 20:30:00
 comments: true

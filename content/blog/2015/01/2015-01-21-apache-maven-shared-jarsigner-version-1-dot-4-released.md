@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Shared JarSigner Version 1.4 Released"
 date: 2015-01-21 21:01:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Maven Licenses Verifier Plugin"
 date: 2011-01-30 19:41:00
 tags: Java,Neuigkeiten,Neue Versionen,PlugIn,Maven

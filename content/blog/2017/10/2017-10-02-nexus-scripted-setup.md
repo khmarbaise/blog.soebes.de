@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Automated Setup of a Repository Manager"
 date: 2017-10-02 19:30:34
 comments: true

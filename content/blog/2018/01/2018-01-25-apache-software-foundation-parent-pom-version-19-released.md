@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Software Foundation Parent POM Version 19 Released"
 date: 2018-01-25 10:15:00
 comments: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "TortoiseSVN 1.6.7 (SVN 1.6.9) - erschienen"
 date: 2010-03-06 22:23:21
 tags: SKM,Neue Versionen,Subversion

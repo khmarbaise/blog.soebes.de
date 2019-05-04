@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven PDF Plugin Version 1.3 Released"
 date: 2015-02-16 21:29:00
 comments: true

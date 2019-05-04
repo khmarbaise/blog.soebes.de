@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven JarSigner Plugin Version 1.4 Released"
 date: 2015-01-25 13:40:00
 comments: true

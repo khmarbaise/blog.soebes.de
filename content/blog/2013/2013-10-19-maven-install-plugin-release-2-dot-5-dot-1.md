@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Install Plugin - Release 2.5.1"
 date: 2013-10-19 15:25:00
 comments: true

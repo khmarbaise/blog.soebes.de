@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo's SQLJ Maven Plugin 1.3 - Released"
 date: 2014-01-14 22:51:00
 comments: true

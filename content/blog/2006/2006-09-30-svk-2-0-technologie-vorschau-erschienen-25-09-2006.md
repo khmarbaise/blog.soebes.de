@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "SVK 2.0 Technologie Vorschau erschienen (25.09.2006)"
 date: 2006-09-30 12:35:00
 tags: SKM,Neuigkeiten

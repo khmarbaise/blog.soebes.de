@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo License Maven Plugin Version 1.8 Released"
 date: 2014-12-09 10:58:00
 comments: true

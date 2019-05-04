@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Bazaar Release 1.10"
 date: 2008-12-19 16:32:41
 tags: SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar

@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "MojoHaus Version Maven Plugin Version 2.3 Released"
 date: 2016-07-26 21:00:00
 comments: true

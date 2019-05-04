@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Invoker Plugin Version 3.0.0 Released"
 date: 2017-05-24 07:51:00
 comments: true

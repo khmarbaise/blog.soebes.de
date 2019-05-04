@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversive PlugIn 1.1.0 M8a"
 date: 2006-11-02 19:00:32
 tags: SKM,Neuigkeiten,Neue Versionen,PlugIn

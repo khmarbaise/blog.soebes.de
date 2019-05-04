@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven SCM Version 1.10.0 Released"
 date: 2018-05-28 18:15:33
 comments: true

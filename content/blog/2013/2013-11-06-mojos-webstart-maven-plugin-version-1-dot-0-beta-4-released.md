@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Mojo's Webstart Maven Plugin version 1.0-beta-4 Released"
 date: 2013-11-06 19:47:00
 comments: true

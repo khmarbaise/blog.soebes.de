@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Apache Maven Help Plugin Version 3.0.0 Released"
 date: 2018-03-17 23:15:00
 comments: true

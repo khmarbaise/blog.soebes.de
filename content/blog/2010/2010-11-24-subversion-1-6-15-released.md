@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "Subversion 1.6.15 Released"
 date: 2010-11-24 20:04:52
 tags: SKM,Neuigkeiten,Neue Versionen,Subversion

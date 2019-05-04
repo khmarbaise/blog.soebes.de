@@ -1,5 +1,6 @@
 ---
 layout: post
+authors: ["khmarbaise"]
 title: "RabbitVCS - TortoiseSVN für Linux ?"
 date: 2010-07-30 13:11:22
 tags: SKM,Neuigkeiten,Subversion
