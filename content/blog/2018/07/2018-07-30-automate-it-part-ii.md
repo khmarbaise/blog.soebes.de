@@ -6,8 +6,8 @@ date: 2018-07-30 20:02:11
 comments: true
 categories: [Maven,Automation,DevOps,Programming]
 ---
-As I wrote in my [previous post about automation][part-i] I would continue 
-my post. So here it is.
+As I wrote in my [Automate it - Be Lazy Part I]({{< relref "2018-07-21-automate-it-part-i.md" >}}) - I would like 
+to continue my post. So here it is.
 
 The following parts are left from my process:
 
