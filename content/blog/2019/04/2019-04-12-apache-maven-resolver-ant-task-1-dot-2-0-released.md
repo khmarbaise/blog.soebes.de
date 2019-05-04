@@ -2,7 +2,7 @@
 layout: post
 authors: ["khmarbaise"]
 title: "Apache Maven Resolver Ant Task Version 1.2.0 Released"
-date: 2019-04-12 17:31:22:02
+date: 2019-04-12 17:31:22
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Releases]
 ---

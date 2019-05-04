@@ -2,7 +2,7 @@
 layout: post
 authors: ["khmarbaise"]
 title: "Apache Shared Component: Maven Artifact Transfer Version 0.9.1 Released"
-date: 2017-05-11 21:15
+date: 2017-05-11 21:15:00
 comments: true
 categories: [Neuigkeiten,BM,Maven,Maven-Shared]
 ---
