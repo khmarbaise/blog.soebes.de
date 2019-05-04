@@ -28,6 +28,9 @@ logo = "/images/weblogo.gif"
 description = ""
 title404 = "This is not the page you are searching for."
 
+[search]
+title = "Search"                      # default: "Search"
+
 [params.assets]
 #favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
@@ -78,6 +81,8 @@ email = "info@soebes.de"
 facebook = ""
 github = "khmarbaise"
 gitlab = "khmarbaise"
+bitbucket = "khmarbaise"
+
 instagram = ""
 linkedin = "karl-heinz-marbaise-17a15614"
 twitter = "khmarbaise"

@@ -16,9 +16,9 @@ da das zu <a href="https://issues.apache.org/jira/browse/INFRA-2606">große kont
 
 Also habe ich den Dump File auf einen Server gelegt und angefangen das Repository per 
 
-{% highlight bash %}
+```bash
 svnadmin load repository <dumpfile zu laden.
-{% endhighlight %}
+```
 
 Server (Infos: Core i7 CPU;12 <a href="http://de.wikipedia.org/wiki/Gibibyte#Pr.C3.A4fixe_f.C3.BCr_gro.C3.9Fe_Anzahlen_von_Bytes">GiB</a> RAM; 
 1.3 <a href="http://de.wikipedia.org/wiki/Gibibyte#Pr.C3.A4fixe_f.C3.BCr_gro.C3.9Fe_Anzahlen_von_Bytes">TiB</a> Festplatte)<br/>

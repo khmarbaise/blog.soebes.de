@@ -13,9 +13,9 @@ Klar kann man hingehen und alles selbst schreiben, aber das muss man nicht. Es g
 
 In meinem speziellen Fall hatte ich das Problem, dass ich eine Unterstützung benötigte, die so etwas wie <strong>Kommandos</strong> unterstützt. 
 Das heißt so etwas wie:
-{% highlight bash %}
+```bash
 programmname Kommando [Optionen]
-{% endhighlight %}
+```
 
 Dabei ist <strong>Kommando</strong> ein Name für eine Programmfunktion und damit wird dann ein entsprechender Programmteil aufgerufen. 
 Beispiele für solche Konstellationen sind z.B. <a href="http://subversion.apache.org">Subversion</a>, <a href="http://git-scm.com/">Git</a>, 

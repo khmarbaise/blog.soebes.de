@@ -13,14 +13,14 @@ Wenn man das innerhalb einer Arbeitskopie macht, geht das ohne Probleme. Nur ich
 Eine Ausnahme auf der Kommandzeile bildet die Erzeugung von Verzechnissen per *svn mkdir*. Hierbei können mehrere Verzeichnisse 
 innerhalb einer Transaktion (sprich einer Revision) angelegt werden.
 
-{% highlight bash linenos %}
+```bash
 svn mkdir URL/dir1 URL/dir2 URL/dir3 -m"- Create directory structure"
-{% endhighlight %}
+```
 
 Im Grunde sollten die folgenden Befehle zu einer Änderung innerhalb einer Revision führen und nicht wie drei.
 
-{% highlight bash linenos %}
+```bash
 svn copy URL/file1 URL/X/file1
 svn copy URL/file2 URL/X/file2
 svn copy URL/file3 URL/X/file3
-{% endhighlight %}
+```

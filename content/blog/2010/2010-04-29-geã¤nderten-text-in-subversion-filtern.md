@@ -10,25 +10,25 @@ categories: [SKM,Neuigkeiten,Subversion]
 Ich hatte ein kleines Problem und wollte in einem Subversion Repository rausfinden, in welcher Version ein Änderung vorliegt. Also habe ich mir 
 Kurzerhand folgendes Script geschrieben (check.sh)
 
-{% highlight bash linenos %}
+```bash
 #!/bin/bash
 REVISIONS=`svn log pom.xml -q|grep "^r" | cut -d"r" -f2 | cut -d" " -f1`
 for rev in $REVISIONS; do
     svn blame -r$rev:$rev pom.xml | tr -s " " | grep -v "\ \-\ \- "
 done
-{% endhighlight %}
+```
 
 Wenn man dann die Ausgabe des Scriptes filtert:
 
-{% highlight bash linenos %}
+```bash
 check.sh | grep "Text"
-{% endhighlight %}
+```
 
 Die Ausgabe sieht ungefährt wie folgt aus:
 
-{% highlight bash %}
+```bash
 1345 asdfasdfasdf
-{% endhighlight %}
+```
 Die 1345 ist die Revision Nummber in der die Änderung ("Text") gemacht wurde.
 
 Das Problem bei dem Script ist, dass es sehr gut funktioniert, aber sobalt das Repository bzw. die Anzahl der Revisions die durchsucht werden 
