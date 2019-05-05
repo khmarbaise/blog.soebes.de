@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Artifact Resolver 1.3.0 Released"
 date: 2018-10-09 23:45:55
 comments: true
-categories: [News,Maven,Maven-Resolver]
+categories: [News,Maven,Maven-Resolver,Maven-Resolver-Release]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven Artifact Resolver, version 1.3.0](https://maven.apache.org/resolver/index.html)

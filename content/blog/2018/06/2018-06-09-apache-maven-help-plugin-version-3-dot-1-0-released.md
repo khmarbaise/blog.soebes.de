@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Help Plugin Version 3.1.0 Released"
 date: 2018-06-09 15:45:00
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
+categories: [News,Maven,Maven-Plugins,Maven-Plugin-Releases,Maven-Help-plugin,Maven-Help-Plugin-Release]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven Help Plugin, version 3.1.0](https://maven.apache.org/plugins/maven-help-plugin/)
