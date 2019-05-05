@@ -1,10 +1,10 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Apache Maven 3.5.0 Release"
+title: "Apache Maven 3.5.0 Released"
 date: 2017-04-07 23:34:00
 comments: true
-categories: [BM,Maven,Maven Best Practice]
+categories: [News,Maven,Maven-Releases]
 ---
 The Apache Maven team would like to announce the release of Apache Maven
 3.5.0.

@@ -1,10 +1,10 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Release Apache Maven 3.2.1"
+title: "Apache Maven 3.2.1 Released"
 date: 2014-02-22 12:43:00
 comments: true
-categories: [News,BM,Maven,Maven Releases]
+categories: [News,Maven,Maven-Releases]
 ---
 The Apache Maven team would like to announce the release of Maven 3.2.1.
 
