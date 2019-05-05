@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Wagon Version 2.6 Released"
 date: 2014-01-02 19:44:00
 comments: true
-categories: [News,BM,Maven,Maven-Releases]
+categories: [News,Maven,Maven-Wagon,Maven-Wagon-Release]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven Wagon, Version 2.6](https://maven.apache.org/wagon/)

@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Shared Utils Version 0.9 Released"
 date: 2015-09-21 08:22:00
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
+categories: [News,Maven,Maven-Shared,Maven-Shared-Utils,Maven-Shared-Release,Maven-Shared-Utils-Release]
 ---
 The Apache Maven team is pleased to announce the release of the [Apache
 Maven Shared Utils, version 0.9](https://maven.apache.org/shared/maven-shared-utils/).

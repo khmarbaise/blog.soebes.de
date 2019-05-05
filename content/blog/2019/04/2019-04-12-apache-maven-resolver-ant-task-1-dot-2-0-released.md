@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Resolver Ant Task Version 1.2.0 Released"
 date: 2019-04-12 17:31:22
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Releases]
+categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the [Maven 
 Resolver Ant Tasks version 1.2.0](https://maven.apache.org/resolver-ant-tasks/).

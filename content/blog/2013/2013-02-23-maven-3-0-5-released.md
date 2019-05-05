@@ -1,10 +1,9 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Maven 3.0.5 Released"
+title: "Apache Maven 3.0.5 Released"
 date: 2013-02-23 18:40:14
-tags: [Neuigkeiten,Neue Versionen,BM,Maven]
-categories: [Neuigkeiten,Neue Versionen,BM,Maven,Maven-Release]
+categories: [News,Maven,Maven-Releases]
 
 ---
 Nach dem nun einige Zeit vergangen ist, gibt es nun eine neue 

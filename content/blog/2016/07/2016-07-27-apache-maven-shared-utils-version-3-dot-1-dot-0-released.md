@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Shared Utils Version 3.1.0 Released"
 date: 2016-07-27 11:05:00
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
+categories: [News,Maven,Maven-Shared,Maven-Shared-Utils,Maven-Shared-Release,Maven-Shared-Utils-Release]
 ---
 The Apache Maven team is pleased to announce the release of the [Apache
 Maven Shared Utils, version 3.1.0](https://maven.apache.org/shared/maven-shared-utils/).

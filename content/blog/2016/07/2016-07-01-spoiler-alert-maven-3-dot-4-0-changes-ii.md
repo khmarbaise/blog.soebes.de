@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Spoiler Alert: Upcoming Maven 3.4.0 - Changes - II"
 date: 2016-07-01 14:30:00
 comments: true
-categories: [BM,Maven,Maven Release]
+categories: [News,Maven,Maven-Releases]
 ---
 Currently the preparations for the upcoming Maven 3.4.0 release is running. 
 There had been [informations about the changes][change-1] for the next Maven 

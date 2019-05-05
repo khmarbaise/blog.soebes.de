@@ -1,10 +1,10 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Apache Maven Version 3.3.9 Released"
+title: "Apache Maven 3.3.9 Released"
 date: 2015-11-18 18:47:00
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Releases]
+categories: [News,Maven,Maven-Releases]
 ---
 The Apache Maven team is pleased to announce the release of 
 [Apache Maven 3.3.9](https://maven.apache.org/).

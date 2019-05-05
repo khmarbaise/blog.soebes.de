@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Shared Component - Maven Archiver Version 3.0.0 Released"
 date: 2015-10-21 21:43:20
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
+categories: [News,Maven,Maven-Shared,Maven-Shared-Archiver,Maven-Shared-Release,Maven-Shared-Archiver-Release]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Maven Archiver, version 3.0.0](https://maven.apache.org/shared/maven-archiver/).

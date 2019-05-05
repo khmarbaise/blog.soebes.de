@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Shared Jarsigner Version 1.3 Released"
 date: 2014-01-03 13:08:00
 comments: true
-categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases,Maven-Shared]
+categories: [News,BM,Maven,Maven-Shared]
 ---
 The Maven team is pleased to announce the release of 
 the [Apache Maven Shared Jarsigner](https://maven.apache.org/shared/maven-jarsigner/)

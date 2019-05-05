@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven 3.5.3 Released"
 date: 2018-03-08 16:45:34
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Releases]
+categories: [News,Maven,Maven-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the Apache
 Maven 3.5.3

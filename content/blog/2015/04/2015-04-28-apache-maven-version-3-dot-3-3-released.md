@@ -1,10 +1,10 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Apache Maven Version 3.3.3 Released"
+title: "Apache Maven 3.3.3 Released"
 date: 2015-04-28 20:20:00
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Releases]
+categories: [News,Maven,Maven-Releases]
 ---
 The new [Maven 3.3.3 Release is out](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12316922&version=12332054).
 

@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Shared Component - Maven Archiver Version 3.4.0 Released"
 date: 2019-02-24 23:34:53
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
+categories: [News,Maven,Maven-Shared,Maven-Shared-Archiver,Maven-Shared-Release,Maven-Shared-Archiver-Release]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Maven Archiver, version 3.4.0](https://maven.apache.org/shared/maven-archiver/).
@@ -45,12 +45,12 @@ Improvements:
 
  * [MSHARED-362](https://issues.apache.org/jira/browse/MSHARED-362) - Support removing default manifest entries with Maven Archiver
  * [MSHARED-777](https://issues.apache.org/jira/browse/MSHARED-777) - Remove deprecated main attributes from generated manifest
- * [MSHARED-799](https://issues.apache.org/jira/browse/MSHARED-799) - Change "Created-By" manifest entry value to be reproducible
+ * [MSHARED-799](https://issues.apache.org/jira/browse/MSHARED-799) - Change `Created-By` manifest entry value to be reproducible
  * [MSHARED-800](https://issues.apache.org/jira/browse/MSHARED-800) - Remove Maven version from pom.properties
 
 Wishes:
 
- * [MSHARED-661](https://issues.apache.org/jira/browse/MSHARED-661) - Remove manifest entry "Built-By: <username>" for reproducible builds
+ * [MSHARED-661](https://issues.apache.org/jira/browse/MSHARED-661) - Remove manifest entry `Built-By: <username>` for reproducible builds
  * [MSHARED-796](https://issues.apache.org/jira/browse/MSHARED-796) - use java.specification.version instead of java.version in Build-Jdk manifest entry
 
 Task:

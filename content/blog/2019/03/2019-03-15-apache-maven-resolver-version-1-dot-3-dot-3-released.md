@@ -1,13 +1,13 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Apache Maven Resolver 1.3.3 Released"
+title: "Apache Maven Artifact Resolver 1.3.3 Released"
 date: 2019-03-15 17:25:31
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Shared]
+categories: [News,Maven,Maven-Resolver]
 ---
 The Apache Maven team is pleased to announce the release of the 
-[Apache Maven Resolver, version 1.3.3](https://maven.apache.org/resolver/index.html)
+[Apache Maven Artifact Resolver, version 1.3.3](https://maven.apache.org/resolver/index.html)
 
 Apache Maven Artifact Resolver is a library for working with artifact
 repositories and dependency resolution.

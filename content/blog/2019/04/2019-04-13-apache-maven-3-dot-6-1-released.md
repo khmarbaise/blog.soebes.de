@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven 3.6.1 Released"
 date: 2019-04-13 12:45:02
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Releases]
+categories: [News,Maven,Maven-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the Apache
 Maven 3.6.1.

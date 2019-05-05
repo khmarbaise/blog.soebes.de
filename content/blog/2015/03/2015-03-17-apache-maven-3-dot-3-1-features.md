@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven 3.3.1 Features"
 date: 2015-03-17 01:15:00
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Releases]
+categories: [News,Maven,Maven-Releases]
 ---
 The new [Maven 3.3.1 Release is just out](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12316922&version=12330193).
 Let us take a deeper look into the new features/improvements:

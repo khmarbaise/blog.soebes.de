@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven 3.5.2 Released"
 date: 2017-10-25 12:34:00
 comments: true
-categories: [BM,Maven,Maven Best Practice]
+categories: [News,Maven,Maven-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the Apache
 Maven 3.5.2

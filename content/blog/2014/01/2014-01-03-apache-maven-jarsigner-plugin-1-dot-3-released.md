@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven Jarsigner Plugin Version 1.3 Released"
 date: 2014-01-03 13:15:00
 comments: true
-categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases,Maven-Shared]
+categories: [News,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 The Maven team is pleased to announce the release of the 
 [Maven Jarsigner Plugin, version 1.3](https://maven.apache.org/plugins/maven-jarsigner-plugin/).

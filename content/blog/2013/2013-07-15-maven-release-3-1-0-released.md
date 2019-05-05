@@ -1,11 +1,9 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Maven Release 3.1 released"
+title: "Apache Maven 3.1.0 released"
 date: 2013-07-15 19:45:00
-tags: [Neuigkeiten,BM,Maven]
-categories: [Neuigkeiten,BM,Maven,Maven-Releases]
-
+categories: [News,Maven,Maven-Releases]
 ---
 After a longer time now it's there. The new Maven 3.1 release. The release notes give more 
 detailed [information about compatibility](https://maven.apache.org/docs/3.1.0/release-notes.html). 
