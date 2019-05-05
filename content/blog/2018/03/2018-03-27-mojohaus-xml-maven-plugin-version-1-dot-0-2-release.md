@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "MojoHaus XML Maven Plugin Version 1.0.2 Released"
 date: 2018-03-27 17:30:00
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
+categories: [News,Maven,Maven-Plugins,Maven-Plugin-Releases,MojoHaus]
 ---
 The MojoHaus team is pleased to announce the release of the 
 [XML Maven Plugin Version 1.0.1](http://www.mojohaus.org/xml-maven-plugin/).

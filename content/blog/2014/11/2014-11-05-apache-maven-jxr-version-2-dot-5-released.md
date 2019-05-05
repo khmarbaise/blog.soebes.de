@@ -1,10 +1,10 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Apache Maven JXR Version 2.5 Released"
+title: "Apache Maven JXR Plugin Version 2.5 Released"
 date: 2014-11-05 22:22:00
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
+categories: [News,Maven,Maven-Plugins,Maven-Plugin-Releases,Maven-JXR-Plugin,Maven-JXR-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven JXR, version 2.5](https://maven.apache.org/jxr/).

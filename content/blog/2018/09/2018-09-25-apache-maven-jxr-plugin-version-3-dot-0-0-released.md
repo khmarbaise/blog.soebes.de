@@ -4,7 +4,7 @@ authors: ["khmarbaise"]
 title: "Apache Maven JXR Plugin Version 3.0.0 Released"
 date: 2018-09-25 22:15:12
 comments: true
-categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
+categories: [News,Maven,Maven-Plugins,Maven-Plugin-Releases,Maven-JXR-Plugin,Maven-JXR-Plugin-Releases]
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Maven JXR, version 3.0.0](https://maven.apache.org/jxr/maven-jxr-plugin/).
