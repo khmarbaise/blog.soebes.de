@@ -3,8 +3,8 @@ date: 2017-09-28T08:00:00+06:00
 title: Datenschutzerklärung
 authors: ["khmarbaise"]
 slug: datenschutz
-menu: main
-weight: -230
+#menu: main
+#weight: -230
 ---
 Im Rahmen des hier vorliegenden Internetauftritts werden durch das Betreten dieser Seiten durch Sie, die folgenden Daten erfasst:
 

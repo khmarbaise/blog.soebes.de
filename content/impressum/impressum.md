@@ -2,9 +2,9 @@
 date: 2017-09-28T08:00:00+06:00
 title: Impressum
 authors: ["khmarbaise"]
-slug: impressum 
-menu: main
-weight: -230
+#slug: impressum 
+#menu: main
+#weight: -230
 ---
 Inhaltlich verantwortlich für die vorliegenden Internetseiten unter den Domains
 [soebes.de][de], [soebes.com][com], [soebes.biz][biz],

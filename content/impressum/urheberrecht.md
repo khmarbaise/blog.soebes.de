@@ -2,9 +2,9 @@
 date: 2017-09-28T08:00:00+06:00
 title: Urheberrecht
 authors: ["khmarbaise"]
-slug: urheberrecht
-menu: main
-weight: -230
+#slug: urheberrecht
+#menu: main
+#weight: -230
 ---
 
 Die verwendeten Grafiken, Bilder, Vorträge und sonstigen Veröffentlichungen
