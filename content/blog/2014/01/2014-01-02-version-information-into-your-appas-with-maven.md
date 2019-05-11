@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["khmarbaise"]
-title: "Version Informations Into Your Apps With Maven"
+title: "Version Information Into Your Apps With Maven"
 date: 2014-01-02 19:08:00
 comments: true
 categories: [News,Maven,Maven Best Practice]
@@ -11,33 +11,26 @@ a kind of ```About Dialog``` or may be on command line as well
 (probably you know ```--version``` stuff).
 
 So in relationship with Maven the question is: How to get this into your Java code.
-
 There are in general four ways to do it:
 
  1. Using the pom.properties file which is created by default by Maven.
-
  2. Using the information which is provided by the ```MANIFST.MF``` file.
     There are several ways to get those information.
-
  3. Create a property which is filtered during the build process and will
     be read by your application.
-
  4. Using a generated class which contains the appropriate informations.
 
 <!-- more -->
 
-#Using the pom.properties#
+# Using the pom.properties
 
 In every Maven build a [property pom.properties](https://maven.apache.org/shared/maven-archiver/#class_archive)
 is packaged into resulting archive (jar, ear, war, ejb etc.)
 which can be found under the following location:
-
 ```
 META-INF/maven/${groupId}/${artifactId}/pom.properties
 ```
-
 This file contains the following entries
-
 ```
 version=${project.version}
 groupId=${project.groupId}
@@ -50,8 +43,7 @@ The pom.properties way:
 ```java
 public class TheVersionClass
 {
-    ..
-
+    // ..
     public TheVersionClass()
     {
         InputStream resourceAsStream =
@@ -62,8 +54,10 @@ public class TheVersionClass
         try
         {
             this.prop.load( resourceAsStream );
+        } catch (java.lang.Exception exception) {
+          // ...
         }
-        ...
+      // ...
     }
 }
 ```
@@ -72,7 +66,7 @@ public class TheVersionClass
  such a purpose you need to define your own ```pom.properties``` file. 
 
 
-#The MANIFEST.MF File#
+# The MANIFEST.MF File
 
  In Java there exists a possibility to extract information from the ```MANIFEST.MF``` by using simple code lines
  [like the following](https://github.com/khmarbaise/version-examples/tree/master/version-example-ii/src/main/java/com/soebes/examples/TheVersionClass.java):
@@ -120,7 +114,7 @@ public class TheVersionClass {
  ```Specification``` parts of your ```MANIFEST.MF``` file which might be enough in some situations
  but not in all.
 
-#The Filtered Property File#
+# The Filtered Property File
 
 Apart from the above methods you can of course define a simple ```version.properties``` 
 file within ```src/main/resources``` with [any contens you like](https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/src/main/resources/version.properties):
@@ -171,7 +165,7 @@ public class TheVersionClass
 ```
 
 
-#The Generated Class#
+# The Generated Class
 
  You can use the [templating-maven-plugin](http://www.mojohaus.org/templating-maven-plugin/) which
  can be used to create a class which contains the appropriate informations.
