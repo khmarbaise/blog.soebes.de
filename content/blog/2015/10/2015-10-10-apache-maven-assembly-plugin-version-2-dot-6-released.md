@@ -15,7 +15,7 @@ and other files into a single distributable archive.
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-assembly-plugin</artifactId>

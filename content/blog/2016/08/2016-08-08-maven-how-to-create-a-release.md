@@ -96,7 +96,7 @@ Starting with [Maven 3.2.1][maven-release-notes-3.2.1] you can define the pom
 version by using the following possible properties: `${revision}`, `${sha1}`
 and `${changelist}`. The example below will show one usage of this:
 
-``` xml
+```xml
   ..
   <parent>
     <groupId>com.soebes.smpp</groupId>
@@ -114,7 +114,7 @@ and `${changelist}`. The example below will show one usage of this:
 This is a parent of a larger multi module build which contains serveral childs which look
 like this:
 
-``` xml
+```xml
 
   <modelVersion>4.0.0</modelVersion>
 
@@ -150,7 +150,7 @@ is not very convenient.
 
 You can handle this by using the following profile:
 
-``` xml
+```xml
   <profiles>
     <profile>
       <id>default-version</id>

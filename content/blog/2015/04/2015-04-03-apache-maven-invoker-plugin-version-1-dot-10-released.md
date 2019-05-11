@@ -19,7 +19,7 @@ have been designed to assert certain features of the plugin under test.
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-invoker-plugin</artifactId>

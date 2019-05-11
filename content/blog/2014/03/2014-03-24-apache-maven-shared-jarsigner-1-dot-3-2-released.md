@@ -13,7 +13,7 @@ This component provides some utilities to sign/verify jars/files in your Mojos.
 
 To use the Maven Jarsigner, add the following dependency to your project:
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-jarsigner</artifactId>

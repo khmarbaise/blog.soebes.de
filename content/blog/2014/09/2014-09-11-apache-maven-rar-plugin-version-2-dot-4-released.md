@@ -14,7 +14,7 @@ uses to connect to an enterprise information system (EIS). The RAR plugin has
 the capability to store these resource adapters to an archive (Resource Adapter
 Archive or RAR) which can be deployed to a J2EE server.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-rar-plugin</artifactId>

@@ -16,7 +16,7 @@ etc. all use the same JDK for execution.
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-toolchains-plugin</artifactId>

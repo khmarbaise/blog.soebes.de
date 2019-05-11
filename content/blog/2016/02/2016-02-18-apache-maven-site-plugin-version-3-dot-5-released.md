@@ -15,7 +15,7 @@ also includes the project's reports that were configured in the POM.
 Attention there are [breaking changes to know when upgrading](https://maven.apache.org/plugins/maven-site-plugin/migrate.html).
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-site-plugin</artifactId>

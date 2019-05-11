@@ -14,7 +14,7 @@ Useful for integration tests - verifies the existence of certain conditions.
 Please be aware of the new location of our issue tracker
 which has been moved from Codehaus to [Apache Software Foundation](https://issues.apache.org/jira/browse/MJAVADOC).
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-verifier-plugin</artifactId>

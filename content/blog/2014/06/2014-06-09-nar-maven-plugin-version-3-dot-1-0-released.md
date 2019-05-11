@@ -15,7 +15,7 @@ CC, ...)
 
 To use the plugin you need to give the following in your pom file:
 
-``` xml
+```xml
 <plugin>
   <groupId>com.github.maven-nar</groupId>
   <artifactId>nar-maven-plugin</artifactId>

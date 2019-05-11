@@ -21,7 +21,7 @@ You can download the appropriate sources etc. from the
 [download page](https://maven.apache.org/shared/maven-invoker/download.cgi).
 
 
-``` xml
+```xml
 <dependencies>
   <dependency>
     <groupId>org.apache.maven.shared</groupId>

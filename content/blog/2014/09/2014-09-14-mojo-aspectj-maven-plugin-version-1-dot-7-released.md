@@ -16,7 +16,7 @@ your classes using the AspectJ compiler ("ajc").
 To get this update, simply specify the version in your project's plugin
 configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>aspectj-maven-plugin</artifactId>

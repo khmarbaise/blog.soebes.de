@@ -19,7 +19,7 @@ in a future release.
 To use the updated plugin in your projects, you need to add the 
 following snippet to the plugins or plugin management section of your POM:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-jarsigner-plugin</artifactId>

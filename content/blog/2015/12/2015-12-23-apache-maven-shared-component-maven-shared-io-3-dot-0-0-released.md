@@ -18,7 +18,7 @@ Important Notes:
 
 You should specify the version in your project's plugin configuration:
 
-``` xml 
+```xml 
 <plugin>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-shared-io</artifactId>

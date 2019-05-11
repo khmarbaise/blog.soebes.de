@@ -13,7 +13,7 @@ Analyzes the dependencies of a project for undeclared or unused artifacts.
 
 You should specify the version in your project's dependency list:
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-dependency-analyzer</artifactId>

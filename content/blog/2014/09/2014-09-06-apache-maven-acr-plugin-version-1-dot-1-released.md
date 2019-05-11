@@ -11,7 +11,7 @@ The Apache Maven team is pleased to announce the release of the
 
 This plugin generates J2EE Application Client file.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-acr-plugin</artifactId>

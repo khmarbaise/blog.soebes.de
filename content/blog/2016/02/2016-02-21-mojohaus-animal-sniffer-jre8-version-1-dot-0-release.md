@@ -18,7 +18,7 @@ This signature is created based on Oracle JRE8 (JAVA_VERSION=1.8.0)
 To get this update, simply specify the GAV of the signature as configuration to
 your animal-sniffer-maven-plugin:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>animal-sniffer-maven-plugin</artifactId>

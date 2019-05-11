@@ -53,7 +53,7 @@ is correctly configured, cause release:prepare goal will make tags of your softw
 The following example gives you an impression how the SCM area must look like if you are using GitHub.
 
 
-``` xml
+```xml
 <scm>
   <connection>scm:git:git://github.com/khmarbaise/Maven-License-Verifier-Plugin.git</connection>
   <developerConnection>scm:git:git@github.com:khmarbaise/Maven-License-Verifier-Plugin.git</developerConnection>
@@ -62,7 +62,7 @@ The following example gives you an impression how the SCM area must look like if
 ```
 The following example will show you how it looks like if you are using Subversion:
 
-``` xml
+```xml
 <scm>
     <connection>scm:svn:http://svn.apache.org/repos/asf/tika/trunk</connection>
     <developerConnection>scm:svn:https://svn.apache.org/repos/asf/tika/trunk</developerConnection>
@@ -84,7 +84,7 @@ the appropriate site area as well.
 
 An example of an distributionManagement area looks like this:
 
-``` xml
+```xml
 <distributionManagement>
     <repository>
       <id>ossrh-staging</id>

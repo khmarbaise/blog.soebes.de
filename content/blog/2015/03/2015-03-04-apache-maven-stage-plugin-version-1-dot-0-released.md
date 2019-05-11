@@ -13,7 +13,7 @@ This plugin is used to create bundles of artifacts that can be uploaded to the
 central repository.
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-stage-plugin</artifactId>

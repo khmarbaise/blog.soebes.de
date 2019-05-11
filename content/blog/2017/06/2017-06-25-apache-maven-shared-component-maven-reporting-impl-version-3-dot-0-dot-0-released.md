@@ -15,7 +15,7 @@ Abstract classes to manage report generation, which can be run both:
  * or as a direct standalone goal invocation, as a [maven-plugin-api](https://maven.apache.org/ref/current/maven-plugin-api/)'s [Mojo](https://maven.apache.org/ref/current/maven-plugin-api/apidocs/org/apache/maven/plugin/Mojo.html).
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.reporting</groupId>
   <artifactId>maven-reporting-impl</artifactId>

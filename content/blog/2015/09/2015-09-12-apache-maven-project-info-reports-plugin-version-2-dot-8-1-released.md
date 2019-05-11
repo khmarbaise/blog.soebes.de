@@ -15,7 +15,7 @@ reports for the specified project.
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-project-info-reports-plugin</artifactId>

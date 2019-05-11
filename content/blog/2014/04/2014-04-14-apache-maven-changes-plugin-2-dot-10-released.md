@@ -14,7 +14,7 @@ Creates a release history for inclusion into the site and assists in generating 
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-changes-plugin</artifactId>

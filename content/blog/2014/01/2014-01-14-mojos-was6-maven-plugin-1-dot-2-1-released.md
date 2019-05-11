@@ -14,7 +14,7 @@ EARs to application servers, starting/stopping application and run arbitrary scr
 
 To get this update, simply specify the version in your project´s plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>was6-maven-plugin</artifactId>

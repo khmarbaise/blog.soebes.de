@@ -16,7 +16,7 @@ be useful to any Maven project that is building and releasing code with Maven
 To use this parent, you should specify the version in your project's
 plugin configuration:
 
-``` xml
+```xml
 <parent>
   <groupId>org.apache.maven</groupId>
   <artifactId>maven-parent</artifactId>

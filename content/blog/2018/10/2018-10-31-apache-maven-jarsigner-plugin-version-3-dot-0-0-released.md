@@ -16,7 +16,7 @@ You can download the appropriate sources etc. from the
 
 You should specify the component in your pom file like this:
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-jarsigner</artifactId>

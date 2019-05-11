@@ -12,7 +12,7 @@ The Apache Maven team is pleased to announce the release of the
 This plugin provides the capability to build jars.
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-jar-plugin</artifactId>

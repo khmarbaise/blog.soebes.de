@@ -15,7 +15,7 @@ in a project's POM.
 To get this update, simply specify the version in your project's plugin
 configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>versions-maven-plugin</artifactId>

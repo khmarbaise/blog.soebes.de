@@ -14,7 +14,7 @@ is not a 100% API compatible replacement though but a replacement with
 improvements: lots of methods got cleaned up, generics got added and we dropped
 a lot of unused code.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-shared-utils</artifactId>

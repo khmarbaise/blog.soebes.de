@@ -19,7 +19,7 @@ https://maven.apache.org/pom/maven/
 
 You should specify the version in your project as parent like the following:
 
-``` xml
+```xml
 <parent>
    <groupId>org.apache.maven</groupId>
    <artifactId>maven-parent</artifactId>

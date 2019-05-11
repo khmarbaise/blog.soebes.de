@@ -18,7 +18,7 @@ Please also note that the plugin now requires Maven 2.2.1+ and Java 6+ for execu
 
 To get this update, simply specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>jaxb2-maven-plugin</artifactId>

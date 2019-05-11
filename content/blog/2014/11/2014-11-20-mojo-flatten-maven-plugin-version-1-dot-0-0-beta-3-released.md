@@ -14,7 +14,7 @@ maven to install and deploy this one instead of the original pom.xml.
 
 All you need to do is add the plugin to the plugins in your build section:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>flatten-maven-plugin</artifactId>

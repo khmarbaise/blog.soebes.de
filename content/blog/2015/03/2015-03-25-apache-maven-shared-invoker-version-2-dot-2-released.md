@@ -28,7 +28,7 @@ In the next release of the maven-invoker-plugin, which should be released soon,
 we'll add this fix as well. In the meantime you can configure the plugin like
 this:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-invoker-plugin</artifactId>

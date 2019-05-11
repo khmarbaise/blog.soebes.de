@@ -18,7 +18,7 @@ you to use Clirr from Maven 2. This version of the plugin uses Clirr 0.6.
 To get this update, simply specify the version in your project's
 plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>clirr-maven-plugin</artifactId>

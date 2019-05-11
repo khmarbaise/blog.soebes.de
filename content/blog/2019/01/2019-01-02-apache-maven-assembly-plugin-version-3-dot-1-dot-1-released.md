@@ -22,7 +22,7 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-assembly-plugin</artifactId>

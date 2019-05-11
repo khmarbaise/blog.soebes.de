@@ -42,7 +42,7 @@ Let us take a deeper look into the new features/improvements:
    you can define an `${maven.projectBasedir}/.mvn/extensions.xml` file which looks 
    like the following:
 
-``` xml
+```xml
 <extensions xmlns="https://maven.apache.org/EXTENSIONS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="https://maven.apache.org/EXTENSIONS/1.0.0 https://maven.apache.org/xsd/core-extensions-1.0.0.xsd">
   <extension>

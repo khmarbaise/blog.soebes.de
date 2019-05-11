@@ -16,7 +16,7 @@ Maven Archiver a plugin uses, go to the site for that plugin.
 
 You should specify the version in your project's dependency configuration:
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-archiver</artifactId>

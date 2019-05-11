@@ -20,7 +20,7 @@ the classes are in different packages from plexus-utils, if the method
 is present it will have the same
 semantics, facilitating easy conversion.
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-shared-utils</artifactId>

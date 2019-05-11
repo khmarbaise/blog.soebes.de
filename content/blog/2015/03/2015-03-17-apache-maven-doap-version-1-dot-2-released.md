@@ -16,7 +16,7 @@ use them as primary input but that would also alleviate the burden of
 maintaining two sets of metadata.
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-doap-plugin</artifactId>

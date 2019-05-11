@@ -13,7 +13,7 @@ The Maven Archiver is mainly used by plugins to handle packaging.
 
 You should specify the version in your project's dependency configuration:
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven</groupId>
   <artifactId>maven-archiver</artifactId>

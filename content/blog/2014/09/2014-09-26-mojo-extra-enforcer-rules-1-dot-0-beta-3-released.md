@@ -21,7 +21,7 @@ part of the standard rule set.
 To get this update, simply specify the version in your project's plugin 
 configuration: 
 
-``` xml
+```xml
 <plugin> 
   <groupId>org.apache.maven.plugins</groupId> 
   <artifactId>maven-enforcer-plugin</artifactId> 

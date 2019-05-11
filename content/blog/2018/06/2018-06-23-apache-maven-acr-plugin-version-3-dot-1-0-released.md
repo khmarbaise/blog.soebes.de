@@ -13,7 +13,7 @@ This plugin generates J2EE Application Client file.
 
 Important Note: This is a Maven 3.X only plugin and needs JDK 7 to run.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-acr-plugin</artifactId>

@@ -13,7 +13,7 @@ This plugin produces a nicely formatted metrics report based on your project.
 
 To get this update, simply specify the version in your project's plugin configuration: 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>jdepend-maven-plugin</artifactId>

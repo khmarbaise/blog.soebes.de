@@ -46,7 +46,7 @@ To use the Incremental Module Build you need to run at best Maven 3.3.1+ and
 Java 7 as Maven 3.3.1+ itself. Furthermore you should configure it via the
 `extensions.xml` file in the `.mvn/` folder of your project which should look 
 like this:
-``` xml
+```xml
 <extensions xmlns="https://maven.apache.org/EXTENSIONS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="https://maven.apache.org/EXTENSIONS/1.0.0 https://maven.apache.org/xsd/core-extensions-1.0.0.xsd">
   <extension>

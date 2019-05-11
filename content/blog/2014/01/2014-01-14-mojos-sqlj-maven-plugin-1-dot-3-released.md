@@ -12,7 +12,7 @@ The Mojo team is pleased to announce the
 
 To get this update, simply specify the version in your project´s plugin configuration:
 
-``` xml
+```xml
 <plugin>
       <groupId>org.codehaus.mojo</groupId>
       <artifactId>sqlj-maven-plugin</artifactId>

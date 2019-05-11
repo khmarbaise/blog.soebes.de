@@ -11,7 +11,7 @@ The Apache Maven team is pleased to announce the release of the
 
 The Javadoc Plugin uses the Javadoc tool to generate javadocs for the specified project.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-javadoc-plugin</artifactId>

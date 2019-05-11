@@ -11,7 +11,7 @@ The Apache Maven team is pleased to announce the release of the
 
 Analyzes the dependencies of a project for undeclared or unused artifacts.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-dependency-analyzer</artifactId>

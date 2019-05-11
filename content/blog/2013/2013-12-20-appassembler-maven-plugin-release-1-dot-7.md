@@ -20,7 +20,7 @@ to the classpath in the generated bin scripts.
 
 You can use the following Maven coordinates to get the latest version via Maven Central:
 
-``` xml
+```xml
 <plugin>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>appassembler-maven-plugin</artifactId>

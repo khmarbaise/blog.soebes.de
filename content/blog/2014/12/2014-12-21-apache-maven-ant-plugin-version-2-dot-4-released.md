@@ -13,7 +13,7 @@ The Ant Plugin generates build files for Ant 1.6.2 or above from the POM.
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-ant-plugin</artifactId>

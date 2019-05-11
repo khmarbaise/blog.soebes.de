@@ -18,7 +18,7 @@ https://maven.apache.org/plugins/maven-jlink-plugin/
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-jlink-plugin</artifactId>

@@ -15,7 +15,7 @@ database connection or whatever. At first glance that seems to be a contradictio
 
 Now let us start with a webapp project (packaging war) where the pom.xml looks more or less lilke the following:
 
-``` xml
+```xml
 <project
   xmlns="https://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -69,7 +69,7 @@ So we have to create a war file for test, q&amp;a and production. The simplest w
 You need to create an assembly descriptor for every environment. Let us start with the test environment 
 which looks like the following and should be named test.xml and put into ```src/main/assembly``` folder:
 
-``` xml
+```xml
 <assembly xmlns="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0 https://maven.apache.org/xsd/assembly-1.1.0.xsd">
@@ -98,7 +98,7 @@ which looks like the following and should be named test.xml and put into ```src/
 ```
 
 And finally you need a part in your pom file to use the assembly descriptors:
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-assembly-plugin</artifactId>

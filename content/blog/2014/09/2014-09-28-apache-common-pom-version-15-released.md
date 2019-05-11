@@ -15,7 +15,7 @@ projects to use ASF infrastructure.
 To use this parent, you should specify the version in your project's
 plugin configuration:
 
-``` xml
+```xml
 <parent>
   <groupId>org.apache</groupId>
   <artifactId>apache</artifactId>

@@ -15,7 +15,7 @@ The goal is to provide a shared component for all plugins that need to filter re
 
 You should add the following dependency to your project:
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-filtering</artifactId>

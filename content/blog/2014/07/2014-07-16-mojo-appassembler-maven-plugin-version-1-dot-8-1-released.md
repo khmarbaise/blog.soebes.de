@@ -19,7 +19,7 @@ added to the classpath in the generated bin scripts.
 
 To get this update, simply specify the version in your project's plugin configuration: 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>appassembler-maven-plugin</artifactId>

@@ -12,7 +12,7 @@ The Apache Maven team is pleased to announce the release of the
 The Site Plugin is used to generate a site for the project. The generated site
 also includes the project's reports that were configured in the POM.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-site-plugin</artifactId>

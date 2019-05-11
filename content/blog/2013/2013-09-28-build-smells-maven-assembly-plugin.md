@@ -204,7 +204,7 @@ The root cause of this is that the dependencies between the modules are not defi
 The solution of the problem can be simply achieved by defining the appropriate dependencies to the 
 modules you would like to pack into your [distribution package like this](https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-deps/dist/pom.xml):
 
-``` xml
+```xml
   <dependencies>
     <dependency>
       <groupId>${project.groupId}</groupId>
@@ -226,7 +226,7 @@ automatically.
 If we remember back to the maven-assembly-plugin descriptor which 
 [looks like this](https://github.com/khmarbaise/assembly-examples/blob/master/assemblies-with-files-deps/dist/proj1-assembly.xml):
 
-``` xml
+```xml
   <fileSets>
     <fileSet>
       <directory>${basedir}/../package-1/target/</directory>
@@ -294,7 +294,7 @@ well as the descriptor. The full example can be found [here](https://github.com/
 The solution of this problem is to remember that maven has a reactor which can be used for such purposes instead of the
 file level. This will simplify the descriptor [dramatically like this](https://github.com/khmarbaise/assembly-examples/tree/master/assemblies-with-files-ten-mods):
 
-``` xml
+```xml
 <assembly xmlns="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0 https://maven.apache.org/xsd/assembly-1.1.0.xsd">

@@ -15,7 +15,7 @@ Twitter's Bootstrap 2.3.2.
 Please be aware of the new location of our issue tracker
 which has been moved from Codehaus to Apache Software Foundation
 
-``` xml
+```xml
 <skin>
   <groupId>org.apache.maven.skins</groupId>
   <artifactId>maven-fluido-skin</artifactId>

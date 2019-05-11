@@ -110,7 +110,7 @@ for further development at [MojoHaus][mojohaus]
 The first thing you need to do is to add an approriate `distributionManagement` like
 the following:
 
-``` xml
+```xml
 <distributionManagement>
   <site>
     <id>github</id>
@@ -123,7 +123,7 @@ Apart from the above you have to use the [maven-site-plugin in version
 3.4][maven-site-plugin] Furthermore you have to add the following supplemental
 configuration for maven-site-plugin:
 
-``` xml
+```xml
 <pluginManagement>
   <plugins>
     <plugin>
@@ -147,7 +147,7 @@ In this case we define `scmBranch` to point to `gh-pages` which is the default b
 serves content from. This might be changed if you are on the organization level where the `master`
 branch is used for that.
 
-``` xml
+```xml
 <build>
   <pluginManagement>
     <plugins>

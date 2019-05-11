@@ -23,7 +23,7 @@ Important Notes since Version 3.0.0
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-help-plugin</artifactId>

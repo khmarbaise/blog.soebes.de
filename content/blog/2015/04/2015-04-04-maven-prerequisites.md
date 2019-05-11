@@ -18,7 +18,7 @@ Maven version to build with. I have to emphasize the build time.
 One thing would be to define a prerequisites for your project which
 uses the new Maven 3.3.1 features like this in your pom.xml:
 
-``` xml
+```xml
 <project xmlns="https://maven.apache.org/POM/4.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="https://maven.apache.org/POM/4.0.0
@@ -42,7 +42,7 @@ produces weird results. So the real questions comes up. What to do?
 The simple solution for this problem is the [maven-enforcer-plugin][6].
 By using the following in your pom file:
 
-``` xml
+```xml
 <build>
   <plugins>
     ...

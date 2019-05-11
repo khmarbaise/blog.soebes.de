@@ -15,7 +15,7 @@ projects. This is usually done in an integration or release environment. It can
 also be used to deploy a particular artifact (e.g. a third party jar like Sun's
 non redistributable reference implementations).
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-deploy-plugin</artifactId>

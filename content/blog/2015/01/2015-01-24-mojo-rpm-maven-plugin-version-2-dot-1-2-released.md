@@ -23,7 +23,7 @@ process (the plugin collects the files and "installs" them for packaging).
 To get this update, simply specify the version in your project's plugin
 configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>rpm-maven-plugin</artifactId>

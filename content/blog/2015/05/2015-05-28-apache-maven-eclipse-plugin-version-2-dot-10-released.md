@@ -18,7 +18,7 @@ This release is the last one supporting Maven 2.
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-eclipse-plugin</artifactId>

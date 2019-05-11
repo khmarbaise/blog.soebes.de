@@ -10,7 +10,7 @@ The Apache Maven team is pleased to announce the release of the
 [Apache Maven Changes Plugin, Version 2.12](https://maven.apache.org/plugins/maven-changes-plugin).
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-changes-plugin</artifactId>

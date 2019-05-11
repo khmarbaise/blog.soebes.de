@@ -14,7 +14,7 @@ local repository. The Install Plugin uses the information in the POM (groupId,
 artifactId, version) to determine the proper location for the artifact within
 the local repository.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-install-plugin</artifactId>

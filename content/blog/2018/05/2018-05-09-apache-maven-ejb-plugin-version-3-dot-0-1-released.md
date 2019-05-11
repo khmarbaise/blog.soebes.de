@@ -17,7 +17,7 @@ Important Note since 3.0.1:
  * Maven 3.X only
  * JDK 7 minimum requirement
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-ejb-plugin</artifactId>

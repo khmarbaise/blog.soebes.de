@@ -26,7 +26,7 @@ Usage Note:
  * Use the maven-install-plugin 3.0.0-M1 only in combination
    with the maven-deploy-plugin 3.0.0-M1.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-install-plugin</artifactId>

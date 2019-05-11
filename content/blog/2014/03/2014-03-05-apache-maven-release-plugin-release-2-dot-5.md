@@ -16,13 +16,13 @@ This plugin automates release management.
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-release-plugin</artifactId>
   <version>2.5</version>
 </plugin>
-``` xml
+```xml
 
 <!-- more -->
 

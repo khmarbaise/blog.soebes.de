@@ -12,7 +12,7 @@ The Apache Maven team is pleased to announce the release of the
 This project aims to be a functional replacement for plexus-utils in Maven.
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-shared-utils</artifactId>

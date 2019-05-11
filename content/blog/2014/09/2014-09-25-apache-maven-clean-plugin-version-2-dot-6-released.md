@@ -12,7 +12,7 @@ The Apache Maven team is pleased to announce the release of the
 The Clean Plugin is used when you want to remove files generated at build-time
 in a project's directory.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-clean-plugin</artifactId>

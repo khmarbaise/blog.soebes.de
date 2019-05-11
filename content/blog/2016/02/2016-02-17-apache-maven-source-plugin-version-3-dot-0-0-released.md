@@ -13,7 +13,7 @@ The Source Plugin creates a jar archive of the source files of the current
 project. The jar file is, by default, created in the project's target
 directory.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-source-plugin</artifactId>

@@ -11,7 +11,7 @@ The Apache Maven team is pleased to announce the release of the
 
 An API to install, deploy and resolving artifacts with Maven3
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-artifact-transfer</artifactId>

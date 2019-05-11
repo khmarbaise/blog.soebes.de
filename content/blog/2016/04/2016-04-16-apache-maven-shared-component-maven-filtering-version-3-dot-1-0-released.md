@@ -19,7 +19,7 @@ Important Note since Version 3.0.0:
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-filtering</artifactId>

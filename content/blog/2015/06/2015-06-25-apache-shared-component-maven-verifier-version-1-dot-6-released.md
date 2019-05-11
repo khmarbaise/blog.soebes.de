@@ -11,7 +11,7 @@ The Apache Maven team is pleased to announce the release of the
 
 You should specify the version in your project's dependencies configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-verifier</artifactId>

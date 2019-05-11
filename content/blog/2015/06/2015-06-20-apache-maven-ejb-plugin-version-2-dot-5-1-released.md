@@ -13,7 +13,7 @@ This plugin generates J2EE Enterprise Javabean (EJB) file as well as the
 associated client jar.
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-ejb-plugin</artifactId>

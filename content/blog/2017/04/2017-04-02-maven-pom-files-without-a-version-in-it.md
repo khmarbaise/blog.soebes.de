@@ -14,7 +14,7 @@ and now you can define the version of a project by using the following propertie
 `${revision}`, `${sha1}` and `${changelist}`. The example below will show one 
 usage of this:
 
-``` xml
+```xml
   ..
   <parent>
     <groupId>com.soebes.smpp</groupId>
@@ -35,7 +35,7 @@ combine the different properties.
 The above is a parent of a larger multi module build which contains serveral childs which look
 like this:
 
-``` xml
+```xml
 
   <modelVersion>4.0.0</modelVersion>
 
@@ -94,7 +94,7 @@ mvn clean package -Drevision=2.0.0-SNAPSHOT
 What kind of alternatives exist? You can of course define your version of your
 project as a property within your pom file itself.
 
-``` xml
+```xml
   ..
   <parent>
     <groupId>com.soebes.smpp</groupId>

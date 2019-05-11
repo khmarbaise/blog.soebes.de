@@ -13,7 +13,7 @@ brought me to think about how I could improve the code.
 So I thought several times about my code and while looking for example into my
 unit/integrations tests I found the following code snippet:
 
-``` java
+```java
 AccessRules rules = new AccessRules();
 
 AccessRule rule1 = new AccessRule("/");
@@ -38,7 +38,7 @@ rules.add(rule1);
  is from the user`s point of view much more convenient, simpler to read and
  of course better to understand.
 
-``` java
+```java
 AccessRules accessRules = new AccessRules.Builder()
     .forRepository("/")
     .forUser("*").and("harry").and("brian")
@@ -49,7 +49,7 @@ AccessRules accessRules = new AccessRules.Builder()
  The only things I had to do was to write some supplemental code to get to the above result.
  The following code lines are needed for the ```.forRepository("...")``` part.
 
-``` java
+```java
 public static class Builder {
     private AccessRules accessRules;
 
@@ -72,7 +72,7 @@ public static class Builder {
   The next step was to get the ```.forUser("..")``` working which can be achieved by the following
   code part:
 
-``` java
+```java
 public static class AccessRuleBuilder {
     private Builder builder;
     private AccessRule rule;
@@ -92,7 +92,7 @@ public static class AccessRuleBuilder {
  ```.and("..")``` and the last line ```.with(AccessLeve.READ)```.
 
 
-``` java
+```java
 public static class UserBuilder {
     private List<User> userList;
     private AccessRule accessRule;

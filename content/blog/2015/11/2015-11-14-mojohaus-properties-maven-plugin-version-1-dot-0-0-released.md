@@ -15,7 +15,7 @@ write properties to files, and also to set system properties.
 
 You should specify the version in your projects dependencies:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>properties-maven-plugin</artifactId>

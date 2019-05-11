@@ -18,7 +18,7 @@ You can also now use a [keystore from any url](http://jira.codehaus.org/browse/M
 To get this update, simply specify the version in your project`s
 plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>webstart-maven-plugin</artifactId>

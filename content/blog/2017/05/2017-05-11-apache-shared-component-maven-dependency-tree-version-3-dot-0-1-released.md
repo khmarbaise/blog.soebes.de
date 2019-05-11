@@ -11,7 +11,7 @@ The Apache Maven team is pleased to announce the release of the
 
 A tree-based API for resolution of Maven project dependencies.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-dependency-tree</artifactId>

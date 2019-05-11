@@ -16,13 +16,13 @@ FindBugs uses static analysis to inspect Java bytecode for occurrences of bug pa
 To get this update, simply specify the version in your project's plugin configuration: 
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>findbugs-maven-plugin</artifactId>
   <version>3.0.0</version>
 </plugin>
-``` xml
+```xml
 
 <!-- more -->
 

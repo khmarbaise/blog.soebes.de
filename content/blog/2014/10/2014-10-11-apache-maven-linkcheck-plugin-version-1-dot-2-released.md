@@ -12,7 +12,7 @@ The Apache Maven team is pleased to announce the release of the
 This plug-in allows you to generate a Linkcheck report of your project's
 documentation using the Doxia Linkcheck Tool.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-linkcheck-plugin</artifactId>

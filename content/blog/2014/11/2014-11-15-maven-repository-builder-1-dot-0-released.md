@@ -18,7 +18,7 @@ the Maven Assembly Plugin assembly descriptor.
 You can use the repository builder library in your own project by
 adding the following dependency:
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-repository-builder</artifactId>

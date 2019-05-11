@@ -26,7 +26,7 @@ The uptodate-maven-plugin is available via
 [Maven Central](http://search.maven.org/#search|ga|1|a%3A%22uptodate-maven-plugin%22).
 
 
-``` xml
+```xml
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>
   <artifactId>uptodate-maven-plugin</artifactId>

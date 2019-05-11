@@ -19,7 +19,7 @@ within [plexus-utils](https://codehaus-plexus.github.io/plexus-utils/), but has
 been separated in order to allow these two libraries to vary independently of
 one another.
 
-``` xml
+```xml
 <dependency>
   <groupId>org.codehaus.plexus</groupId>
   <artifactId>plexus-interpolation</artifactId>

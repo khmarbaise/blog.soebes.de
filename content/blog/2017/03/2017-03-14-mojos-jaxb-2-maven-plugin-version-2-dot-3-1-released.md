@@ -14,7 +14,7 @@ The Mojo team is pleased to announce the release of
 
 To get this update, simply specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>jaxb2-maven-plugin</artifactId>

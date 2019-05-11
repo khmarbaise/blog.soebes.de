@@ -15,7 +15,7 @@ you will have a build number that can uniquely identify each build during that t
 
 To get this update, simply specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>buildnumber-maven-plugin</artifactId>

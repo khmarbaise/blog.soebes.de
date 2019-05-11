@@ -16,7 +16,7 @@ You can download the appropriate sources etc. from the download page:
  
 https://maven.apache.org/plugins/maven-site-plugin/download.cgi
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-site-plugin</artifactId>

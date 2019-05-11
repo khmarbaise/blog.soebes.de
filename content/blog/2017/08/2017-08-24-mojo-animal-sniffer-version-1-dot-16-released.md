@@ -16,7 +16,7 @@ compiled with a newer JDK/API are compatible with an older JDK/API.
 
 You must update your pom
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>animal-sniffer-maven-plugin</artifactId>

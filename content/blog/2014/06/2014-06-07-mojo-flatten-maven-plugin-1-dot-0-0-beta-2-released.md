@@ -16,7 +16,7 @@ and deploy this one instead of the original pom.xml.
 
 To get this update, simply specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>flatten-maven-plugin</artifactId>

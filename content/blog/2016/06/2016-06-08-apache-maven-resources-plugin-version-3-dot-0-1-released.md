@@ -16,7 +16,7 @@ Important Note:
  * JDK 6 minimum requirement
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-resources-plugin</artifactId>

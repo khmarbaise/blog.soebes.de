@@ -10,7 +10,7 @@ The Apache Maven team is pleased to announce the release of the
 [Apache Shared Component: Apache Maven Dependency Tree Version 3.0](https://maven.apache.org/shared/maven-dependency-tree/)
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-dependency-tree</artifactId>

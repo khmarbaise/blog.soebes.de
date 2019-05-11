@@ -19,7 +19,7 @@ This release has now Maven minimum 2.2.1 and JDK 6.
 To get this update, simply specify the version in your project's plugin
 configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>mrm-maven-plugin</artifactId>

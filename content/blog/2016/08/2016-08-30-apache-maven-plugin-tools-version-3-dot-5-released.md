@@ -22,7 +22,7 @@ https://maven.apache.org/plugin-tools/maven-plugin-plugin/
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-plugin-plugin</artifactId>

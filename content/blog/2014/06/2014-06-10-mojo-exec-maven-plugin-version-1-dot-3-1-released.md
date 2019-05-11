@@ -15,7 +15,7 @@ This plugin provides 2 goals to help execute system and Java programs.
 To get this update, simply specify the version in your project's plugin
 configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>exec-maven-plugin</artifactId>

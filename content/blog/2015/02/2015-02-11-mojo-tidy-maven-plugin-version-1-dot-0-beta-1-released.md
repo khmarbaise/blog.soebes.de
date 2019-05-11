@@ -16,7 +16,7 @@ pom.xml into the canonical order.
 To get this update, simply specify the version in your project's
 plugin configuration:
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>tidy-maven-plugin</artifactId>

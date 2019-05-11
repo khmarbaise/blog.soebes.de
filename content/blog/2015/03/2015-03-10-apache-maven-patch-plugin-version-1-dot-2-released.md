@@ -12,7 +12,7 @@ The Apache Maven team is pleased to announce the release of the
 The Patch Plugin is used to apply patches to source files.
 
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-patch-plugin</artifactId>

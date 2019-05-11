@@ -44,10 +44,10 @@ groupId=${project.groupId}
 artifactId=${project.artifactId}
 ```
 
-They can be extracted by Java code like the following:
+They can be extracted by Java code [like the following](https://github.com/khmarbaise/version-examples/tree/master/version-example-i/src/main/java/com/soebes/examples/TheVersionClass.java):
 
-
-``` java The pom.properties way https://github.com/khmarbaise/version-examples/tree/master/version-example-i/src/main/java/com/soebes/examples/TheVersionClass.java
+The pom.properties way:
+```java
 public class TheVersionClass
 {
     ..
@@ -75,9 +75,11 @@ public class TheVersionClass
 #The MANIFEST.MF File#
 
  In Java there exists a possibility to extract information from the ```MANIFEST.MF``` by using simple code lines
- like the following:
+ [like the following](https://github.com/khmarbaise/version-examples/tree/master/version-example-ii/src/main/java/com/soebes/examples/TheVersionClass.java):
 
-``` java "The MANIFEST.MF way" https://github.com/khmarbaise/version-examples/tree/master/version-example-ii/src/main/java/com/soebes/examples/TheVersionClass.java
+
+java 
+```java
 public class TheVersionClass {
     public TheVersionClass() {
         System.out.println( "  Implementation Title:" + this.getClass().getPackage().getImplementationTitle() );
@@ -94,7 +96,7 @@ public class TheVersionClass {
  these information are not written to the ```MANIFEST.MF``` file. This can simply be fixed by 
  using the [following pom snippet](https://github.com/khmarbaise/version-examples/tree/master/version-example-ii/pom.xml):
 
-```xml 
+```xml
 <build>
   <pluginManagement>
     <plugins>
@@ -121,17 +123,16 @@ public class TheVersionClass {
 #The Filtered Property File#
 
 Apart from the above methods you can of course define a simple ```version.properties``` 
-file within ```src/main/resources``` with any contens you like:
+file within ```src/main/resources``` with [any contens you like](https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/src/main/resources/version.properties):
 
-
-``` text version.properties https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/src/main/resources/version.properties
+```text 
 version=${project.version}
 groupId=${project.groupId}
 artifactId=${project.artifactId}
 ``` 
 
 You need to setup filtering in your [project like this](https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/pom.xml):
-``` xml 
+```xml
 <build>
   <resources>
     <resource>
@@ -148,7 +149,7 @@ You need to setup filtering in your [project like this](https://github.com/khmar
 The entries can be extracted by [Java code like the following](https://github.com/khmarbaise/version-examples/tree/master/version-example-iii/src/main/java/com/soebes/examples/TheVersionClass.java)
 which is more or less exactly the same as before (except for the path):
 
-``` java The version.properties way
+```java
 public class TheVersionClass
 {
     ..
@@ -176,9 +177,9 @@ public class TheVersionClass
  can be used to create a class which contains the appropriate informations.
 
  The first step is to create a template file within the following location ```src/main/java-templates``` 
- like the following:
+ [like the following](https://github.com/khmarbaise/version-examples/tree/master/version-example-iv/src/main/java-templates/com/soebes/examples/Version.java):
 
-``` java Java Template File https://github.com/khmarbaise/version-examples/tree/master/version-example-iv/src/main/java-templates/com/soebes/examples/Version.java
+```java 
 public final class Version {
 
     private static final String VERSION = "${project.version}";
@@ -204,7 +205,7 @@ public final class Version {
  make sure it will be compiled by the [maven-compiler-plugin](https://maven.apache.org/plugins/maven-compiler-plugin/).
  See https://github.com/khmarbaise/version-examples/tree/master/version-example-iv/pom.xml:
  
-``` xml 
+```xml
 <plugins>
   <plugin>
     <groupId>org.codehaus.mojo</groupId>
@@ -226,4 +227,3 @@ public final class Version {
  the problem solved. It depends you which you decide to use.
  All the above examples can be found on [github repository](https://github.com/khmarbaise/version-examples)
  with running integration tests to show the results.
-

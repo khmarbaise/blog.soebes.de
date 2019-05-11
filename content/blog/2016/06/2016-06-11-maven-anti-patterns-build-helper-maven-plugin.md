@@ -8,7 +8,7 @@ categories: [BM,Maven,Maven Best Practice]
 ---
 In Maven builds I often see a pattern like the following:
 
-``` xml
+```xml
 <plugins>
   <plugin>
     <groupId>group</groupId>
@@ -45,7 +45,7 @@ code for example [ANTLR4 Maven Plugin][antlr4-maven-plugin],
 to mention a few examples here.
 
 Usually this can be reduced to the following:
-``` xml
+```xml
 <plugins>
   <plugin>
     <groupId>group</groupId>

@@ -13,7 +13,7 @@ This component provides some utilities to sign/verify jars/files in your Mojos.
 
 You should specify the version in your project's plugin configuration:
 
-``` xml
+```xml
 <dependency>
   <groupId>org.apache.maven.shared</groupId>
   <artifactId>maven-jarsigner</artifactId>

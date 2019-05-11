@@ -13,7 +13,7 @@ Mojo's Cassandra Plugin is used when you want to control a test
 instance of [Apache Cassandra](http://cassandra.apache.org/) 
 from within your Apache Maven build.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>cassandra-maven-plugin</artifactId>

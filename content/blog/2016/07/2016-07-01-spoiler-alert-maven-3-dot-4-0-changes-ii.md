@@ -24,7 +24,7 @@ forkes the life cycle. So a typical workaorund is to detach the maven-source-plu
 form the life cycle via the following:
 
 
-``` xml
+```xml
   <pluginManagment>
     <plugins>
       ..
@@ -48,7 +48,7 @@ form the life cycle via the following:
 But to keep generating a source package during the release you need to add
 the following to your pom file:
 
-``` xml
+```xml
   <plugins>
     <plugin>
       <inherited>true</inherited>

@@ -13,7 +13,7 @@ The Assembly Plugin for Maven is primarily intended to allow users to aggregate
 the project output along with its dependencies, modules, site documentation,
 and other files into a single distributable archive.
 
-``` xml
+```xml
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-assembly-plugin</artifactId>

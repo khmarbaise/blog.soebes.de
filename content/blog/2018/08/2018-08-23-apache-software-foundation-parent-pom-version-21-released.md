@@ -11,7 +11,7 @@ The Apache Maven team is pleased to announce the release of the
 
 You should specify the version in your project as parent like the following:
 
-``` xml
+```xml
 <parent>
    <groupId>org.apache</groupId>
    <artifactId>apache</artifactId>

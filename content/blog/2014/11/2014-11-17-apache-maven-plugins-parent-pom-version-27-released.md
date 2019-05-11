@@ -15,7 +15,7 @@ of the Maven plugins in the Apache Maven project.
 To use this parent, you should specify the version in your project's
 plugin configuration:
 
-``` xml
+```xml
 <parent>
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-plugins</artifactId>

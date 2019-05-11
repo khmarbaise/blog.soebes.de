@@ -9,7 +9,7 @@ categories: [Neuigkeiten,BM,Android,Maven,Maven-Plugins,Maven-Plugin-Releases]
 The Android Maven Plugin team is pleased to announce the release of 
 [version 4.3.0 of the plugin](http://simpligility.github.io/android-maven-plugin/):
 
-``` xml
+```xml
 <plugin>
   <groupId>com.simpligility.maven.plugins</groupId>
   <artifactId>android-maven-plugin</artifactId>

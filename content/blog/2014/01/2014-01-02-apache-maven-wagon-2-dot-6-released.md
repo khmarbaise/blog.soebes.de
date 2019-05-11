@@ -14,7 +14,7 @@ The Wagon component provides communications between Maven and repositories.
 Typically, to use a particular version of Wagon, you would add an
 'extension' to your POM, such as:
 
-``` xml
+```xml
 <extensions>
     <extension>
         <groupId>org.apache.maven.wagon</groupId>
