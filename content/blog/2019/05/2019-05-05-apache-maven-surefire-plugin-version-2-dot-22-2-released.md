@@ -10,7 +10,7 @@ The Apache Maven team is pleased to announce the release of the
 [Apache Maven Surefire Plugin, version 2.22.2](https://maven.apache.org/plugins/maven-surefire-plugin/).
 
 
-The release contains 17 bug fixes.
+The release contains 1 bug fixes.
 Again we received contributions from the community in form of bug reports
 and bug fixes.
 Thank you and keep them coming!
@@ -51,7 +51,7 @@ or for surefire-report:
 
 Bugs:
 
- * {%ajl SUREFIRE-1614 %}- JUnit Runner that writes to System.out corrupts Surefire's STDOUT when using JUnit's Vintage Engine
+ * [SUREFIRE-1614](https://issues.apache.org/jira/browse/SUREFIRE-1614) - JUnit Runner that writes to System.out corrupts Surefire's STDOUT when using JUnit's Vintage Engine
 
 Enjoy,
 
