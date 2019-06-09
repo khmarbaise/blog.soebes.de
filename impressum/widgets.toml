@@ -1,0 +1,6 @@
+# Sidebar Menu Widget config
+[sidebar_menu]
+title = ""                            # default: ""
+mirror = ""                           # default: ""
+
+sidebar = ["impressum","datenschutz", "links", "uhrheberecht"]

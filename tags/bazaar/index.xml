@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bazaar on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/bazaar/</link>
+    <description>Recent content in Bazaar on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Oct 2010 13:09:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/bazaar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bazaar 2.2.1 Released</title>
+      <link>http://localhost:1313/blog/2010/2010-10-02-bazaar-2-2-1-released/</link>
+      <pubDate>Sat, 02 Oct 2010 13:09:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-02-bazaar-2-2-1-released/</guid>
+      <description>Es gibt eine neue Release 2.2.1 von Bazaar. Die entsprechenden Downloads für Linux, Mac und Windows sind auch verfügbar.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.18</title>
+      <link>http://localhost:1313/blog/2009/2009-08-22-bazaar-release-1-18/</link>
+      <pubDate>Sat, 22 Aug 2009 21:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-08-22-bazaar-release-1-18/</guid>
+      <description>Es gibt ein Update von Bazaar.
+Die neue Release 1.18 enthält wieder einmal eine menge von Verbesserungen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.17 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-07-29-bazaar-release-1-17-erschienen/</link>
+      <pubDate>Wed, 29 Jul 2009 09:27:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-29-bazaar-release-1-17-erschienen/</guid>
+      <description>Es gibt ein Update von Bazaar.
+Die neue Release 1.17 enthält wieder einmal eine menge von Verbesserungen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.16.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-07-12-bazaar-release-1-16-1-erschienen/</link>
+      <pubDate>Sun, 12 Jul 2009 14:07:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-12-bazaar-release-1-16-1-erschienen/</guid>
+      <description>Es gibt ein Update von Bazaar.
+Die neue Release 1.16.1 enthält wieder einmal eine menge von Verbesserungen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.14</title>
+      <link>http://localhost:1313/blog/2009/2009-05-02-bazaar-release-1-14/</link>
+      <pubDate>Sat, 02 May 2009 13:08:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-02-bazaar-release-1-14/</guid>
+      <description>Vom Verteilten Versionskontroll System Bazaar ist eine neue Release ausgegeben worden. Die Release Notes geben wieder eine Übersicht was sich alles geändert hat. Im download Bereich sind die verschiedensten Binaries zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.12</title>
+      <link>http://localhost:1313/blog/2009/2009-02-14-bazaar-release-1-12/</link>
+      <pubDate>Sat, 14 Feb 2009 14:45:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-14-bazaar-release-1-12/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.11 sind wieder eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Vergleich von SVN mit Git, Bazaar, Mercurial</title>
+      <link>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</link>
+      <pubDate>Wed, 04 Feb 2009 20:05:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</guid>
+      <description>Habe durch zufall einen interessanten Vergleich von Git, Bazaar und Mercurial mit SVN gefunden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.11</title>
+      <link>http://localhost:1313/blog/2009/2009-01-20-bazaar-release-1-11/</link>
+      <pubDate>Tue, 20 Jan 2009 12:27:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-20-bazaar-release-1-11/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System.
+Seit der Release 1.10 sind wieder eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.10</title>
+      <link>http://localhost:1313/blog/2008/2008-12-19-bazaar-release-1-10/</link>
+      <pubDate>Fri, 19 Dec 2008 16:32:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-19-bazaar-release-1-10/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.9 sind wieder eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.9</title>
+      <link>http://localhost:1313/blog/2008/2008-11-28-bazaar-release-1-9/</link>
+      <pubDate>Fri, 28 Nov 2008 16:31:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-28-bazaar-release-1-9/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.8 sind eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.8</title>
+      <link>http://localhost:1313/blog/2008/2008-10-23-bazaar-release-1-8/</link>
+      <pubDate>Thu, 23 Oct 2008 09:56:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-23-bazaar-release-1-8/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.7 sind eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar 1.7 - Released</title>
+      <link>http://localhost:1313/blog/2008/2008-10-02-bazaar-1-7-released/</link>
+      <pubDate>Thu, 02 Oct 2008 09:58:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-02-bazaar-1-7-released/</guid>
+      <description>Es ist eine neue Release der verteilten Versionskontrolle Bazaar erschienen.
+Die Release 1.7 enthält ein menge neuerungen und Bug Fixes. Genaues ist im ChangeLog zu lesen.
+Es gibt auch wieder entsprechende Downloads für Windows, Mac OS X 10.5, Mac OS X 10.4 und als Source Code.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar 1.6</title>
+      <link>http://localhost:1313/blog/2008/2008-08-30-bazaar-1-6/</link>
+      <pubDate>Sat, 30 Aug 2008 12:39:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-30-bazaar-1-6/</guid>
+      <description>Das Bazaar Team hat die neue Release 1.6 heraus gegeben.
+Die lang erwartete bzr 1.6 Release enthält neue Features wie z.B. &amp;ldquo;Stacked Branches&amp;rdquo;, Erweiterten &amp;ldquo;weave merge&amp;rdquo; und eine neue Server Protokoll version (V3).
+Die Release 1.6 für Windows enthält auch den TortoiseBzr</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.5</title>
+      <link>http://localhost:1313/blog/2008/2008-05-22-bazaar-release-1-5/</link>
+      <pubDate>Thu, 22 May 2008 16:17:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-05-22-bazaar-release-1-5/</guid>
+      <description>Es gibt eine neue Release von Bazaar. Der ChangeLog zur Release 1.5. gibt wieder Auskunft über die Änderungen die gemacht wurden. Hier sind noch detailiertere Infos zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.4</title>
+      <link>http://localhost:1313/blog/2008/2008-05-10-bazaar-release-1-4/</link>
+      <pubDate>Sat, 10 May 2008 19:59:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-05-10-bazaar-release-1-4/</guid>
+      <description>Es gibt eine neue Release von Bazaar. Der ChangeLog zur Release 1.4. gibt wieder Auskunft über die Änderungen die gemacht wurden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.3.1 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-04-10-bazaar-release-1-3-1-erschienen/</link>
+      <pubDate>Thu, 10 Apr 2008 22:19:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-10-bazaar-release-1-3-1-erschienen/</guid>
+      <description>Nun gibt es auch wieder eine neue Release von Bazaar, dem verteilten Versionskontrollsystem. Die Änderungen können im ChangeLog nachgelesen werden. Eine Übersicht über die Neuerungen der Release kann man in den Release Notes lesen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar VCS 1.3 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-28-bazaar-vcs-1-3-erschienen/</link>
+      <pubDate>Fri, 28 Mar 2008 20:19:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-28-bazaar-vcs-1-3-erschienen/</guid>
+      <description>Nun gibt es auch wieder eine neue Release von Bazaar, dem verteilten Versionskontrollsystem. Die Änderungen können im ChangeLog nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.2 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-17-bazaar-release-1-2-erschienen/</link>
+      <pubDate>Mon, 17 Mar 2008 01:11:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-17-bazaar-release-1-2-erschienen/</guid>
+      <description>Auch von Bazaar gibt es nun eine neue Release. Änderungen etc. können im ChangeLog nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.0 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-12-14-bazaar-release-1-0-erschienen/</link>
+      <pubDate>Fri, 14 Dec 2007 21:53:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-14-bazaar-release-1-0-erschienen/</guid>
+      <description>Es ist so weit. Die Release 1.0 von Bazaar ist erschienen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Subversion Plugin 0.4.0 (Default</title>
+      <link>http://localhost:1313/blog/2007/2007-08-09-bazaar-subversion-plugin-0-4-0-default/</link>
+      <pubDate>Thu, 09 Aug 2007 20:11:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-09-bazaar-subversion-plugin-0-4-0-default/</guid>
+      <description>Es gibt wieder ein Update vom Subversion PlugIn für Bazaar.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Subversion PlugIn 0.3.5</title>
+      <link>http://localhost:1313/blog/2007/2007-07-25-bazaar-subversion-plugin-0-3-5/</link>
+      <pubDate>Wed, 25 Jul 2007 09:39:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-25-bazaar-subversion-plugin-0-3-5/</guid>
+      <description>Das Bazaar Subversion PlugIn wurde an die Bazaar Release 0.18 angepasst.</description>
+    </item>
+    
+  </channel>
+</rss>

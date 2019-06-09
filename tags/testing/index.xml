@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/testing/</link>
+    <description>Recent content in Testing on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Dec 2010 17:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hadoop Cluster Konfiguration</title>
+      <link>http://localhost:1313/blog/2010/2010-12-29-hadoop-cluster-konfiguration/</link>
+      <pubDate>Wed, 29 Dec 2010 17:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-12-29-hadoop-cluster-konfiguration/</guid>
+      <description>Derzeit habe ich zum Testen einen Hadoop Cluster bestehend aus drei Datanodes und einem Namenode aufgebaut.  Type RAM Harddisk CPU OS   Data Node (traveler) 2 GiB 140 GB Intel Core&amp;trade;2 DUO T7200 2.00 GHz Ubuntu 10.10 Netbook(Laptop) 32 Bit   Data Node (playhall) 4 GiB 620 GB Intel Core&amp;trade;2 DUO E8400 3.00 GHz Ubuntu 10.10 Desktop 32 Bit   Data Node (office) 4 GiB 900 GB Intel Core&amp;trade;2 DUO T7200 2.</description>
+    </item>
+    
+  </channel>
+</rss>

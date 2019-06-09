@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='In the meantime often people use Maven to build their software, but when it comes to the time to release an artifact, they sometimes do unusual things in my opinion. I have often observed that they manually set the version numbers to the release version (just removing the -SNAPSHOT) from it and build by hand and do the deploy the same way.
+But Maven is better than you think. Maven can do the whole thing within a single command.'>
+<meta name='theme-color' content='#6699cc'>
+
+<meta property='og:title' content='The Unknown creature - The Maven Release Cycle • Karl Heinz Marbaise'>
+<meta property='og:description' content='In the meantime often people use Maven to build their software, but when it comes to the time to release an artifact, they sometimes do unusual things in my opinion. I have often observed that they manually set the version numbers to the release version (just removing the -SNAPSHOT) from it and build by hand and do the deploy the same way.
+But Maven is better than you think. Maven can do the whole thing within a single command.'>
+<meta property='og:url' content='http://localhost:1313/blog/2011/2011-05-08-the-unknown-creature-the-maven-release-cycle/'>
+<meta property='og:site_name' content='A coders, hackers heaven.....Hm...I do not think so...'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/d9cd3f93adbfb7d88eb68f903aa22a51?s=256'><meta property='article:section' content='Blog'><meta property='article:tag' content='Neuigkeiten'><meta property='article:tag' content='Maven'><meta property='article:published_time' content='2011-05-08T11:18:54Z'/><meta property='article:modified_time' content='2011-05-08T11:18:54Z'/><meta name='twitter:card' content='summary'><meta name='twitter:creator' content='@khmarbaise'>
+
+<meta name="generator" content="Hugo 0.40.3" />
+
+  <title>The Unknown creature - The Maven Release Cycle • Karl Heinz Marbaise</title>
+  <link rel='canonical' href='http://localhost:1313/blog/2011/2011-05-08-the-unknown-creature-the-maven-release-cycle/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.67e9c12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6699cc;}
+</style>
+
+</head>
+
+
+<body class='page type-blog layout-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div>
+      <img class="soebeslogo" src='/images/weblogo.gif'>
+    </div>
+    
+    <h2 class='title site-title '>
+     
+    </h2>
+    <div class='desc'>
+    
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul><li class='item'>
+        <a href='/impressum/'>Impressum</a>
+      </li><li class='item'>
+        <a href='/categories/'>Categories</a>
+      </li><li class='item'>
+        <a href='/categories/'>Maven</a>
+      </li><li class='item'>
+        <a href='/categories/maven-best-practice/'>Maven Best Practices</a>
+      </li></ul>
+  </div>
+</nav>
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>A coders, hackers heaven.....Hm...I do not think so...</p><p class='desc site-desc'></p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>The Unknown creature - The Maven Release Cycle</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2011-05-08T11:18:54Z'>2011, May 08</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/khmarbaise'>Karl Heinz Marbaise</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+4 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  <p>In the meantime often people use <a href="https://maven.apache.org" target="_blank">Maven</a> to build their software, but when it comes to the time
+to release an artifact, they sometimes do unusual things in my opinion.  I have often observed that they manually set
+the version numbers to the release version (just removing the <code>-SNAPSHOT</code>) from it and build by hand and do the
+deploy the same way.</p>
+
+<p>But Maven is better than you think. Maven can do the whole thing within a single command.</p>
+
+<pre><code>mvn --batch-mode release:prepare release:perform
+</code></pre>
+
+<p>Let us take a detailed look on the above command which expresses calling two separate goals of the
+<a href="https://maven.apache.org/plugins/maven-release-plugin" target="_blank">Maven Release Plugin</a>. You can of course call the above
+command in two separate steps if you prefer that. Furthermore let us assume the artifact which will be released
+has the version <code>1.0.0-SNAPSHOT</code>.</p>
+
+<pre><code>mvn --batch-mode release:prepare
+</code></pre>
+
+<p>and furthermore</p>
+
+<pre><code>mvn --batch-mode release:perform
+</code></pre>
+
+<p>But now let us focus on the <code>release:prepare</code> goal what it exactly does:</p>
+
+<ul>
+<li>The <a href="https://maven.apache.org/plugins/maven-release-plugin/examples/prepare-release.html" target="_blank">release:prepare</a> will first check if your work area does not contain any uncommitted changes</li>
+<li>It will check that there are no SNAPSHOT dependencies</li>
+<li>It will change the version in the POMs from 1.0.0-SNAPSHOT to a new version 1.0.0</li>
+<li>Transform the SCM information in the POM to include the final destination of the tag</li>
+<li>Run the project tests against the modified POMs to confirm everything is in working order</li>
+<li>Commit the modified POMs</li>
+<li>Tag the code in the SCM with a version name</li>
+<li>Bump the version in the POMs to a new value 1.0.1-SNAPSHOT</li>
+<li>Commit the modified POMs</li>
+</ul>
+
+<p>These steps require some configuration in your POM which have to be configured in the right way to get the
+release:prepare work otherwise the release:prepare will fail.</p>
+
+<p>The most important thing is that your <a href="https://maven.apache.org/pom.html#SCM" target="_blank">SCM area in your POM</a>
+is correctly configured, cause release:prepare goal will make tags of your software automatically.
+The following example gives you an impression how the SCM area must look like if you are using GitHub.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;scm&gt;</span>
+  <span style="color:#f92672">&lt;connection&gt;</span>scm:git:git://github.com/khmarbaise/Maven-License-Verifier-Plugin.git<span style="color:#f92672">&lt;/connection&gt;</span>
+  <span style="color:#f92672">&lt;developerConnection&gt;</span>scm:git:git@github.com:khmarbaise/Maven-License-Verifier-Plugin.git<span style="color:#f92672">&lt;/developerConnection&gt;</span>
+  <span style="color:#f92672">&lt;url&gt;</span>https://github.com/khmarbaise/Maven-License-Verifier-Plugin<span style="color:#f92672">&lt;/url&gt;</span>
+<span style="color:#f92672">&lt;/scm&gt;</span></code></pre></div>
+<p>The following example will show you how it looks like if you are using Subversion:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;scm&gt;</span>
+    <span style="color:#f92672">&lt;connection&gt;</span>scm:svn:http://svn.apache.org/repos/asf/tika/trunk<span style="color:#f92672">&lt;/connection&gt;</span>
+    <span style="color:#f92672">&lt;developerConnection&gt;</span>scm:svn:https://svn.apache.org/repos/asf/tika/trunk<span style="color:#f92672">&lt;/developerConnection&gt;</span>
+    <span style="color:#f92672">&lt;url&gt;</span>http://svn.apache.org/viewvc/tika/trunk<span style="color:#f92672">&lt;/url&gt;</span>
+<span style="color:#f92672">&lt;/scm&gt;</span></code></pre></div>
+<p>After successfully running the release:prepare phase you continue with the <code>release:perform</code>.
+The <a href="https://maven.apache.org/plugins/maven-release-plugin/examples/perform-release.html" target="_blank">release:perform</a> will
+do the following:</p>
+
+<ul>
+<li>Checkout from an SCM URL with optional tag</li>
+<li>Run the predefined Maven goals to release the project (by default, deploy site-deploy)</li>
+</ul>
+
+<p>It is important to know that the above goals release:prepare and <code>release:perform</code> must be called inside the
+same project one after another. To get a successful run of the <code>release:perform</code> it is needed to correctly configure the
+<a href="https://maven.apache.org/pom.html#Distribution_Management" target="_blank">distributionManagement</a> area in your POM, cause Maven will
+deploy the artifact to the configured repository and will deploy the created site of the artifact to
+the appropriate site area as well.</p>
+
+<p>An example of an distributionManagement area looks like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;distributionManagement&gt;</span>
+    <span style="color:#f92672">&lt;repository&gt;</span>
+      <span style="color:#f92672">&lt;id&gt;</span>ossrh-staging<span style="color:#f92672">&lt;/id&gt;</span>
+      <span style="color:#f92672">&lt;url&gt;</span>http://oss.sonatype.org/service/local/staging/deploy/maven2<span style="color:#f92672">&lt;/url&gt;</span>
+    <span style="color:#f92672">&lt;/repository&gt;</span>
+    <span style="color:#f92672">&lt;snapshotRepository&gt;</span>
+      <span style="color:#f92672">&lt;id&gt;</span>ossrh-snapshots<span style="color:#f92672">&lt;/id&gt;</span>
+      <span style="color:#f92672">&lt;url&gt;</span>http://oss.sonatype.org/content/repositories/snapshots<span style="color:#f92672">&lt;/url&gt;</span>
+    <span style="color:#f92672">&lt;/snapshotRepository&gt;</span>
+    <span style="color:#f92672">&lt;site&gt;</span>
+      <span style="color:#f92672">&lt;id&gt;</span>site.supose.org<span style="color:#f92672">&lt;/id&gt;</span>
+      <span style="color:#f92672">&lt;url&gt;</span>scp://minden205.server4you.de:/usr/local/vhosts/site.supose.org/maven-license-verifier-plugin<span style="color:#f92672">&lt;/url&gt;</span>
+    <span style="color:#f92672">&lt;/site&gt;</span>
+<span style="color:#f92672">&lt;/distributionManagement&gt;</span></code></pre></div>
+<p>In the above case the configuration is of an artifact which will be released to Maven Central
+which cause some other <a href="https://maven.apache.org/guides/mini/guide-central-repository-upload.html" target="_blank">requirements to be fulfilled</a>.
+In particular the artifacts <a href="https://docs.sonatype.org/display/Repository/Sonatype+OSS+Maven+Repository+Usage+Guide" target="_blank">must be signed by gpg etc.</a>
+but if you are releasing within your company you can define your own standards.
+So if you configured everything well your release process will be very simple by just calling:</p>
+
+<pre><code>mvn --batch-mode release:prepare release:perform
+</code></pre>
+
+<p>But sometimes it happens that something is going wrong either in the release:prepare phase or during the
+release:perform. If your release process fails in the release:prepare phase you have to do an
+<a href="https://maven.apache.org/plugins/maven-release-plugin/examples/rollback-release.html" target="_blank">release:rollback</a>
+first, before doing anything else. You have to be aware of the fact
+that depending where the release:prepare process has failed a tag for your release has already been created.
+So you should check your version control whether the tag for the version has been created or not. If it has you have
+to manually remove that tag. If you don not do it that way the next time you try release:prepare will fail based on the
+existing tag.
+If you are just a beginner with the Maven Release process you should call the release:prepare and release:perform
+in two separate commands to be sure where the errors belong to.
+So after configuring etc. the parts in your POM a release of an artifact should not be a pain anymore.</p>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/neuigkeiten'>Neuigkeiten</a>, <a class='category' href='/categories/maven'>Maven</a></div>
+<div class='tags'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M20.59,13.41l-7.17,7.17a2,2,0,0,1-2.83,0L2,12V2H12l8.59,8.59A2,2,0,0,1,20.59,13.41Z"/>
+  <line x1="7" y1="7" x2="7" y2="7"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Tags: </span><a class='tag' href='/tags/neuigkeiten'>Neuigkeiten</a>, <a class='tag' href='/tags/maven'>Maven</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/blog/2011/2011-05-07-maven-license-verifier-plugin-release-0-4/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Maven License Verifier Plugin - Release 0.4</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/blog/2011/2011-05-28-vortrag-von-der-jugf-grundlagen-software-konfigurationsmanagement-online/'>
+        <span class='screen-reader-text'>Next post: </span>Vortrag von der JUGF: Grundlagen Software Konfigurationsmanagement online<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:info@soebes.de' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://gitlab.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Gitlab account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/karl-heinz-marbaise-17a15614' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+  <rect x="2" y="9" width="4" height="12"/>
+  <circle cx="4" cy="4" r="2"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+          <div class='copyright'>
+  <p>SoEBeS &copy; 2004-2019 SoftwareEntwicklung Beratung Schulung </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.0d92f56c.js'></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+
+</html>
+

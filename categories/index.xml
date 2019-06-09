@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Jun 2015 18:48:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android</title>
+      <link>http://localhost:1313/categories/android/</link>
+      <pubDate>Tue, 16 Jun 2015 18:48:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ant</title>
+      <link>http://localhost:1313/categories/ant/</link>
+      <pubDate>Mon, 17 Dec 2012 21:45:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/ant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache-Common</title>
+      <link>http://localhost:1313/categories/apache-common/</link>
+      <pubDate>Sun, 28 Sep 2014 13:22:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/apache-common/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asf</title>
+      <link>http://localhost:1313/categories/asf/</link>
+      <pubDate>Thu, 23 Aug 2018 09:23:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/asf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/categories/automation/</link>
+      <pubDate>Sun, 26 Aug 2018 17:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BM</title>
+      <link>http://localhost:1313/categories/bm/</link>
+      <pubDate>Thu, 02 May 2019 22:47:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/bm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bazaar</title>
+      <link>http://localhost:1313/categories/bazaar/</link>
+      <pubDate>Sat, 02 Oct 2010 13:09:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/bazaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practice</title>
+      <link>http://localhost:1313/categories/best-practice/</link>
+      <pubDate>Wed, 01 Jan 2014 01:23:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/best-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bm</title>
+      <link>http://localhost:1313/categories/bm/</link>
+      <pubDate>Thu, 02 May 2019 22:47:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/bm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bug/Issue Tracking</title>
+      <link>http://localhost:1313/categories/bug/issue-tracking/</link>
+      <pubDate>Thu, 09 Apr 2009 21:45:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/bug/issue-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI</title>
+      <link>http://localhost:1313/categories/ci/</link>
+      <pubDate>Sat, 16 Apr 2011 20:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVS</title>
+      <link>http://localhost:1313/categories/cvs/</link>
+      <pubDate>Mon, 19 May 2008 20:31:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/cvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClearCase</title>
+      <link>http://localhost:1313/categories/clearcase/</link>
+      <pubDate>Wed, 24 Feb 2010 12:57:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/clearcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:1313/categories/conference/</link>
+      <pubDate>Tue, 20 Aug 2013 12:45:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continious Delivery</title>
+      <link>http://localhost:1313/categories/continious-delivery/</link>
+      <pubDate>Sun, 26 Aug 2018 17:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/continious-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuum</title>
+      <link>http://localhost:1313/categories/continuum/</link>
+      <pubDate>Sat, 24 Nov 2007 23:40:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/continuum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DVCS</title>
+      <link>http://localhost:1313/categories/dvcs/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/dvcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darcs</title>
+      <link>http://localhost:1313/categories/darcs/</link>
+      <pubDate>Thu, 23 Oct 2008 10:08:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/darcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/categories/devops/</link>
+      <pubDate>Sun, 26 Aug 2018 17:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/categories/docker/</link>
+      <pubDate>Mon, 02 Oct 2017 19:30:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIT</title>
+      <link>http://localhost:1313/categories/git/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/categories/github/</link>
+      <pubDate>Fri, 12 Jun 2015 08:09:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradle</title>
+      <link>http://localhost:1313/categories/gradle/</link>
+      <pubDate>Sun, 17 Jun 2012 12:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/gradle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hadoop</title>
+      <link>http://localhost:1313/categories/hadoop/</link>
+      <pubDate>Sat, 19 Feb 2011 17:43:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hudson</title>
+      <link>http://localhost:1313/categories/hudson/</link>
+      <pubDate>Fri, 22 Apr 2011 16:29:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/hudson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrations Tests</title>
+      <link>http://localhost:1313/categories/integrations-tests/</link>
+      <pubDate>Thu, 19 Apr 2012 10:22:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/integrations-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivy</title>
+      <link>http://localhost:1313/categories/ivy/</link>
+      <pubDate>Mon, 17 Dec 2012 21:45:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/ivy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JDK9</title>
+      <link>http://localhost:1313/categories/jdk9/</link>
+      <pubDate>Tue, 06 Jun 2017 20:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/jdk9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JaGoSI</title>
+      <link>http://localhost:1313/categories/jagosi/</link>
+      <pubDate>Sun, 22 Jul 2007 22:43:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/jagosi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/categories/java/</link>
+      <pubDate>Thu, 28 Jul 2011 14:21:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>http://localhost:1313/categories/jenkins/</link>
+      <pubDate>Tue, 20 Dec 2016 20:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>http://localhost:1313/categories/maven/</link>
+      <pubDate>Sun, 02 Jun 2019 23:45:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>http://localhost:1313/categories/maven/</link>
+      <pubDate>Sun, 02 Jun 2019 23:45:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven Best Practice</title>
+      <link>http://localhost:1313/categories/maven-best-practice/</link>
+      <pubDate>Sat, 13 Oct 2018 16:30:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-best-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Components</title>
+      <link>http://localhost:1313/categories/maven-components/</link>
+      <pubDate>Sun, 10 Apr 2016 08:30:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Doxia</title>
+      <link>http://localhost:1313/categories/maven-doxia/</link>
+      <pubDate>Sun, 02 Jun 2019 23:45:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-doxia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Doxia-Release</title>
+      <link>http://localhost:1313/categories/maven-doxia-release/</link>
+      <pubDate>Sun, 02 Jun 2019 23:45:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-doxia-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Help-Plugin-Release</title>
+      <link>http://localhost:1313/categories/maven-help-plugin-release/</link>
+      <pubDate>Mon, 22 Apr 2019 12:45:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-help-plugin-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Help-plugin</title>
+      <link>http://localhost:1313/categories/maven-help-plugin/</link>
+      <pubDate>Mon, 22 Apr 2019 12:45:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-help-plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-JXR-Plugin</title>
+      <link>http://localhost:1313/categories/maven-jxr-plugin/</link>
+      <pubDate>Tue, 25 Sep 2018 22:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-jxr-plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-JXR-Plugin-Releases</title>
+      <link>http://localhost:1313/categories/maven-jxr-plugin-releases/</link>
+      <pubDate>Tue, 25 Sep 2018 22:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-jxr-plugin-releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Plugin-Releases</title>
+      <link>http://localhost:1313/categories/maven-plugin-releases/</link>
+      <pubDate>Tue, 28 May 2019 15:38:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-plugin-releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Plugins</title>
+      <link>http://localhost:1313/categories/maven-plugins/</link>
+      <pubDate>Tue, 28 May 2019 15:38:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Releases</title>
+      <link>http://localhost:1313/categories/maven-releases/</link>
+      <pubDate>Sat, 13 Apr 2019 12:45:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Resolver</title>
+      <link>http://localhost:1313/categories/maven-resolver/</link>
+      <pubDate>Fri, 15 Mar 2019 17:25:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-resolver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Resolver-Release</title>
+      <link>http://localhost:1313/categories/maven-resolver-release/</link>
+      <pubDate>Fri, 15 Mar 2019 17:25:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-resolver-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Shared</title>
+      <link>http://localhost:1313/categories/maven-shared/</link>
+      <pubDate>Thu, 28 Feb 2019 22:31:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-shared/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Shared-Archiver</title>
+      <link>http://localhost:1313/categories/maven-shared-archiver/</link>
+      <pubDate>Sun, 24 Feb 2019 23:34:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-shared-archiver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Shared-Archiver-Release</title>
+      <link>http://localhost:1313/categories/maven-shared-archiver-release/</link>
+      <pubDate>Sun, 24 Feb 2019 23:34:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-shared-archiver-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Shared-Release</title>
+      <link>http://localhost:1313/categories/maven-shared-release/</link>
+      <pubDate>Sun, 24 Feb 2019 23:34:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-shared-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Shared-Utils</title>
+      <link>http://localhost:1313/categories/maven-shared-utils/</link>
+      <pubDate>Sat, 10 Feb 2018 15:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-shared-utils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Shared-Utils-Release</title>
+      <link>http://localhost:1313/categories/maven-shared-utils-release/</link>
+      <pubDate>Sat, 10 Feb 2018 15:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-shared-utils-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Wagon</title>
+      <link>http://localhost:1313/categories/maven-wagon/</link>
+      <pubDate>Thu, 02 Jan 2014 19:44:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-wagon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-Wagon-Release</title>
+      <link>http://localhost:1313/categories/maven-wagon-release/</link>
+      <pubDate>Thu, 02 Jan 2014 19:44:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-wagon-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven-plugins</title>
+      <link>http://localhost:1313/categories/maven-plugins/</link>
+      <pubDate>Tue, 28 May 2019 15:38:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/maven-plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercurial</title>
+      <link>http://localhost:1313/categories/mercurial/</link>
+      <pubDate>Sun, 29 Aug 2010 18:55:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/mercurial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MojoHaus</title>
+      <link>http://localhost:1313/categories/mojohaus/</link>
+      <pubDate>Tue, 27 Mar 2018 17:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/mojohaus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monotone</title>
+      <link>http://localhost:1313/categories/monotone/</link>
+      <pubDate>Sat, 16 May 2009 20:48:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/monotone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neue Versionen</title>
+      <link>http://localhost:1313/categories/neue-versionen/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/neue-versionen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuigkeiten</title>
+      <link>http://localhost:1313/categories/neuigkeiten/</link>
+      <pubDate>Thu, 02 May 2019 22:47:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/neuigkeiten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/categories/news/</link>
+      <pubDate>Sun, 02 Jun 2019 23:45:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nexus</title>
+      <link>http://localhost:1313/categories/nexus/</link>
+      <pubDate>Mon, 02 Oct 2017 19:30:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/nexus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>http://localhost:1313/categories/php/</link>
+      <pubDate>Thu, 25 Oct 2007 12:47:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POM</title>
+      <link>http://localhost:1313/categories/pom/</link>
+      <pubDate>Thu, 24 Oct 2013 19:15:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/pom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POM-Releases</title>
+      <link>http://localhost:1313/categories/pom-releases/</link>
+      <pubDate>Mon, 17 Nov 2014 22:02:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/pom-releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parent-poms</title>
+      <link>http://localhost:1313/categories/parent-poms/</link>
+      <pubDate>Sat, 15 Sep 2018 22:05:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/parent-poms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plastic SCM</title>
+      <link>http://localhost:1313/categories/plastic-scm/</link>
+      <pubDate>Thu, 09 Aug 2007 19:32:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/plastic-scm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plexus-Components</title>
+      <link>http://localhost:1313/categories/plexus-components/</link>
+      <pubDate>Sat, 02 Jun 2018 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/plexus-components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PlugIn</title>
+      <link>http://localhost:1313/categories/plugin/</link>
+      <pubDate>Sun, 30 Jan 2011 19:41:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pom</title>
+      <link>http://localhost:1313/categories/pom/</link>
+      <pubDate>Thu, 24 Oct 2013 19:15:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/pom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/categories/programming/</link>
+      <pubDate>Tue, 21 Aug 2018 19:09:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST API</title>
+      <link>http://localhost:1313/categories/rest-api/</link>
+      <pubDate>Mon, 02 Oct 2017 19:30:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redmine</title>
+      <link>http://localhost:1313/categories/redmine/</link>
+      <pubDate>Wed, 17 Jun 2009 17:52:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/redmine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>http://localhost:1313/categories/release/</link>
+      <pubDate>Sun, 17 Aug 2014 22:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Releases</title>
+      <link>http://localhost:1313/categories/releases/</link>
+      <pubDate>Tue, 20 Dec 2016 20:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repository Manager</title>
+      <link>http://localhost:1313/categories/repository-manager/</link>
+      <pubDate>Sun, 15 May 2016 15:14:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/repository-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SKM</title>
+      <link>http://localhost:1313/categories/skm/</link>
+      <pubDate>Sat, 10 Mar 2012 17:36:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/skm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVK</title>
+      <link>http://localhost:1313/categories/svk/</link>
+      <pubDate>Fri, 12 Mar 2010 13:36:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/svk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVN</title>
+      <link>http://localhost:1313/categories/svn/</link>
+      <pubDate>Mon, 25 Jul 2011 08:26:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/svn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartSVN</title>
+      <link>http://localhost:1313/categories/smartsvn/</link>
+      <pubDate>Thu, 27 Nov 2008 18:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/smartsvn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpectrumSCM</title>
+      <link>http://localhost:1313/categories/spectrumscm/</link>
+      <pubDate>Thu, 09 Aug 2007 19:51:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/spectrumscm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subversion</title>
+      <link>http://localhost:1313/categories/subversion/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/subversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SupoSE</title>
+      <link>http://localhost:1313/categories/supose/</link>
+      <pubDate>Sun, 02 Jan 2011 18:05:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/supose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/categories/test/</link>
+      <pubDate>Mon, 17 Dec 2012 21:48:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomcat</title>
+      <link>http://localhost:1313/categories/tomcat/</link>
+      <pubDate>Thu, 29 Apr 2010 09:21:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/tomcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trac</title>
+      <link>http://localhost:1313/categories/trac/</link>
+      <pubDate>Sun, 09 Nov 2008 11:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/trac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Tests</title>
+      <link>http://localhost:1313/categories/unit-tests/</link>
+      <pubDate>Thu, 19 Apr 2012 10:22:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/unit-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usage</title>
+      <link>http://localhost:1313/categories/usage/</link>
+      <pubDate>Sat, 09 Jun 2018 16:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/usage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

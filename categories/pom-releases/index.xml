@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>POM-Releases on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/pom-releases/</link>
+    <description>Recent content in POM-Releases on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Nov 2014 22:02:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/pom-releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Maven Plugins Parent POM Version 27 Released</title>
+      <link>http://localhost:1313/blog/2014/11/2014-11-17-apache-maven-plugins-parent-pom-version-27-released/</link>
+      <pubDate>Mon, 17 Nov 2014 22:02:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/11/2014-11-17-apache-maven-plugins-parent-pom-version-27-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Plugins Parent POM Version 27.
+This POM (org.apache.maven.plugins:maven-plugins) is the common parent of all of the Maven plugins in the Apache Maven project.
+To use this parent, you should specify the version in your project&amp;rsquo;s plugin configuration:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.plugins&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-plugins&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;27&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; Changes since previous release:
+http://svn.apache.org/viewvc/maven/plugins/tags/maven-plugins-27/pom.xml?r1=HEAD&amp;amp;r2=1632929&amp;amp;diff_format=h
+Enjoy,
+-The Apache Maven team</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Project Parent Version 26 Released</title>
+      <link>http://localhost:1313/blog/2014/11/2014-11-17-apache-maven-project-parent-version-26-released/</link>
+      <pubDate>Mon, 17 Nov 2014 21:17:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/11/2014-11-17-apache-maven-project-parent-version-26-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Project Parent, version 26.
+This POM (org.apache.maven:maven-parent) contains settings that are likely to be useful to any Maven project that is building and releasing code with Maven 2&amp;frasl;3.
+To use this parent, you should specify the version in your project&amp;rsquo;s plugin configuration:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-parent&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;26&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; The Changes since previous release can be view by the following link:</description>
+    </item>
+    
+    <item>
+      <title>Apache Common POM Version 16 Released</title>
+      <link>http://localhost:1313/blog/2014/11/2014-11-17-apache-common-pom-version-16-released/</link>
+      <pubDate>Mon, 17 Nov 2014 21:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/11/2014-11-17-apache-common-pom-version-16-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Common POM, version 16.
+This POM (org.apache:apache) configures common Maven settings for projects to use ASF infrastructure.
+To use this parent, you should specify the version in your project&amp;rsquo;s plugin configuration:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;apache&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;16&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; Changes since previous release:
+http://svn.apache.org/viewvc/maven/pom/tags/apache-16/pom.xml?view=markup
+Enjoy,
+-The Apache Maven team</description>
+    </item>
+    
+  </channel>
+</rss>

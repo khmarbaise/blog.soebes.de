@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JDK9 on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/jdk9/</link>
+    <description>Recent content in JDK9 on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jun 2017 20:15:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/jdk9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JDK9: Howto Create A Java Run-Time Image With Maven?</title>
+      <link>http://localhost:1313/blog/2017/06/2017-06-06-howto-create-a-java-run-time-image-with-maven/</link>
+      <pubDate>Tue, 06 Jun 2017 20:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/06/2017-06-06-howto-create-a-java-run-time-image-with-maven/</guid>
+      <description>At the moment JDK 9 is only available as Early Access (EA) to let the community take a look how it works and what can be improved. Apart from all the news for example about the modular system Jigsaw etc. There is one important question:
+How can I create a Java Run-Time Image with Maven? But before we begin: What is a Java Run-Time Image?
+The simplest answer I can give: You have a running Java Runtime environment where all parts have been removed which are not really used by the current application.</description>
+    </item>
+    
+  </channel>
+</rss>

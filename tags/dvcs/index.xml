@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DVCS on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/dvcs/</link>
+    <description>Recent content in DVCS on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Oct 2012 18:59:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/dvcs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interessanter Artikel: Mitgration von Subversion nach Git</title>
+      <link>http://localhost:1313/blog/2012/2012-10-17-interessanter-artikel-mitgration-von-subversion-nach-git/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-10-17-interessanter-artikel-mitgration-von-subversion-nach-git/</guid>
+      <description>Habe gerade einen interessanten Artikel zum Thema Migration von Subversion nach Git gefunden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar 2.2.1 Released</title>
+      <link>http://localhost:1313/blog/2010/2010-10-02-bazaar-2-2-1-released/</link>
+      <pubDate>Sat, 02 Oct 2010 13:09:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-02-bazaar-2-2-1-released/</guid>
+      <description>Es gibt eine neue Release 2.2.1 von Bazaar. Die entsprechenden Downloads für Linux, Mac und Windows sind auch verfügbar.</description>
+    </item>
+    
+    <item>
+      <title>EGit Eclipse Git plug-in released - incubator</title>
+      <link>http://localhost:1313/blog/2010/2010-03-30-egit-eclipse-git-plug-in-released-incubator/</link>
+      <pubDate>Tue, 30 Mar 2010 10:18:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-30-egit-eclipse-git-plug-in-released-incubator/</guid>
+      <description>Die erste öffentliche Release des EGit Plug-in&amp;rsquo;s in der Release 0.7.1 ist nun verfügbar. EGit basiert auf der Java implementation JGit, dass bedeutet, dass keine externen Abhängigkeiten vorhanden sind oder native Code notwendig ist. Es ist noch wichtig zu sagen, dass das eine Incubator Release ist. Das heißt, dass noch nicht alle Features implementiert sind noch dass die Release Fehler-Frei ist. Hier wurde vor der Helios Release von Eclipse veröffentlicht, um noch Feedback zu bekommen und die Release 0.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Fork á la Git ?</title>
+      <link>http://localhost:1313/blog/2010/2010-02-19-subversion-repository-fork-a-la-git/</link>
+      <pubDate>Fri, 19 Feb 2010 12:55:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-19-subversion-repository-fork-a-la-git/</guid>
+      <description>Ich bin gerade über einen interessanten Blog Artikel gestossen der das Forken eine Subversion Repositories ermöglicht. Die technischen Details beschreiben wie das Ganze funktioniert.</description>
+    </item>
+    
+    <item>
+      <title>Vorträge der Subversion Konferenz Online</title>
+      <link>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</link>
+      <pubDate>Sun, 01 Nov 2009 18:56:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</guid>
+      <description>Nach Beendigung der Subversion Konferenz in München habe ich nun meine eigenen Vorträge alle online gestellt.
+ Versionierung in Java stellt einen Vortrag (PDF) zum Thema SVNKit Nutzung und Anwendung im Bereich Java. To be DVCS or not to be stellt einen Vortrag (PDF) zur kritischen Betrachtung von verteilten bzw. zentralisierten Versionskontrollsystemen dar. Die Qual der Versionen die 2. stellt einen Vortrag (PDF) zum OpenSource Projekt Subversion Repository Search Enginge (SupoSE) dar.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.10</title>
+      <link>http://localhost:1313/blog/2008/2008-12-19-bazaar-release-1-10/</link>
+      <pubDate>Fri, 19 Dec 2008 16:32:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-19-bazaar-release-1-10/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.9 sind wieder eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.9</title>
+      <link>http://localhost:1313/blog/2008/2008-11-28-bazaar-release-1-9/</link>
+      <pubDate>Fri, 28 Nov 2008 16:31:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-28-bazaar-release-1-9/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.8 sind eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Interessanter Artikel zum Thema Verteilte Versionskontrolle</title>
+      <link>http://localhost:1313/blog/2008/2008-08-09-interessanter-artikel-zum-thema-verteilte-versionskontrolle/</link>
+      <pubDate>Sat, 09 Aug 2008 23:51:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-09-interessanter-artikel-zum-thema-verteilte-versionskontrolle/</guid>
+      <description>Ich habe einen Artikel zum Thema Verteilte Versionskontrolle gefunden, der sehr interessante Argumente und gegen Argument enthält.</description>
+    </item>
+    
+    <item>
+      <title>Ein Intressanter Blog Eintrag von Ben Collin Sussman</title>
+      <link>http://localhost:1313/blog/2007/2007-10-28-ein-intressanter-blog-eintrag-von-ben-collin-sussman/</link>
+      <pubDate>Sun, 28 Oct 2007 22:08:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-28-ein-intressanter-blog-eintrag-von-ben-collin-sussman/</guid>
+      <description>Im Blog von Ben Collin Sussman eine Interessante Darstellung zu den verschiedenen Typen von Programmierern auch zum Thema &amp;ldquo;Verteilte Versionskontrolle&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integrations Tests on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/integrations-tests/</link>
+    <description>Recent content in Integrations Tests on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Apr 2012 10:22:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/integrations-tests/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TDD and Code Coverage</title>
+      <link>http://localhost:1313/blog/2012/2012-04-19-tdd-and-code-coverage/</link>
+      <pubDate>Thu, 19 Apr 2012 10:22:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-04-19-tdd-and-code-coverage/</guid>
+      <description>I have found an interessting article of Martin Fowler about Code Coverage and testing.</description>
+    </item>
+    
+    <item>
+      <title>Maven Unit and Integration Test Guide (MaUI Guide) started.</title>
+      <link>http://localhost:1313/blog/2011/2011-04-24-maven-unit-and-integration-test-guide-maui-guide-started/</link>
+      <pubDate>Sun, 24 Apr 2011 12:26:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-24-maven-unit-and-integration-test-guide-maui-guide-started/</guid>
+      <description>Based on often written requirements (mailing list, stackoverflow.com etc.) and an Jira entry i have decided to start a guide about unit- and integration tests. This guide is called Maven Unit- and Integration Test Guide (MaUI Guide for short) and the current state of development can be found on https://khmarbaise.github.com/maui/. The currently generated guide can be used as reference where you can read how to do unit- and/or integration testing. Of course if you find things unclear or would like to see supplemental things in there just file in a issue in the issue tracker of the github project.</description>
+    </item>
+    
+  </channel>
+</rss>

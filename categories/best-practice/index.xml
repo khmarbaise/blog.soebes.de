@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Practice on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/best-practice/</link>
+    <description>Recent content in Best Practice on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jan 2014 01:23:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/best-practice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FluentAPI - Usage</title>
+      <link>http://localhost:1313/blog/2014/01/2014-01-01-fluentapi-usage/</link>
+      <pubDate>Wed, 01 Jan 2014 01:23:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/01/2014-01-01-fluentapi-usage/</guid>
+      <description>As a Java developer I always got the impression that my own code can be made better (unfortunately I am not perfect). That brought me to think about how I could improve the code.
+So I thought several times about my code and while looking for example into my unit/integrations tests I found the following code snippet:
+AccessRules rules = new AccessRules(); AccessRule rule1 = new AccessRule(&amp;#34;/&amp;#34;); rule1.add(UserFactory.createInstance(&amp;#34;*&amp;#34;), AccessLevel.READ); rule1.add(UserFactory.createInstance(&amp;#34;harry&amp;#34;), AccessLevel.</description>
+    </item>
+    
+  </channel>
+</rss>

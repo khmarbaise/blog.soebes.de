@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asf on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/asf/</link>
+    <description>Recent content in Asf on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Aug 2018 09:23:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/asf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Software Foundation Parent POM Version 21 Released</title>
+      <link>http://localhost:1313/blog/2018/08/2018-08-23-apache-software-foundation-parent-pom-version-21-released/</link>
+      <pubDate>Thu, 23 Aug 2018 09:23:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/08/2018-08-23-apache-software-foundation-parent-pom-version-21-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Software Foundation Parent POM Version 21.
+You should specify the version in your project as parent like the following:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;apache&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;21&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; You can download the appropriate sources etc. from the download page:
+https://maven.apache.org/pom/asf/download.html
+Release Notes - Maven POMs - Version ASF-21
+The Apache Maven team is pleased to announce the release of the Apache Software Foundation Parent POM Version 21.</description>
+    </item>
+    
+    <item>
+      <title>Apache Software Foundation Parent POM Version 20 Released</title>
+      <link>http://localhost:1313/blog/2018/07/2018-07-07-apache-software-foundation-parent-pom-version-20-released/</link>
+      <pubDate>Sun, 08 Jul 2018 10:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/07/2018-07-07-apache-software-foundation-parent-pom-version-20-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Software Foundation Parent POM Version 20.
+You should specify the version in your project as parent like the following:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;apache&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;20&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; You can download the appropriate sources etc. from the download page:
+https://maven.apache.org/pom/asf/download.html
+Release Notes - Maven POMs - Version ASF-20
+Improvements:
+ MPOM-186 - Upgrade several plugins to most recent versions for JDK9/10 Support MPOM-191 - Add maven-ear-plugin version  Wishes:</description>
+    </item>
+    
+    <item>
+      <title>Apache Software Foundation Parent POM Version 19 Released</title>
+      <link>http://localhost:1313/blog/2018/01/2018-01-25-apache-software-foundation-parent-pom-version-19-released/</link>
+      <pubDate>Thu, 25 Jan 2018 10:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/01/2018-01-25-apache-software-foundation-parent-pom-version-19-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Software Foundation Parent POM Version 19.
+You should specify the version in your project as parent like the following:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;apache&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;19&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; You can download the appropriate sources etc. from the download page:
+https://maven.apache.org/pom/asf/download.html
+Release Notes - Maven POMs - Version ASF-19
+Improvements:
+ MPOM-118 - Enforce strong GPG signatures by default MPOM-124 - Text about for default compiler version giving 1.</description>
+    </item>
+    
+    <item>
+      <title>Apache Software Foundation Parent POM Version 18 Released</title>
+      <link>http://localhost:1313/blog/2016/05/2016-05-19-apache-software-foundation-parent-pom-version-18-released/</link>
+      <pubDate>Thu, 19 May 2016 23:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/05/2016-05-19-apache-software-foundation-parent-pom-version-18-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Software Foundation Parent POM Version 18.
+You should specify the version in your project as parent like the following:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;apache&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;18&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; Release Notes - Apache Software Foundation Parent POM - Version 18
+Improvements:
+ MPOM-60 - Add DEPENDENCIES file to the exclude rule for apache-rat-plugin MPOM-78 - Updated maven-assembly-plugin to 2.5.5 MPOM-92 - Upgrade maven-clean-plugin to 2.</description>
+    </item>
+    
+    <item>
+      <title>Apache Software Foundation Parent POM Version 17 Released</title>
+      <link>http://localhost:1313/blog/2015/04/2015-04-29-apache-software-foundation-parent-pom-version-17-released/</link>
+      <pubDate>Wed, 29 Apr 2015 20:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/04/2015-04-29-apache-software-foundation-parent-pom-version-17-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Software Foundation Parent POM Version 17.
+You should specify the version in your project as parent like the following:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;apache&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;17&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; Release Notes - Apache Software Foundation Parent POM - Version 17
+Bug:
+ MPOM-69 - avoid Rat plugin warning  Improvement:
+ MPOM-47 - Source release assembly can&amp;rsquo;t do tar.gz only MPOM-64 - Change maven-source-goal from jar to jar-no-fork MPOM-65 - Add maven-war-plugin definition MPOM-66 - The ASF global pom should upgrade SUREFIRE@2.</description>
+    </item>
+    
+  </channel>
+</rss>

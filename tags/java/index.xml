@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Jul 2011 14:21:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maven: Different Package Name based on project version</title>
+      <link>http://localhost:1313/blog/2011/2011-07-28-maven-different-package-name-based-on-project-version/</link>
+      <pubDate>Thu, 28 Jul 2011 14:21:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-07-28-maven-different-package-name-based-on-project-version/</guid>
+      <description>Sometimes you will get into trouble if you need to have different package names based on yours project version number? You think this nonsense? Ok&amp;hellip;Let&amp;rsquo;s give an example. If you are generating JAXB classes from appropriate XSD&amp;rsquo;s and you have different XSD versions which you have to make available? Ok. You will say simply make different versions etc. but the real problem arise if you need different XSD&amp;rsquo;s versions within the same project?</description>
+    </item>
+    
+    <item>
+      <title>Maven License Verifier Plugin - Release 0.3</title>
+      <link>http://localhost:1313/blog/2011/2011-05-01-maven-license-verifier-plugin-release-0-3/</link>
+      <pubDate>Sun, 01 May 2011 00:02:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-05-01-maven-license-verifier-plugin-release-0-3/</guid>
+      <description>Das Maven-License-Verifier Plugin steht nun in der Release 0.3 zur Verfügung. Ein Beispiel Report gibt es auch zu sehen. Das Plugin ist nun auch über Maven Central unter den folgenden Koordinaten verfügbar:  &amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;com.soebes.maven.plugins.mlv&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-license-verifier-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;0.3&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Maven Licenses Verifier Plugin</title>
+      <link>http://localhost:1313/blog/2011/2011-01-30-maven-licenses-verifier-plugin/</link>
+      <pubDate>Sun, 30 Jan 2011 19:41:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-01-30-maven-licenses-verifier-plugin/</guid>
+      <description>Das Maven-License-Verifier Plugin geht nun in die nächste Runde. Es erzeugt nun schon mal Reports. Der Erste Teil des Reports gibt Auskunft darüber welche Artefakte entsprechende kategorisiert wurden und in welche Kategorie.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Authentication Parser Module</title>
+      <link>http://localhost:1313/blog/2011/2011-01-02-subversion-authentication-parser-module/</link>
+      <pubDate>Sun, 02 Jan 2011 18:05:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-01-02-subversion-authentication-parser-module/</guid>
+      <description>Nachdem es jetzt eine recht lange Zeit gedauert hat, habe ich es jetzt endlich geschafft (Neues Jahr sei Dank ;-)). Das Module zum lesen des Konfigurationsfiles für Path-Based Authentication aufgesetzt und auch endlich mal auf GitHub veröffentlicht. Das Objekt Modell gibt jetzt das her was ich brauche. Die Grammatik funktioniert jetzt auch so weit. Das was noch nicht läuft ist der Zusammenhang zwischen Grammatik und Objekt Modell. Das wird später in SupoSE integriert, damit dort entsprechende Berechtigungen für die Suchergebnisse zugeordnet werden können.</description>
+    </item>
+    
+    <item>
+      <title>Kommandozeile und Java?</title>
+      <link>http://localhost:1313/blog/2010/2010-12-28-kommandozeile-und-java/</link>
+      <pubDate>Tue, 28 Dec 2010 09:58:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-12-28-kommandozeile-und-java/</guid>
+      <description>Es passiert doch dann und wann, dass man noch einen Kommandozeile unterstützen muss. Das Problem ist dann, wie löst man das Problem mit Java?
+Klar kann man hingehen und alles selbst schreiben, aber das muss man nicht. Es gibt doch entsprechende Bibliotheken, die das schon sehr schön erledigen.
+In meinem speziellen Fall hatte ich das Problem, dass ich eine Unterstützung benötigte, die so etwas wie Kommandos unterstützt. Das heißt so etwas wie:</description>
+    </item>
+    
+    <item>
+      <title>EGit Eclipse Git plug-in released - incubator</title>
+      <link>http://localhost:1313/blog/2010/2010-03-30-egit-eclipse-git-plug-in-released-incubator/</link>
+      <pubDate>Tue, 30 Mar 2010 10:18:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-30-egit-eclipse-git-plug-in-released-incubator/</guid>
+      <description>Die erste öffentliche Release des EGit Plug-in&amp;rsquo;s in der Release 0.7.1 ist nun verfügbar. EGit basiert auf der Java implementation JGit, dass bedeutet, dass keine externen Abhängigkeiten vorhanden sind oder native Code notwendig ist. Es ist noch wichtig zu sagen, dass das eine Incubator Release ist. Das heißt, dass noch nicht alle Features implementiert sind noch dass die Release Fehler-Frei ist. Hier wurde vor der Helios Release von Eclipse veröffentlicht, um noch Feedback zu bekommen und die Release 0.</description>
+    </item>
+    
+    <item>
+      <title>Maven License Verifier Plugin - es wird langsam - 0.2 SNAPSHOT Verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-02-19-maven-license-verifier-plugin-es-wird-langsam-0-2-snapshot-verf%C3%A3gbar/</link>
+      <pubDate>Fri, 19 Feb 2010 19:59:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-19-maven-license-verifier-plugin-es-wird-langsam-0-2-snapshot-verf%C3%A3gbar/</guid>
+      <description>Basierend auf einer Ankündigung in den Maven Mailing Listen habe ich vor längerer Zeit angefangen ein Plugin für Maven zu entwickeln, dass es ermöglicht die Lizenzen die Artefakte in einem Projekt haben zu prüfen. Da ich oft in Firmen etc. beobachte, dass dort nur bestimmte Lizenzen (License Policy) erlaubt bzw. erwünscht sind. Nun habe ich in der Zwischenzeit einige Schritte implementieren können. Die ersten Ergebnisse sind unter http://site.supose.org/maven-licenses-verifier-plugin/ zu finden. Wer anregungen etc.</description>
+    </item>
+    
+    <item>
+      <title>Maven Eclipse Plugin 0.10.0 veröffentlicht</title>
+      <link>http://localhost:1313/blog/2010/2010-02-16-maven-eclipse-plugin-0-10-0-ver%C3%A3ffentlicht/</link>
+      <pubDate>Tue, 16 Feb 2010 10:38:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-16-maven-eclipse-plugin-0-10-0-ver%C3%A3ffentlicht/</guid>
+      <description>Es gibt nun eine neue Release des Maven Eclipse Plugins. Im Blog der Firma Sonatype sind genau Informationen zu erfahren.</description>
+    </item>
+    
+    <item>
+      <title>Tomcat und Applikationen die unter Root erreichbar sind</title>
+      <link>http://localhost:1313/blog/2010/2010-01-13-tomcat-und-applikationen-die-unter-root-erreichbar-sind/</link>
+      <pubDate>Wed, 13 Jan 2010 16:43:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-01-13-tomcat-und-applikationen-die-unter-root-erreichbar-sind/</guid>
+      <description>Tja das Problem ist einfach, dass ich einige Web-Applikationen im Tomcat deployen muss. Das etwas störende dabei ist, dass alle Web-Applikationen einen Context Pfad sezten. Mit anderen Worten sind dann Applikationen unter http://url/WebAppName zu erreichen. Das hat mich ein wenig gestört. Die Lösung ist recht einfach. Nach einigem experimentieren und viel lesen habe ich rausgefunden, dass der einfachste Weg darin besteht die Tomcat Distribution zu nehmen und im webapps Ordner alles zu löschen und die jeweilige Web-Applikation also ROOT.</description>
+    </item>
+    
+    <item>
+      <title>Java Batch Applikation und Maven 2</title>
+      <link>http://localhost:1313/blog/2009/2009-12-11-java-batch-applikation-und-maven-2/</link>
+      <pubDate>Fri, 11 Dec 2009 21:23:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-12-11-java-batch-applikation-und-maven-2/</guid>
+      <description>Das Problem ist eine Batch-Applikation mit Maven 2 zu bauen. Mit anderen Worten eine Form zu finden, dass man eine Java Applikation eben ohne ein java -jar xyz.jar &amp;hellip; ausführen kann sondern sehr einfach per applicationname. Es wäre also sinnvoll eine CMD-Datei (Windows) bzw. ein shell script zu verwenden. Das Problem dabei ist aber, wie kann man solch ein CMD-File bzw. Shell-Script erstellen und vor allem pflegen? Klar kann man einfach eines selber schreiben usw.</description>
+    </item>
+    
+    <item>
+      <title>Vorträge der Subversion Konferenz Online</title>
+      <link>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</link>
+      <pubDate>Sun, 01 Nov 2009 18:56:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</guid>
+      <description>Nach Beendigung der Subversion Konferenz in München habe ich nun meine eigenen Vorträge alle online gestellt.
+ Versionierung in Java stellt einen Vortrag (PDF) zum Thema SVNKit Nutzung und Anwendung im Bereich Java. To be DVCS or not to be stellt einen Vortrag (PDF) zur kritischen Betrachtung von verteilten bzw. zentralisierten Versionskontrollsystemen dar. Die Qual der Versionen die 2. stellt einen Vortrag (PDF) zum OpenSource Projekt Subversion Repository Search Enginge (SupoSE) dar.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.3.1 GA Erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-09-16-svnkit-1-3-1-ga-erschienen/</link>
+      <pubDate>Wed, 16 Sep 2009 20:54:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-09-16-svnkit-1-3-1-ga-erschienen/</guid>
+      <description>Das Release 1.3.1 GA hat bekannt gegeben, dass eine neue Release zur Verfügung steht. Änderungen seit Version 1.3.0: + Alle Änderungen die in Subversion seit 1.6.2 gemacht wurden sind implementiert worden. + Cache DB Support mithilfe der SQLJet (http://sqljet.com) Bibliothek + Fehlende JavaHL Methoden wurden hinzugefügt. + Fixed &amp;lsquo;svn: Checksum mismatch while reading representation&amp;rsquo; exception während des lesen vom lokalen Repository (vdelta). + Einige Fixes den Bereich dump/load betreffend + Upgrade auf JNA Lib 3.</description>
+    </item>
+    
+    <item>
+      <title>Redmine und Maven Vortrag für die Linux Tage in Berlin</title>
+      <link>http://localhost:1313/blog/2009/2009-06-17-redmine-und-maven-vortrag-f%C3%A3r-die-linux-tage-in-berlin/</link>
+      <pubDate>Wed, 17 Jun 2009 17:52:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-17-redmine-und-maven-vortrag-f%C3%A3r-die-linux-tage-in-berlin/</guid>
+      <description>Meine Vortragsvorschläge zu Redmine und Maven sind für den Linux Tag in Berlin angenommen worden.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.2 (GA) - erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-01-14-svnkit-1-2-2-ga-erschienen/</link>
+      <pubDate>Wed, 14 Jan 2009 21:20:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-14-svnkit-1-2-2-ga-erschienen/</guid>
+      <description>Das SVNKit Team hat bekannt gegeben, dass die Release 1.2.2 (GA) zur Verfügung steht. Die neue Release unterstützt alle Subversion 1.5.5 features.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 (GA) - Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-10-01-svnkit-1-2-0-ga-erschienen/</link>
+      <pubDate>Wed, 01 Oct 2008 21:20:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-01-svnkit-1-2-0-ga-erschienen/</guid>
+      <description>Das SVNKit Development Team hat bekannt gegeben, dass die Finale Release 1.2 der Java Bibliothek zur Verfügung steht.
+ Diese Release schliesst die Unterstützung nahezu aller Subversion 1.5.2 Features ein.  Neues Merge und Merge Tracking Subversion 1.5.2 JavaHL API Implementierung Changelists Unterstützung Sparse directories Unterstützung Weitere Informationen zu den Subversion 1.5 Features ist in den Release Notes zu Subversion 1.5 zu finden  Eine Menge von Fehler Korrekturen und Erweiterungen Aktualisertes JavaDoc Signifikat verbesserter SVNKit-Basierender Kommandozeilen Client Die SVNKit 1.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2 &#43; Hibernate3 PlugIn</title>
+      <link>http://localhost:1313/blog/2008/2008-08-30-maven-2-hibernate3-plugin/</link>
+      <pubDate>Sat, 30 Aug 2008 14:06:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-30-maven-2-hibernate3-plugin/</guid>
+      <description>Tja ich habe mich ein wenig mit Maven und dem Hibernate3 PlugIn beschäftigt. Mit dem Hibernate3 PlugIn für Maven ist es sehr einfach aus Java POJO&amp;rsquo;s entsprechende SQL Scripte (DDL) zu erzeugen. Das bedeutet, man muss das nicht mehr mit Hand machen.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta5 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-08-15-svnkit-1-2-0-beta5-erschienen/</link>
+      <pubDate>Fri, 15 Aug 2008 20:15:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-15-svnkit-1-2-0-beta5-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+ Neuigkeiten in SVNKit 1.2.0 Beta5
+ Update der Java SSH Trilead Bibliothek auf build 213 JNA Bibliothek auf 3.0.4 upgedated Problem mit SSH Verbindungsproblemen mit nicht OpenSSH Servern beseitigt.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta4 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-07-25-svnkit-1-2-0-beta4-erschienen/</link>
+      <pubDate>Fri, 25 Jul 2008 19:45:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-25-svnkit-1-2-0-beta4-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+Neuigkeiten in SVNKit 1.2.0 Beta4
+ Erweiterungen für SASL Authentifizierungs Unterstützung Bugfixes
+ Nützliche Links (mehr unter http://svnkit.com/):
+ SVNKit Continuous Integration Server: https://teamcity.svnkit.com/ SVNKit Source Code Repository: http://svn.svnkit.com/repos/svnkit/ SVNKit Update Site (for Eclipse): http://eclipse.</description>
+    </item>
+    
+    <item>
+      <title>Vereinfachung von Unit Tests mithilfe von TestNG </title>
+      <link>http://localhost:1313/blog/2008/2008-07-13-vereinfachung-von-unit-tests-mithilfe-von-testng-/</link>
+      <pubDate>Sun, 13 Jul 2008 10:23:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-13-vereinfachung-von-unit-tests-mithilfe-von-testng-/</guid>
+      <description>Die Anwendung von JUnit ist in der Java Welt ja eigentlich schon kalter Kaffee, aber in manchen Situation stößt man doch an Grenzen von JUnit (sowohl 3.8 alsauch 4.X). Nämlich dann wenn man einen Test hat, der mit unterschiedlichen Daten durchlaufen soll. Genau da zeigt dann TestNG seine stärke mithilfe s.g. DataProvider.</description>
+    </item>
+    
+    <item>
+      <title>Hibernate Annotations: Eigene Sequenzen pro Klasse bei Vererbung</title>
+      <link>http://localhost:1313/blog/2008/2008-07-11-hibernate-annotations-eigene-sequenzen-pro-klasse-bei-vererbung/</link>
+      <pubDate>Fri, 11 Jul 2008 20:35:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-11-hibernate-annotations-eigene-sequenzen-pro-klasse-bei-vererbung/</guid>
+      <description>Bei der Arbeit mit Hibernate tritt häufiger das Problem auf, dass man bei vererbten Klassen pro Tabelle eine eigene Sequence (z.B. in Oracle) verwenden möchte bzw. muß. Man kann selbstverständlich die Id in jede Klasse packen und dort dann die entsprechenden Annotierungen anbringen. Das ist aber schlicht und ergreifend lässtig und wiederspricht dem OO Prinzip. Wenn man nun konsequent mit Vererbung arbeitet, ergibt es sich, dass meist eine Basis-Klasse entsteht und dort das Id Attribut enthalten ist.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta2 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-07-07-svnkit-1-2-0-beta2-erschienen/</link>
+      <pubDate>Mon, 07 Jul 2008 22:47:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-07-svnkit-1-2-0-beta2-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+Neuigkeiten in SVNKit 1.2.0 Beta2 + Unterstützung für fast aller Subversion 1.5.0 Features + Vollständige Implementation der Subversion JavaHL API + Signifikante Verbesserung des Java Subversion Command line Clients.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release SVNKit 1.1.7 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-04-18-neue-release-svnkit-1-1-7-erschienen/</link>
+      <pubDate>Fri, 18 Apr 2008 11:58:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-18-neue-release-svnkit-1-1-7-erschienen/</guid>
+      <description>Die neue Release der Java Bibliothek SVNKit erscheint nun in der Release 1.1.7, um die Unterstützung für den Zugriff auf Subversion 1.5 Server via svn Protokoll zu ermöglichen. Ein Update der JNA Bibliothek und einige weitere Details.</description>
+    </item>
+    
+    <item>
+      <title>Maven Integration für Eclipse - Release 0.9.0</title>
+      <link>http://localhost:1313/blog/2008/2008-03-17-maven-integration-f%C3%A3r-eclipse-release-0-9-0/</link>
+      <pubDate>Mon, 17 Mar 2008 01:27:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-17-maven-integration-f%C3%A3r-eclipse-release-0-9-0/</guid>
+      <description>Das Maven PlugIn für Eclipse gibt es nun in einer überarbeiteten Variante.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.6 Release</title>
+      <link>http://localhost:1313/blog/2008/2008-02-22-svnkit-1-1-6-release/</link>
+      <pubDate>Fri, 22 Feb 2008 19:03:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-02-22-svnkit-1-1-6-release/</guid>
+      <description>Das SVNKit Team hat eine neue Release der Java Subversion Bibliothek heraus gebracht. Es wurden folgende Korrekturen gemacht: + Das kopieren der WorkingCopy zur URL funktionierte nicht korrekt im Zusammenhang mit umgeschalteten (switched) Verzeichnissen. + Einige NPE (Null Pointer Exceptions) im Zusammenhang mit der http Kommunikation wurden gelöst. + Der Abbruch der Authentifikation im Zusammenhang mit SSH Verbindungen wurde korrigiert.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.3.0.0RC2</title>
+      <link>http://localhost:1313/blog/2007/2007-12-30-subversion-repository-search-engine-0-3-0-0rc2/</link>
+      <pubDate>Sun, 30 Dec 2007 11:32:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-30-subversion-repository-search-engine-0-3-0-0rc2/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.3.0.0RC2 der Subversion Repository Search Engine, die einige Bugs beseitigt. Zum einen war der Aufruf des Windows Command Files nicht von Erfolg gekrönt. Sprich es fehlten einige Abhängigkeiten. Einige Unklarheiten in der Dokumentation sind verbessert worden. Das Compilieren mit Maven 2 hat nicht funktioniert. Das ist jetzt wieder in Ordnung.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine (SupoSE) Release 0.3.0.0RC1 (Earth)</title>
+      <link>http://localhost:1313/blog/2007/2007-12-21-subversion-repository-search-engine-supose-release-0-3-0-0rc1-earth/</link>
+      <pubDate>Fri, 21 Dec 2007 12:39:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-21-subversion-repository-search-engine-supose-release-0-3-0-0rc1-earth/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.3.0.0RC1 der Subversion Repository Search Engine, die nun per mithilfe eines Schedulers automatisch Repositories scannen kann und die Ergebnisse in einen oder meheren Indizes zusammenfasst, der dann für entsprechende Suchoperationen genutzt werden kann. Weiterhin wurde die Release um eine Source-Code Verteilung erweitert, einen Maven 2 basierten Build und einige Bug Fixes wurden auch beseitigt. Die Dokumentation wurde erweitert und auch korrgiert.</description>
+    </item>
+    
+    <item>
+      <title>Apache Ivy Project - Release 2.0.0 Beta 1</title>
+      <link>http://localhost:1313/blog/2007/2007-12-17-apache-ivy-project-release-2-0-0-beta-1/</link>
+      <pubDate>Mon, 17 Dec 2007 20:58:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-17-apache-ivy-project-release-2-0-0-beta-1/</guid>
+      <description>Das Apache Ivy Projekt hat bekannt gegeben, dass die Release 2.0.0 Beta 1 verfügbar ist. Ivy ist dazu da, Abhängigkeiten etc. innerhalb des Build Tools Ant zu aufzu zeichnen, zu lösen und zu verwalten. Das Ivy Team begrüßt jeden, der das Release ausprobiert und entsprechende Fehler Berichte abgibt.
+Die Haupt Features sind: + Verbesserung der Maven 2 kompatibilität + Verbesserung der Nebenläufigkeit unterstützt durch Cache-Locking und atomares Veröffentlichen + Alle Tutorials sind überarbeitet worden, um die Änderungen für das Release 2.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine (SupoSE) Release 0.2.0 (Venus)</title>
+      <link>http://localhost:1313/blog/2007/2007-12-08-subversion-repository-search-engine-supose-release-0-2-0-venus/</link>
+      <pubDate>Sat, 08 Dec 2007 23:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-08-subversion-repository-search-engine-supose-release-0-2-0-venus/</guid>
+      <description>Die Subversion Repository Search Engine (SupoSE) ist nun in der zweiten Release (Venus) 0.2.0 erschien. Es ist nun möglich auch in den zuvor indizierten Daten per Kommandozeile zu suchen, dabei besteht die Möglichkeit die Felder zu spezifizieren, die im Ergebnis angezeigt werden sollen. Das Verzeichnis wo der Index abgelegt werden soll kann bestimmt werden. Weiterhin besteht die Möglichkeit ein Repository in mehreren Schritten zu Scannen (z.B. von Revision 1 bis Revision 100 und dann Revision 101 bis Revision 258).</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.1.0</title>
+      <link>http://localhost:1313/blog/2007/2007-12-06-subversion-repository-search-engine-0-1-0/</link>
+      <pubDate>Thu, 06 Dec 2007 00:54:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-06-subversion-repository-search-engine-0-1-0/</guid>
+      <description>Die Subversion Repository Search Engine (SupoSE) ist nun in der ersten Release (Mercury) 0.1.0 erschien. Sie ermöglicht es einen Index eines Repositories zu erstellen. Es werden dabei Word, Excel und PDF Dokumente verarbeitet.</description>
+    </item>
+    
+    <item>
+      <title>Tool zu Betrachtung der Revisionen einer Datei</title>
+      <link>http://localhost:1313/blog/2007/2007-10-28-tool-zu-betrachtung-der-revisionen-einer-datei/</link>
+      <pubDate>Sun, 28 Oct 2007 22:20:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-28-tool-zu-betrachtung-der-revisionen-einer-datei/</guid>
+      <description>Es gibt ein Tool svn-time-lapse-view zur Betrachtung der Revisionen einer Datei.</description>
+    </item>
+    
+    <item>
+      <title>Continuum 1.1. beta 2</title>
+      <link>http://localhost:1313/blog/2007/2007-08-17-continuum-1-1-beta-2/</link>
+      <pubDate>Fri, 17 Aug 2007 18:38:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-17-continuum-1-1-beta-2/</guid>
+      <description>Das Build System Continuum liegt nun in einer überarbeiteten neuen Version vor. Die Änderungen werden im ChangeLog dokumentiert.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.6 - Bug Fix Release </title>
+      <link>http://localhost:1313/blog/2007/2007-08-16-subversive-1-1-6-bug-fix-release-/</link>
+      <pubDate>Thu, 16 Aug 2007 21:35:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-16-subversive-1-1-6-bug-fix-release-/</guid>
+      <description>Es gibt eine neue Release von Subversive, dem Eclipse PlugIn. Die Release Notes geben wieder genaue Auskunft über die grundsätzlichen Änderungen in der Release 1.1. und der ChangeLog liefert wieder die genauen informationen über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.4 Release</title>
+      <link>http://localhost:1313/blog/2007/2007-07-25-svnkit-1-1-4-release/</link>
+      <pubDate>Wed, 25 Jul 2007 09:30:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-25-svnkit-1-1-4-release/</guid>
+      <description>Es gibt wieder ein Update des SVNKit. Der Connection Pool wurde neu implementiert. Es wurde ein Continous Integration Server aufgesetzt und viele Bug-Fixes. Der ChangeLog gibt eine Liste der Änderungen. Die Liste der Änderungen ist hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.9</title>
+      <link>http://localhost:1313/blog/2007/2007-07-22-java-gforge-soap-interface-release-0-0-9/</link>
+      <pubDate>Sun, 22 Jul 2007 22:43:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-22-java-gforge-soap-interface-release-0-0-9/</guid>
+      <description>Es gibt nun wieder ein Update. Es ist nun möglich eine Datei via JaGoSI auf GForge zu übertragen und dort ein Package bzw. eine Release im FRS Bereich zu erzeugen. Es wurden auch noch einige Bugs behoben. Die Übersicht für den Milestone 0.0.9. Die genauen Änderungen für den einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.8</title>
+      <link>http://localhost:1313/blog/2007/2007-07-13-java-gforge-soap-interface-release-0-0-8/</link>
+      <pubDate>Fri, 13 Jul 2007 02:17:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-13-java-gforge-soap-interface-release-0-0-8/</guid>
+      <description>Es gibt nun wieder ein Update. Es sind nun alle Funktionen implementiert, die das GForge SOAP API bietet. Hierbei wurden noch einige Fehler im PHP Code gefunden und entsprechend korrigiert. Die Übersicht für den Milestone 0.0.8. Die genauen Änderungen für den einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.7</title>
+      <link>http://localhost:1313/blog/2007/2007-07-08-java-gforge-soap-interface-release-0-0-7/</link>
+      <pubDate>Sun, 08 Jul 2007 12:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-08-java-gforge-soap-interface-release-0-0-7/</guid>
+      <description>Es gibt nun wieder ein Update. Der Bereich des FRS (File Release System) von GForge ist nun implementiert. Die Übersicht für den Milestone 0.0.7 können eingesehen werden. Die genauen Änderungen für die einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.6</title>
+      <link>http://localhost:1313/blog/2007/2007-07-03-java-gforge-soap-interface-release-0-0-6/</link>
+      <pubDate>Tue, 03 Jul 2007 21:02:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-03-java-gforge-soap-interface-release-0-0-6/</guid>
+      <description>Es gibt nun wieder ein Update. Einige neuen Funktionen, das Build System wurde überarbeitet (Maven 2 als auch Ant). Die Übersicht für den Milestone 0.0.5 und den Milestone 0.0.6 können eingesehen werden. Die genauen Änderungen für die einzelnen Milestone kann man hier bzw. hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.4</title>
+      <link>http://localhost:1313/blog/2007/2007-06-26-java-gforge-soap-interface-release-0-0-4/</link>
+      <pubDate>Tue, 26 Jun 2007 09:29:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-26-java-gforge-soap-interface-release-0-0-4/</guid>
+      <description>Es gibt nun wieder ein Update. Einige neuen Funktionen. Es ist nun möglich einen Tracker Eintrag (Bug, Patch etc.) per JaGoSI zu erzeugen.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.7</title>
+      <link>http://localhost:1313/blog/2007/2007-06-21-maven-2-0-7/</link>
+      <pubDate>Thu, 21 Jun 2007 23:53:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-21-maven-2-0-7/</guid>
+      <description>Das Apache Maven Team hat einen neue Release des Build Tools Maven. Die Binaries die Release Notes beschreiben die Änderungen und die weitere Roadmap gibt darüber Auskunft wie es weiter geht.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface First Public Release 0.0.3</title>
+      <link>http://localhost:1313/blog/2007/2007-06-17-java-gforge-soap-interface-first-public-release-0-0-3/</link>
+      <pubDate>Sun, 17 Jun 2007 22:40:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-17-java-gforge-soap-interface-first-public-release-0-0-3/</guid>
+      <description>Es gibt nun JaGoSI als Zugriffsmittel auf die GForge Kollaborationsplatfform.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.2 (Default)</title>
+      <link>http://localhost:1313/blog/2007/2007-04-03-svnkit-1-1-2-default/</link>
+      <pubDate>Tue, 03 Apr 2007 22:18:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-04-03-svnkit-1-1-2-default/</guid>
+      <description>Es gibt eine neue Release von SVN Kit. Es wurden einige Bug fixes behoben und eine interaktive Password Eingabe wurde zum Kommandozeilen Client hinzugeüfgt. Weiterhin wurde eine system weite Konfigurationsdatei hinzugefügt.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.6 is released.</title>
+      <link>http://localhost:1313/blog/2007/2007-04-01-maven-2-0-6-is-released-/</link>
+      <pubDate>Sun, 01 Apr 2007 20:21:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-04-01-maven-2-0-6-is-released-/</guid>
+      <description>Es gibt eine neue Version von Maven, dem Build Tool. Die aktuellste Version kann unter Maven Download herunter geladen werden. Die Release Notes geben genaue Auskunft über die Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.0 Release erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-03-13-subversive-1-1-0-release-erschienen/</link>
+      <pubDate>Tue, 13 Mar 2007 18:39:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-13-subversive-1-1-0-release-erschienen/</guid>
+      <description>Heute ist die Release 1.1.0 von Subversive erschienen. Das Subversive PlugIn ist für die Eclipse 3.2 / Callisto Releases vorgesehen. Die Eclipse Update &amp;amp; Download Site, der ChangeLog und die Release Notes sind wie üblich auf der Polarion Community Seite zu finden. Die Haupt Ziel der Release 1.1.0 war die Einführung der Eclipse 3.1&amp;frasl;3.2 Features und die Integration mit Mylar und dem Buckminster Projekt.</description>
+    </item>
+    
+    <item>
+      <title>Sun Java Platform, Standard Edition 1.5.0_11 (Java 5)</title>
+      <link>http://localhost:1313/blog/2007/2007-03-09-sun-java-platform-standard-edition-1-5-0_11-java-5/</link>
+      <pubDate>Fri, 09 Mar 2007 08:17:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-09-sun-java-platform-standard-edition-1-5-0_11-java-5/</guid>
+      <description>Es ist eine neue Minor Bug Fix Release erschienen. Die Release Notes geben genauere Auskunft.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.0 RC6</title>
+      <link>http://localhost:1313/blog/2007/2007-02-27-subversive-1-1-0-rc6/</link>
+      <pubDate>Tue, 27 Feb 2007 12:15:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-27-subversive-1-1-0-rc6/</guid>
+      <description>Ein sechter Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse 3.2 (Callisto) liegt in der Release 1.1.0RC6 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden. Die Release Notes geben hier Auskunft über die Änderungen bzgl. der Release und der ChangeLog beschreibt die Änderungen genau.</description>
+    </item>
+    
+    <item>
+      <title>Subclipse 1.2.0 für Eclipse 3.2</title>
+      <link>http://localhost:1313/blog/2007/2007-02-15-subclipse-1-2-0-fauer-eclipse-3-2/</link>
+      <pubDate>Thu, 15 Feb 2007 13:21:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-15-subclipse-1-2-0-fauer-eclipse-3-2/</guid>
+      <description>Am 13.02.2007 ist nun eine neue Release von Subclipse für Eclipse 3.2 heraus gekommen.
+Es wurden einige neue Features implementiert, die auch als Backport der Subclipse 1.0.4 (Eclipse 3.1 / 3.0) zu gute kommen aber leider sind auch einige Features dabei, die Eclipse 3.2 voraussetzen. Genaueres bekommt man im ChangeLog zu lesen.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.1</title>
+      <link>http://localhost:1313/blog/2007/2007-02-06-svnkit-1-1-1/</link>
+      <pubDate>Tue, 06 Feb 2007 17:08:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-06-svnkit-1-1-1/</guid>
+      <description>Es gibt eine neue Release des SVNKit&amp;rsquo;s. Die Erweiterungen betreffen die Kommandozeile svnlook, svnadmin und svnsync als auch die Unterstütztung für OpenVMS und selbstverständlich wurden Fehler gefixed. Der ChangeLog gibt genaue Auskunft über die Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.0 RC4</title>
+      <link>http://localhost:1313/blog/2007/2007-01-26-subversive-1-1-0-rc4/</link>
+      <pubDate>Fri, 26 Jan 2007 20:01:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-01-26-subversive-1-1-0-rc4/</guid>
+      <description>Ein vierter Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse 3.2 (Callisto) liegt in der Release 1.1.0RC4 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversive Eclipse PlugIn 1.1.0RC3</title>
+      <link>http://localhost:1313/blog/2007/2007-01-16-subversive-eclipse-plugin-1-1-0rc3/</link>
+      <pubDate>Tue, 16 Jan 2007 13:02:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-01-16-subversive-eclipse-plugin-1-1-0rc3/</guid>
+      <description>Ein dritter Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse 3.2 (Callisto) liegt in der Release 1.1.0RC3 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversive Eclipse PlugIn 1.1.0RC2</title>
+      <link>http://localhost:1313/blog/2006/2006-12-23-subversive-eclipse-plugin-1-1-0rc2/</link>
+      <pubDate>Sat, 23 Dec 2006 17:02:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-23-subversive-eclipse-plugin-1-1-0rc2/</guid>
+      <description>Ein zweiter Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse liegt in der Release 1.1.0RC2 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Ant 1.7</title>
+      <link>http://localhost:1313/blog/2006/2006-12-20-ant-1-7/</link>
+      <pubDate>Wed, 20 Dec 2006 10:50:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-20-ant-1-7/</guid>
+      <description>Die neue Release von Ant lagert nun erweiterungen (sog. optional Tasks) in die Antlib aus. Es wurden auch eine menge Bugs beseitig. Weiterhin sind auch schon Java 6 features enthalten. Die Ankündigung kann auf http://www.apachenews.org nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>db4o in neuer Release (6.0 Java)</title>
+      <link>http://localhost:1313/blog/2006/2006-12-17-db4o-in-neuer-release-6-0-java/</link>
+      <pubDate>Sun, 17 Dec 2006 15:24:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-17-db4o-in-neuer-release-6-0-java/</guid>
+      <description>Die objektorientiere Datenbank db4o ist in einer neuen Release für Java erschienen. Die Release 6.0 (Java) kommt mit einigen Verbesserungen bzgl. der Performance daher.</description>
+    </item>
+    
+    <item>
+      <title>Subversive Eclipse PlugIn 1.1.0RC1</title>
+      <link>http://localhost:1313/blog/2006/2006-12-14-subversive-eclipse-plugin-1-1-0rc1/</link>
+      <pubDate>Thu, 14 Dec 2006 11:42:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-14-subversive-eclipse-plugin-1-1-0rc1/</guid>
+      <description>Ein Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse liegt in der Release 1.1.0RC1 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversive Eclipse PlugIn 1.1.0M7 erschienen</title>
+      <link>http://localhost:1313/blog/2006/2006-10-20-subversive-eclipse-plugin-1-1-0m7-erschienen/</link>
+      <pubDate>Fri, 20 Oct 2006 21:34:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-10-20-subversive-eclipse-plugin-1-1-0m7-erschienen/</guid>
+      <description>Ein neuer Milestone des Subversive PlugIn&amp;rdquo;s für Eclipse liegt in der Release 1.1.0M7 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>JavaSVN 1.1.0.beta5 erschienen (19.10.2006)</title>
+      <link>http://localhost:1313/blog/2006/2006-10-20-javasvn-1-1-0-beta5-erschienen-19-10-2006/</link>
+      <pubDate>Fri, 20 Oct 2006 21:12:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-10-20-javasvn-1-1-0-beta5-erschienen-19-10-2006/</guid>
+      <description>TMate Software gibt bekannt, dass JavaSVN 1.1.0.beta5 veröffentlicht wurde und unter http://tmate.org zum Download bereit steht.</description>
+    </item>
+    
+  </channel>
+</rss>

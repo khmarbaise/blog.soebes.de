@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ant on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/ant/</link>
+    <description>Recent content in Ant on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Dec 2012 21:45:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/ant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artikel über eine alte Idee</title>
+      <link>http://localhost:1313/blog/2012/2012-12-17-artikel-ueber-eine-alte-idee/</link>
+      <pubDate>Mon, 17 Dec 2012 21:45:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-12-17-artikel-ueber-eine-alte-idee/</guid>
+      <description>Ich bin durch Zufall wieder auf einen Artikel aufmerksam geworden, der ein altes Thema wieder aufrollt.</description>
+    </item>
+    
+    <item>
+      <title>Apache Ant 1.7.1 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-07-10-apache-ant-1-7-1-erschienen/</link>
+      <pubDate>Thu, 10 Jul 2008 20:54:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-10-apache-ant-1-7-1-erschienen/</guid>
+      <description>Das Apache Ant Team ist erfreut mit zuteilen, dass die Release 1.7.1 erschienen ist. Es handelt sich um eine Bug Fix Release, die eine Menge Bugs Fixed die in Apache Ant 1.7.0 enthalten sind. Die genaue Übersicht über die Änderung sind in den Release Notes enthalten.</description>
+    </item>
+    
+  </channel>
+</rss>

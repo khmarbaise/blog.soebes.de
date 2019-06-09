@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hudson on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/hudson/</link>
+    <description>Recent content in Hudson on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Apr 2011 16:29:54 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/hudson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hudson Release 2.0.0 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-04-22-hudson-release-2-0-0-erschienen/</link>
+      <pubDate>Fri, 22 Apr 2011 16:29:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-22-hudson-release-2-0-0-erschienen/</guid>
+      <description>Nun hat es Hudson geschafft und es gibt eine Release 2.0.0. Im ChangLog ist nachzulesen, welche Änderungen gemacht wurden.</description>
+    </item>
+    
+    <item>
+      <title>Hudson - 1.256 - Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-10-25-hudson-1-256-erschienen/</link>
+      <pubDate>Sat, 25 Oct 2008 18:16:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-25-hudson-1-256-erschienen/</guid>
+      <description>Es ist eine aktualisierte Release der Continous Integration Lösung Hudson erschienen. Der ChangeLog gibt genaue Auskunft über die bisherigen Änderungen. Die aktuelle Release behebt einige kleinere Probleme:
+ Fälchlicherweise waren zwei dom4j.jar&amp;rsquo;s enthalten, welche zu Problemen mit WebSphere führten (Issue 2435) Korrektur einer NPE im Falle einer fehlerhaften changelog.xml Datei (issue 2428) erbesserte Fehler Erkennung bei der Verwendung von Windows Pfadangaben auf einem Unix Slave(report) Automatisches Abhängigkeits Management von Maven Projekten kann nun deaktiviert werden (Issue 1714)  Zu bekommen ist Hudson im Download Bereich.</description>
+    </item>
+    
+  </channel>
+</rss>

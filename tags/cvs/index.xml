@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVS on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/cvs/</link>
+    <description>Recent content in CVS on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 May 2008 20:31:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/cvs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stabile CVS Version 1.11.23 Released</title>
+      <link>http://localhost:1313/blog/2008/2008-05-19-stabile-cvs-version-1-11-23-released/</link>
+      <pubDate>Mon, 19 May 2008 20:31:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-05-19-stabile-cvs-version-1-11-23-released/</guid>
+      <description>Nach einer Ankündigung von Derek R. Price in der CVS Mailing Liste, ist am 08.05.2008 eine neue stabile CVS Release erschienen. Hierbei wurde ein performance Fix eingebracht, der das auschecken von alten Versionen von einer O(n^2)&amp;rdquo;) in eine O(n)&amp;rdquo;) Operation verändert. Es wurde auch noch Bug Fix #22781 bzgl. Windows Datei Zeitmarken Behandlungs Fehler gefixed und einige weitere Performance verbesserungen durchgeführt. Die News-Datei gibt hier genauere Hinweise über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>SmartCVS 6.0.4 (Release)</title>
+      <link>http://localhost:1313/blog/2007/2007-08-09-smartcvs-6-0-4-release/</link>
+      <pubDate>Thu, 09 Aug 2007 20:00:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-09-smartcvs-6-0-4-release/</guid>
+      <description>Es gibt ein Update vom SmartCVS Client. Die ChangeLog gibt über die Erweiterungen und Änderungen Auskunf.</description>
+    </item>
+    
+  </channel>
+</rss>

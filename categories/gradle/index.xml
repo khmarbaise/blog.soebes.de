@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradle on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/gradle/</link>
+    <description>Recent content in Gradle on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Jun 2012 12:25:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/gradle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gradle Release 1.0</title>
+      <link>http://localhost:1313/blog/2012/2012-06-17-gradle-release-1-0/</link>
+      <pubDate>Sun, 17 Jun 2012 12:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-06-17-gradle-release-1-0/</guid>
+      <description>Gradle liegt nun in der Release 1.0. vor. Interessant ist, dass das Dependency Management bisher mitIvy abgehandelt wurde nun aber durch eine eigene Implementierung ersetzt wurde. Auch wurde ein erster Support für C++ Unterstützung integriert.</description>
+    </item>
+    
+    <item>
+      <title>Gradle Reached Release 1.0 Milestone-2</title>
+      <link>http://localhost:1313/blog/2011/2011-04-24-gradle-reached-release-1-0-milestone-2/</link>
+      <pubDate>Sun, 24 Apr 2011 12:22:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-24-gradle-reached-release-1-0-milestone-2/</guid>
+      <description>The Gradle team has announced that Gradle has reached the Release 1.0-Milestone-2. The Release Notes give a more detailed overview what happened over the time.</description>
+    </item>
+    
+    <item>
+      <title>Maven vs. Gradle</title>
+      <link>http://localhost:1313/blog/2010/2010-07-11-maven-vs-gradle/</link>
+      <pubDate>Sun, 11 Jul 2010 18:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-07-11-maven-vs-gradle/</guid>
+      <description>Es gibt nun in der Hibernate Community Bestrebungen von Maven nach Gradle zu wechseln.</description>
+    </item>
+    
+  </channel>
+</rss>

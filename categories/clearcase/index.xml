@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ClearCase on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/clearcase/</link>
+    <description>Recent content in ClearCase on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 Feb 2010 12:57:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/clearcase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artikel über verschiedene VCS</title>
+      <link>http://localhost:1313/blog/2010/2010-02-24-artikel-%C3%A3ber-verschiedene-vcs/</link>
+      <pubDate>Wed, 24 Feb 2010 12:57:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-24-artikel-%C3%A3ber-verschiedene-vcs/</guid>
+      <description>Bin gerade über einen interessanten Artikel von Martin Fowler gestolpert, der sich dem Thema der unterschiedlichen Versionskontrollsystem widmet.</description>
+    </item>
+    
+    <item>
+      <title>Subverison vs. ClearCase Vortrag bei der SASO GmbH</title>
+      <link>http://localhost:1313/blog/2009/2009-12-06-subverison-vs-clearcase-vortrag-bei-der-saso-gmbh/</link>
+      <pubDate>Sun, 06 Dec 2009 15:10:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-12-06-subverison-vs-clearcase-vortrag-bei-der-saso-gmbh/</guid>
+      <description>In Zusammenarbeit mit der SASO GmbH in München hatte ich das Vergnügen einen Vortrag zum Thema Subversion vs. ClearCase zu halten, der die Vorteile- und auch die Nachteile von Subversion zeigt. In einer Regen Diskussion zeigten sich die Unterschiedlichen Ansichten sowohl zum Thema: Subversion als auch zu ClearCase.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Connector für IBM Rational ClearCase</title>
+      <link>http://localhost:1313/blog/2007/2007-06-22-subversion-connector-fauer-ibm-rational-clearcase/</link>
+      <pubDate>Fri, 22 Jun 2007 00:05:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-22-subversion-connector-fauer-ibm-rational-clearcase/</guid>
+      <description>Es gibt nun einen Subversion Connector für ClearCase. Es gibt den Connect frei zur Verfügung zum download.
+Leider muss man sich hier vorher registrieren. Es ist nun möglich einen ClearCase (VIEW, VOB)und ein Subversion Working copy zu synchronisieren. Genaueres kann man hier finden..</description>
+    </item>
+    
+  </channel>
+</rss>

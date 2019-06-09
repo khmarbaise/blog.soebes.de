@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/news/</link>
+    <description>Recent content in News on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Jun 2011 19:22:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Subversion 1.7.0 Alpha 1 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-06-10-subversion-1-7-0-alpha-1-erschienen/</link>
+      <pubDate>Fri, 10 Jun 2011 19:22:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-06-10-subversion-1-7-0-alpha-1-erschienen/</guid>
+      <description>Die erste Alpha Release von Subversion 1.7 Alpha 1 ist erschienen. Was gibt es denn so neues? Tja vor allem ein völlig neues Working Copy Format. Das heißt zum einen checkout&amp;rsquo;s die bis dato existieren werden von einem SVN Client nicht upgedated. Das bedeutet dass die Working Copies neu ausgecheckt werden müssen. Es gibt auch keine möglichkeit eines upgrades der working copy. Das neue Working Copy format ist vor allem in der Hinsicht einfacher und besser, dass nicht in jedem Unterverzeichnis ein &amp;ldquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

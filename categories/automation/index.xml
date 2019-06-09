@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/automation/</link>
+    <description>Recent content in Automation on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 Aug 2018 17:15:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous Delivery with Maven</title>
+      <link>http://localhost:1313/blog/2018/08/2018-08-26-ci-delivery-with-maven/</link>
+      <pubDate>Sun, 26 Aug 2018 17:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/08/2018-08-26-ci-delivery-with-maven/</guid>
+      <description>Based on todays requirements it is needed to do a continuous delivery of your artifacts by each change on your master (Git)/trunk(SVN). The question is what you need to achieve this with Maven?
+Usually you are using so called SNAPSHOT versions which means your version looks like 1.2.3-SNAPSHOT and indicates that you are currently working towards the release version 1.2.3. Afterwards you continue with the next snapshot version like 1.2.4-SNAPSHOT and so on.</description>
+    </item>
+    
+    <item>
+      <title>Automate it - Be Lazy - Part II</title>
+      <link>http://localhost:1313/blog/2018/07/2018-07-30-automate-it-part-ii/</link>
+      <pubDate>Mon, 30 Jul 2018 20:02:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/07/2018-07-30-automate-it-part-ii/</guid>
+      <description>As I wrote in my Automate it - Be Lazy Part I - I would like to continue my post. So here it is.
+The following parts are left from my process:
+The process  Create an issue for myself (if already existing move to step 2) Create a branch within the appropriate project based on the issue Assign the issue to myself Migrate the issue into the state of IN PROGRESS Done.</description>
+    </item>
+    
+    <item>
+      <title>Automate it - Be Lazy - Part I</title>
+      <link>http://localhost:1313/blog/2018/07/2018-07-21-automate-it-part-i/</link>
+      <pubDate>Sat, 21 Jul 2018 10:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/07/2018-07-21-automate-it-part-i/</guid>
+      <description>So based on my passion as open source developer in particular for the Apache Maven Project. I work JIRA based which helps us and myself to organize our work and of course follow the reported issues, feature request etc.
+So usually I start my work based on a particular issue in JIRA and go via the following process:
+The process  Create an issue for myself (if already existing move to step 2) Create a branch within the appropriate project based on the issue Assign the issue to myself Migrate the issue into the state of IN PROGRESS Do some work on the branch and commit Push the branch to remote and let Jenkins check the branch repeat with Step 5 until I finished my work.</description>
+    </item>
+    
+  </channel>
+</rss>

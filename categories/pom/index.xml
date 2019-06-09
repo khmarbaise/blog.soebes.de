@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pom on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/pom/</link>
+    <description>Recent content in Pom on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 24 Oct 2013 19:15:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/pom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maven POM Style Guide?</title>
+      <link>http://localhost:1313/blog/2013/2013-10-24-maven-pom-style-guide/</link>
+      <pubDate>Thu, 24 Oct 2013 19:15:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2013/2013-10-24-maven-pom-style-guide/</guid>
+      <description>If you are working over a longer time with Maven your pom´s become larger and in particular in projects it happens that everyone has it´s own belief of how a good pom style should look like. Packaging type before artifactId, groupId and version, modules before any other things or after all other things etc. Sounds familiar?
+Using a coding style guide in the Java development is usually today no big deal anymore.</description>
+    </item>
+    
+  </channel>
+</rss>

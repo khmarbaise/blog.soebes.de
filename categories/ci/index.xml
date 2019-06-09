@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/ci/</link>
+    <description>Recent content in CI on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Apr 2011 20:43:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/ci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artikel: Application Build and Continuous Integration Patterns</title>
+      <link>http://localhost:1313/blog/2011/2011-04-16-artikel-application-build-and-continuous-integration-patterns/</link>
+      <pubDate>Sat, 16 Apr 2011 20:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-16-artikel-application-build-and-continuous-integration-patterns/</guid>
+      <description>Habe auf infoq.com einen interessanten Artikel zum Thema Application Build and Continuous Integration Patterns gefunden.</description>
+    </item>
+    
+    <item>
+      <title>Lectures of the 4. Subversion Conference are online</title>
+      <link>http://localhost:1313/blog/2010/2010-09-29-lectures-of-the-4-subversion-conference-are-online/</link>
+      <pubDate>Wed, 29 Sep 2010 17:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-09-29-lectures-of-the-4-subversion-conference-are-online/</guid>
+      <description>The lectures about project management vs. build- and configuration management and the lecture about the Subversion Repository Search Engine are now online availabe.</description>
+    </item>
+    
+    <item>
+      <title>Tomcat as Daemon</title>
+      <link>http://localhost:1313/blog/2010/2010-04-29-tomcat-as-daemon/</link>
+      <pubDate>Thu, 29 Apr 2010 09:21:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-29-tomcat-as-daemon/</guid>
+      <description>I had the problem to start the Apache Tomcat as a daemon under a different user. After creating an RPM which puts the appropriate files into the correct location i had to create a service script to start, stop and check the status of the Tomcat daemon. The most important thing here is to have a su -l username which will go to the different user in his home folder where i can call the startup.</description>
+    </item>
+    
+    <item>
+      <title>Hudson - 1.218 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-05-22-hudson-1-218-erschienen/</link>
+      <pubDate>Thu, 22 May 2008 16:07:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-05-22-hudson-1-218-erschienen/</guid>
+      <description>Mit der Release 1.218 hat Kohsuke Kawaguchi eine neue Release der Continous Integration Lösung Hudson heraus gebracht, in der ein NPE (Null Pointer Exception) gefixed wurde und eine Konfiguration Einstellung erweitert wurde. Die genaue Liste der Änderungen kann im ChangeLog nachgelesen werden. Bezogen werden kann Hudson im Download Bereich.</description>
+    </item>
+    
+  </channel>
+</rss>

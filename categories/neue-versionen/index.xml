@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neue Versionen on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/neue-versionen/</link>
+    <description>Recent content in Neue Versionen on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Oct 2012 18:59:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/neue-versionen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interessanter Artikel: Mitgration von Subversion nach Git</title>
+      <link>http://localhost:1313/blog/2012/2012-10-17-interessanter-artikel-mitgration-von-subversion-nach-git/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-10-17-interessanter-artikel-mitgration-von-subversion-nach-git/</guid>
+      <description>Habe gerade einen interessanten Artikel zum Thema Migration von Subversion nach Git gefunden.</description>
+    </item>
+    
+    <item>
+      <title>Appassembler - Maven Plugin - Release 1.3</title>
+      <link>http://localhost:1313/blog/2012/2012-09-15-appassembler-maven-plugin-release-1-3/</link>
+      <pubDate>Sat, 15 Sep 2012 19:41:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-09-15-appassembler-maven-plugin-release-1-3/</guid>
+      <description>A new release of the appassembler-maven-plugin is now available. The release notes contain information about news.</description>
+    </item>
+    
+    <item>
+      <title>Gradle Release 1.0</title>
+      <link>http://localhost:1313/blog/2012/2012-06-17-gradle-release-1-0/</link>
+      <pubDate>Sun, 17 Jun 2012 12:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-06-17-gradle-release-1-0/</guid>
+      <description>Gradle liegt nun in der Release 1.0. vor. Interessant ist, dass das Dependency Management bisher mitIvy abgehandelt wurde nun aber durch eine eigene Implementierung ersetzt wurde. Auch wurde ein erster Support für C++ Unterstützung integriert.</description>
+    </item>
+    
+    <item>
+      <title>Appassembler-Maven-Plugin 1.2.2 - Released</title>
+      <link>http://localhost:1313/blog/2012/2012-05-03-appassembler-maven-plugin-1-2-2-released/</link>
+      <pubDate>Thu, 03 May 2012 21:42:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-05-03-appassembler-maven-plugin-1-2-2-released/</guid>
+      <description>There is a new release of the appassembler-maven-plugin available. Within the Release notes you can take a look what has been changed. The documentation about the plugin is available on the homepage of the appassembler-maven-plugin.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.7.4 erschienen</title>
+      <link>http://localhost:1313/blog/2012/2012-03-10-subversion-release-1-7-4-erschienen/</link>
+      <pubDate>Sat, 10 Mar 2012 17:36:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-03-10-subversion-release-1-7-4-erschienen/</guid>
+      <description>Es gibt nach weniger als einem Monat die nächste Subversion Release. Die Release Notes geben wieder Aufschluss über die Änderungen für die Release während der ChangeLog die genauen Änderung bzgl. der Release 1.7.4 darstellen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.3 Erschienen</title>
+      <link>http://localhost:1313/blog/2012/2012-02-14-subversion-1-7-3-erschienen/</link>
+      <pubDate>Tue, 14 Feb 2012 16:24:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-02-14-subversion-1-7-3-erschienen/</guid>
+      <description>Es gibt nun die nächste Subversion Release. Die Release Notes geben wieder Aufschluss über die Änderungen für die Release während der ChangeLog die genauen Änderung bzgl. der Release 1.7.3 darstellen.</description>
+    </item>
+    
+    <item>
+      <title>Appassembler-Maven-Plugin 1.2 - Released</title>
+      <link>http://localhost:1313/blog/2012/2012-02-09-appassembler-maven-plugin-1-2-released/</link>
+      <pubDate>Thu, 09 Feb 2012 21:45:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-02-09-appassembler-maven-plugin-1-2-released/</guid>
+      <description>Now it is done. The release of the Appassembler-Maven-Plugin is now officially available via Maven Central.</description>
+    </item>
+    
+    <item>
+      <title>Appassembler-Maven-Plugin 1.2 - Voting...</title>
+      <link>http://localhost:1313/blog/2012/2012-01-19-appassembler-maven-plugin-1-2-voting-/</link>
+      <pubDate>Thu, 19 Jan 2012 22:37:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-01-19-appassembler-maven-plugin-1-2-voting-/</guid>
+      <description>Tja nach einiger Arbeit ist es nun so weit, dass ich die Release 1.2 des Appassembler-Maven-Plugin nun als Mojo-Codehaus Committer&amp;hellip;Hier ist das Voting zu sehen&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Maven 3.0.4 auf dem Weg...</title>
+      <link>http://localhost:1313/blog/2011/2011-12-06-maven-3-0-4-auf-dem-weg-/</link>
+      <pubDate>Tue, 06 Dec 2011 19:58:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-12-06-maven-3-0-4-auf-dem-weg-/</guid>
+      <description>Das Voting für Maven 3.0.4 läuft nun. Die Release Notes geben eine Übersicht über die Änderungen.
+Update: Das Voting für 3.0.4 wurde abgebrochen. Nun ist 3.0.4-RC3 auf dem Weg.. Update: Das hat ja auch gedauert&amp;hellip; Nun geht es in die Letzte Runde: Maven 3.0.4.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.2 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-12-06-subversion-1-7-2-erschienen/</link>
+      <pubDate>Tue, 06 Dec 2011 07:52:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-12-06-subversion-1-7-2-erschienen/</guid>
+      <description>Es ist nun eine neue Release von Subversion erschienen. Die Release Notes enthalten wieder informationen über die Release 1.7.2 und der ChangeLog wieder die genauen Details.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.2 - Up for Testing</title>
+      <link>http://localhost:1313/blog/2011/2011-12-02-subversion-1-7-2-up-for-testing/</link>
+      <pubDate>Fri, 02 Dec 2011 14:24:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-12-02-subversion-1-7-2-up-for-testing/</guid>
+      <description>Es geht richtig schnell weiter mit Subversion nun liegt eine Release 1.7.2 vor zum Test. Im ChangeLog kann man wieder genau nachschauen was alles geändert/verbessert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.1 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-10-26-subversion-1-7-1-erschienen/</link>
+      <pubDate>Wed, 26 Oct 2011 11:34:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-10-26-subversion-1-7-1-erschienen/</guid>
+      <description>Es ist nun geschehen. Subversion in der Release 1.7.1. In den Release Notes gibt es eine Übersicht über die wichtigsten Änderung und im ChangeLog kann man genau nachlesen was geändert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.0 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-10-11-subversion-1-7-0-erschienen/</link>
+      <pubDate>Tue, 11 Oct 2011 19:19:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-10-11-subversion-1-7-0-erschienen/</guid>
+      <description>Es ist nun geschehen. Subversion in der Release 1.7.0. In den Release Notes gibt es eine Übersicht über die wichtigsten Änderung und im ChangeLog kann man genau nachlesen was geändert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7 RC4 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-09-28-subversion-1-7-rc4-erschienen/</link>
+      <pubDate>Wed, 28 Sep 2011 20:59:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-09-28-subversion-1-7-rc4-erschienen/</guid>
+      <description>Nun liegt der nächste Release Candidate von Subversion 1.7.0 vor. Die Release Notes geben wieder Auskunft über die Änderung im Rahmen der Release 1.7 und im ChangeLog kann man dann ganz genau nachlesen was sich alles geändert hat.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.0 RC3 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-09-16-subversion-1-7-0-rc3-erschienen/</link>
+      <pubDate>Fri, 16 Sep 2011 11:36:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-09-16-subversion-1-7-0-rc3-erschienen/</guid>
+      <description>Nun liegt der nächste Release Candidate von Subversion 1.7.0 vor. Die Release Notes geben wieder Auskunft über die Änderung im Rahmen der Release 1.7 und im ChangeLog kann man dann ganz genau nachlesen was sich alles geändert hat.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7 - RC2 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-09-02-subversion-1-7-rc2-erschienen/</link>
+      <pubDate>Fri, 02 Sep 2011 14:57:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-09-02-subversion-1-7-rc2-erschienen/</guid>
+      <description>Es gibt nun einen neuen RC-2 Release von Subversion. Die Release Notes geben wieder Auskunft über die Änderung im Rahmen der Release 1.7 und im ChangeLog kann man dann ganz genau nachlesen was sich alles geändert hat.</description>
+    </item>
+    
+    <item>
+      <title>Subverison 1.7 - Beta 3 Released</title>
+      <link>http://localhost:1313/blog/2011/2011-08-12-subverison-1-7-beta-3-released/</link>
+      <pubDate>Fri, 12 Aug 2011 11:12:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-08-12-subverison-1-7-beta-3-released/</guid>
+      <description>Es gibt nun eine neue Beta-3 Release von Subversion. Die Release Notes geben wieder Auskunft über die Änderung im Rahmen der Release 1.7 und im ChangeLog kann man dann ganz genau nachlesen was sich alles geändert hat.</description>
+    </item>
+    
+    <item>
+      <title>Subverison 1.7 - Beta 2 Released</title>
+      <link>http://localhost:1313/blog/2011/2011-07-25-subverison-1-7-beta-2-released/</link>
+      <pubDate>Mon, 25 Jul 2011 08:03:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-07-25-subverison-1-7-beta-2-released/</guid>
+      <description>Die Beta 2 Release von Subversion 1.7 wurde released. In den Release Notes kann man schon mal ein wenig Stöbern was es denn so neues gibt. Wer es dann richtig genau wissen möchte kann ja im ChangeLog nach schauen&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7 Branch wurde erstellt.</title>
+      <link>http://localhost:1313/blog/2011/2011-07-13-subversion-1-7-branch-wurde-erstellt-/</link>
+      <pubDate>Wed, 13 Jul 2011 21:34:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-07-13-subversion-1-7-branch-wurde-erstellt-/</guid>
+      <description>Auf der Entwickler Liste war zu lesen, dass der Branch für die Release 1.7 erstellt wurde. Das bedeutet es geht in Richtung Ziel Linie für die 1.7 Release.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.6.17 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-06-02-subversion-release-1-6-17-erschienen/</link>
+      <pubDate>Thu, 02 Jun 2011 12:14:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-06-02-subversion-release-1-6-17-erschienen/</guid>
+      <description>Es gibt nun eine neue Release von Subversion. Diese Release adressiert vor allem drei Security Issues. Der ChangeLog gibt wieder Auskunft über die genauen Änderungen von Subversion. In den Release Notes sind die relevanten Änderung bzgl. der Release 1.6 aufgeführt. Ergänzung: TortoiseSVN hat auch eine neue Release heraus gebracht, die gegen die obige SVN Release gelinkt ist.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag von der JUGF: Grundlagen Software Konfigurationsmanagement online</title>
+      <link>http://localhost:1313/blog/2011/2011-05-28-vortrag-von-der-jugf-grundlagen-software-konfigurationsmanagement-online/</link>
+      <pubDate>Sat, 28 May 2011 15:49:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-05-28-vortrag-von-der-jugf-grundlagen-software-konfigurationsmanagement-online/</guid>
+      <description>Den Vortrag, den ich zum Thema Grundlagen Software Konfigurationsmanagement bei der Java User Group in Frankfurt, halten durfte ist nun online als PDF.</description>
+    </item>
+    
+    <item>
+      <title>Maven License Verifier Plugin - Release 0.4</title>
+      <link>http://localhost:1313/blog/2011/2011-05-07-maven-license-verifier-plugin-release-0-4/</link>
+      <pubDate>Sat, 07 May 2011 21:36:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-05-07-maven-license-verifier-plugin-release-0-4/</guid>
+      <description>Das Maven-License-Verifier Plugin steht nun in der Release 0.4 zur Verfügung. Ein Beispiel Report gibt es auch zu sehen. Das Plugin ist nun auch über Maven Central unter den folgenden Koordinaten verfügbar:  &amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;com.soebes.maven.plugins.mlv&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-license-verifier-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;0.4&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt;  Die wichtigste Änderung ist nun, dass die licenses.xml Datei nun auch in einem separaten Artefakt abgelegt werden kann und somit die Notwendigkeit entfällt die Licenses.xml Datei immer im Projekt selbst zu haben.</description>
+    </item>
+    
+    <item>
+      <title>Maven License Verifier Plugin - Release 0.3</title>
+      <link>http://localhost:1313/blog/2011/2011-05-01-maven-license-verifier-plugin-release-0-3/</link>
+      <pubDate>Sun, 01 May 2011 00:02:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-05-01-maven-license-verifier-plugin-release-0-3/</guid>
+      <description>Das Maven-License-Verifier Plugin steht nun in der Release 0.3 zur Verfügung. Ein Beispiel Report gibt es auch zu sehen. Das Plugin ist nun auch über Maven Central unter den folgenden Koordinaten verfügbar:  &amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;com.soebes.maven.plugins.mlv&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-license-verifier-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;0.3&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Gradle Reached Release 1.0 Milestone-2</title>
+      <link>http://localhost:1313/blog/2011/2011-04-24-gradle-reached-release-1-0-milestone-2/</link>
+      <pubDate>Sun, 24 Apr 2011 12:22:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-24-gradle-reached-release-1-0-milestone-2/</guid>
+      <description>The Gradle team has announced that Gradle has reached the Release 1.0-Milestone-2. The Release Notes give a more detailed overview what happened over the time.</description>
+    </item>
+    
+    <item>
+      <title>Hudson Release 2.0.0 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-04-22-hudson-release-2-0-0-erschienen/</link>
+      <pubDate>Fri, 22 Apr 2011 16:29:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-22-hudson-release-2-0-0-erschienen/</guid>
+      <description>Nun hat es Hudson geschafft und es gibt eine Release 2.0.0. Im ChangLog ist nachzulesen, welche Änderungen gemacht wurden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.16 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-03-04-subversion-1-6-16-erschienen/</link>
+      <pubDate>Fri, 04 Mar 2011 08:22:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-03-04-subversion-1-6-16-erschienen/</guid>
+      <description>Es ist wieder so weit. Eine neue Release von Subversion ist erschienen. Im ChangeLog gibt es eine genau Liste der Änderungen. Dabei heraus zu heben ist ein Security Patch.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3.0.3 released</title>
+      <link>http://localhost:1313/blog/2011/2011-03-04-maven-3-0-3-released/</link>
+      <pubDate>Fri, 04 Mar 2011 08:04:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-03-04-maven-3-0-3-released/</guid>
+      <description>Es gibt nun wieder eine neue Release von Maven 3.0.3. Auf der Mailing Liste ist das erfolgreiche Voting abgeschlossen. Die Bezugsquellen für Maven sind nun auch aktualisiert. Die Release Notes geben wieder Auskunft über die gesamte Release.</description>
+    </item>
+    
+    <item>
+      <title>Maven Licenses Verifier Plugin</title>
+      <link>http://localhost:1313/blog/2011/2011-01-30-maven-licenses-verifier-plugin/</link>
+      <pubDate>Sun, 30 Jan 2011 19:41:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-01-30-maven-licenses-verifier-plugin/</guid>
+      <description>Das Maven-License-Verifier Plugin geht nun in die nächste Runde. Es erzeugt nun schon mal Reports. Der Erste Teil des Reports gibt Auskunft darüber welche Artefakte entsprechende kategorisiert wurden und in welche Kategorie.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5.9 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-12-27-subversion-1-5-9-erschienen/</link>
+      <pubDate>Mon, 27 Dec 2010 12:03:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-12-27-subversion-1-5-9-erschienen/</guid>
+      <description>Kurz vor Weihnachten hat es nun noch eine Release 1.5.9 von Subversion geschafft. Im ChangeLog kann man genau nachlesen welche Änderungen gemacht wurden und welche nicht. Die Release Notes geben wieder über die Release Linie 1.5 genaue auskunft.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.12 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-11-28-tortoisesvn-1-6-12-erschienen/</link>
+      <pubDate>Sun, 28 Nov 2010 12:20:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-11-28-tortoisesvn-1-6-12-erschienen/</guid>
+      <description>Es gibt nun eine neue Release von TortoiseSVN welche gegen Subversion 1.6.15 gelinkt wurde. Die Release Notes geben Auskunft über die Änderung bzgl. der Release während der ChangeLog die Datails über die Release angeben.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.15 Released</title>
+      <link>http://localhost:1313/blog/2010/2010-11-24-subversion-1-6-15-released/</link>
+      <pubDate>Wed, 24 Nov 2010 20:04:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-11-24-subversion-1-6-15-released/</guid>
+      <description>Es ist mal wieder so weit und es gibt eine neue Release von Subversion. Der ChangeLog gibt wieder die genauen Details, die geändert bzw. verbessert wurden.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3.0</title>
+      <link>http://localhost:1313/blog/2010/2010-10-07-maven-3-0/</link>
+      <pubDate>Thu, 07 Oct 2010 06:26:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-07-maven-3-0/</guid>
+      <description>Die Ankündigung für Maven 3.0 ist nun da. Jetzt heißt es nur noch warten bis die VOTES durch sind und es zur offiziellen Veröffentlichung von Maven 3.0 kommt. Das bedeutet jetzt einfach warten.  Update 08.10.2010: Maven 3 ist nun offiziell da!</description>
+    </item>
+    
+    <item>
+      <title>Bazaar 2.2.1 Released</title>
+      <link>http://localhost:1313/blog/2010/2010-10-02-bazaar-2-2-1-released/</link>
+      <pubDate>Sat, 02 Oct 2010 13:09:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-02-bazaar-2-2-1-released/</guid>
+      <description>Es gibt eine neue Release 2.2.1 von Bazaar. Die entsprechenden Downloads für Linux, Mac und Windows sind auch verfügbar.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.6.13 / TortoiseSVN Update</title>
+      <link>http://localhost:1313/blog/2010/2010-10-02-subversion-release-1-6-13-tortoisesvn-update/</link>
+      <pubDate>Sat, 02 Oct 2010 12:10:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-02-subversion-release-1-6-13-tortoisesvn-update/</guid>
+      <description>Auf der Announce List ist die Ankündigung zur neuene Release von Subversion 1.6.13 zu lesen. Die Release Notes geben Auskunft über die Wichtigen Änderungen der Release 1.6 und im ChangeLog kann die genauen Details nachlesen. Auch von TortoiseSVN gibt ein entsprechendes Update.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3.0 - RC 2 - verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-09-23-maven-3-0-rc-2-verf%C3%A3gbar/</link>
+      <pubDate>Thu, 23 Sep 2010 09:05:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-09-23-maven-3-0-rc-2-verf%C3%A3gbar/</guid>
+      <description>Auf den Mailing Listen für Maven ist bekannt gegeben worden, dass ein zweiter Release Candidate von Maven 3.0 zur Verfügug steht. Es ist wichtig die kompatibilitäts Matrix zu beachten.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - Beta 3 Verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-09-03-maven-3-beta-3-verf%C3%A3gbar/</link>
+      <pubDate>Fri, 03 Sep 2010 08:53:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-09-03-maven-3-beta-3-verf%C3%A3gbar/</guid>
+      <description>Nach recht kurzer Zeit gibt es nun eine neue Beta Release von Maven 3, die vor allem dadurch sich von seinen Vorgängern unterscheidet, dass hier nun Guice als auch die Aether Bibliothek zum Einsatz kommt.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.6.3 - TortoiseHG - 1.1.3 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-08-29-mercurial-1-6-3-tortoisehg-1-1-3-erschienen/</link>
+      <pubDate>Sun, 29 Aug 2010 18:55:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-29-mercurial-1-6-3-tortoisehg-1-1-3-erschienen/</guid>
+      <description>Es gibt eine neue Release von Mercurial und eine neue Release von TortoiseHG.  Die entsprechenden Release Notes von Mercurial als auch TortoiseHg geben entsprechende Auskunft über die Verschiedenen Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - Beta 2 Verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-08-11-maven-3-beta-2-verf%C3%A3gbar/</link>
+      <pubDate>Wed, 11 Aug 2010 09:53:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-11-maven-3-beta-2-verf%C3%A3gbar/</guid>
+      <description>Es ist nun so weit und eine neue Beta Release von Maven 3 ist nun verfügbar. Auf der Entwickler Liste war gestern Abend die Ankündigung zu lesen. Hier hat es eine ganze Menge Verbesserungen geben vor allem im Bezug auf Fehlerbehandlung wie z.B. doppelte execution-id&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Subversion - Multisite Ansatz - SVNSyncRouter</title>
+      <link>http://localhost:1313/blog/2010/2010-08-08-subversion-multisite-ansatz-svnsyncrouter/</link>
+      <pubDate>Sun, 08 Aug 2010 21:29:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-08-subversion-multisite-ansatz-svnsyncrouter/</guid>
+      <description>Ich habe durch Zufall folgende Implementation für ein Multisite Ansatz gefunden. Hört sich sehr interessant an. Sollte man mal bei Zeiten ausprobieren.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE - Performance Optimierung - 0.7.1 Linie</title>
+      <link>http://localhost:1313/blog/2010/2010-08-08-supose-performance-optimierung-0-7-1-linie/</link>
+      <pubDate>Sun, 08 Aug 2010 18:24:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-08-supose-performance-optimierung-0-7-1-linie/</guid>
+      <description>Die Optimierung die ich im Ersten Schritt in SupoSE vorgenommen hatte wahren ja schon recht erfolgreich.
+Von 5 Tagen auf unter 24 Stunden ist ja schon was und gleichzeitig noch den Speicherbedarf reduziert. Aber das war mir noch nicht genug. Also habe ich nochmal nachgedacht was man da denn noch machen kann. Da das Scannen des Repositories ja anhand der Revisionnummern vorgenommen wird war der Schritt in Richtung von Blöcken a 10.</description>
+    </item>
+    
+    <item>
+      <title>Maven vs. Gradle</title>
+      <link>http://localhost:1313/blog/2010/2010-07-11-maven-vs-gradle/</link>
+      <pubDate>Sun, 11 Jul 2010 18:26:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-07-11-maven-vs-gradle/</guid>
+      <description>Es gibt nun in der Hibernate Community Bestrebungen von Maven nach Gradle zu wechseln.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseHG 1.1 (Mercurial 1.6) erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-07-06-tortoisehg-1-1-mercurial-1-6-erschienen/</link>
+      <pubDate>Tue, 06 Jul 2010 19:42:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-07-06-tortoisehg-1-1-mercurial-1-6-erschienen/</guid>
+      <description>Es gibt eine neue Release von TortoiseHG. Die Release Notes geben über die Release Neuigkeiten auskunft. Informationen über die verwendete Mercurial Release 1.6 sind hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.12 - Windows binaries verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-07-05-subversion-1-6-12-windows-binaries-verf%C3%A3gbar/</link>
+      <pubDate>Mon, 05 Jul 2010 20:39:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-07-05-subversion-1-6-12-windows-binaries-verf%C3%A3gbar/</guid>
+      <description>Auf der Subversion Users liste wurde bekannt gemacht, dass nun auch Windows binaries verfügbar sind.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.12 - Erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-06-21-subversion-1-6-12-erschienen/</link>
+      <pubDate>Mon, 21 Jun 2010 17:58:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-06-21-subversion-1-6-12-erschienen/</guid>
+      <description>In der Entwickler- als auch der Users Liste ist bekannt gegeben worden, dass eine neue Release von Subversion zur Verfügung steht. Die Release Notes geben Auskunft was in 1.6 geändert wurde
+Das ChangeLog für die Release 1.6.12 gibt eine Übersicht über die Änderungen im Detail.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.2 Calypso ist nun da</title>
+      <link>http://localhost:1313/blog/2010/2010-06-11-supose-release-0-6-2-calypso-ist-nun-da/</link>
+      <pubDate>Fri, 11 Jun 2010 18:59:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-06-11-supose-release-0-6-2-calypso-ist-nun-da/</guid>
+      <description>Eine neue Release von SupoSE ist nun fertig.
+ User visible Changes/Enhancements.  Upgrade to SVNKit 1.3.X (Support for SVN 1.6.X repositories) (#218) Enormous performance enhancements for the scan command (#309) Updated to Java 1.6 (#235) Removed the dfilename and dpath which had been introduced in Release 0.6.0 to reduce the Index size finger print (#241). Removed display property prefix (#310) Output formatting of &amp;ndash;help has been changed (#36) quartz.properties are now located in the etc folder Formatting problem if more than 9999 items in changeset (#314) Copyright updated to 2010 (#308) Updated the Build/Run Documentation (#247)  Fixed Bugs  Fuzzy search had been broken (#199) README will not correctly recognized (#215) Searching for full qualified filenames didn&amp;rsquo;t work (#216) Couldn&amp;rsquo;t search for files with a dot (#246)  Won&amp;rsquo;t be fixed:  Support for 1.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - beta - 1 -- Released</title>
+      <link>http://localhost:1313/blog/2010/2010-04-23-maven-3-beta-1-released/</link>
+      <pubDate>Fri, 23 Apr 2010 16:38:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-23-maven-3-beta-1-released/</guid>
+      <description>Heute ist auf der User Mailing Liste bekannt gegeben worden, dass die erste Beta Release von Maven 3 zur Verfügung steht. Maven 3 ist kompatibel zu Maven 2 und somit sollte hier der Übergang recht einfach sein. Der Download ist über die Homepage von Maven zu erreichen.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.8 - erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-04-19-tortoisesvn-1-6-8-erschienen/</link>
+      <pubDate>Mon, 19 Apr 2010 19:00:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-19-tortoisesvn-1-6-8-erschienen/</guid>
+      <description>Nachdem nun Subversion 1.6.11 erschienen ist, ist nach sehr kurzer Dauer nun auch TortoiseSVN in einer neuen Release erschienen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.11 Release erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-04-17-subversion-1-6-11-release-erschienen/</link>
+      <pubDate>Sat, 17 Apr 2010 12:36:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-17-subversion-1-6-11-release-erschienen/</guid>
+      <description>Das Subversion Team hat auf den Subversion Mailing Listen bekannt gegeben, dass nun die Release 1.6.11 von Subversion zur Verfügung steht. Die Übersicht über die genauen Änderungen gibt das ChangeLog und die Übersicht über die in der Release 1.6. eingeflossenen Änderungen und Erweiterungen ist in den Release Notes nach zu lesen.</description>
+    </item>
+    
+    <item>
+      <title>SVK - Maintenance Release 2.2.2 zur Verfügung</title>
+      <link>http://localhost:1313/blog/2010/2010-03-12-svk-maintenance-release-2-2-2-zur-verf%C3%A3gung/</link>
+      <pubDate>Fri, 12 Mar 2010 13:36:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-12-svk-maintenance-release-2-2-2-zur-verf%C3%A3gung/</guid>
+      <description>Chia-Liang Kao, der Autor des Verteilten Versionskontrollsystems SVK, hat auf der Mailing Liste bekannt gegeben, dass eine maintenance Release 2.2.2 von SVK zur Verfügung steht, die mit Subversion 1.6.X zusammen arbeitet.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.7 (SVN 1.6.9) - erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-03-06-tortoisesvn-1-6-7-svn-1-6-9-erschienen/</link>
+      <pubDate>Sat, 06 Mar 2010 22:23:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-06-tortoisesvn-1-6-7-svn-1-6-9-erschienen/</guid>
+      <description>Es ist eine neue Release von TortoiseSVN 1.6.7 erschienen, der gegen Subversion 1.6.9 gelinkt ist. Der ChangeLog gibt genau darüber auskunft was geändert wurde. In den Release Notes ist beschrieben welche Änderungen in dieser Release vorgenommen wurden.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseHG - 1.0 (Mercurial 1.5) - erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-03-06-tortoisehg-1-0-mercurial-1-5-erschienen/</link>
+      <pubDate>Sat, 06 Mar 2010 22:13:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-06-tortoisehg-1-0-mercurial-1-5-erschienen/</guid>
+      <description>Es ist nun eine neue Release von TortoiseHG verfügbar. Die Informationen zu Mercurial 1.5 sind in den Release Notes von Merurial zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Version Control Tool Verbreitung</title>
+      <link>http://localhost:1313/blog/2010/2010-02-19-version-control-tool-verbreitung/</link>
+      <pubDate>Fri, 19 Feb 2010 17:27:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-19-version-control-tool-verbreitung/</guid>
+      <description>In einem Report den ich im Forester Blog gefunden habe war ich doch an einigen Stellen echt gestaunt. Ich möchte da vor allem auf den Bereich hinweisen, wo keinerlei Versionskontrollwerkzeuge verwendet werden.  [Update] Leider scheint der Link nicht mehr zu stimmen. Da ist anscheinend die Web-Seite umgebaut worden.  [Update] 10.11.2010: Der link funktioniert wieder.</description>
+    </item>
+    
+    <item>
+      <title>Git Release 1.7 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-02-19-git-release-1-7-erschienen/</link>
+      <pubDate>Fri, 19 Feb 2010 14:36:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-19-git-release-1-7-erschienen/</guid>
+      <description>Es ist eine neue Release 1.7.0 von Git erschienen, wobei hier einige Änderung bzgl. der Kompatibilität herausstechen.</description>
+    </item>
+    
+    <item>
+      <title>Maven Eclipse Plugin 0.10.0 veröffentlicht</title>
+      <link>http://localhost:1313/blog/2010/2010-02-16-maven-eclipse-plugin-0-10-0-ver%C3%A3ffentlicht/</link>
+      <pubDate>Tue, 16 Feb 2010 10:38:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-16-maven-eclipse-plugin-0-10-0-ver%C3%A3ffentlicht/</guid>
+      <description>Es gibt nun eine neue Release des Maven Eclipse Plugins. Im Blog der Firma Sonatype sind genau Informationen zu erfahren.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.6.9 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-01-22-subversion-release-1-6-9-erschienen/</link>
+      <pubDate>Fri, 22 Jan 2010 09:29:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-01-22-subversion-release-1-6-9-erschienen/</guid>
+      <description>Das Subversion Team hat nun eine neue Release von Subversion veröffentlicht.
+Es ist zu beachten, dass die Releases 1.6.7 und 1.6.8 nicht veröffentlicht wurden.
+Die aktuellen Sourcen können hier bezogen werden. Der ChangeLog gibt wieder darüber auskunft was denn alles geändert wurde. Die Release Notes geben eine Übersicht über die Release. Es ist zu beachten, dass Subversion derzeit im Incubtor Status auf Apache.org ist.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - Alpha 3 Release </title>
+      <link>http://localhost:1313/blog/2009/2009-11-14-maven-3-alpha-3-release-/</link>
+      <pubDate>Sat, 14 Nov 2009 15:37:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-11-14-maven-3-alpha-3-release-/</guid>
+      <description>Es wurde auf der Entwicklungs Liste von Maven angekündigt, dass Maven 3 in der Alpha 3 Release zur Verfügung steht.</description>
+    </item>
+    
+    <item>
+      <title>Vorträge der Subversion Konferenz Online</title>
+      <link>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</link>
+      <pubDate>Sun, 01 Nov 2009 18:56:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</guid>
+      <description>Nach Beendigung der Subversion Konferenz in München habe ich nun meine eigenen Vorträge alle online gestellt.
+ Versionierung in Java stellt einen Vortrag (PDF) zum Thema SVNKit Nutzung und Anwendung im Bereich Java. To be DVCS or not to be stellt einen Vortrag (PDF) zur kritischen Betrachtung von verteilten bzw. zentralisierten Versionskontrollsystemen dar. Die Qual der Versionen die 2. stellt einen Vortrag (PDF) zum OpenSource Projekt Subversion Repository Search Enginge (SupoSE) dar.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.6 Release</title>
+      <link>http://localhost:1313/blog/2009/2009-10-22-subversion-1-6-6-release/</link>
+      <pubDate>Thu, 22 Oct 2009 08:08:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-10-22-subversion-1-6-6-release/</guid>
+      <description>Die neue Release von Subversion 1.6.6 ist nun da. Die Release Notes geben Auskunft über die grundlegenden Neuerungen in der Release 1.6 während der ChangeLog die Änderung in der Release 1.6.6 beschreiben. Es wurden wieder einige Bugs behoben.
+ Änderungen für den Benutzer sichtbar:  Fixed Absturz während &amp;lsquo;svn update&amp;rsquo; (r39673) Beachte Apache&amp;rsquo;s ServerSignature Anweisung (r40008, -21, -31) Eine Datei mit gemischten Zeilenenden wird nicht hinzugefügt (issue #2713) Unterstützung für Neon 0.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.6 - Test und Signing hat begonnen</title>
+      <link>http://localhost:1313/blog/2009/2009-10-15-subversion-1-6-6-test-und-signing-hat-begonnen/</link>
+      <pubDate>Thu, 15 Oct 2009 19:02:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-10-15-subversion-1-6-6-test-und-signing-hat-begonnen/</guid>
+      <description>Der Release Manager von Subversion Hyrum K. Wright hat bekannt gegeben, dass die Test und Signing Phase für Subversion 1.6.6 begonnen hat.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.3.1 GA Erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-09-16-svnkit-1-3-1-ga-erschienen/</link>
+      <pubDate>Wed, 16 Sep 2009 20:54:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-09-16-svnkit-1-3-1-ga-erschienen/</guid>
+      <description>Das Release 1.3.1 GA hat bekannt gegeben, dass eine neue Release zur Verfügung steht. Änderungen seit Version 1.3.0: + Alle Änderungen die in Subversion seit 1.6.2 gemacht wurden sind implementiert worden. + Cache DB Support mithilfe der SQLJet (http://sqljet.com) Bibliothek + Fehlende JavaHL Methoden wurden hinzugefügt. + Fixed &amp;lsquo;svn: Checksum mismatch while reading representation&amp;rsquo; exception während des lesen vom lokalen Repository (vdelta). + Einige Fixes den Bereich dump/load betreffend + Upgrade auf JNA Lib 3.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.18</title>
+      <link>http://localhost:1313/blog/2009/2009-08-22-bazaar-release-1-18/</link>
+      <pubDate>Sat, 22 Aug 2009 21:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-08-22-bazaar-release-1-18/</guid>
+      <description>Es gibt ein Update von Bazaar.
+Die neue Release 1.18 enthält wieder einmal eine menge von Verbesserungen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.5 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-08-22-subversion-1-6-5-erschienen/</link>
+      <pubDate>Sat, 22 Aug 2009 16:50:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-08-22-subversion-1-6-5-erschienen/</guid>
+      <description>Es wurde gerade bekannt gegeben, dass die Release 1.6.4 von Subversion zur Verfügung steht. Die Release Notes geben wieder Auskunft über die Änderungen in der Release und der ChangeLog gibt wieder sehr detailier wieder welche Änderungen gemacht wurden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.4 / 1.5.7 - Security Releases erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-08-07-subversion-1-6-4-1-5-7-security-releases-erschienen/</link>
+      <pubDate>Fri, 07 Aug 2009 09:17:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-08-07-subversion-1-6-4-1-5-7-security-releases-erschienen/</guid>
+      <description>Es wurde gerade bekannt gegeben, dass die Release 1.6.4 und Release 1.5.7 von Subversion zur Verfügung steht. Die Releases 1.5.7 und 1.6.4 stellen eine Security Release dar. Das betrifft das folgende Issue. Es ist möglich, dass die CVE Page noch nicht öffentlich ist. Der vollständige Text ist hier zu finden. Es wird dringend ein Update sowohl für Client als auch für den Server empfohlen.</description>
+    </item>
+    
+    <item>
+      <title>Git 1.6.4 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-07-30-git-1-6-4-erschienen/</link>
+      <pubDate>Thu, 30 Jul 2009 08:28:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-30-git-1-6-4-erschienen/</guid>
+      <description>Es liegt eine neue Release 1.6.4 von Git vor.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.3.1 und TortoiseHg 0.8.1</title>
+      <link>http://localhost:1313/blog/2009/2009-07-29-mercurial-1-3-1-und-tortoisehg-0-8-1/</link>
+      <pubDate>Wed, 29 Jul 2009 09:29:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-29-mercurial-1-3-1-und-tortoisehg-0-8-1/</guid>
+      <description>Es ist eine neue Bug Fix Release von Mercurial erschienen. Eine Übersicht über Mercurial selbst gibt die Homepage. Es ist noch zu bemereken, dass TortoiseHg auch upgedated wurde und hier sind auch die Release Notes zur Release 0.8.1 zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.17 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-07-29-bazaar-release-1-17-erschienen/</link>
+      <pubDate>Wed, 29 Jul 2009 09:27:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-29-bazaar-release-1-17-erschienen/</guid>
+      <description>Es gibt ein Update von Bazaar.
+Die neue Release 1.17 enthält wieder einmal eine menge von Verbesserungen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.16.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-07-12-bazaar-release-1-16-1-erschienen/</link>
+      <pubDate>Sun, 12 Jul 2009 14:07:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-12-bazaar-release-1-16-1-erschienen/</guid>
+      <description>Es gibt ein Update von Bazaar.
+Die neue Release 1.16.1 enthält wieder einmal eine menge von Verbesserungen.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.3 und TortoiseHg 0.8 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-07-12-mercurial-1-3-und-tortoisehg-0-8-erschienen/</link>
+      <pubDate>Sun, 12 Jul 2009 13:55:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-12-mercurial-1-3-und-tortoisehg-0-8-erschienen/</guid>
+      <description>Es ist eine neue Release von Mercurial erschienen. Ein wichtiger Punkt ist, dass Python 2.3 nicht mehr unterstützt wird. Es wird jetzt mindestens 2.4 voraus gesetzt und vieles mehr. Wichtig ist bei Nutzung vorheriger Versionen einen Blick in das Upgrade Guide zu werfen. Eine Übersicht über Mercurial selbst gibt die Homepage. Es ist noch zu bemereken, dass TortoiseHg auch upgedated wurde und hier sind auch die Release Notes zu beachten.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.3</title>
+      <link>http://localhost:1313/blog/2009/2009-06-22-subversion-1-6-3/</link>
+      <pubDate>Mon, 22 Jun 2009 15:14:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-22-subversion-1-6-3/</guid>
+      <description>Es wurde gerade bekannt gegeben, dass die Release 1.6.3 von Subversion zur Verfügung steht. Die Release Notes geben wieder Auskunft über die Änderungen in der Release und der ChangeLog gibt wieder sehr detailier wieder welche Änderungen gemacht wurden.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-06-18-supose-release-0-6-1-erschienen/</link>
+      <pubDate>Thu, 18 Jun 2009 00:13:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-18-supose-release-0-6-1-erschienen/</guid>
+      <description>Eine neue Release 0.6.1 der Subversion Repository Search Engine steht zur Verfügung. In der aktuellen Release ist ein Bug behoben, dass dazu geführt hat, dass ein geschedultes Repository scanning immer einen vollständigen scan gemacht hat anstatt nur die neuesten Versionen zu scannen. Noch einige kleine Erweiterunge z.B. &amp;ndash;xml Option und ein paar Fixes. Die Installationsarchive für Windows und Unix sind im Download Bereich  zu erhalten.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.0</title>
+      <link>http://localhost:1313/blog/2009/2009-06-01-supose-release-0-6-0/</link>
+      <pubDate>Mon, 01 Jun 2009 23:44:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-01-supose-release-0-6-0/</guid>
+      <description>Eine neue Release 0.6.0 der Subversion Repository Search Engine steht zur Verfügung. Die vorliegende Release behebt eine ganze Menge von Problemen bzgl. der Installation etc. Aber vor allem unterstützt SupoSE nun die OpenOffice File Formate (ods, odt, odp) und Office 2007 Formate (docx, xlsx, pptx) weiterhin werden nun Archive wie z.B. .tar, .tar.gz, .tar.bz2, .zip, .jar unterstützt. Dabei gibt es nun die Möglichkeit entweder den Inhalt der Archive selbst zu parsen oder nur die Dateinamensliste der Archive zu parsen.</description>
+    </item>
+    
+    <item>
+      <title>Redmine Release 0.8.4 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-05-17-redmine-release-0-8-4-erschienen/</link>
+      <pubDate>Sun, 17 May 2009 16:36:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-17-redmine-release-0-8-4-erschienen/</guid>
+      <description>Es steht nun wieder eine aktualisierte Version von Redmine, dem Projekt Management Tool zur Verfügung. Das Change Log gibt genau darüber Auskunft was geändert bzw. verbessert wurde. Der Download steht über Rubyforge zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Monotone 0.44 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-05-16-monotone-0-44-erschienen/</link>
+      <pubDate>Sat, 16 May 2009 20:48:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-16-monotone-0-44-erschienen/</guid>
+      <description>Es gibt von Monotone eine neue Release 0.44. Der ChangeLog genau Auskunft über die Neuerungen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.2 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-05-11-subversion-1-6-2-erschienen/</link>
+      <pubDate>Mon, 11 May 2009 14:19:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-11-subversion-1-6-2-erschienen/</guid>
+      <description>Hyrum K. Wright hat bekannt gegeben, dass einen neue Release 1.6.2 von Subversion nun zur Verfügung steht. Der ChangeLog gibt genaue Auskunft über die Änderungen. Im Download Bereich kann man die Source Code Versionen downloaden.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.5.2</title>
+      <link>http://localhost:1313/blog/2009/2009-05-06-supose-release-0-5-2/</link>
+      <pubDate>Wed, 06 May 2009 21:40:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-06-supose-release-0-5-2/</guid>
+      <description>Eine neue Release 0.5.2 der Subversion Repository Search Engine steht zur Verfügung. Es besteht jetzt die Möglichkeit in Suchanfragen auch mit führenden Wildcards zu arbeiten. Weiterhin wurden einige kleinere Bug Fixes gelöst. Der Download der aktuellen Ausführbahren Dateien ist im Download Bereich möglich. Diese stehen sowohl für Windows als auch für Unix bereit.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.14</title>
+      <link>http://localhost:1313/blog/2009/2009-05-02-bazaar-release-1-14/</link>
+      <pubDate>Sat, 02 May 2009 13:08:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-02-bazaar-release-1-14/</guid>
+      <description>Vom Verteilten Versionskontroll System Bazaar ist eine neue Release ausgegeben worden. Die Release Notes geben wieder eine Übersicht was sich alles geändert hat. Im download Bereich sind die verschiedensten Binaries zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.2.0 RC1 Release erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-05-02-maven-2-2-0-rc1-release-erschienen/</link>
+      <pubDate>Sat, 02 May 2009 12:36:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-02-maven-2-2-0-rc1-release-erschienen/</guid>
+      <description>Es liegt einen neue Release 2.2.0 RC1 von Maven vor. Die Release Notes geben wieder eine Übersicht. Die zugehörigen Artefakte sind hier zu finden. Die Downloads für die binaries und für den Source codes stehen auch zur Verfügung. Es wichtig zu wissen, dass Maven 2.2.0 RC1 ein Java 1.5 JDK benötigt. Wenn Fehler beim Testen von 2.2.0 RC1 gefunden werden, wird darum gebeten diese hier mit afftects-version == 2.2.0 einzustellen. Die Ankündigung ist hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-04-10-tortoisesvn-1-6-1-erschienen/</link>
+      <pubDate>Fri, 10 Apr 2009 14:09:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-04-10-tortoisesvn-1-6-1-erschienen/</guid>
+      <description>Es ist eine neue Release von TortoiseSVN 1.6.1 erschienen. Das ist eine Bugfix/Maintenance Release die gegen Subversion 1.6.1 gelinkt ist. Die Release Notes geben über die Release Auskunft.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-04-10-subversion-1-6-1-erschienen/</link>
+      <pubDate>Fri, 10 Apr 2009 13:59:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-04-10-subversion-1-6-1-erschienen/</guid>
+      <description>Die Release 1.6.1 von Subversion steht nun zur Verfügung. Die Übersicht über die Neuerung in der Release geben die Release Notes. Der Change Log gibt ein vollständige Liste der Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Redmine 0.8.3 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-04-09-redmine-0-8-3-erschienen/</link>
+      <pubDate>Thu, 09 Apr 2009 21:45:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-04-09-redmine-0-8-3-erschienen/</guid>
+      <description>Es steht nun wieder eine aktualisierte Version von Redmine, dem Projekt Management Tool zur Verfügung. Das Change Log gibt genau darüber Auskunft was geändert bzw. verbessert wurde. Der Download steht über Rubyforge zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.0 Released</title>
+      <link>http://localhost:1313/blog/2009/2009-03-22-tortoisesvn-1-6-0-released/</link>
+      <pubDate>Sun, 22 Mar 2009 12:17:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-03-22-tortoisesvn-1-6-0-released/</guid>
+      <description>Es ist eine neue Release vom File Explorer PlugIn TortoiseSVN erschienen. Die Release Notes geben auskunft über die gesamte Release, während der Change Log detailierte Auskünfte über die gemachten Änderungen gibt.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.0 Erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-03-20-subversion-1-6-0-erschienen/</link>
+      <pubDate>Fri, 20 Mar 2009 19:50:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-03-20-subversion-1-6-0-erschienen/</guid>
+      <description>Die Release 1.6.0 von Subversion steht nun zur Verfügung.
+Die Übersicht über die Neuerung in der Release geben die Release Notes. Der Change Log gibt ein vollständige Liste der Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Redmine Release 0.8.2 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-03-08-redmine-release-0-8-2-erschienen/</link>
+      <pubDate>Sun, 08 Mar 2009 20:11:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-03-08-redmine-release-0-8-2-erschienen/</guid>
+      <description>Es ist nun eine neue Release von Redmine 0.8.2 erschienen. Redmine ist eine flexible Projekt Management Web Applikation, die unter der Verwendung von Ruby on Rails implementiert ist. Redmine bietet Unterstützung für unterschiedliche Datenbanken und Versionskontroll Werkzeuge (Subversion, Mercurial, Git etc.). Der ChangeLog gibt genaue Auskunft über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.9 Released</title>
+      <link>http://localhost:1313/blog/2009/2009-02-28-tortoisesvn-1-5-9-released/</link>
+      <pubDate>Sat, 28 Feb 2009 15:29:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-28-tortoisesvn-1-5-9-released/</guid>
+      <description>Es gibt nun wieder eine neue Release des File Explorer PlugIn TortoiseSVN. Die Release ist eine BugFix Maintenance Release, die jetzt gegen Subversion 1.5.6 gelinkt ist. Zu bekommen ist die Release im Download Bereich und der Change Log listet alle Änderungen auf.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.5.6 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-02-26-subversion-release-1-5-6-erschienen/</link>
+      <pubDate>Thu, 26 Feb 2009 21:27:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-26-subversion-release-1-5-6-erschienen/</guid>
+      <description>Die Subversion Community hat bekannt gegeben, dass Subversion 1.5.6 zur Verfügung steht. Im ChangeLog kann genau nachgelesen werden welche Änderungen im Detail gemacht wurden. Die Release Notes geben auskunft darüber was in der Release 1.5 etc. neuen hinzu gekommen ist.</description>
+    </item>
+    
+    <item>
+      <title>Supose Release 0.5.1</title>
+      <link>http://localhost:1313/blog/2009/2009-02-21-supose-release-0-5-1/</link>
+      <pubDate>Sat, 21 Feb 2009 22:13:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-21-supose-release-0-5-1/</guid>
+      <description>Es liegt nun eine neue Release der Subversion Repository Search Engine (SupoSE) in der Release 0.5.1 vor. Das Update beinhaltet vor allem einen Bug Fix für das Problem, dass beim beenden des Schedulers danach wieder das gesamte Repository gescannt wird.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.0 RC2 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-02-20-subversion-1-6-0-rc2-erschienen/</link>
+      <pubDate>Fri, 20 Feb 2009 20:40:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-20-subversion-1-6-0-rc2-erschienen/</guid>
+      <description>Gerade wurde bekannt gegeben, dass Subversion in der Release 1.6.0 RC2 zur Verfügung steht. In den Release Notes gibt es Hinweise zu neuigkeiten.
+Im ChangeLog sind üblicherweise die Änderungen etc. zu finden. Derzeit befindet sich das aber noch in der Erstellung. Wenn jemand interesse hat mit zuhelfen, kann er/sie sich gerne bei mir melden, da noch leute gebraucht werden.</description>
+    </item>
+    
+    <item>
+      <title>Redmine 0.8.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-02-15-redmine-0-8-1-erschienen/</link>
+      <pubDate>Sun, 15 Feb 2009 16:16:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-15-redmine-0-8-1-erschienen/</guid>
+      <description>Das Redmine Team hat bekannt gegeben, dass eine neue Release 0.8.1 der Projekt Management Software vorliegt. Der ChangeLog gibt die Übersicht über die einzelnen Verbesserungen etc. Wen die genauen Änderungen interessieren, kann hier die genaue Liste der Änderungen anschauen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.12</title>
+      <link>http://localhost:1313/blog/2009/2009-02-14-bazaar-release-1-12/</link>
+      <pubDate>Sat, 14 Feb 2009 14:45:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-14-bazaar-release-1-12/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.11 sind wieder eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.8 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-02-14-tortoisesvn-1-5-8-erschienen/</link>
+      <pubDate>Sat, 14 Feb 2009 14:22:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-14-tortoisesvn-1-5-8-erschienen/</guid>
+      <description>Die Release 1.5.8 von TortoiseSVN ist erschienen. Die neue Release ist gegen Subversion 1.5.5 gelinkt und enthält einen Bugfix für TortoiseMerge. Zu bekommen ist TortoiseSVN im download Bereich.</description>
+    </item>
+    
+    <item>
+      <title>Vergleich von SVN mit Git, Bazaar, Mercurial</title>
+      <link>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</link>
+      <pubDate>Wed, 04 Feb 2009 20:05:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</guid>
+      <description>Habe durch zufall einen interessanten Vergleich von Git, Bazaar und Mercurial mit SVN gefunden.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.5.0</title>
+      <link>http://localhost:1313/blog/2009/2009-01-25-supose-release-0-5-0/</link>
+      <pubDate>Sun, 25 Jan 2009 01:31:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-25-supose-release-0-5-0/</guid>
+      <description>Es liegt nun eine neue Release der Subversion Repository Search Engine (SupoSE) in der Release 0.5.0 vor. Das Update beinhaltet vor allem einen Bug fix für das binäre Paket der Alpha-1 Release, dass nicht lauffähig war. Ansonsten sind noch einige Bugs gefixed worden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.11</title>
+      <link>http://localhost:1313/blog/2009/2009-01-20-bazaar-release-1-11/</link>
+      <pubDate>Tue, 20 Jan 2009 12:27:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-20-bazaar-release-1-11/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System.
+Seit der Release 1.10 sind wieder eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.1.2</title>
+      <link>http://localhost:1313/blog/2009/2009-01-15-mercurial-1-1-2/</link>
+      <pubDate>Thu, 15 Jan 2009 12:32:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-15-mercurial-1-1-2/</guid>
+      <description>Das Mercurial Team hat bekannt gegeben, dass die neue Bug Fix Release Version 1.1.2 zur Verfügung steht. Sie bringt eine Erweiterung und einen Bug Fix. Genauere Information kann man im Change Log nach lesen.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.5.0 Alpha 1</title>
+      <link>http://localhost:1313/blog/2009/2009-01-15-supose-release-0-5-0-alpha-1/</link>
+      <pubDate>Thu, 15 Jan 2009 00:13:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-15-supose-release-0-5-0-alpha-1/</guid>
+      <description>Es liegt nun eine neue Release der Subversion Repository Search Engine (SupoSE) in der Release 0.5.0 Alpha 1 vor. Die Wichtigste Änderung besteht darin, dass der Scan Prozess der unterschiedlichen Dokumentarten mithilfe des Tika Frameworks durchgeführt wird. Damit einher gegangen ist die Unterstützung weiterer Dokument Typen (RTF, HTML und XML). Desweiteren werden nun auch Subversion 1.5 Repositories unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.2 (GA) - erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-01-14-svnkit-1-2-2-ga-erschienen/</link>
+      <pubDate>Wed, 14 Jan 2009 21:20:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-14-svnkit-1-2-2-ga-erschienen/</guid>
+      <description>Das SVNKit Team hat bekannt gegeben, dass die Release 1.2.2 (GA) zur Verfügung steht. Die neue Release unterstützt alle Subversion 1.5.5 features.</description>
+    </item>
+    
+    <item>
+      <title>Maven: The Definitive Guide</title>
+      <link>http://localhost:1313/blog/2009/2009-01-10-maven-the-definitive-guide/</link>
+      <pubDate>Sat, 10 Jan 2009 22:00:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-10-maven-the-definitive-guide/</guid>
+      <description>Es gibt wieder eine aktualisiertere Ausgabe 0.21.0 des Maven Buches von Sonatype. Details zu den neuerungen findet man im Blog.</description>
+    </item>
+    
+    <item>
+      <title>Artifactory - Release 2.0</title>
+      <link>http://localhost:1313/blog/2009/2009-01-07-artifactory-release-2-0/</link>
+      <pubDate>Wed, 07 Jan 2009 10:46:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-07-artifactory-release-2-0/</guid>
+      <description>Das Artifactory Team hat bekannt gegeben, dass die neue Release 2.0 des Maven Repository Managers Artifactory zur Verfügung steht. Es stecken sechs Monate Entwicklungszeit in der neuen Release mit 400 gelösten Issues, wovon 170 neuen Features darstellen und über 450 Integrations Tests steht eine neue Major Release zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Redmine 0.8.0 und 0.7.4 Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-12-30-redmine-0-8-0-und-0-7-4-erschienen/</link>
+      <pubDate>Tue, 30 Dec 2008 13:18:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-30-redmine-0-8-0-und-0-7-4-erschienen/</guid>
+      <description>Das Redmine Team hat bekannt gegeben, dass die neue Release 0.8.0 und die Release 0.7.4 zur Verfügung stehen. Die Download Archive stehen auf Rubyforge zur Verfügung. Im ChangeLog kann man sich eine Übersicht über die gemachten Änderungen und oder Erweiterungen verschaffen. Wenn Ihnen der Deailierungsgrad nicht Ausreicht können Sie sich hier die genaue Liste der Patches, Bug Fixes etc. anschauen.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.6 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-12-23-tortoisesvn-1-5-6-erschienen/</link>
+      <pubDate>Tue, 23 Dec 2008 14:29:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-23-tortoisesvn-1-5-6-erschienen/</guid>
+      <description>Stefan Küng hat bekannt gegeben, dass die neue Release 1.5.6 von TortoiseSVN zur Verfügung steht. Die neue Release steht zum Download bereit.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5.5 - Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-12-22-subversion-1-5-5-erschienen/</link>
+      <pubDate>Mon, 22 Dec 2008 22:34:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-22-subversion-1-5-5-erschienen/</guid>
+      <description>Das Subversion Team hat bekannt gegeben, dass nun die Release 1.5.5 von Subversion zur Verfügung steht.
+ Änderungen, die für den Anwender sichtbar sind:
+ Der commit wird nun ermöglicht wenn Properties geändert wurden, aber veränderte Unterverzeichnisse existieren (r34487, -92, -94) Cyrus Authentifizierung bevorzugt nun immer EXTERNAL vor ANONYMOUS (r33866) Erzeuge keine Mergeinfo&amp;rsquo;s für verschieben/kopieren innerhalb einer Arbeitskopie (r34184, -585) Kein automatisches Upgrade von alten Berkeley DB Dateisystem auf 1.5 oder 1.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial - Bug Fix Release 1.1.1 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-12-22-mercurial-bug-fix-release-1-1-1-erschienen/</link>
+      <pubDate>Mon, 22 Dec 2008 12:32:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-22-mercurial-bug-fix-release-1-1-1-erschienen/</guid>
+      <description>Das Mercurial Team hat bekannt gegeben, dass die neue Bug Fix Release Version 1.1.1 zur Verfügung steht. Sie bringt einige erweiterungen und vor allem aber Korrekturen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.10</title>
+      <link>http://localhost:1313/blog/2008/2008-12-19-bazaar-release-1-10/</link>
+      <pubDate>Fri, 19 Dec 2008 16:32:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-19-bazaar-release-1-10/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.9 sind wieder eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Redmine 0.8 RC1</title>
+      <link>http://localhost:1313/blog/2008/2008-12-07-redmine-0-8-rc1/</link>
+      <pubDate>Sun, 07 Dec 2008 15:51:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-07-redmine-0-8-rc1/</guid>
+      <description>Das Redmine Team hat bekannt gegeben, dass eine neue Release der Projekt Management Software Redmine vorliegt. Redmine ist in Ruby implementiert unter der Verwendung des Ruby on Rails Frameworks.
+Redmine bietet grundsätzlich einen Multiprojekt Ansatz. Das bedeutet, dass mit einer Installation beliebig viele Projekte verwaltet werden können. Es gibt einen Administrationsbereich, der projekt Übergreifend die Einstellungen der Plattform und der verschiedenen Projekte bietet.
+Im Change Log ist eine Übersicht der durchgeführten Änderungen im Vergleich zur Release 0.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.9</title>
+      <link>http://localhost:1313/blog/2008/2008-11-28-bazaar-release-1-9/</link>
+      <pubDate>Fri, 28 Nov 2008 16:31:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-28-bazaar-release-1-9/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.8 sind eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>SmartSVN 5 - RC3</title>
+      <link>http://localhost:1313/blog/2008/2008-11-27-smartsvn-5-rc3/</link>
+      <pubDate>Thu, 27 Nov 2008 18:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-27-smartsvn-5-rc3/</guid>
+      <description>Es gibt nun eine neue Release des SmartSVN 5 Clients (RC4). Im Rahmen des Early Access Programms, stellt Syntevo die frei nutzbare fundational als auch die kommerzielle Professional Release vor. Der Angegebene Vergleich bezieht sich noch auf die Release 4 von SmartSVN.
+Neue Features sind beispielsweise eine Unterstützung für Merge/Rename von Dateien
+Erweiterungen und Verbesserungen im Bereich Kopieren von Repository zu Repository, Repository Browser, Unterstützung für die Tiefen Option in der Arbeitskopie.</description>
+    </item>
+    
+    <item>
+      <title>Trac Maintenance Release 0.11.2</title>
+      <link>http://localhost:1313/blog/2008/2008-11-09-trac-maintenance-release-0-11-2/</link>
+      <pubDate>Sun, 09 Nov 2008 11:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-09-trac-maintenance-release-0-11-2/</guid>
+      <description>Das Trac Team hat eine neue maintenance Release 0.11.2 heraus gebracht, die einige Sicherheits Fixes beinhaltet. Es wird geraten die entsprechedenden Installation zu aktualisieren.</description>
+    </item>
+    
+    <item>
+      <title>Release 1.1 - Nexus Repository Manager</title>
+      <link>http://localhost:1313/blog/2008/2008-11-07-release-1-1-nexus-repository-manager/</link>
+      <pubDate>Fri, 07 Nov 2008 15:16:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-07-release-1-1-nexus-repository-manager/</guid>
+      <description>Nexus hat bekannt gegeben, dass der Repository Manager in der Release 1.1. zur Verfügung steht.
+Die Release 1.1 stellt vornehmlich Verbesserungen der Architektur dar z.B. in der Form von ExtJs und Restlet Framework Upgrades. Dies ist die erste Version, die als WAR zur Verfügung steht.
+Der ChangeLog gibt darüber Auskunft was im einzelnen verbessert order korrigiert wurde. Im Download Bereich kann man die aktuelle Version herunter laden.
+Es wurde ein REST API zur Verfügung gestellt, die es ermöglicht Nexus per Rest anzusprechen.</description>
+    </item>
+    
+    <item>
+      <title>Apache Ivy - 2.0.0 RC2</title>
+      <link>http://localhost:1313/blog/2008/2008-11-06-apache-ivy-2-0-0-rc2/</link>
+      <pubDate>Thu, 06 Nov 2008 19:32:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-06-apache-ivy-2-0-0-rc2/</guid>
+      <description>Das Apache Ivy Projekt hat eine neue Release 2.0.0 RC2 des Dependency Management Systems heraus gebracht. Der Issue Tracker kann dazu benutzt werden Fehler zu berichten. Zu bekommen ist Ivy im Download Bereich. Die Ankündigung gibt weitere details als auch die Release Notes.</description>
+    </item>
+    
+    <item>
+      <title>Hudson - 1.256 - Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-10-25-hudson-1-256-erschienen/</link>
+      <pubDate>Sat, 25 Oct 2008 18:16:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-25-hudson-1-256-erschienen/</guid>
+      <description>Es ist eine aktualisierte Release der Continous Integration Lösung Hudson erschienen. Der ChangeLog gibt genaue Auskunft über die bisherigen Änderungen. Die aktuelle Release behebt einige kleinere Probleme:
+ Fälchlicherweise waren zwei dom4j.jar&amp;rsquo;s enthalten, welche zu Problemen mit WebSphere führten (Issue 2435) Korrektur einer NPE im Falle einer fehlerhaften changelog.xml Datei (issue 2428) erbesserte Fehler Erkennung bei der Verwendung von Windows Pfadangaben auf einem Unix Slave(report) Automatisches Abhängigkeits Management von Maven Projekten kann nun deaktiviert werden (Issue 1714)  Zu bekommen ist Hudson im Download Bereich.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.5 Released</title>
+      <link>http://localhost:1313/blog/2008/2008-10-24-tortoisesvn-1-5-5-released/</link>
+      <pubDate>Fri, 24 Oct 2008 22:33:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-24-tortoisesvn-1-5-5-released/</guid>
+      <description>Stefan Küng hat bekannt gegeben, dass eine neue Release von TortoiseSVN vorliegt, die gegen Subversion 1.5.4 gelinkt ist. Genaueres kann hier nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5.4 - Released</title>
+      <link>http://localhost:1313/blog/2008/2008-10-24-subversion-1-5-4-released/</link>
+      <pubDate>Fri, 24 Oct 2008 19:47:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-24-subversion-1-5-4-released/</guid>
+      <description>Heute hat Hyrum K. Wright der Release Manager von Subversion auf den Mailing Listen bekannt gegeben, dass die neue Release 1.5.4 zur Verfügung steht. Die Release Notes geben über die Release 1.5.0 Auskunft welche grundsätzlichen Änderungen durchgeführt wurden. Der ChangeLog gibt spezifische Auskunft über die Änderungen zur Vorgängerversion. Dieses mal ist die Liste der Änderung sehr übersichtlich.
+ Korrekte Handhabung der expliziten Merginfo (r32968, r32975) Korrigiert: Merging von Pfaden die Leerzeichen enthalten Korrigiert: Rücknahme der Merge-Info Bezogenen Merges zu 1.</description>
+    </item>
+    
+    <item>
+      <title>darcs 2.1.0 - Releases</title>
+      <link>http://localhost:1313/blog/2008/2008-10-23-darcs-2-1-0-releases/</link>
+      <pubDate>Thu, 23 Oct 2008 10:08:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-23-darcs-2-1-0-releases/</guid>
+      <description>Auf der User Mailing liste ist bekannt gegeben worden, dass es eine neue Release von darcs, dem verteilten Versionskontroll System zur Verfügung steht. In der Ankündigung ist auch der ChangeLog enthalten, um eine Übersicht über die Änderungen zu erhalten.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.8</title>
+      <link>http://localhost:1313/blog/2008/2008-10-23-bazaar-release-1-8/</link>
+      <pubDate>Thu, 23 Oct 2008 09:56:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-23-bazaar-release-1-8/</guid>
+      <description>Es gibt eine neue Release von Bazaar, dem verteilten Versionskontroll System. Seit der Release 1.7 sind eine ganze Menge Bug Fixes korrigiert worden und auch einige Erweiterungen sind eingebaut worden. Der ChangeLog, gibt hier wieder genauere Auskunft. Im Download Bereich ist Bazaar für die Verschiedensten Plattformen zu bekommen.</description>
+    </item>
+    
+    <item>
+      <title>Signing für die Subversion Release 1.5.4 angelaufen</title>
+      <link>http://localhost:1313/blog/2008/2008-10-23-signing-fuer-die-subversion-release-1-5-4-angelaufen/</link>
+      <pubDate>Thu, 23 Oct 2008 09:46:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-23-signing-fuer-die-subversion-release-1-5-4-angelaufen/</guid>
+      <description>Auf der Entwickler Liste hat Hyrum K. Wright (Release Manager von Subversion) bekannt gegeben, dass die Subversion Releae 1.5.4 zum sog. Signing zur Verfügung steht. Das bedeutet, dass diese Release möglichst genau unter die Lupe zu nehmen ist. Es ist gewünscht, dass entsprechende Ergebnisse auf der Entwickler Liste bekannt gegeben werden. Wie immer beim Signing wird darauf hingewiesen, dass diese Release noch nicht zum produktiven Einsatz freigegeben ist.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5.3 - Released</title>
+      <link>http://localhost:1313/blog/2008/2008-10-11-subversion-1-5-3-released/</link>
+      <pubDate>Sat, 11 Oct 2008 11:08:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-11-subversion-1-5-3-released/</guid>
+      <description>Nun ist es so weit, es gibt einen neue Release von Subversion 1.5.3.
+Die Release Notes beschreiben die Änderungen insgesamt und der Change Log genau die Änderungen pro Release.
+ User-visible changes:
+ Fortsetzung switch nach der löschung von lokal modifizierten Verzeichnissen(issue #2505) Update der bash_completion für die Kompatibilität mit 1.5 (r32900, -11, -12) Verbesserung von &amp;lsquo;svn merge&amp;rsquo; Ausführungszeit um 30% auf Windows (r33447) Wiederverwendung der Netzwerk Session während &amp;lsquo;svn merge&amp;rsquo;, Verbesserung der Performancer(r33476) Verbesserung der tempär Datei Erzeugungszeit auf Windows(r33464) Große Verbesserung der merge Performance (r29969, r32463, r33013, -016, -022, -112) Verbesserung der Datei I/O Performance auf Windows (r33178, -85) Korrigiert: Merging von Dateinamen mit Spaces im Namen (r33109, -121, -369) Korrigiert: ungültige reltive externals Erweiterung incorrect relative (r33109, -121, -369) Korrigiert: &amp;lsquo;svn mv&amp;rsquo; Hänger und Memory Leack(r33201, -12) Korrigiert: Nachverfolgung in &amp;lsquo;svn log -g&amp;rsquo; (issue #3285) Korrigiert: Aktuellen frühen &amp;lsquo;bailout&amp;rsquo; von &amp;lsquo;svn log -g&amp;rsquo; (r32977)  Developer-visible changes:</description>
+    </item>
+    
+    <item>
+      <title>Bazaar 1.7 - Released</title>
+      <link>http://localhost:1313/blog/2008/2008-10-02-bazaar-1-7-released/</link>
+      <pubDate>Thu, 02 Oct 2008 09:58:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-02-bazaar-1-7-released/</guid>
+      <description>Es ist eine neue Release der verteilten Versionskontrolle Bazaar erschienen.
+Die Release 1.7 enthält ein menge neuerungen und Bug Fixes. Genaues ist im ChangeLog zu lesen.
+Es gibt auch wieder entsprechende Downloads für Windows, Mac OS X 10.5, Mac OS X 10.4 und als Source Code.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 (GA) - Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-10-01-svnkit-1-2-0-ga-erschienen/</link>
+      <pubDate>Wed, 01 Oct 2008 21:20:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-01-svnkit-1-2-0-ga-erschienen/</guid>
+      <description>Das SVNKit Development Team hat bekannt gegeben, dass die Finale Release 1.2 der Java Bibliothek zur Verfügung steht.
+ Diese Release schliesst die Unterstützung nahezu aller Subversion 1.5.2 Features ein.  Neues Merge und Merge Tracking Subversion 1.5.2 JavaHL API Implementierung Changelists Unterstützung Sparse directories Unterstützung Weitere Informationen zu den Subversion 1.5 Features ist in den Release Notes zu Subversion 1.5 zu finden  Eine Menge von Fehler Korrekturen und Erweiterungen Aktualisertes JavaDoc Signifikat verbesserter SVNKit-Basierender Kommandozeilen Client Die SVNKit 1.</description>
+    </item>
+    
+    <item>
+      <title>SVK 2.2.0 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-09-19-svk-2-2-0-erschienen/</link>
+      <pubDate>Fri, 19 Sep 2008 11:12:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-09-19-svk-2-2-0-erschienen/</guid>
+      <description>Es ist eine neue Release von SVK der verteilten Versionskontrolle erschienen. Im ChangeLog sind wieder die Änderungen beschrieben. Es ist vor allem zu erwähnen, dass nun ein neues Kommando svk branches existiert.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.5.2</title>
+      <link>http://localhost:1313/blog/2008/2008-08-30-subversion-release-1-5-2/</link>
+      <pubDate>Sat, 30 Aug 2008 21:25:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-30-subversion-release-1-5-2/</guid>
+      <description>Nun ist es so weit, es gibt einen neue Release von Subversion 1.5.2.
+Die Release Notes beschreiben die Änderungen insgesamt und der Change Log genau die Änderungen pro Release.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar 1.6</title>
+      <link>http://localhost:1313/blog/2008/2008-08-30-bazaar-1-6/</link>
+      <pubDate>Sat, 30 Aug 2008 12:39:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-30-bazaar-1-6/</guid>
+      <description>Das Bazaar Team hat die neue Release 1.6 heraus gegeben.
+Die lang erwartete bzr 1.6 Release enthält neue Features wie z.B. &amp;ldquo;Stacked Branches&amp;rdquo;, Erweiterten &amp;ldquo;weave merge&amp;rdquo; und eine neue Server Protokoll version (V3).
+Die Release 1.6 für Windows enthält auch den TortoiseBzr</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.0.2 / TortoiseHg 0.4.1</title>
+      <link>http://localhost:1313/blog/2008/2008-08-29-mercurial-1-0-2-tortoisehg-0-4-1/</link>
+      <pubDate>Fri, 29 Aug 2008 18:30:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-29-mercurial-1-0-2-tortoisehg-0-4-1/</guid>
+      <description>Es ist eine Bug Fix Release mit zwei Sicherheits Fixes von Mercurial erschienen. Die Übersicht über die Änderung beschreibt welche Details geändert wurden. Zusätzlich ist noch der TortoiseHg in der Release 0.4.1 erschienen.</description>
+    </item>
+    
+    <item>
+      <title>GIT Release 1.6 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-08-19-git-release-1-6-erschienen/</link>
+      <pubDate>Tue, 19 Aug 2008 16:20:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-19-git-release-1-6-erschienen/</guid>
+      <description>Es ist eine neue GIT Release verfügbar, wie in der Ankündigung zu lesen. Es wird wieder darauf hingewiesen, dass all Kommandos als Sub-Kommando (git cmd) aufzurufen sind und nicht mithilfe von git-cmd, da seit der Release 1.5.4 als &amp;ldquo;deprecated&amp;rdquo; markiert wurden. Es werden somit auch keine Links mehr erzeugt.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta5 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-08-15-svnkit-1-2-0-beta5-erschienen/</link>
+      <pubDate>Fri, 15 Aug 2008 20:15:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-15-svnkit-1-2-0-beta5-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+ Neuigkeiten in SVNKit 1.2.0 Beta5
+ Update der Java SSH Trilead Bibliothek auf build 213 JNA Bibliothek auf 3.0.4 upgedated Problem mit SSH Verbindungsproblemen mit nicht OpenSSH Servern beseitigt.</description>
+    </item>
+    
+    <item>
+      <title>SVK Release 2.2.0 beta1</title>
+      <link>http://localhost:1313/blog/2008/2008-08-09-svk-release-2-2-0-beta1/</link>
+      <pubDate>Sat, 09 Aug 2008 19:25:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-09-svk-release-2-2-0-beta1/</guid>
+      <description>Chia-liang Kao hat auf der SVK User Liste bekannt gegeben, dass eine neue Release (SVK 2.2.0 beta1) zur Verfügung steht.
+Neuigkeiten + Es gibt nun ein Subkommando svk branch, dass die Erzeugung von Offline und Online branches vereinfacht und push, pull und smerge werden zwischen den Branches vereinfacht. Derzeit wird das Tutorial überarbeitet, um den Stand der arbeiten darzustellen. + Es gibt nun eine vereinfachte Möglichkeist den Mirror mithilfe eines Subversion-Dump Files zu erzeugen, der eine URL sein kann, der in der svk:dump-url Property sein kan.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.5.1</title>
+      <link>http://localhost:1313/blog/2008/2008-07-26-subversion-release-1-5-1/</link>
+      <pubDate>Sat, 26 Jul 2008 13:13:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-26-subversion-release-1-5-1/</guid>
+      <description>Das Subversion Team gibt bekannt, dass eine neue Subversion Release 1.5.1 zur Verfügung steht. Subversion 1.5.1 stellt eine Patch-Release zur 1.5.X Linie dar. Es enthält eine menge von Performance Verbesserungen und Korrekturen von Bugs, die seit der Veröffentlichung von 1.5.0 aufgetreten sind.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta4 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-07-25-svnkit-1-2-0-beta4-erschienen/</link>
+      <pubDate>Fri, 25 Jul 2008 19:45:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-25-svnkit-1-2-0-beta4-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+Neuigkeiten in SVNKit 1.2.0 Beta4
+ Erweiterungen für SASL Authentifizierungs Unterstützung Bugfixes
+ Nützliche Links (mehr unter http://svnkit.com/):
+ SVNKit Continuous Integration Server: https://teamcity.svnkit.com/ SVNKit Source Code Repository: http://svn.svnkit.com/repos/svnkit/ SVNKit Update Site (for Eclipse): http://eclipse.</description>
+    </item>
+    
+    <item>
+      <title>Apache Ant 1.7.1 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-07-10-apache-ant-1-7-1-erschienen/</link>
+      <pubDate>Thu, 10 Jul 2008 20:54:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-10-apache-ant-1-7-1-erschienen/</guid>
+      <description>Das Apache Ant Team ist erfreut mit zuteilen, dass die Release 1.7.1 erschienen ist. Es handelt sich um eine Bug Fix Release, die eine Menge Bugs Fixed die in Apache Ant 1.7.0 enthalten sind. Die genaue Übersicht über die Änderung sind in den Release Notes enthalten.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta2 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-07-07-svnkit-1-2-0-beta2-erschienen/</link>
+      <pubDate>Mon, 07 Jul 2008 22:47:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-07-svnkit-1-2-0-beta2-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+Neuigkeiten in SVNKit 1.2.0 Beta2 + Unterstützung für fast aller Subversion 1.5.0 Features + Vollständige Implementation der Subversion JavaHL API + Signifikante Verbesserung des Java Subversion Command line Clients.</description>
+    </item>
+    
+    <item>
+      <title>Trac 0.11 Release</title>
+      <link>http://localhost:1313/blog/2008/2008-06-22-trac-0-11-release/</link>
+      <pubDate>Sun, 22 Jun 2008 18:21:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-22-trac-0-11-release/</guid>
+      <description>Das Trac Team hat die neue Release 0.11 der Collaboration Software Trac heraus gebracht.
+Zu den Neuigkeiten zählen unter anderen:
+ + Neue Template Engine (Genshi) + Neuer Konfigurierbarer [Workflow](http://trac.edgewall.org/wiki/TracWorkflow &#34;Workflow&#34;) im Ticket Subsystem + Verbesserte Kontrolle der Berechtigungen + Support für [Pygements](http://pygments.pocoo.org/ &#34;Pygements&#34;) als default Syntax Highlighter + Verbesserter Repository browser (&#34;blame&#34; Unterstützung, dynamische in-place Erweiterung von Verzeichnissen) + Verbessertes Benutzer Einstellungssystem, darunter die Möglichkeit für jeden Benutzer seine eigene Zeitzone einzustellen, Deaktivierung der Zugriffstasten + WebAdmin PlugIn ist nun integraler Bestandteil von Trac  und vieles Mehr&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 Released</title>
+      <link>http://localhost:1313/blog/2008/2008-06-19-subversion-1-5-released/</link>
+      <pubDate>Thu, 19 Jun 2008 16:58:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-19-subversion-1-5-released/</guid>
+      <description>Nun ist es geschaft. Subversion 1.5 ist nun da&amp;hellip;.In den Release Notes kann man sich jetzt eine Übersicht über die neuen Dinge verschaffen. Im ChangeLog ist die riesige Liste der Änderung zu sehen..</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5. - Final...</title>
+      <link>http://localhost:1313/blog/2008/2008-06-19-subversion-1-5-final-/</link>
+      <pubDate>Thu, 19 Jun 2008 08:07:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-19-subversion-1-5-final-/</guid>
+      <description>Es scheint nun der Punkt gekommen, dass die Release 1.5 von Subversion nun endlich erscheint&amp;hellip; Derzeit läuft das Signing der Release 1.5. Nun ist nur noch die Frage, wann nun die final tatsächlich freigeben wird. Warten wir es einfach einmal ab&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 RC 9</title>
+      <link>http://localhost:1313/blog/2008/2008-06-07-subversion-1-5-rc-9/</link>
+      <pubDate>Sat, 07 Jun 2008 15:03:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-07-subversion-1-5-rc-9/</guid>
+      <description>Es wurde ein weiterer Release Candidate von Subversion 1.5 veröffentlicht, ob das nun der letzte Release Candiate wird oder nicht mal schauen. Die Release Notes geben wieder aufschluss über die Release Neuerungen etc. und der ChangeLog gibt wieder eine Übersicht über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 RC8</title>
+      <link>http://localhost:1313/blog/2008/2008-06-03-subversion-1-5-rc8/</link>
+      <pubDate>Tue, 03 Jun 2008 13:51:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-03-subversion-1-5-rc8/</guid>
+      <description>Es gibt nun wieder einen neuen Release Kandidaten von Subversion 1.5. Es sieht derzeit so aus, als ob das der letzte Release Kandidat wäre. Der sollte selbstverständlich ausführlich getestet werden. Die Änderungen können im ChangeLog nachgelesen werden und die Übersicht über die 1.5 Release kann man in den Release Notes nach lesen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.5</title>
+      <link>http://localhost:1313/blog/2008/2008-05-22-bazaar-release-1-5/</link>
+      <pubDate>Thu, 22 May 2008 16:17:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-05-22-bazaar-release-1-5/</guid>
+      <description>Es gibt eine neue Release von Bazaar. Der ChangeLog zur Release 1.5. gibt wieder Auskunft über die Änderungen die gemacht wurden. Hier sind noch detailiertere Infos zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Hudson - 1.218 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-05-22-hudson-1-218-erschienen/</link>
+      <pubDate>Thu, 22 May 2008 16:07:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-05-22-hudson-1-218-erschienen/</guid>
+      <description>Mit der Release 1.218 hat Kohsuke Kawaguchi eine neue Release der Continous Integration Lösung Hudson heraus gebracht, in der ein NPE (Null Pointer Exception) gefixed wurde und eine Konfiguration Einstellung erweitert wurde. Die genaue Liste der Änderungen kann im ChangeLog nachgelesen werden. Bezogen werden kann Hudson im Download Bereich.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 RC4</title>
+      <link>http://localhost:1313/blog/2008/2008-04-24-subversion-1-5-rc4/</link>
+      <pubDate>Thu, 24 Apr 2008 14:55:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-24-subversion-1-5-rc4/</guid>
+      <description>Es ist so weit, ein vierter Release Candiate von der SVN 1.5. ist erschienen&amp;hellip;..Auch für diesen RC4 gilt, dass der so gut wie möglich getestet werden soll, aber bitte nicht für den produktiven Betrieb einsetzen.
+Zu beziehen ist der RC4 hier.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - RC3</title>
+      <link>http://localhost:1313/blog/2008/2008-04-13-subversion-1-5-rc3/</link>
+      <pubDate>Sun, 13 Apr 2008 15:32:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-13-subversion-1-5-rc3/</guid>
+      <description>Es ist so weit, ein dritter Release Candiate von der SVN 1.5. ist erschienen&amp;hellip;..Auch für diesen RC3 gilt, dass der so gut wie möglich getestet werden soll, aber bitte nicht für den produktiven Betrieb einsetzen. Zu beziehen ist der RC3 hier.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - RC2 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-04-11-subversion-1-5-rc2-erschienen/</link>
+      <pubDate>Fri, 11 Apr 2008 19:20:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-11-subversion-1-5-rc2-erschienen/</guid>
+      <description>Es ist so weit, ein zweiter Release Candiate von der SVN 1.5. ist erschienen&amp;hellip;..Auch für diesen RC2 gilt, dass der so gut wie möglich getestet werden soll, aber bitte nicht für den produktiven Betrieb einsetzen. Zu beziehen ist der RC2 hier.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - RC1 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-04-10-subversion-1-5-rc1-erschienen/</link>
+      <pubDate>Thu, 10 Apr 2008 23:17:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-10-subversion-1-5-rc1-erschienen/</guid>
+      <description>Es wird ernster und ernster mit der SVN 1.5. Release&amp;hellip;.. Der erschienene RC1 sollte heftigsten Tests unterzogen werden, aber bitte nicht für den produktiven Betrieb einsetzen.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.9</title>
+      <link>http://localhost:1313/blog/2008/2008-04-10-maven-2-0-9/</link>
+      <pubDate>Thu, 10 Apr 2008 23:14:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-10-maven-2-0-9/</guid>
+      <description>Es gibt wieder eine neue Release von Maven 2. Die Release Notes geben wieder genau aufschluss, was alles geändert wurde. Es gibt auch eine Roadmap für die Release 2.0.10.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.3.1 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-04-10-bazaar-release-1-3-1-erschienen/</link>
+      <pubDate>Thu, 10 Apr 2008 22:19:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-10-bazaar-release-1-3-1-erschienen/</guid>
+      <description>Nun gibt es auch wieder eine neue Release von Bazaar, dem verteilten Versionskontrollsystem. Die Änderungen können im ChangeLog nachgelesen werden. Eine Übersicht über die Neuerungen der Release kann man in den Release Notes lesen.</description>
+    </item>
+    
+    <item>
+      <title>Visual SVN Server 1.1 für Windows</title>
+      <link>http://localhost:1313/blog/2008/2008-03-29-visual-svn-server-1-1-f%C3%A3r-windows/</link>
+      <pubDate>Sat, 29 Mar 2008 20:13:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-29-visual-svn-server-1-1-f%C3%A3r-windows/</guid>
+      <description>Es gibt wieder eine neue Release des Visual SVN Servers für Windows. Der Visual SVN Server stellt eine Integration in die Windows Oberfläche dar, mit der Verwaltung von Repositories inkl. der Verwaltung von Rechten usw. auf die jeweiligen Repositories. Dazu wird auch eine Apache mit geliefert. Der ChangeLog gibt über die Änderungen auskunft. Es wurden unter anderem hinzugefügt, die Möglichkeit per Windows Authentifikation, Konfiguration für https/http usw.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.0.0 Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-29-mercurial-1-0-0-erschienen/</link>
+      <pubDate>Sat, 29 Mar 2008 13:42:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-29-mercurial-1-0-0-erschienen/</guid>
+      <description>Es ein Major Update von Mercurial, der verteilten Versionskontrolle. In den neuerungen ist nach zu lesen was es neues gibt. Die Ankündigung gibt es hier.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release von git v1.5.4.5</title>
+      <link>http://localhost:1313/blog/2008/2008-03-29-neue-release-von-git-v1-5-4-5/</link>
+      <pubDate>Sat, 29 Mar 2008 13:04:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-29-neue-release-von-git-v1-5-4-5/</guid>
+      <description>Vom verteilten Versionskontrollsystem git gibt es auch eine neues Update. Die genaue Liste der Änderungen kann im ChangeLog nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar VCS 1.3 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-28-bazaar-vcs-1-3-erschienen/</link>
+      <pubDate>Fri, 28 Mar 2008 20:19:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-28-bazaar-vcs-1-3-erschienen/</guid>
+      <description>Nun gibt es auch wieder eine neue Release von Bazaar, dem verteilten Versionskontrollsystem. Die Änderungen können im ChangeLog nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.4.0.0RC2</title>
+      <link>http://localhost:1313/blog/2008/2008-03-26-subversion-repository-search-engine-0-4-0-0rc2/</link>
+      <pubDate>Wed, 26 Mar 2008 17:30:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-26-subversion-repository-search-engine-0-4-0-0rc2/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.4.0.0RC2 der Subversion Repository Search Engine, die einige Bugs beseitig und vor allem einige 3rd Party Bibliotheken neueren Datums nutzt. Ein Problem ist vor allem aufgefallen, dass Dokumente ohne Dateierweiterung nicht gescannt wurden. Vielen Dank für den Patch (msuchy@redhat.com).</description>
+    </item>
+    
+    <item>
+      <title>cvs2svn Release 2.1.0</title>
+      <link>http://localhost:1313/blog/2008/2008-03-26-cvs2svn-release-2-1-0/</link>
+      <pubDate>Wed, 26 Mar 2008 00:54:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-26-cvs2svn-release-2-1-0/</guid>
+      <description>Es gibt nun wieder eine neue Release vom Konvertierungsscript cvs2svn. Die Liste der Änderung kann im ChangeLog nach gelesen werden.
+ Neuigkeiten:  Unterstützung zur Konvertierung von CVS nach git. Bessere Unterstützung für Migration der Symbole Verbesserte Performance. Akzeptiert mehr CVS repository Fehler einige Bug Fixings.r bugs.   </description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Beta 1 - Neuheiten - Teil 2 - Erweiterungen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-25-subversion-1-5-beta-1-neuheiten-teil-2-erweiterungen/</link>
+      <pubDate>Tue, 25 Mar 2008 20:23:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-25-subversion-1-5-beta-1-neuheiten-teil-2-erweiterungen/</guid>
+      <description>Im Ersten Teil gab es einige Informationen zum Thema Change-Listen und nun wollen wir uns den allgemeinen Verbesserungen und Erweiterungen zuwenden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Beta 1 - Neuheiten - Teil 1 - ChangeListen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-22-subversion-1-5-beta-1-neuheiten-teil-1-changelisten/</link>
+      <pubDate>Sat, 22 Mar 2008 12:48:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-22-subversion-1-5-beta-1-neuheiten-teil-1-changelisten/</guid>
+      <description>Es gibt ja nun einiges neues im Bereich Subversion 1.5. Fangen wir doch mal mit den Change-Lists an.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.2 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-17-bazaar-release-1-2-erschienen/</link>
+      <pubDate>Mon, 17 Mar 2008 01:11:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-17-bazaar-release-1-2-erschienen/</guid>
+      <description>Auch von Bazaar gibt es nun eine neue Release. Änderungen etc. können im ChangeLog nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Beta 1</title>
+      <link>http://localhost:1313/blog/2008/2008-03-14-subversion-1-5-beta-1/</link>
+      <pubDate>Fri, 14 Mar 2008 00:06:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-14-subversion-1-5-beta-1/</guid>
+      <description>Nun wird es langsam Ernst mit Subversion 1.5&amp;hellip;.die erste Beta Version ist erschienen und sollte gut getestet werden&amp;hellip;. Was bietet Subversion 1.5. denn nun so neues?
+Tja zuerst einmal, das viel gewünschte (Enterprise) Feature Merge-Tracking&amp;hellip; Es ist also nicht mehr nötig, die gemergten Versionen in der Log-Message zu notieren&amp;hellip;das erledigt nun Subversion selbst. Es ist auch möglich Changes nicht zu mergen (Blocking changes) Dann gibt es noch so Dinge wie ChangeLists, die dazu dienen, zusammen gehörige Dateien etc.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Alpha 2</title>
+      <link>http://localhost:1313/blog/2008/2008-03-04-subversion-1-5-alpha-2/</link>
+      <pubDate>Tue, 04 Mar 2008 22:14:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-04-subversion-1-5-alpha-2/</guid>
+      <description>Tja, wie es scheint wird es jetzt langsam ernst mit der nächsten Subversion Release. Das Subversion Team bittet darum, die Alpha-2 Release möglichst gut zu testen.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release des sventon Projektes - 1.4.0RC1</title>
+      <link>http://localhost:1313/blog/2008/2008-03-04-neue-release-des-sventon-projektes-1-4-0rc1/</link>
+      <pubDate>Tue, 04 Mar 2008 18:37:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-04-neue-release-des-sventon-projektes-1-4-0rc1/</guid>
+      <description>Das Sventon Team hat eine neue Release heraus gebracht. Sventon ist ein Subversion Repository Browser der in einem Tomcat (5.5 / 6.0) betrieben werden kann. Im ChangeLog kann man genau lesen, was alles geändert wurde.</description>
+    </item>
+    
+    <item>
+      <title>USVN - Release 0.7</title>
+      <link>http://localhost:1313/blog/2008/2008-01-27-usvn-release-0-7/</link>
+      <pubDate>Sun, 27 Jan 2008 15:35:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-27-usvn-release-0-7/</guid>
+      <description>Es ist eine neue Release 0.7 von USVN erschienen. Diese Release stellt einige neue Features zur Verfügung. Dazu zählen bspw. RSS-Feed, Import von Subversion Repositories, WAMP Unterstützung, Gruppen Management, eine deutsche und russische Übersetzung.</description>
+    </item>
+    
+    <item>
+      <title>SVN-Label: Subversion Revision Number Aliases - Releas 1.1 beta</title>
+      <link>http://localhost:1313/blog/2008/2008-01-27-svn-label-subversion-revision-number-aliases-releas-1-1-beta/</link>
+      <pubDate>Sun, 27 Jan 2008 15:22:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-27-svn-label-subversion-revision-number-aliases-releas-1-1-beta/</guid>
+      <description>Es wurde SVN Label veröffentlicht, um eine pseudo Funktionalität in Subversion, wie in CVS vorhanden zu emulieren. Es geht darum, einer Revision einen sog. Tag zu geben. Aber eben keinen Subversion Tag, der ja technisch betrachtet auch ein Branch ist, sondern eine Information in einer Revision property gespeicherte Information. Das soll dazu dienen den Übergang zu Subversion etwas einfacher zu gestalten. Es wird ein Hook-Script (pre-revprop-change) benötigt, dass dann diese Information wieder an den Benutzer liefert.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release FSVS 1.1.12</title>
+      <link>http://localhost:1313/blog/2008/2008-01-19-neue-release-fsvs-1-1-12/</link>
+      <pubDate>Sat, 19 Jan 2008 17:26:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-19-neue-release-fsvs-1-1-12/</guid>
+      <description>Eine neue Release des FSVS. Damit erhält es voll Unterstützung für copyfrom Relationen. Einige Fehler wurden korrigiert. Die wichtigsten im Zusammenhang mit HTTP und HTTPS URLs.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.4.0.0RC1</title>
+      <link>http://localhost:1313/blog/2008/2008-01-12-subversion-repository-search-engine-0-4-0-0rc1/</link>
+      <pubDate>Sat, 12 Jan 2008 14:23:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-12-subversion-repository-search-engine-0-4-0-0rc1/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.4.0.0RC1 der Subversion Repository Search Engine, die einig Bugs beseitig. Dazu gehört vor allem, dass bei Dokumenten, für die kein spezieller Indexer vorhanden ist, keine Inhalte indexiert wurden und somit keinerlei Suche nach den Inhalten möglich war. Weiterhin wurden noch einige Kleinigkeiten korrigiert. z.B. Ein Fehlerhaftes Beispiel im Wiki etc.</description>
+    </item>
+    
+    <item>
+      <title>SVK Release 2.1.0 beta 1</title>
+      <link>http://localhost:1313/blog/2007/2007-12-31-svk-release-2-1-0-beta-1/</link>
+      <pubDate>Mon, 31 Dec 2007 14:24:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-31-svk-release-2-1-0-beta-1/</guid>
+      <description>Es gibt eine neue Release von SVK, dem Versionskontroll Tool für verteilte Versionskontrolle. Die Beta Release 2.1.0 führt nun eine neues Kommando (svk branch) zur Vereinfachung des Branch Managements ein. Die Beta Release ist via CPAN zu beziehen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.3.0.0RC2</title>
+      <link>http://localhost:1313/blog/2007/2007-12-30-subversion-repository-search-engine-0-3-0-0rc2/</link>
+      <pubDate>Sun, 30 Dec 2007 11:32:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-30-subversion-repository-search-engine-0-3-0-0rc2/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.3.0.0RC2 der Subversion Repository Search Engine, die einige Bugs beseitigt. Zum einen war der Aufruf des Windows Command Files nicht von Erfolg gekrönt. Sprich es fehlten einige Abhängigkeiten. Einige Unklarheiten in der Dokumentation sind verbessert worden. Das Compilieren mit Maven 2 hat nicht funktioniert. Das ist jetzt wieder in Ordnung.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.4.6</title>
+      <link>http://localhost:1313/blog/2007/2007-12-21-subversion-release-1-4-6/</link>
+      <pubDate>Fri, 21 Dec 2007 12:46:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-21-subversion-release-1-4-6/</guid>
+      <description>Gestern abend, wurde eine neue Release von Subversion veröffentlicht. Im ChangeLog kann genau nachgelesen werden was sich genau geändert hat. Die Ankündigung kann entsprechend nachgelesen werden. Der download ist hier zu finden. Hier sind auch die Windows downloads zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine (SupoSE) Release 0.3.0.0RC1 (Earth)</title>
+      <link>http://localhost:1313/blog/2007/2007-12-21-subversion-repository-search-engine-supose-release-0-3-0-0rc1-earth/</link>
+      <pubDate>Fri, 21 Dec 2007 12:39:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-21-subversion-repository-search-engine-supose-release-0-3-0-0rc1-earth/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.3.0.0RC1 der Subversion Repository Search Engine, die nun per mithilfe eines Schedulers automatisch Repositories scannen kann und die Ergebnisse in einen oder meheren Indizes zusammenfasst, der dann für entsprechende Suchoperationen genutzt werden kann. Weiterhin wurde die Release um eine Source-Code Verteilung erweitert, einen Maven 2 basierten Build und einige Bug Fixes wurden auch beseitigt. Die Dokumentation wurde erweitert und auch korrgiert.</description>
+    </item>
+    
+    <item>
+      <title>trac 0.11b1 Release</title>
+      <link>http://localhost:1313/blog/2007/2007-12-18-trac-0-11b1-release/</link>
+      <pubDate>Tue, 18 Dec 2007 22:10:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-18-trac-0-11b1-release/</guid>
+      <description>Das Trac Team hat nun eine Release 0.11b1 veröffentlicht. Der download findet man unter http://trac.edgewall.org/wiki/TracDownload. Die Release Notes geben aufschluss über die Erweiterungen. Einige neue Features:
+ Neue Template Engine zur Erzeugung von Inhalten (Genshi) Konfigurierbarer Workflow im Ticket Subsystem Verbesserung der Granularität von Berechtigungen Unterstützung von Pygments als default Syntax highlighter Erweiterter Repository Browser (blame Unterstützung, Dynamische Erweiterung von Verzeichnissen) WebAdmin PlugIn ist nun ein integraler Bestandteil von Trac  </description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release 1.0 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-12-14-bazaar-release-1-0-erschienen/</link>
+      <pubDate>Fri, 14 Dec 2007 21:53:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-14-bazaar-release-1-0-erschienen/</guid>
+      <description>Es ist so weit. Die Release 1.0 von Bazaar ist erschienen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine (SupoSE) Release 0.2.0 (Venus)</title>
+      <link>http://localhost:1313/blog/2007/2007-12-08-subversion-repository-search-engine-supose-release-0-2-0-venus/</link>
+      <pubDate>Sat, 08 Dec 2007 23:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-08-subversion-repository-search-engine-supose-release-0-2-0-venus/</guid>
+      <description>Die Subversion Repository Search Engine (SupoSE) ist nun in der zweiten Release (Venus) 0.2.0 erschien. Es ist nun möglich auch in den zuvor indizierten Daten per Kommandozeile zu suchen, dabei besteht die Möglichkeit die Felder zu spezifizieren, die im Ergebnis angezeigt werden sollen. Das Verzeichnis wo der Index abgelegt werden soll kann bestimmt werden. Weiterhin besteht die Möglichkeit ein Repository in mehreren Schritten zu Scannen (z.B. von Revision 1 bis Revision 100 und dann Revision 101 bis Revision 258).</description>
+    </item>
+    
+    <item>
+      <title>SVNControl Release 1.4.1</title>
+      <link>http://localhost:1313/blog/2007/2007-12-04-svncontrol-release-1-4-1/</link>
+      <pubDate>Tue, 04 Dec 2007 12:59:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-04-svncontrol-release-1-4-1/</guid>
+      <description>Das Remote Administrations Tool für Subversion Server SVNControl ist in einer neuen Bug-Fix Release erschienen. SVNControl bietet die Remote Administration von Subversion Servers. Dazu gehört auch die Verwaltung von Benutzern mit Zugriffsrechten und auch die Kontrolle bzw. Konfiguration von Hook-Scripten der jeweiligen Subversion Server. Die Liste der Änderungen für die Release 1.4.1 können hier nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.8</title>
+      <link>http://localhost:1313/blog/2007/2007-11-28-maven-2-0-8/</link>
+      <pubDate>Wed, 28 Nov 2007 17:04:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-28-maven-2-0-8/</guid>
+      <description>Das Apache Maven Team hat einen neue Release 2.0.8 des Build Tools Maven. Die Binaries die Release Notes beschreiben die Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>SVNControl 1.4 Released - 13.11.2007</title>
+      <link>http://localhost:1313/blog/2007/2007-11-17-svncontrol-1-4-released-13-11-2007/</link>
+      <pubDate>Sat, 17 Nov 2007 20:34:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-17-svncontrol-1-4-released-13-11-2007/</guid>
+      <description>Das Remote Administrations Tool für Subversion Server SVNControl ist in einer neuen Release erschienen. SVNControl bietet die Remote Administration von Subversion Servers. Dazu gehört auch die Verwaltung von Benutzern mit Zugriffsrechten und auch die Kontrolle bzw. Konfiguration von Hook-Scripten der jeweiligen Subversion Server. Die Liste der Änderungen für die Release 1.4 können hier nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 beta Update</title>
+      <link>http://localhost:1313/blog/2007/2007-11-06-subversion-1-5-beta-update/</link>
+      <pubDate>Tue, 06 Nov 2007 13:41:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-06-subversion-1-5-beta-update/</guid>
+      <description>Die Firma COLLABNET hat im Blog zu Subversion bekannt gegeben, des es seit Freitag ein Update des Subversion 1.5 EAP (Early Access Program) gibt, dass dazu dient die Funktionalitäten von Subversion 1.5 zu testen und dazu Feedback in Richtung der Entwickler von Subversion zu geben. Es werden binäre Pakete für Windows, Linux (RedHat) als auch als Extras (ViewVC und Python bindings) 1.5 beta 4 for Red Hat / CentOS zur Verfügung gestellt.</description>
+    </item>
+    
+    <item>
+      <title>cvs2svn Release 2.0.1 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-10-12-cvs2svn-release-2-0-1-erschienen/</link>
+      <pubDate>Fri, 12 Oct 2007 15:01:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-12-cvs2svn-release-2-0-1-erschienen/</guid>
+      <description>Es ist eine neue Release des Konvertierungsscriptes cvs2svn erschienen, dass einen Bug bzgl. der Keyword Expandierung beseitigt. Der ChangeLog gibt Auskunft über die Änderungen in den verschiedenen Releases.</description>
+    </item>
+    
+    <item>
+      <title>cvs2svn Release 2.0 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-08-17-cvs2svn-release-2-0-erschienen/</link>
+      <pubDate>Fri, 17 Aug 2007 19:57:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-17-cvs2svn-release-2-0-erschienen/</guid>
+      <description>Es ist nun eine neue Release der CVS nach Subversion Konverters erschienen. Die Änderungen, die gemacht wurden, können hier nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Continuum 1.1. beta 2</title>
+      <link>http://localhost:1313/blog/2007/2007-08-17-continuum-1-1-beta-2/</link>
+      <pubDate>Fri, 17 Aug 2007 18:38:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-17-continuum-1-1-beta-2/</guid>
+      <description>Das Build System Continuum liegt nun in einer überarbeiteten neuen Version vor. Die Änderungen werden im ChangeLog dokumentiert.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.6 - Bug Fix Release </title>
+      <link>http://localhost:1313/blog/2007/2007-08-16-subversive-1-1-6-bug-fix-release-/</link>
+      <pubDate>Thu, 16 Aug 2007 21:35:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-16-subversive-1-1-6-bug-fix-release-/</guid>
+      <description>Es gibt eine neue Release von Subversive, dem Eclipse PlugIn. Die Release Notes geben wieder genaue Auskunft über die grundsätzlichen Änderungen in der Release 1.1. und der ChangeLog liefert wieder die genauen informationen über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Subversion Plugin 0.4.0 (Default</title>
+      <link>http://localhost:1313/blog/2007/2007-08-09-bazaar-subversion-plugin-0-4-0-default/</link>
+      <pubDate>Thu, 09 Aug 2007 20:11:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-09-bazaar-subversion-plugin-0-4-0-default/</guid>
+      <description>Es gibt wieder ein Update vom Subversion PlugIn für Bazaar.</description>
+    </item>
+    
+    <item>
+      <title>SmartCVS 6.0.4 (Release)</title>
+      <link>http://localhost:1313/blog/2007/2007-08-09-smartcvs-6-0-4-release/</link>
+      <pubDate>Thu, 09 Aug 2007 20:00:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-09-smartcvs-6-0-4-release/</guid>
+      <description>Es gibt ein Update vom SmartCVS Client. Die ChangeLog gibt über die Erweiterungen und Änderungen Auskunf.</description>
+    </item>
+    
+    <item>
+      <title>SpectrumSCM 2.5</title>
+      <link>http://localhost:1313/blog/2007/2007-08-09-spectrumscm-2-5/</link>
+      <pubDate>Thu, 09 Aug 2007 19:51:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-09-spectrumscm-2-5/</guid>
+      <description>Das SCM Tool SpectrumSCM gibt es nun in einer aktualiserten Release. Es wird nun Unicode unterstützt. Erweiterungen im Bereich CR Beschreibung, Verzeichnis Umbenennung wurde hinzugefügt. Das Microsoft Office PlugIn wurde aktualisiert, um die Unterstützung für Office 2003 und Office 2007 zu ermöglichen. Die User Management Funktionen wurden erweitert. Der ChangeLog gibt noch genauere Auskunft.</description>
+    </item>
+    
+    <item>
+      <title>Monotone VCS 0.36 - 03.08.2007</title>
+      <link>http://localhost:1313/blog/2007/2007-08-06-monotone-vcs-0-36-03-08-2007/</link>
+      <pubDate>Mon, 06 Aug 2007 11:04:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-06-monotone-vcs-0-36-03-08-2007/</guid>
+      <description>Es gibt wieder eine neue Release von Monotone. Der ChangeLog  gibt wieder Auskunft über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>SVK 2.0.2 Release</title>
+      <link>http://localhost:1313/blog/2007/2007-08-03-svk-2-0-2-release/</link>
+      <pubDate>Fri, 03 Aug 2007 11:51:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-03-svk-2-0-2-release/</guid>
+      <description>Chia-Liang Kao hat auf der Entwickler Liste für SVK bekannt gegeben, dass die Release 2.0.2 verfügbar ist. Der Download für Windows Binaries, Linux und FreeBSD</description>
+    </item>
+    
+    <item>
+      <title>Scmbug 0.19.20 (Default)</title>
+      <link>http://localhost:1313/blog/2007/2007-08-01-scmbug-0-19-20-default/</link>
+      <pubDate>Wed, 01 Aug 2007 21:51:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-01-scmbug-0-19-20-default/</guid>
+      <description>Es gibt wieder eine Neue Release von Scmbug, der Integration Software Konfigurations Management mit Bug-Tracking. Es ist sozu sagen der Leim zwischen Versionkontrolle (z.B. CVS/CVSNT, Subverison und Git) und einem Bug-Tracking System (z.B. Bugzilla, Mantis, Request Tracker, Test Director).</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.5 Release - Bug Fix Release</title>
+      <link>http://localhost:1313/blog/2007/2007-08-01-subversive-1-1-5-release-bug-fix-release/</link>
+      <pubDate>Wed, 01 Aug 2007 21:38:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-01-subversive-1-1-5-release-bug-fix-release/</guid>
+      <description>Es gibt eine neue Release von Subversive, dem Eclipse PlugIn. Die neue Release behebt einige Probleme mit dem SVN Kit client, NPE, einfrieren von Eclipse bei der Synchronisation und einige weiter Probleme die behoben wurden. Die Release Notes geben wieder genaue Auskunft über die grundsätzlichen Änderungen in der Release 1.1. und der ChangeLog liefert wieder die genauen informationen über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Subversion PlugIn 0.3.5</title>
+      <link>http://localhost:1313/blog/2007/2007-07-25-bazaar-subversion-plugin-0-3-5/</link>
+      <pubDate>Wed, 25 Jul 2007 09:39:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-25-bazaar-subversion-plugin-0-3-5/</guid>
+      <description>Das Bazaar Subversion PlugIn wurde an die Bazaar Release 0.18 angepasst.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.4 Release</title>
+      <link>http://localhost:1313/blog/2007/2007-07-25-svnkit-1-1-4-release/</link>
+      <pubDate>Wed, 25 Jul 2007 09:30:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-25-svnkit-1-1-4-release/</guid>
+      <description>Es gibt wieder ein Update des SVNKit. Der Connection Pool wurde neu implementiert. Es wurde ein Continous Integration Server aufgesetzt und viele Bug-Fixes. Der ChangeLog gibt eine Liste der Änderungen. Die Liste der Änderungen ist hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.9</title>
+      <link>http://localhost:1313/blog/2007/2007-07-22-java-gforge-soap-interface-release-0-0-9/</link>
+      <pubDate>Sun, 22 Jul 2007 22:43:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-22-java-gforge-soap-interface-release-0-0-9/</guid>
+      <description>Es gibt nun wieder ein Update. Es ist nun möglich eine Datei via JaGoSI auf GForge zu übertragen und dort ein Package bzw. eine Release im FRS Bereich zu erzeugen. Es wurden auch noch einige Bugs behoben. Die Übersicht für den Milestone 0.0.9. Die genauen Änderungen für den einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar 0.18 veroffentlicht.</title>
+      <link>http://localhost:1313/blog/2007/2007-07-18-bazaar-0-18-veroffentlicht-/</link>
+      <pubDate>Wed, 18 Jul 2007 14:25:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-18-bazaar-0-18-veroffentlicht-/</guid>
+      <description>Es ist die Release 0.18 des Bazaar VCS Tool erschienen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.8</title>
+      <link>http://localhost:1313/blog/2007/2007-07-13-java-gforge-soap-interface-release-0-0-8/</link>
+      <pubDate>Fri, 13 Jul 2007 02:17:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-13-java-gforge-soap-interface-release-0-0-8/</guid>
+      <description>Es gibt nun wieder ein Update. Es sind nun alle Funktionen implementiert, die das GForge SOAP API bietet. Hierbei wurden noch einige Fehler im PHP Code gefunden und entsprechend korrigiert. Die Übersicht für den Milestone 0.0.8. Die genauen Änderungen für den einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>bazaar vcs 0.18rc1</title>
+      <link>http://localhost:1313/blog/2007/2007-07-12-bazaar-vcs-0-18rc1/</link>
+      <pubDate>Thu, 12 Jul 2007 13:00:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-12-bazaar-vcs-0-18rc1/</guid>
+      <description>Es gibt nun eine neue Release von bazaar 0.18rc1, dem verteilten Versionsmanagement System. Die genauen Änderungen können hier nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.7</title>
+      <link>http://localhost:1313/blog/2007/2007-07-08-java-gforge-soap-interface-release-0-0-7/</link>
+      <pubDate>Sun, 08 Jul 2007 12:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-08-java-gforge-soap-interface-release-0-0-7/</guid>
+      <description>Es gibt nun wieder ein Update. Der Bereich des FRS (File Release System) von GForge ist nun implementiert. Die Übersicht für den Milestone 0.0.7 können eingesehen werden. Die genauen Änderungen für die einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.6</title>
+      <link>http://localhost:1313/blog/2007/2007-07-03-java-gforge-soap-interface-release-0-0-6/</link>
+      <pubDate>Tue, 03 Jul 2007 21:02:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-03-java-gforge-soap-interface-release-0-0-6/</guid>
+      <description>Es gibt nun wieder ein Update. Einige neuen Funktionen, das Build System wurde überarbeitet (Maven 2 als auch Ant). Die Übersicht für den Milestone 0.0.5 und den Milestone 0.0.6 können eingesehen werden. Die genauen Änderungen für die einzelnen Milestone kann man hier bzw. hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.4</title>
+      <link>http://localhost:1313/blog/2007/2007-06-26-java-gforge-soap-interface-release-0-0-4/</link>
+      <pubDate>Tue, 26 Jun 2007 09:29:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-26-java-gforge-soap-interface-release-0-0-4/</guid>
+      <description>Es gibt nun wieder ein Update. Einige neuen Funktionen. Es ist nun möglich einen Tracker Eintrag (Bug, Patch etc.) per JaGoSI zu erzeugen.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.7</title>
+      <link>http://localhost:1313/blog/2007/2007-06-21-maven-2-0-7/</link>
+      <pubDate>Thu, 21 Jun 2007 23:53:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-21-maven-2-0-7/</guid>
+      <description>Das Apache Maven Team hat einen neue Release des Build Tools Maven. Die Binaries die Release Notes beschreiben die Änderungen und die weitere Roadmap gibt darüber Auskunft wie es weiter geht.</description>
+    </item>
+    
+    <item>
+      <title>bazaar VCS 0.17</title>
+      <link>http://localhost:1313/blog/2007/2007-06-18-bazaar-vcs-0-17/</link>
+      <pubDate>Mon, 18 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-18-bazaar-vcs-0-17/</guid>
+      <description>Es gibt nun die final Release bazaar 0.17. Die genauen Änderungen können hier nach gelesen werden:</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface First Public Release 0.0.3</title>
+      <link>http://localhost:1313/blog/2007/2007-06-17-java-gforge-soap-interface-first-public-release-0-0-3/</link>
+      <pubDate>Sun, 17 Jun 2007 22:40:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-17-java-gforge-soap-interface-first-public-release-0-0-3/</guid>
+      <description>Es gibt nun JaGoSI als Zugriffsmittel auf die GForge Kollaborationsplatfform.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release von Bazaar VCS 0.17rc1</title>
+      <link>http://localhost:1313/blog/2007/2007-06-14-neue-release-von-bazaar-vcs-0-17rc1/</link>
+      <pubDate>Thu, 14 Jun 2007 09:52:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-14-neue-release-von-bazaar-vcs-0-17rc1/</guid>
+      <description>Es ist eine neue Release vom dezentralisierten Bazaar Versionskontroll System erschienen. Der Release Candidate 1 enthält performance Verbesserungen einige Bug Fixes und Verbesserungen der Dokumentation.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.4.4</title>
+      <link>http://localhost:1313/blog/2007/2007-06-09-subversion-1-4-4/</link>
+      <pubDate>Sat, 09 Jun 2007 15:55:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-09-subversion-1-4-4/</guid>
+      <description>Es ist eine neue Release von Subversion erschienen, die einige Bugs und kleinere Sicherheitsschwachstellen beseitigt. Die Release Notes zur Relese 1.4 geben Aufschluss über die Verschiedenen Erweiterungen im Bereich der Release 1.4. Eine genaue Liste der Änderung kann im Changes nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Merge Tracking Early Adopter Program</title>
+      <link>http://localhost:1313/blog/2007/2007-06-03-subversion-merge-tracking-early-adopter-program/</link>
+      <pubDate>Sun, 03 Jun 2007 14:31:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-03-subversion-merge-tracking-early-adopter-program/</guid>
+      <description>Im Blog von CollabNet ist der Hinweis zu finden, dass man am Subversion Merge Tracking Early Adopter Program(SMTEAP) teilnehmen soll, um möglichst früh Tests bzgl. der Merge Tracking Funktionalität zu bekommen. Auf der Seite des SMTEAP sind entsprechende Dokumentationen etc. vorzufinden. Das Ziel des Programmes ist es, die Subversion Committer in Ihrer Arbeit mit aktiven Tests zu unterstützen. Weiterhin sollen Vorschläge zur Erweiterung gesammelt werden. Also sind möglichst viele Aufgerufen das Merge Tracking zu testen und aktiv mit zu diskutieren.</description>
+    </item>
+    
+    <item>
+      <title>Trac 0.10.4 Bug Fix Release</title>
+      <link>http://localhost:1313/blog/2007/2007-04-20-trac-0-10-4-bug-fix-release/</link>
+      <pubDate>Fri, 20 Apr 2007 19:54:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-04-20-trac-0-10-4-bug-fix-release/</guid>
+      <description>Es ist eine Bug Fix Release von Trac erschienen. Die neueste Release kann im Download Bereich bezogen werden. Die vollständige Liste der geschlossenen Tickets kann hier eingesehen werden.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.2 (Default)</title>
+      <link>http://localhost:1313/blog/2007/2007-04-03-svnkit-1-1-2-default/</link>
+      <pubDate>Tue, 03 Apr 2007 22:18:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-04-03-svnkit-1-1-2-default/</guid>
+      <description>Es gibt eine neue Release von SVN Kit. Es wurden einige Bug fixes behoben und eine interaktive Password Eingabe wurde zum Kommandozeilen Client hinzugeüfgt. Weiterhin wurde eine system weite Konfigurationsdatei hinzugefügt.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.6 is released.</title>
+      <link>http://localhost:1313/blog/2007/2007-04-01-maven-2-0-6-is-released-/</link>
+      <pubDate>Sun, 01 Apr 2007 20:21:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-04-01-maven-2-0-6-is-released-/</guid>
+      <description>Es gibt eine neue Version von Maven, dem Build Tool. Die aktuellste Version kann unter Maven Download herunter geladen werden. Die Release Notes geben genaue Auskunft über die Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>svninfo 0.7 Release</title>
+      <link>http://localhost:1313/blog/2007/2007-03-27-svninfo-0-7-release/</link>
+      <pubDate>Tue, 27 Mar 2007 20:37:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-27-svninfo-0-7-release/</guid>
+      <description>Das svninfo für LaTeX ist in einer neuen Release erschienen. Im ChangeLog kann man genau nach lesen was geändert wurde. Speziell wurden hier die Unterstützung für das Id und Date Keyword ergänzt, dass bei SVK Verwendung findet. Es wurde auch eine Fehler im Handling mit fancyhdr beseitigt.</description>
+    </item>
+    
+    <item>
+      <title>SVK 2.0.1 Erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-03-27-svk-2-0-1-erschienen/</link>
+      <pubDate>Tue, 27 Mar 2007 18:22:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-27-svk-2-0-1-erschienen/</guid>
+      <description>Es ist eine neue Maintainance Release von SVK erschienen, die einige Probleme und Bug beseitigt. Der aktuelle Stand ist hier zu finden. Genaueres kann im ChangeLog nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.0 Release erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-03-13-subversive-1-1-0-release-erschienen/</link>
+      <pubDate>Tue, 13 Mar 2007 18:39:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-13-subversive-1-1-0-release-erschienen/</guid>
+      <description>Heute ist die Release 1.1.0 von Subversive erschienen. Das Subversive PlugIn ist für die Eclipse 3.2 / Callisto Releases vorgesehen. Die Eclipse Update &amp;amp; Download Site, der ChangeLog und die Release Notes sind wie üblich auf der Polarion Community Seite zu finden. Die Haupt Ziel der Release 1.1.0 war die Einführung der Eclipse 3.1&amp;frasl;3.2 Features und die Integration mit Mylar und dem Buckminster Projekt.</description>
+    </item>
+    
+    <item>
+      <title>Sun Java Platform, Standard Edition 1.5.0_11 (Java 5)</title>
+      <link>http://localhost:1313/blog/2007/2007-03-09-sun-java-platform-standard-edition-1-5-0_11-java-5/</link>
+      <pubDate>Fri, 09 Mar 2007 08:17:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-09-sun-java-platform-standard-edition-1-5-0_11-java-5/</guid>
+      <description>Es ist eine neue Minor Bug Fix Release erschienen. Die Release Notes geben genauere Auskunft.</description>
+    </item>
+    
+    <item>
+      <title>ZigVersion 1.1 - Subversion Made Easy</title>
+      <link>http://localhost:1313/blog/2007/2007-03-09-zigversion-1-1-subversion-made-easy/</link>
+      <pubDate>Fri, 09 Mar 2007 08:06:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-09-zigversion-1-1-subversion-made-easy/</guid>
+      <description>Eine neue Releasae der Oberfläche Subversion Made Easy für den Mac, ist mit neuen Features erschienen. Das Konzept von ZigVersion ist es den Ablauf usw. in der normalen Entwicklung abzubilden und nicht einfach nur die Kommandos der Kommandozeile grafisch dazustellen. In den Release Notes ist nachzulesen welche Erweiterungen durchgeführt wurden. Leider sind die Release Notes in RTF.</description>
+    </item>
+    
+    <item>
+      <title>Trac 0.10.3.1 Sercurity Update</title>
+      <link>http://localhost:1313/blog/2007/2007-03-09-trac-0-10-3-1-sercurity-update/</link>
+      <pubDate>Fri, 09 Mar 2007 06:20:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-09-trac-0-10-3-1-sercurity-update/</guid>
+      <description>Es ist ein Sicherheitsupdate von Trac erschienen. Die neueste Release kann im Download Bereich bezogen werden. DIe genaue Beschreibung der Sicherheitslücke ist im ChangeLog beschrieben.</description>
+    </item>
+    
+    <item>
+      <title>DITrack Release 0.5 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-03-07-ditrack-release-0-5-erschienen/</link>
+      <pubDate>Wed, 07 Mar 2007 07:50:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-07-ditrack-release-0-5-erschienen/</guid>
+      <description>DITrack ist ein freier, open source, verteilter Issue (bug, defect, ticket) Tracking System welches Subversion als Backend nutzt anstatt einer Datenbank. Geschrieben ist das Ganze in Python und läuft in einer Unix (BDS, Linux, MacOS X) Umgebung.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release von Monotone</title>
+      <link>http://localhost:1313/blog/2007/2007-03-05-neue-release-von-monotone/</link>
+      <pubDate>Mon, 05 Mar 2007 15:27:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-05-neue-release-von-monotone/</guid>
+      <description>Seit dem 28.02.2007 gibt es eine die Release 0.33 von Monotone. Der ChangeLog gibt genauere Auskunft über die Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>QSVN neue Release 0.5</title>
+      <link>http://localhost:1313/blog/2007/2007-03-03-qsvn-neue-release-0-5/</link>
+      <pubDate>Sat, 03 Mar 2007 14:22:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-03-qsvn-neue-release-0-5/</guid>
+      <description>Seit dem 25.02.2007 liegt die Release 0.5 von QSVN vor. Es wurden eine Menge von neuen Funktionen hinzugefügt. Die genaue Liste kann in den Release Notes nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.5</title>
+      <link>http://localhost:1313/blog/2007/2007-02-28-maven-2-0-5/</link>
+      <pubDate>Wed, 28 Feb 2007 07:26:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-28-maven-2-0-5/</guid>
+      <description>Am 14.02. ist eine neue Release des Build Management Tools Maven erschienen.</description>
+    </item>
+    
+    <item>
+      <title>Release 1.5 von GIT</title>
+      <link>http://localhost:1313/blog/2007/2007-02-28-release-1-5-von-git/</link>
+      <pubDate>Wed, 28 Feb 2007 07:22:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-28-release-1-5-von-git/</guid>
+      <description>Am 13.02.2007 ist eine neue Release des SCM Tools für den Linux Kernel in der Release 1.5. erschienen.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.0 RC6</title>
+      <link>http://localhost:1313/blog/2007/2007-02-27-subversive-1-1-0-rc6/</link>
+      <pubDate>Tue, 27 Feb 2007 12:15:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-27-subversive-1-1-0-rc6/</guid>
+      <description>Ein sechter Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse 3.2 (Callisto) liegt in der Release 1.1.0RC6 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden. Die Release Notes geben hier Auskunft über die Änderungen bzgl. der Release und der ChangeLog beschreibt die Änderungen genau.</description>
+    </item>
+    
+    <item>
+      <title>Subclipse 1.2.0 für Eclipse 3.2</title>
+      <link>http://localhost:1313/blog/2007/2007-02-15-subclipse-1-2-0-fauer-eclipse-3-2/</link>
+      <pubDate>Thu, 15 Feb 2007 13:21:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-15-subclipse-1-2-0-fauer-eclipse-3-2/</guid>
+      <description>Am 13.02.2007 ist nun eine neue Release von Subclipse für Eclipse 3.2 heraus gekommen.
+Es wurden einige neue Features implementiert, die auch als Backport der Subclipse 1.0.4 (Eclipse 3.1 / 3.0) zu gute kommen aber leider sind auch einige Features dabei, die Eclipse 3.2 voraussetzen. Genaueres bekommt man im ChangeLog zu lesen.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.1</title>
+      <link>http://localhost:1313/blog/2007/2007-02-06-svnkit-1-1-1/</link>
+      <pubDate>Tue, 06 Feb 2007 17:08:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-06-svnkit-1-1-1/</guid>
+      <description>Es gibt eine neue Release des SVNKit&amp;rsquo;s. Die Erweiterungen betreffen die Kommandozeile svnlook, svnadmin und svnsync als auch die Unterstütztung für OpenVMS und selbstverständlich wurden Fehler gefixed. Der ChangeLog gibt genaue Auskunft über die Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Tortoise SVN 1.4.2 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-01-28-tortoise-svn-1-4-2-erschienen/</link>
+      <pubDate>Sun, 28 Jan 2007 17:47:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-01-28-tortoise-svn-1-4-2-erschienen/</guid>
+      <description>Eine neue Release von TortoiseSVN, dem Explorer PlugIn für Windows ist erschienen. Die Release ist gegen die neueste Release von Subversion 1.4.3 gelinkt. Wichtig dabei ist, dass es sich hierbe lediglich um eine maintenance Release handelt, sprich keine neuen Funktionen hinzu gefügt wurden, sondern sicherheites Lücken im Zusammenhang mit der Bibliothek neon beseitigt wurden. Genaueres auf der Homepage.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Release  0.14</title>
+      <link>http://localhost:1313/blog/2007/2007-01-28-bazaar-release-0-14/</link>
+      <pubDate>Sun, 28 Jan 2007 17:40:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-01-28-bazaar-release-0-14/</guid>
+      <description>Es gibt eine neue Version von Bazaar und zwar 0.14. Die Version ist auf der DownloadSeite zu erhalten.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.0 RC4</title>
+      <link>http://localhost:1313/blog/2007/2007-01-26-subversive-1-1-0-rc4/</link>
+      <pubDate>Fri, 26 Jan 2007 20:01:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-01-26-subversive-1-1-0-rc4/</guid>
+      <description>Ein vierter Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse 3.2 (Callisto) liegt in der Release 1.1.0RC4 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.4.3 ist da</title>
+      <link>http://localhost:1313/blog/2007/2007-01-25-subversion-1-4-3-ist-da/</link>
+      <pubDate>Thu, 25 Jan 2007 10:45:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-01-25-subversion-1-4-3-ist-da/</guid>
+      <description>Seit Heute gibt es Subversion 1.4.3. Es ist wie üblich unter http://subversion.tigris.org zu bekommen. Die Releasenotes sind hier zu bekommen und die Beschreibung der Änderung im ChangeLog.</description>
+    </item>
+    
+    <item>
+      <title>Subversive Eclipse PlugIn 1.1.0RC3</title>
+      <link>http://localhost:1313/blog/2007/2007-01-16-subversive-eclipse-plugin-1-1-0rc3/</link>
+      <pubDate>Tue, 16 Jan 2007 13:02:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-01-16-subversive-eclipse-plugin-1-1-0rc3/</guid>
+      <description>Ein dritter Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse 3.2 (Callisto) liegt in der Release 1.1.0RC3 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>SVK 2.0.0 Released</title>
+      <link>http://localhost:1313/blog/2006/2006-12-28-svk-2-0-0-released/</link>
+      <pubDate>Thu, 28 Dec 2006 18:50:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-28-svk-2-0-0-released/</guid>
+      <description>Heute hat Chia-Liang Kao auf der Entwickler Liste bekannt gegeben, dass die Version 2.0.0 der verteilten Versionskontrolle SVK vorliegt.</description>
+    </item>
+    
+    <item>
+      <title>Subversive Eclipse PlugIn 1.1.0RC2</title>
+      <link>http://localhost:1313/blog/2006/2006-12-23-subversive-eclipse-plugin-1-1-0rc2/</link>
+      <pubDate>Sat, 23 Dec 2006 17:02:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-23-subversive-eclipse-plugin-1-1-0rc2/</guid>
+      <description>Ein zweiter Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse liegt in der Release 1.1.0RC2 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Ant 1.7</title>
+      <link>http://localhost:1313/blog/2006/2006-12-20-ant-1-7/</link>
+      <pubDate>Wed, 20 Dec 2006 10:50:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-20-ant-1-7/</guid>
+      <description>Die neue Release von Ant lagert nun erweiterungen (sog. optional Tasks) in die Antlib aus. Es wurden auch eine menge Bugs beseitig. Weiterhin sind auch schon Java 6 features enthalten. Die Ankündigung kann auf http://www.apachenews.org nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>db4o in neuer Release (6.0 Java)</title>
+      <link>http://localhost:1313/blog/2006/2006-12-17-db4o-in-neuer-release-6-0-java/</link>
+      <pubDate>Sun, 17 Dec 2006 15:24:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-17-db4o-in-neuer-release-6-0-java/</guid>
+      <description>Die objektorientiere Datenbank db4o ist in einer neuen Release für Java erschienen. Die Release 6.0 (Java) kommt mit einigen Verbesserungen bzgl. der Performance daher.</description>
+    </item>
+    
+    <item>
+      <title>trac Release 0.10.3</title>
+      <link>http://localhost:1313/blog/2006/2006-12-14-trac-release-0-10-3/</link>
+      <pubDate>Thu, 14 Dec 2006 13:31:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-14-trac-release-0-10-3/</guid>
+      <description>Edgewall Software hat eine neue Bug-Fix Release des Software Collaboration Tools trac veröffentlicht. Im ChangeLog sind genauere Details bzgl. der Änderungen zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Subversion Plugin 0.2 (Default)</title>
+      <link>http://localhost:1313/blog/2006/2006-12-14-bazaar-subversion-plugin-0-2-default/</link>
+      <pubDate>Thu, 14 Dec 2006 13:05:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-14-bazaar-subversion-plugin-0-2-default/</guid>
+      <description>Vom Bazaar Plug für Subversion gibt es nun wieder eine neue Version.
+Es wurden einige wichtige Bugs gefixed usw. Genaueres kann auf der Homepage nach geselen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversive Eclipse PlugIn 1.1.0RC1</title>
+      <link>http://localhost:1313/blog/2006/2006-12-14-subversive-eclipse-plugin-1-1-0rc1/</link>
+      <pubDate>Thu, 14 Dec 2006 11:42:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-14-subversive-eclipse-plugin-1-1-0rc1/</guid>
+      <description>Ein Release Candidate des Subversive PlugIn&amp;rdquo;s für Eclipse liegt in der Release 1.1.0RC1 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Die objekt orientierte Open Source Datenbank db4o Developer 6.0 erschienen</title>
+      <link>http://localhost:1313/blog/2006/2006-12-01-die-objekt-orientierte-open-source-datenbank-db4o-developer-6-0-erschienen/</link>
+      <pubDate>Fri, 01 Dec 2006 19:56:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-12-01-die-objekt-orientierte-open-source-datenbank-db4o-developer-6-0-erschienen/</guid>
+      <description>Die objekt orientierte Open Source Datenbank db4o ist einer neuen Entwickler Release 6.0 erschienen. Näheres im Blog.</description>
+    </item>
+    
+    <item>
+      <title>SVK Beta Release 2.0 - 25.11.2006</title>
+      <link>http://localhost:1313/blog/2006/2006-11-26-svk-beta-release-2-0-25-11-2006/</link>
+      <pubDate>Sun, 26 Nov 2006 20:43:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-11-26-svk-beta-release-2-0-25-11-2006/</guid>
+      <description>Chia-Liang Kao hat auf der Entwickler Liste des SVK Tools (Verteilte Versionskontrolle) bekannt gegeben, dass eine Beta Release für 2.0 vorliegt. Zu bekommen ist die 2.0 beta Release auf CPAN</description>
+    </item>
+    
+    <item>
+      <title>trac Update 0.10.1 - 08.11.2006</title>
+      <link>http://localhost:1313/blog/2006/2006-11-09-trac-update-0-10-1-08-11-2006/</link>
+      <pubDate>Thu, 09 Nov 2006 18:13:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-11-09-trac-update-0-10-1-08-11-2006/</guid>
+      <description>Edgewall Software hat einen Security Fix des Software Collaboration Tools trac veröffentlicht. Im ChangeLog sind genauere Details bzgl. der Änderungen zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.4.2 - 07.11.2006</title>
+      <link>http://localhost:1313/blog/2006/2006-11-08-subversion-1-4-2-07-11-2006/</link>
+      <pubDate>Wed, 08 Nov 2006 10:55:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-11-08-subversion-1-4-2-07-11-2006/</guid>
+      <description>Eine neue Release von Subversion ist erschienen. Die Ankündigung gibt Auskunft über die Verschiedenen Dateien etc. während der ChangeLog genauere Auskunft über die Änderung gibt. In den Release Notes sind die Änderungen für die Nutzerseite zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Subversive PlugIn 1.1.0 M8a</title>
+      <link>http://localhost:1313/blog/2006/2006-11-02-subversive-plugin-1-1-0-m8a/</link>
+      <pubDate>Thu, 02 Nov 2006 19:00:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-11-02-subversive-plugin-1-1-0-m8a/</guid>
+      <description>Ein neuer Milestone des Subversive PlugIn&amp;rdquo;s für Eclipse liegt seit gestern in der Release 1.1.0M8a vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Version Control Werkzeug neue Release 0.12 (31.10.2006)</title>
+      <link>http://localhost:1313/blog/2006/2006-11-02-bazaar-version-control-werkzeug-neue-release-0-12-31-10-2006/</link>
+      <pubDate>Thu, 02 Nov 2006 18:19:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-11-02-bazaar-version-control-werkzeug-neue-release-0-12-31-10-2006/</guid>
+      <description>Es gibt ein Update der verteilten Versionskontrolle Bazaar. Genaueres kann auf der Homepage nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversive Eclipse PlugIn 1.1.0M7 erschienen</title>
+      <link>http://localhost:1313/blog/2006/2006-10-20-subversive-eclipse-plugin-1-1-0m7-erschienen/</link>
+      <pubDate>Fri, 20 Oct 2006 21:34:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-10-20-subversive-eclipse-plugin-1-1-0m7-erschienen/</guid>
+      <description>Ein neuer Milestone des Subversive PlugIn&amp;rdquo;s für Eclipse liegt in der Release 1.1.0M7 vor. Das PlugIn kann unter der URL www.polarion.org bezogen werden.</description>
+    </item>
+    
+    <item>
+      <title>JavaSVN 1.1.0.beta5 erschienen (19.10.2006)</title>
+      <link>http://localhost:1313/blog/2006/2006-10-20-javasvn-1-1-0-beta5-erschienen-19-10-2006/</link>
+      <pubDate>Fri, 20 Oct 2006 21:12:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2006/2006-10-20-javasvn-1-1-0-beta5-erschienen-19-10-2006/</guid>
+      <description>TMate Software gibt bekannt, dass JavaSVN 1.1.0.beta5 veröffentlicht wurde und unter http://tmate.org zum Download bereit steht.</description>
+    </item>
+    
+  </channel>
+</rss>

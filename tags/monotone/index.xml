@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monotone on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/monotone/</link>
+    <description>Recent content in Monotone on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 May 2009 20:48:18 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/monotone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monotone 0.44 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-05-16-monotone-0-44-erschienen/</link>
+      <pubDate>Sat, 16 May 2009 20:48:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-16-monotone-0-44-erschienen/</guid>
+      <description>Es gibt von Monotone eine neue Release 0.44. Der ChangeLog genau Auskunft über die Neuerungen.</description>
+    </item>
+    
+    <item>
+      <title>Monotone 0.38 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-12-15-monotone-0-38-erschienen/</link>
+      <pubDate>Sat, 15 Dec 2007 00:12:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-15-monotone-0-38-erschienen/</guid>
+      <description>Es gibt von Monotone nun das Release 0.38. Der ChangeLog genau Auskunft über die Neuerungen.</description>
+    </item>
+    
+    <item>
+      <title>Monotone VCS 0.36 - 03.08.2007</title>
+      <link>http://localhost:1313/blog/2007/2007-08-06-monotone-vcs-0-36-03-08-2007/</link>
+      <pubDate>Mon, 06 Aug 2007 11:04:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-06-monotone-vcs-0-36-03-08-2007/</guid>
+      <description>Es gibt wieder eine neue Release von Monotone. Der ChangeLog  gibt wieder Auskunft über die gemachten Änderungen.</description>
+    </item>
+    
+  </channel>
+</rss>

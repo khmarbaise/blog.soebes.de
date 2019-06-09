@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BM on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/bm/</link>
+    <description>Recent content in BM on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 24 Aug 2013 11:16:26 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/bm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Iterator-Maven Plugin Release 0.2</title>
+      <link>http://localhost:1313/blog/2013/2013-08-24-iterator-maven-plugin-0-2/</link>
+      <pubDate>Sat, 24 Aug 2013 11:16:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2013/2013-08-24-iterator-maven-plugin-0-2/</guid>
+      <description>After some time enhancing the iterator-maven-plugin the time has come to release a new version The iterator-maven-plugin is available via Maven Central and can be used as any other maven plugin. &amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;com.soebes.maven.plugins&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;iterator-maven-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;0.2&amp;lt;/version&amp;gt; &amp;lt;executions&amp;gt; &amp;lt;execution&amp;gt; &amp;lt;phase&amp;gt;package&amp;lt;/phase&amp;gt; &amp;lt;goals&amp;gt; &amp;lt;goal&amp;gt;executor&amp;lt;/goal&amp;gt; &amp;lt;/goals&amp;gt; &amp;lt;configuration&amp;gt; &amp;lt;items&amp;gt; &amp;lt;item&amp;gt;test&amp;lt;/item&amp;gt; &amp;lt;item&amp;gt;prod&amp;lt;/item&amp;gt; &amp;lt;item&amp;gt;dev&amp;lt;/item&amp;gt; &amp;lt;/items&amp;gt; &amp;lt;pluginExecutors&amp;gt; &amp;lt;pluginExecutor&amp;gt; &amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.plugins&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-assembly-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;2.4&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt; &amp;lt;goal&amp;gt;single&amp;lt;/goal&amp;gt; &amp;lt;configuration&amp;gt; &amp;lt;descriptors&amp;gt; &amp;lt;descriptor&amp;gt;${project.basedir}/@item@.xml&amp;lt;/descriptor&amp;gt; &amp;lt;/descriptors&amp;gt; &amp;lt;/configuration&amp;gt; &amp;lt;/pluginExecutor&amp;gt; &amp;lt;/pluginExecutors&amp;gt; &amp;lt;/configuration&amp;gt; &amp;lt;/execution&amp;gt; &amp;lt;/executions&amp;gt; &amp;lt;/plugin&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Appassembler Maven Plugin 1.4 released</title>
+      <link>http://localhost:1313/blog/2013/2013-07-10-appassembler-maven-plugin-1-4-released/</link>
+      <pubDate>Wed, 10 Jul 2013 12:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2013/2013-07-10-appassembler-maven-plugin-1-4-released/</guid>
+      <description>The new release of the Appassembler Maven Plugin 1.4 has now the ability to use an external delta package instead of the internal one and the support for chkconfig settings for unix script. The following bug has been solved:
+ [MAPPASM-184] windows x86-32 native wrapper get picked up on x86_64 in the generated jsw script Improvement  The following improvemet has been done:
+ [MAPPASM-173] windows x64 should use x64 wrapper  And the following new features have been added:</description>
+    </item>
+    
+    <item>
+      <title>Iterations and Maven? Not Possible?</title>
+      <link>http://localhost:1313/blog/2013/2013-03-30-iterations-and-maven-not-possible/</link>
+      <pubDate>Sat, 30 Mar 2013 11:16:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2013/2013-03-30-iterations-and-maven-not-possible/</guid>
+      <description>During my experiences with Maven I had a few moments where I wished having some kind of iterations to go over a list of whatever (servers, environments etc.).
+After some thinking about the problem i have decided to write my own plugin which will solve the problem. And now I have created such [plugin][github-iterator-maven-plugin]. Currently the plugin can be used by using it from the staging repository. After some feedback i will release it to Maven central.</description>
+    </item>
+    
+    <item>
+      <title>Ein Finaler Test eines Maven Builds</title>
+      <link>http://localhost:1313/blog/2012/2012-12-17-ein-finaler-test-eines-maven-builds/</link>
+      <pubDate>Mon, 17 Dec 2012 21:48:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-12-17-ein-finaler-test-eines-maven-builds/</guid>
+      <description>Bin in einem Artikel auf einen finalen Tests für einen Maven build aufmerksam geworden.</description>
+    </item>
+    
+    <item>
+      <title>Gradle Release 1.0</title>
+      <link>http://localhost:1313/blog/2012/2012-06-17-gradle-release-1-0/</link>
+      <pubDate>Sun, 17 Jun 2012 12:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-06-17-gradle-release-1-0/</guid>
+      <description>Gradle liegt nun in der Release 1.0. vor. Interessant ist, dass das Dependency Management bisher mitIvy abgehandelt wurde nun aber durch eine eigene Implementierung ersetzt wurde. Auch wurde ein erster Support für C++ Unterstützung integriert.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3.0.4 auf dem Weg...</title>
+      <link>http://localhost:1313/blog/2011/2011-12-06-maven-3-0-4-auf-dem-weg-/</link>
+      <pubDate>Tue, 06 Dec 2011 19:58:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-12-06-maven-3-0-4-auf-dem-weg-/</guid>
+      <description>Das Voting für Maven 3.0.4 läuft nun. Die Release Notes geben eine Übersicht über die Änderungen.
+Update: Das Voting für 3.0.4 wurde abgebrochen. Nun ist 3.0.4-RC3 auf dem Weg.. Update: Das hat ja auch gedauert&amp;hellip; Nun geht es in die Letzte Runde: Maven 3.0.4.</description>
+    </item>
+    
+    <item>
+      <title>Maven: Configuration For Multipe Environments - II</title>
+      <link>http://localhost:1313/blog/2011/2011-08-11-maven-configuration-for-multipe-environments-ii/</link>
+      <pubDate>Thu, 11 Aug 2011 09:41:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-08-11-maven-configuration-for-multipe-environments-ii/</guid>
+      <description>Based on a comment on my previous article i would like to show how to add dependencies to the generated artifacts depending on the environment.
+The most important problem is: How to get the different artifacts? If you have artifacts which are stored in a Maven Repository like Maven Central it is easy to get them. Just use the Maven Dependency Plugin to get the artifacts. This means you have to add the following to your pom file:</description>
+    </item>
+    
+    <item>
+      <title>Maven: Configuration For Multipe Environments</title>
+      <link>http://localhost:1313/blog/2011/2011-07-29-maven-configuration-for-multipe-environments/</link>
+      <pubDate>Fri, 29 Jul 2011 09:20:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-07-29-maven-configuration-for-multipe-environments/</guid>
+      <description>I have often heard that it is not possible to create a number of artifacts out of a single Maven module with different configurations. An example from the wild is to have a web-app (or whatever app) which should be running in development, test, q&amp;amp;a and production environment. So you need different configurations for the different environments for example the database connection or whatever. At first glance that seems to be a contradiction cause Maven&amp;rsquo;s paradigm is &amp;ldquo;One Module One Artifact&amp;rdquo;?</description>
+    </item>
+    
+    <item>
+      <title>Maven: Different Package Name based on project version</title>
+      <link>http://localhost:1313/blog/2011/2011-07-28-maven-different-package-name-based-on-project-version/</link>
+      <pubDate>Thu, 28 Jul 2011 14:21:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-07-28-maven-different-package-name-based-on-project-version/</guid>
+      <description>Sometimes you will get into trouble if you need to have different package names based on yours project version number? You think this nonsense? Ok&amp;hellip;Let&amp;rsquo;s give an example. If you are generating JAXB classes from appropriate XSD&amp;rsquo;s and you have different XSD versions which you have to make available? Ok. You will say simply make different versions etc. but the real problem arise if you need different XSD&amp;rsquo;s versions within the same project?</description>
+    </item>
+    
+    <item>
+      <title>Maven Unit and Integration Test Guide (MaUI Guide) started.</title>
+      <link>http://localhost:1313/blog/2011/2011-04-24-maven-unit-and-integration-test-guide-maui-guide-started/</link>
+      <pubDate>Sun, 24 Apr 2011 12:26:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-24-maven-unit-and-integration-test-guide-maui-guide-started/</guid>
+      <description>Based on often written requirements (mailing list, stackoverflow.com etc.) and an Jira entry i have decided to start a guide about unit- and integration tests. This guide is called Maven Unit- and Integration Test Guide (MaUI Guide for short) and the current state of development can be found on https://khmarbaise.github.com/maui/. The currently generated guide can be used as reference where you can read how to do unit- and/or integration testing. Of course if you find things unclear or would like to see supplemental things in there just file in a issue in the issue tracker of the github project.</description>
+    </item>
+    
+    <item>
+      <title>Gradle Reached Release 1.0 Milestone-2</title>
+      <link>http://localhost:1313/blog/2011/2011-04-24-gradle-reached-release-1-0-milestone-2/</link>
+      <pubDate>Sun, 24 Apr 2011 12:22:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-24-gradle-reached-release-1-0-milestone-2/</guid>
+      <description>The Gradle team has announced that Gradle has reached the Release 1.0-Milestone-2. The Release Notes give a more detailed overview what happened over the time.</description>
+    </item>
+    
+    <item>
+      <title>Hudson Release 2.0.0 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-04-22-hudson-release-2-0-0-erschienen/</link>
+      <pubDate>Fri, 22 Apr 2011 16:29:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-22-hudson-release-2-0-0-erschienen/</guid>
+      <description>Nun hat es Hudson geschafft und es gibt eine Release 2.0.0. Im ChangLog ist nachzulesen, welche Änderungen gemacht wurden.</description>
+    </item>
+    
+    <item>
+      <title>Artikel: Application Build and Continuous Integration Patterns</title>
+      <link>http://localhost:1313/blog/2011/2011-04-16-artikel-application-build-and-continuous-integration-patterns/</link>
+      <pubDate>Sat, 16 Apr 2011 20:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-16-artikel-application-build-and-continuous-integration-patterns/</guid>
+      <description>Habe auf infoq.com einen interessanten Artikel zum Thema Application Build and Continuous Integration Patterns gefunden.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3.0</title>
+      <link>http://localhost:1313/blog/2010/2010-10-07-maven-3-0/</link>
+      <pubDate>Thu, 07 Oct 2010 06:26:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-07-maven-3-0/</guid>
+      <description>Die Ankündigung für Maven 3.0 ist nun da. Jetzt heißt es nur noch warten bis die VOTES durch sind und es zur offiziellen Veröffentlichung von Maven 3.0 kommt. Das bedeutet jetzt einfach warten.  Update 08.10.2010: Maven 3 ist nun offiziell da!</description>
+    </item>
+    
+    <item>
+      <title>Lectures of the 4. Subversion Conference are online</title>
+      <link>http://localhost:1313/blog/2010/2010-09-29-lectures-of-the-4-subversion-conference-are-online/</link>
+      <pubDate>Wed, 29 Sep 2010 17:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-09-29-lectures-of-the-4-subversion-conference-are-online/</guid>
+      <description>The lectures about project management vs. build- and configuration management and the lecture about the Subversion Repository Search Engine are now online availabe.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3.0 - RC 2 - verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-09-23-maven-3-0-rc-2-verf%C3%A3gbar/</link>
+      <pubDate>Thu, 23 Sep 2010 09:05:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-09-23-maven-3-0-rc-2-verf%C3%A3gbar/</guid>
+      <description>Auf den Mailing Listen für Maven ist bekannt gegeben worden, dass ein zweiter Release Candidate von Maven 3.0 zur Verfügug steht. Es ist wichtig die kompatibilitäts Matrix zu beachten.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - Beta 3 Verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-09-03-maven-3-beta-3-verf%C3%A3gbar/</link>
+      <pubDate>Fri, 03 Sep 2010 08:53:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-09-03-maven-3-beta-3-verf%C3%A3gbar/</guid>
+      <description>Nach recht kurzer Zeit gibt es nun eine neue Beta Release von Maven 3, die vor allem dadurch sich von seinen Vorgängern unterscheidet, dass hier nun Guice als auch die Aether Bibliothek zum Einsatz kommt.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - Beta 2 Verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-08-11-maven-3-beta-2-verf%C3%A3gbar/</link>
+      <pubDate>Wed, 11 Aug 2010 09:53:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-11-maven-3-beta-2-verf%C3%A3gbar/</guid>
+      <description>Es ist nun so weit und eine neue Beta Release von Maven 3 ist nun verfügbar. Auf der Entwickler Liste war gestern Abend die Ankündigung zu lesen. Hier hat es eine ganze Menge Verbesserungen geben vor allem im Bezug auf Fehlerbehandlung wie z.B. doppelte execution-id&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - Repository API Library</title>
+      <link>http://localhost:1313/blog/2010/2010-08-05-maven-3-repository-api-library/</link>
+      <pubDate>Thu, 05 Aug 2010 08:45:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-05-maven-3-repository-api-library/</guid>
+      <description>Im Sonatype Blog ist zu lesen, dass es jetzt eine unabhängige Library gibt, um den Repository Zugriff aus Maven 3 verwenden zu können ohne Maven vollständig inkl. Plexus einzubinden zu müssen. Das bedeutet hier öffnen sich Türen, um weitere Tools aufbauend darauf zu erstellen. Das bedeutet auch, dass die Infrastruktur wie z.B. Maven Repositories (z.B. verwaltet mit einem Nexus Repository Manager o.ä.) als Grundlage zur Auflösung von Abhängigkeiten in anderen Applikationen und Anwendungen nutzbar werden.</description>
+    </item>
+    
+    <item>
+      <title>Maven - Mythbusters</title>
+      <link>http://localhost:1313/blog/2010/2010-05-21-maven-mythbusters/</link>
+      <pubDate>Fri, 21 May 2010 17:35:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-05-21-maven-mythbusters/</guid>
+      <description>Hier gibt es einige Mythbusters zu Maven, also beispielsweise das Maven automatisch für jeden Build updated oder Maven benötigt einen Internetverbindung, um ein Verzeichnis zu löschen.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - beta - 1 -- Released</title>
+      <link>http://localhost:1313/blog/2010/2010-04-23-maven-3-beta-1-released/</link>
+      <pubDate>Fri, 23 Apr 2010 16:38:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-23-maven-3-beta-1-released/</guid>
+      <description>Heute ist auf der User Mailing Liste bekannt gegeben worden, dass die erste Beta Release von Maven 3 zur Verfügung steht. Maven 3 ist kompatibel zu Maven 2 und somit sollte hier der Übergang recht einfach sein. Der Download ist über die Homepage von Maven zu erreichen.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3 - Alpha 3 Release </title>
+      <link>http://localhost:1313/blog/2009/2009-11-14-maven-3-alpha-3-release-/</link>
+      <pubDate>Sat, 14 Nov 2009 15:37:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-11-14-maven-3-alpha-3-release-/</guid>
+      <description>Es wurde auf der Entwicklungs Liste von Maven angekündigt, dass Maven 3 in der Alpha 3 Release zur Verfügung steht.</description>
+    </item>
+    
+    <item>
+      <title>Redmine Release 0.8.4 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-05-17-redmine-release-0-8-4-erschienen/</link>
+      <pubDate>Sun, 17 May 2009 16:36:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-17-redmine-release-0-8-4-erschienen/</guid>
+      <description>Es steht nun wieder eine aktualisierte Version von Redmine, dem Projekt Management Tool zur Verfügung. Das Change Log gibt genau darüber Auskunft was geändert bzw. verbessert wurde. Der Download steht über Rubyforge zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.2.0 RC1 Release erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-05-02-maven-2-2-0-rc1-release-erschienen/</link>
+      <pubDate>Sat, 02 May 2009 12:36:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-02-maven-2-2-0-rc1-release-erschienen/</guid>
+      <description>Es liegt einen neue Release 2.2.0 RC1 von Maven vor. Die Release Notes geben wieder eine Übersicht. Die zugehörigen Artefakte sind hier zu finden. Die Downloads für die binaries und für den Source codes stehen auch zur Verfügung. Es wichtig zu wissen, dass Maven 2.2.0 RC1 ein Java 1.5 JDK benötigt. Wenn Fehler beim Testen von 2.2.0 RC1 gefunden werden, wird darum gebeten diese hier mit afftects-version == 2.2.0 einzustellen. Die Ankündigung ist hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Maven: The Definitive Guide....nun auch in deutsch</title>
+      <link>http://localhost:1313/blog/2009/2009-01-27-maven-the-definitive-guide-nun-auch-in-deutsch/</link>
+      <pubDate>Tue, 27 Jan 2009 16:28:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-27-maven-the-definitive-guide-nun-auch-in-deutsch/</guid>
+      <description>Die Firma Sonatype hat in ihrem Blog bekannt gegeben, dass nun auch eine deutsche Version des Maven Buches Maven: The Definitive Guide in Arbeit ist.</description>
+    </item>
+    
+    <item>
+      <title>Maven: The Definitive Guide</title>
+      <link>http://localhost:1313/blog/2009/2009-01-10-maven-the-definitive-guide/</link>
+      <pubDate>Sat, 10 Jan 2009 22:00:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-10-maven-the-definitive-guide/</guid>
+      <description>Es gibt wieder eine aktualisiertere Ausgabe 0.21.0 des Maven Buches von Sonatype. Details zu den neuerungen findet man im Blog.</description>
+    </item>
+    
+    <item>
+      <title>Artifactory - Release 2.0</title>
+      <link>http://localhost:1313/blog/2009/2009-01-07-artifactory-release-2-0/</link>
+      <pubDate>Wed, 07 Jan 2009 10:46:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-07-artifactory-release-2-0/</guid>
+      <description>Das Artifactory Team hat bekannt gegeben, dass die neue Release 2.0 des Maven Repository Managers Artifactory zur Verfügung steht. Es stecken sechs Monate Entwicklungszeit in der neuen Release mit 400 gelösten Issues, wovon 170 neuen Features darstellen und über 450 Integrations Tests steht eine neue Major Release zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Release 1.1 - Nexus Repository Manager</title>
+      <link>http://localhost:1313/blog/2008/2008-11-07-release-1-1-nexus-repository-manager/</link>
+      <pubDate>Fri, 07 Nov 2008 15:16:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-07-release-1-1-nexus-repository-manager/</guid>
+      <description>Nexus hat bekannt gegeben, dass der Repository Manager in der Release 1.1. zur Verfügung steht.
+Die Release 1.1 stellt vornehmlich Verbesserungen der Architektur dar z.B. in der Form von ExtJs und Restlet Framework Upgrades. Dies ist die erste Version, die als WAR zur Verfügung steht.
+Der ChangeLog gibt darüber Auskunft was im einzelnen verbessert order korrigiert wurde. Im Download Bereich kann man die aktuelle Version herunter laden.
+Es wurde ein REST API zur Verfügung gestellt, die es ermöglicht Nexus per Rest anzusprechen.</description>
+    </item>
+    
+    <item>
+      <title>Apache Ivy - 2.0.0 RC2</title>
+      <link>http://localhost:1313/blog/2008/2008-11-06-apache-ivy-2-0-0-rc2/</link>
+      <pubDate>Thu, 06 Nov 2008 19:32:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-06-apache-ivy-2-0-0-rc2/</guid>
+      <description>Das Apache Ivy Projekt hat eine neue Release 2.0.0 RC2 des Dependency Management Systems heraus gebracht. Der Issue Tracker kann dazu benutzt werden Fehler zu berichten. Zu bekommen ist Ivy im Download Bereich. Die Ankündigung gibt weitere details als auch die Release Notes.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.1.0-M1 Released</title>
+      <link>http://localhost:1313/blog/2008/2008-09-19-maven-2-1-0-m1-released/</link>
+      <pubDate>Fri, 19 Sep 2008 11:04:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-09-19-maven-2-1-0-m1-released/</guid>
+      <description>Es ist nun eine neue Release von Maven rausgekommen. Die neue Release enthält eine ganze Menge Bug-Fixes und eine kleinere Menge neue Features:
+ MNG-2562 - eine neue Property mit der aktuellen Zeit MNG-3219 - Ein CLIRR/JarDiff Setup für 2.0.x und 3.0.x MNG-2576 - Make Artigert Reator Modus MNG-3675 - Zugriff auf Lifecycle List (LifecycleExecutor/DefaultLifecycleExecutor)  </description>
+    </item>
+    
+    <item>
+      <title>Maven 2 und Delivery Problem mit Tomcat</title>
+      <link>http://localhost:1313/blog/2008/2008-09-08-maven-2-und-delivery-problem-mit-tomcat/</link>
+      <pubDate>Mon, 08 Sep 2008 21:12:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-09-08-maven-2-und-delivery-problem-mit-tomcat/</guid>
+      <description>Mein Problem war, eine Lieferung in Form einer oder mehrerer Dateien aus einem Maven 2 getriebenen Projekt zu erstellen, dass eine Web-Applikation bzw. genauer gesagt ein Web-Service darstellt.  Mein erste Idee war, einfach ein Script zu schreiben, dass den lokal liegenden Tomcat auspackt und dort hinein den WAR-File entsprechend ablegt und das Ganze dann hoch fährt. Dabei muss man beachten, dass die Konfigurationsdateien des Tomcat enventuell noch anzupassen sind.   Nach einer Weile der Überlegung und einem Tipp aus der Maven-User-Mailing Liste (vielen Dank nochmal dafür), habe ich dann einfach den Ansatz verfolgt, die Abhängigkeiten des Tomcat per dependency in einer POM zu definieren und daraus ein zip/tar.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2 &#43; Hibernate3 PlugIn</title>
+      <link>http://localhost:1313/blog/2008/2008-08-30-maven-2-hibernate3-plugin/</link>
+      <pubDate>Sat, 30 Aug 2008 14:06:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-30-maven-2-hibernate3-plugin/</guid>
+      <description>Tja ich habe mich ein wenig mit Maven und dem Hibernate3 PlugIn beschäftigt. Mit dem Hibernate3 PlugIn für Maven ist es sehr einfach aus Java POJO&amp;rsquo;s entsprechende SQL Scripte (DDL) zu erzeugen. Das bedeutet, man muss das nicht mehr mit Hand machen.</description>
+    </item>
+    
+    <item>
+      <title>Apache Archiva 1.1 Released</title>
+      <link>http://localhost:1313/blog/2008/2008-07-20-apache-archiva-1-1-released/</link>
+      <pubDate>Sun, 20 Jul 2008 13:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-20-apache-archiva-1-1-released/</guid>
+      <description>Das Apache Archiva Team gibt bekannt, dass die neue Release 1.1. nun zur Verfügung steht. Die genauen Änderungen lassen sich in den Release Notes nach lesen.</description>
+    </item>
+    
+    <item>
+      <title>Maven: The Definitive Guide - Alpha 0.12</title>
+      <link>http://localhost:1313/blog/2008/2008-06-06-maven-the-definitive-guide-alpha-0-12/</link>
+      <pubDate>Fri, 06 Jun 2008 11:11:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-06-maven-the-definitive-guide-alpha-0-12/</guid>
+      <description>Die Firmat Sonatype, Inc hat eine neue Alpha Release des Maven 2 Buches Maven: The Definitive Guide veröffentlicht. Das Buch liegt sowohl als HTML als auch als PDF vor.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.9</title>
+      <link>http://localhost:1313/blog/2008/2008-04-10-maven-2-0-9/</link>
+      <pubDate>Thu, 10 Apr 2008 23:14:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-10-maven-2-0-9/</guid>
+      <description>Es gibt wieder eine neue Release von Maven 2. Die Release Notes geben wieder genau aufschluss, was alles geändert wurde. Es gibt auch eine Roadmap für die Release 2.0.10.</description>
+    </item>
+    
+    <item>
+      <title>Apache Ivy Project - Release 2.0.0 Beta 1</title>
+      <link>http://localhost:1313/blog/2007/2007-12-17-apache-ivy-project-release-2-0-0-beta-1/</link>
+      <pubDate>Mon, 17 Dec 2007 20:58:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-17-apache-ivy-project-release-2-0-0-beta-1/</guid>
+      <description>Das Apache Ivy Projekt hat bekannt gegeben, dass die Release 2.0.0 Beta 1 verfügbar ist. Ivy ist dazu da, Abhängigkeiten etc. innerhalb des Build Tools Ant zu aufzu zeichnen, zu lösen und zu verwalten. Das Ivy Team begrüßt jeden, der das Release ausprobiert und entsprechende Fehler Berichte abgibt.
+Die Haupt Features sind: + Verbesserung der Maven 2 kompatibilität + Verbesserung der Nebenläufigkeit unterstützt durch Cache-Locking und atomares Veröffentlichen + Alle Tutorials sind überarbeitet worden, um die Änderungen für das Release 2.</description>
+    </item>
+    
+    <item>
+      <title>Ant ohne XML</title>
+      <link>http://localhost:1313/blog/2007/2007-10-28-ant-ohne-xml/</link>
+      <pubDate>Sun, 28 Oct 2007 21:34:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-28-ant-ohne-xml/</guid>
+      <description>Unter den Namen Virtual Ant  ist ein Tool veröffentlicht worden. Damit soll verhindert werden, dass man sich die Hände noch mit XML Dateien schmutzig machen muss. Virtual Ant behauptet so intuitiv ist, dass man keine Anleitungen mehr lesen muss. Die Ant Scripts werden innerhlab eines virtuellen Dateisystems ausgeführt ähnlich dem File Explorer von Windows.</description>
+    </item>
+    
+    <item>
+      <title>Continuum 1.1. beta 2</title>
+      <link>http://localhost:1313/blog/2007/2007-08-17-continuum-1-1-beta-2/</link>
+      <pubDate>Fri, 17 Aug 2007 18:38:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-17-continuum-1-1-beta-2/</guid>
+      <description>Das Build System Continuum liegt nun in einer überarbeiteten neuen Version vor. Die Änderungen werden im ChangeLog dokumentiert.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.7</title>
+      <link>http://localhost:1313/blog/2007/2007-06-21-maven-2-0-7/</link>
+      <pubDate>Thu, 21 Jun 2007 23:53:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-21-maven-2-0-7/</guid>
+      <description>Das Apache Maven Team hat einen neue Release des Build Tools Maven. Die Binaries die Release Notes beschreiben die Änderungen und die weitere Roadmap gibt darüber Auskunft wie es weiter geht.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.6 is released.</title>
+      <link>http://localhost:1313/blog/2007/2007-04-01-maven-2-0-6-is-released-/</link>
+      <pubDate>Sun, 01 Apr 2007 20:21:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-04-01-maven-2-0-6-is-released-/</guid>
+      <description>Es gibt eine neue Version von Maven, dem Build Tool. Die aktuellste Version kann unter Maven Download herunter geladen werden. Die Release Notes geben genaue Auskunft über die Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Maven 2.0.5</title>
+      <link>http://localhost:1313/blog/2007/2007-02-28-maven-2-0-5/</link>
+      <pubDate>Wed, 28 Feb 2007 07:26:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-28-maven-2-0-5/</guid>
+      <description>Am 14.02. ist eine neue Release des Build Management Tools Maven erschienen.</description>
+    </item>
+    
+  </channel>
+</rss>

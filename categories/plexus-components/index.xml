@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plexus-Components on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/plexus-components/</link>
+    <description>Recent content in Plexus-Components on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Jun 2018 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/plexus-components/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plexus Codehaus: Plexus Interpolation Version 1.25 Released</title>
+      <link>http://localhost:1313/blog/2018/06/2018-06-02-plexus-interpolation-version-1-dot-25-released/</link>
+      <pubDate>Sat, 02 Jun 2018 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/06/2018-06-02-plexus-interpolation-version-1-dot-25-released/</guid>
+      <description>The Codehaus Plexus team is pleased to announce the release of the Plexus Interpolation Version 1.25
+Plexus interpolator is the outgrowth of multiple iterations of development focused on providing a more modular, flexible interpolation framework for the expression language style commonly seen in Maven, Plexus, and other related projects.
+It has its foundation in the org.codehaus.plexus.utils.interpolation package within plexus-utils, but has been separated in order to allow these two libraries to vary independently of one another.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/test/</link>
+    <description>Recent content in Test on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Dec 2012 21:48:33 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ein Finaler Test eines Maven Builds</title>
+      <link>http://localhost:1313/blog/2012/2012-12-17-ein-finaler-test-eines-maven-builds/</link>
+      <pubDate>Mon, 17 Dec 2012 21:48:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-12-17-ein-finaler-test-eines-maven-builds/</guid>
+      <description>Bin in einem Artikel auf einen finalen Tests für einen Maven build aufmerksam geworden.</description>
+    </item>
+    
+    <item>
+      <title>Coderetreat?</title>
+      <link>http://localhost:1313/blog/2012/2012-09-02-coderetreat/</link>
+      <pubDate>Sun, 02 Sep 2012 12:29:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-09-02-coderetreat/</guid>
+      <description>I have shared the first time a coderetreat which was a really amazing thing in particular in seeing how different people going to solve a problem and for myself it was a really a good experience that sometimes the first (obvious) thought about how to solve a problem is not the best way. One thing which was weird to me to delete all written code after every session. But after the first time it helps to get the head clean and start from scratch for the next session.</description>
+    </item>
+    
+    <item>
+      <title>TDD and Code Coverage</title>
+      <link>http://localhost:1313/blog/2012/2012-04-19-tdd-and-code-coverage/</link>
+      <pubDate>Thu, 19 Apr 2012 10:22:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-04-19-tdd-and-code-coverage/</guid>
+      <description>I have found an interessting article of Martin Fowler about Code Coverage and testing.</description>
+    </item>
+    
+    <item>
+      <title>Maven Unit and Integration Test Guide (MaUI Guide) started.</title>
+      <link>http://localhost:1313/blog/2011/2011-04-24-maven-unit-and-integration-test-guide-maui-guide-started/</link>
+      <pubDate>Sun, 24 Apr 2011 12:26:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-04-24-maven-unit-and-integration-test-guide-maui-guide-started/</guid>
+      <description>Based on often written requirements (mailing list, stackoverflow.com etc.) and an Jira entry i have decided to start a guide about unit- and integration tests. This guide is called Maven Unit- and Integration Test Guide (MaUI Guide for short) and the current state of development can be found on https://khmarbaise.github.com/maui/. The currently generated guide can be used as reference where you can read how to do unit- and/or integration testing. Of course if you find things unclear or would like to see supplemental things in there just file in a issue in the issue tracker of the github project.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE - Performance Optimierung - 0.7.1 Linie</title>
+      <link>http://localhost:1313/blog/2010/2010-08-08-supose-performance-optimierung-0-7-1-linie/</link>
+      <pubDate>Sun, 08 Aug 2010 18:24:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-08-supose-performance-optimierung-0-7-1-linie/</guid>
+      <description>Die Optimierung die ich im Ersten Schritt in SupoSE vorgenommen hatte wahren ja schon recht erfolgreich.
+Von 5 Tagen auf unter 24 Stunden ist ja schon was und gleichzeitig noch den Speicherbedarf reduziert. Aber das war mir noch nicht genug. Also habe ich nochmal nachgedacht was man da denn noch machen kann. Da das Scannen des Repositories ja anhand der Revisionnummern vorgenommen wird war der Schritt in Richtung von Blöcken a 10.</description>
+    </item>
+    
+    <item>
+      <title>Vorbereitungen für einen Test mit SupoSE</title>
+      <link>http://localhost:1313/blog/2010/2010-05-04-vorbereitungen-fuer-einen-test-mit-supose/</link>
+      <pubDate>Tue, 04 May 2010 21:41:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-05-04-vorbereitungen-fuer-einen-test-mit-supose/</guid>
+      <description>Im Rahmen der Test Vorbereitungen für SupoSE wollte ich mir eine großes Repository besorgen, damit ich mal das Verhalten mit einem &amp;ldquo;richtigen&amp;rdquo; repository testen kann und auch mal ein paar Anhaltspunkte für Zeiten bzgl. eines entsprechenden Repositories bekomme. 
+Danke der netten Mithilfe der Apache Software Foundation, gibt es die einfache Möglichkeit einen Vollständigen Dump des Repositories zu erhalten, da ich nicht mit einem svnsync arbeiten wollte, da das zu große kontinuierliche Last erzeugt hätte.</description>
+    </item>
+    
+    <item>
+      <title>Hibernate Annotations: Eigene Sequenzen pro Klasse bei Vererbung</title>
+      <link>http://localhost:1313/blog/2008/2008-07-11-hibernate-annotations-eigene-sequenzen-pro-klasse-bei-vererbung/</link>
+      <pubDate>Fri, 11 Jul 2008 20:35:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-11-hibernate-annotations-eigene-sequenzen-pro-klasse-bei-vererbung/</guid>
+      <description>Bei der Arbeit mit Hibernate tritt häufiger das Problem auf, dass man bei vererbten Klassen pro Tabelle eine eigene Sequence (z.B. in Oracle) verwenden möchte bzw. muß. Man kann selbstverständlich die Id in jede Klasse packen und dort dann die entsprechenden Annotierungen anbringen. Das ist aber schlicht und ergreifend lässtig und wiederspricht dem OO Prinzip. Wenn man nun konsequent mit Vererbung arbeitet, ergibt es sich, dass meist eine Basis-Klasse entsteht und dort das Id Attribut enthalten ist.</description>
+    </item>
+    
+  </channel>
+</rss>

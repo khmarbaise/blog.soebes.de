@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darcs on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/darcs/</link>
+    <description>Recent content in Darcs on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Oct 2008 10:08:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/darcs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>darcs 2.1.0 - Releases</title>
+      <link>http://localhost:1313/blog/2008/2008-10-23-darcs-2-1-0-releases/</link>
+      <pubDate>Thu, 23 Oct 2008 10:08:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-23-darcs-2-1-0-releases/</guid>
+      <description>Auf der User Mailing liste ist bekannt gegeben worden, dass es eine neue Release von darcs, dem verteilten Versionskontroll System zur Verfügung steht. In der Ankündigung ist auch der ChangeLog enthalten, um eine Übersicht über die Änderungen zu erhalten.</description>
+    </item>
+    
+  </channel>
+</rss>

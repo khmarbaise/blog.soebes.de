@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continious Delivery on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/continious-delivery/</link>
+    <description>Recent content in Continious Delivery on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 Aug 2018 17:15:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/continious-delivery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous Delivery with Maven</title>
+      <link>http://localhost:1313/blog/2018/08/2018-08-26-ci-delivery-with-maven/</link>
+      <pubDate>Sun, 26 Aug 2018 17:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/08/2018-08-26-ci-delivery-with-maven/</guid>
+      <description>Based on todays requirements it is needed to do a continuous delivery of your artifacts by each change on your master (Git)/trunk(SVN). The question is what you need to achieve this with Maven?
+Usually you are using so called SNAPSHOT versions which means your version looks like 1.2.3-SNAPSHOT and indicates that you are currently working towards the release version 1.2.3. Afterwards you continue with the next snapshot version like 1.2.4-SNAPSHOT and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

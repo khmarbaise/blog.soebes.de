@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='So based on my passion as open source developer in particular for the Apache Maven Project. I work JIRA based which helps us and myself to organize our work and of course follow the reported issues, feature request etc.
+So usually I start my work based on a particular issue in JIRA and go via the following process:
+The process  Create an issue for myself (if already existing move to step 2) Create a branch within the appropriate project based on the issue Assign the issue to myself Migrate the issue into the state of IN PROGRESS Do some work on the branch and commit Push the branch to remote and let Jenkins check the branch repeat with Step 5 until I finished my work.'>
+<meta name='theme-color' content='#6699cc'>
+
+<meta property='og:title' content='Automate it - Be Lazy - Part I • Karl Heinz Marbaise'>
+<meta property='og:description' content='So based on my passion as open source developer in particular for the Apache Maven Project. I work JIRA based which helps us and myself to organize our work and of course follow the reported issues, feature request etc.
+So usually I start my work based on a particular issue in JIRA and go via the following process:
+The process  Create an issue for myself (if already existing move to step 2) Create a branch within the appropriate project based on the issue Assign the issue to myself Migrate the issue into the state of IN PROGRESS Do some work on the branch and commit Push the branch to remote and let Jenkins check the branch repeat with Step 5 until I finished my work.'>
+<meta property='og:url' content='http://localhost:1313/blog/2018/07/2018-07-21-automate-it-part-i/'>
+<meta property='og:site_name' content='A coders, hackers heaven.....Hm...I do not think so...'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/d9cd3f93adbfb7d88eb68f903aa22a51?s=256'><meta property='article:section' content='Blog'><meta property='article:published_time' content='2018-07-21T10:00:00Z'/><meta property='article:modified_time' content='2018-07-21T10:00:00Z'/><meta name='twitter:card' content='summary'><meta name='twitter:creator' content='@khmarbaise'>
+
+<meta name="generator" content="Hugo 0.40.3" />
+
+  <title>Automate it - Be Lazy - Part I • Karl Heinz Marbaise</title>
+  <link rel='canonical' href='http://localhost:1313/blog/2018/07/2018-07-21-automate-it-part-i/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.67e9c12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6699cc;}
+</style>
+
+</head>
+
+
+<body class='page type-blog layout-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div>
+      <img class="soebeslogo" src='/images/weblogo.gif'>
+    </div>
+    
+    <h2 class='title site-title '>
+     
+    </h2>
+    <div class='desc'>
+    
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul><li class='item'>
+        <a href='/impressum/'>Impressum</a>
+      </li><li class='item'>
+        <a href='/categories/'>Categories</a>
+      </li><li class='item'>
+        <a href='/categories/'>Maven</a>
+      </li><li class='item'>
+        <a href='/categories/maven-best-practice/'>Maven Best Practices</a>
+      </li></ul>
+  </div>
+</nav>
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>A coders, hackers heaven.....Hm...I do not think so...</p><p class='desc site-desc'></p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Automate it - Be Lazy - Part I</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2018-07-21T10:00:00Z'>2018, Jul 21</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/khmarbaise'>Karl Heinz Marbaise</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+4 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  
+
+<p>So based on my passion as open source developer in particular for
+the <a href="https://maven.apache.org" target="_blank">Apache Maven Project</a>. I work <a href="https://issues.apache.org/jira/secure/BrowseProjects.jspa?selectedCategory=10510&amp;selectedProjectType=all" target="_blank">JIRA based</a>
+which helps us and myself to organize our work and of course follow
+the reported issues, feature request etc.</p>
+
+<p>So usually I start my work based on a particular issue in JIRA and go via
+the following process:</p>
+
+<h2 id="the-process">The process</h2>
+
+<ol>
+<li>Create an issue for myself (if already existing move to step 2)</li>
+<li>Create a branch within the appropriate project based on the issue</li>
+<li>Assign the issue to myself</li>
+<li>Migrate the issue into the state of <code>IN PROGRESS</code></li>
+<li>Do some work on the branch and commit</li>
+<li>Push the branch to remote and let <a href="https://builds.apache.org/view/M-R/view/Maven/job/maven-box/job/maven-clean-plugin/" target="_blank">Jenkins check the branch</a>
+repeat with Step 5 until I finished my work.</li>
+<li>Rebase against master if needed</li>
+<li>Merge the created branch into master
+and delete the remote and local branch.</li>
+<li>Close the appropriate jira issue with a reference to the
+commit in comment.</li>
+</ol>
+
+<!-- more -->
+
+<p>Let us take a look at a real life example. The exemplary issue is
+<a href="https://issues.apache.org/jira/browse/MCLEAN-87" target="_blank">MCLEAN-87</a> which has been worked on and commited with an
+appropriate commit message which should look like the following:</p>
+
+<pre><code>[JIRA-ISSUE] - Summary Text
+Optional description
+</code></pre>
+
+<p>So the real life <a href="https://gitbox.apache.org/repos/asf?p=maven-clean-plugin.git;a=commitdiff;h=c6eed44352c9ab623836a9329b7645dbb61413bc" target="_blank">commit looks like this</a>:</p>
+
+<pre><code>commit c6eed44352c9ab623836a9329b7645dbb61413bc (HEAD -&gt; master, origin/master, m/master)
+Author: Karl Heinz Marbaise &lt;khmarbaise@apache.org&gt;
+Date:   Sat Jul 21 18:00:20 2018 +0200
+
+    [MCLEAN-87] - Upgrade maven-plugins parent to version 32
+</code></pre>
+
+<p>If you take a look at the list of process steps, it is a huge number of steps.
+Unfortunately many of the steps are manual steps which is time consuming
+and error-prone.</p>
+
+<p>So about four or five months ago I started to automate/simplifying some steps
+of the above process.</p>
+
+<h2 id="automation-step-1">Automation Step 1</h2>
+
+<p>In process step 6 while I was working on a branch
+I have to push the current state of the branch over and over again
+to remote and let Jenkins check if everything is going fine.
+Furthermore it could be that I need to rebase this branch
+against master which has to be followed by a <code>git push --force BRANCH</code>
+but a <code>--force</code> is <a href="https://developer.atlassian.com/blog/2015/04/force-with-lease/" target="_blank">very dangerous</a> which means I have to use
+<code>git push --force-with-lease BRANCH</code> instead. I already have a bash
+completion for git running which safes a lot of typing but I would
+like to make it more comfortable.</p>
+
+<p>So I started to write a bash script which
+comprises of the following steps:</p>
+
+<ol>
+<li>Check if we are on a branch just to be sure.</li>
+<li>Get the branch name</li>
+<li><code>git push origin --force-with-lease BRANCH</code></li>
+</ol>
+
+<p>So this means in the end I simply <a href="https://github.com/khmarbaise/automation-scripts/blob/f82324c08079df49cfdeb60539492b778c5f7445/gitpushwithlease.sh" target="_blank">call the script</a>:</p>
+
+<pre><code>$ gitpushwithlease.sh
+</code></pre>
+
+<p>The first step of automation accomplished which means a little bit improvement
+but not enough.</p>
+
+<h2 id="automation-step-2">Automation Step 2</h2>
+
+<p>So after a time working with that I thought about process step 8 wich is really
+much typing and error-prone. Let me summarize the steps:</p>
+
+<ol>
+<li>check if we are on a branch</li>
+<li>get the branch name</li>
+<li>checkout master</li>
+<li>merge the branch only if a fast forward is possible fail otherwise</li>
+<li>push changes to remote master</li>
+<li>delete the remote branch</li>
+<li>delete the local branch</li>
+</ol>
+
+<p>The result was my <a href="https://github.com/khmarbaise/automation-scripts/blob/5e3545d17805ab768edcafd89c4ba1e76af8b82e/gitmergeandclean.sh" target="_blank">gitmergeandclean.sh</a> script which I
+use like the following:</p>
+
+<pre><code>$ gitmergeandclean.sh
+</code></pre>
+
+<p>The output looks like this:</p>
+
+<pre><code>~/ws-git-maven/plugins/maven-clean-plugin (MCLEAN-87)$ gitmergeandclean.sh
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+Updating 19b981e..c6eed44
+Fast-forward
+ pom.xml | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+Total 0 (delta 0), reused 0 (delta 0)
+remote: Sending notification emails to: ['&quot;commits@maven.apache.org&quot; &lt;commits@maven.apache.org&gt;']
+remote: To git@github:apache/maven-clean-plugin.git
+remote:    19b981e..c6eed44  c6eed44352c9ab623836a9329b7645dbb61413bc -&gt; master
+remote: Syncing refs/heads/master...
+To https://gitbox.apache.org/repos/asf/maven-clean-plugin.git
+   19b981e..c6eed44  master -&gt; master
+remote: Sending notification emails to: ['&quot;commits@maven.apache.org&quot; &lt;commits@maven.apache.org&gt;']
+remote: To git@github:apache/maven-clean-plugin.git
+remote:  - [deleted]         MCLEAN-87
+remote: Syncing refs/heads/MCLEAN-87 (FORCED)...
+To https://gitbox.apache.org/repos/asf/maven-clean-plugin.git
+ - [deleted]         MCLEAN-87
+Deleted branch MCLEAN-87 (was c6eed44). 
+</code></pre>
+
+<p>The second step of automation accomplished which means more improvement
+but not enough.</p>
+
+<h2 id="automation-step-3">Automation Step 3</h2>
+
+<p>If I work on a branch I often do several commits on it until
+I think I am done. The result is a branch which contains 5, 6 or more
+commits which should be squashed into a single commit with a
+good commit message and a reference to the issue I am working on.</p>
+
+<p>This can be done <a href="https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_squashing" target="_blank">manually and interactive</a> via the following steps:</p>
+
+<ol>
+<li>Count the number of commits you would like to squash</li>
+<li>git rebase -i HEAD~NUMBEROFCOMMIT</li>
+<li>Going through the editor and replace <code>pick</code> with <code>s</code> for squash.</li>
+<li>Safe and rewrite the commit message.</li>
+</ol>
+
+<p>(I assume I have missed something).
+So this was really cumbersome. So I decided to find a scripted way to handle that.
+After some experiments I found a solution which results in my <a href="https://github.com/khmarbaise/automation-scripts/blob/4ecc12d800603d5538564c64cbd9513aa907e3b8/gitrebasebranch.sh" target="_blank">gitrebasebranch.sh script</a></p>
+
+<pre><code>$ gitrebasebranch.sh
+</code></pre>
+
+<p>and in the editor I only rework the commit message. That&rsquo;s it. After this I can
+do:</p>
+
+<pre><code>$ gitpushwithlease.sh
+</code></pre>
+
+<p>The third step of automation accomplished which means more improvement
+but not enough.</p>
+
+<p>The story will be continued in my next post.</p>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/maven'>Maven</a>, <a class='category' href='/categories/automation'>Automation</a>, <a class='category' href='/categories/devops'>DevOps</a>, <a class='category' href='/categories/programming'>Programming</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/blog/2018/07/2018-07-20-apache-maven-parent-pom-version-32-released/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Apache Maven Parent POM Version 32 Released</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/blog/2018/07/2018-07-29-apache-maven-compiler-plugin-version-3-dot-8-0-released/'>
+        <span class='screen-reader-text'>Next post: </span>Apache Maven Compiler Plugin Version 3.8.0 Released<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:info@soebes.de' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://gitlab.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Gitlab account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/karl-heinz-marbaise-17a15614' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+  <rect x="2" y="9" width="4" height="12"/>
+  <circle cx="4" cy="4" r="2"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+          <div class='copyright'>
+  <p>SoEBeS &copy; 2004-2019 SoftwareEntwicklung Beratung Schulung </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.0d92f56c.js'></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+
+</html>
+

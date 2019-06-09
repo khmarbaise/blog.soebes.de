@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maven-JXR-Plugin on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/maven-jxr-plugin/</link>
+    <description>Recent content in Maven-JXR-Plugin on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 25 Sep 2018 22:15:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/maven-jxr-plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Maven JXR Plugin Version 3.0.0 Released</title>
+      <link>http://localhost:1313/blog/2018/09/2018-09-25-apache-maven-jxr-plugin-version-3-dot-0-0-released/</link>
+      <pubDate>Tue, 25 Sep 2018 22:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/09/2018-09-25-apache-maven-jxr-plugin-version-3-dot-0-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven JXR, version 3.0.0.
+This module generates browsable HTML pages from Java source code.
+You should specify the version in your project&amp;rsquo;s plugin configuration:
+&amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.plugins&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-jxr-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.0.0&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt; NOTE: Special thanks for the contributions retrieved during the hackathon at JCreate.
+Release Notes - Maven JXR - Version 3.0.0
+Bugs:
+ JXR-68 - ignores classes with same name in other packages JXR-98 - Nested classes aren&amp;rsquo;t linked correctly JXR-100 - Method declaration: using spaces before or after parenthesis prevents cross references generation JXR-126 - File write using platform default encoding JXR-135 - Invalid representation of inner class JXR-140 - Proper URL handling  Improvements:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven JXR Plugin Version 2.5 Released</title>
+      <link>http://localhost:1313/blog/2014/11/2014-11-05-apache-maven-jxr-version-2-dot-5-released/</link>
+      <pubDate>Wed, 05 Nov 2014 22:22:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/11/2014-11-05-apache-maven-jxr-version-2-dot-5-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven JXR, version 2.5.
+This module generates browsable HTML pages from Java source code.
+You should specify the version in your project&amp;rsquo;s plugin configuration:
+&amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.plugins&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-jxr-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;2.5&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt; Release Notes - Maven JXR - Version 2.5
+Bug:
+ JXR-122 - apache-rat-plugin Configuration for DEPENDENCIES file.  Improvements:
+ JXR-111 - Upgrade to Maven 2.2.1 compatiblity JXR-112 - Update version of plexus-utils to 3.</description>
+    </item>
+    
+  </channel>
+</rss>

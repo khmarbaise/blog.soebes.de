@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/android/</link>
+    <description>Recent content in Android on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Jun 2015 18:48:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android Maven Plugin Version 4.3.0 Released</title>
+      <link>http://localhost:1313/blog/2015/06/2015-06-16-android-maven-plugin-version-4-dot-3-0-released/</link>
+      <pubDate>Tue, 16 Jun 2015 18:48:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/06/2015-06-16-android-maven-plugin-version-4-dot-3-0-released/</guid>
+      <description>The Android Maven Plugin team is pleased to announce the release of version 4.3.0 of the plugin:
+&amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;com.simpligility.maven.plugins&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;android-maven-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;4.3.0&amp;lt;/version&amp;gt; &amp;lt;extensions&amp;gt;true&amp;lt;/extensions&amp;gt; &amp;lt;/plugin&amp;gt; New features/bug fixes for the specific release are
+ Fixed processing of duplicate resources from dependencies Ability to choose the build tools version Added x86_64 and mips64 architectures to NDK support Migrated rest of the Google Code project content into site content - the old site is now defunct and deleted  We would like to thank the contributors to this release for their valuable help and invite you all to help us out as well:</description>
+    </item>
+    
+  </channel>
+</rss>

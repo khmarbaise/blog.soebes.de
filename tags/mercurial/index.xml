@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercurial on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/mercurial/</link>
+    <description>Recent content in Mercurial on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Aug 2010 18:55:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/mercurial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mercurial 1.6.3 - TortoiseHG - 1.1.3 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-08-29-mercurial-1-6-3-tortoisehg-1-1-3-erschienen/</link>
+      <pubDate>Sun, 29 Aug 2010 18:55:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-29-mercurial-1-6-3-tortoisehg-1-1-3-erschienen/</guid>
+      <description>Es gibt eine neue Release von Mercurial und eine neue Release von TortoiseHG.  Die entsprechenden Release Notes von Mercurial als auch TortoiseHg geben entsprechende Auskunft über die Verschiedenen Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseHG 1.1 (Mercurial 1.6) erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-07-06-tortoisehg-1-1-mercurial-1-6-erschienen/</link>
+      <pubDate>Tue, 06 Jul 2010 19:42:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-07-06-tortoisehg-1-1-mercurial-1-6-erschienen/</guid>
+      <description>Es gibt eine neue Release von TortoiseHG. Die Release Notes geben über die Release Neuigkeiten auskunft. Informationen über die verwendete Mercurial Release 1.6 sind hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseHG - 1.0 (Mercurial 1.5) - erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-03-06-tortoisehg-1-0-mercurial-1-5-erschienen/</link>
+      <pubDate>Sat, 06 Mar 2010 22:13:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-06-tortoisehg-1-0-mercurial-1-5-erschienen/</guid>
+      <description>Es ist nun eine neue Release von TortoiseHG verfügbar. Die Informationen zu Mercurial 1.5 sind in den Release Notes von Merurial zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Artikel über verschiedene VCS</title>
+      <link>http://localhost:1313/blog/2010/2010-02-24-artikel-%C3%A3ber-verschiedene-vcs/</link>
+      <pubDate>Wed, 24 Feb 2010 12:57:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-24-artikel-%C3%A3ber-verschiedene-vcs/</guid>
+      <description>Bin gerade über einen interessanten Artikel von Martin Fowler gestolpert, der sich dem Thema der unterschiedlichen Versionskontrollsystem widmet.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.3.1 und TortoiseHg 0.8.1</title>
+      <link>http://localhost:1313/blog/2009/2009-07-29-mercurial-1-3-1-und-tortoisehg-0-8-1/</link>
+      <pubDate>Wed, 29 Jul 2009 09:29:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-29-mercurial-1-3-1-und-tortoisehg-0-8-1/</guid>
+      <description>Es ist eine neue Bug Fix Release von Mercurial erschienen. Eine Übersicht über Mercurial selbst gibt die Homepage. Es ist noch zu bemereken, dass TortoiseHg auch upgedated wurde und hier sind auch die Release Notes zur Release 0.8.1 zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.3 und TortoiseHg 0.8 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-07-12-mercurial-1-3-und-tortoisehg-0-8-erschienen/</link>
+      <pubDate>Sun, 12 Jul 2009 13:55:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-12-mercurial-1-3-und-tortoisehg-0-8-erschienen/</guid>
+      <description>Es ist eine neue Release von Mercurial erschienen. Ein wichtiger Punkt ist, dass Python 2.3 nicht mehr unterstützt wird. Es wird jetzt mindestens 2.4 voraus gesetzt und vieles mehr. Wichtig ist bei Nutzung vorheriger Versionen einen Blick in das Upgrade Guide zu werfen. Eine Übersicht über Mercurial selbst gibt die Homepage. Es ist noch zu bemereken, dass TortoiseHg auch upgedated wurde und hier sind auch die Release Notes zu beachten.</description>
+    </item>
+    
+    <item>
+      <title>Vergleich von SVN mit Git, Bazaar, Mercurial</title>
+      <link>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</link>
+      <pubDate>Wed, 04 Feb 2009 20:05:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</guid>
+      <description>Habe durch zufall einen interessanten Vergleich von Git, Bazaar und Mercurial mit SVN gefunden.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.1.2</title>
+      <link>http://localhost:1313/blog/2009/2009-01-15-mercurial-1-1-2/</link>
+      <pubDate>Thu, 15 Jan 2009 12:32:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-15-mercurial-1-1-2/</guid>
+      <description>Das Mercurial Team hat bekannt gegeben, dass die neue Bug Fix Release Version 1.1.2 zur Verfügung steht. Sie bringt eine Erweiterung und einen Bug Fix. Genauere Information kann man im Change Log nach lesen.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial - Bug Fix Release 1.1.1 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-12-22-mercurial-bug-fix-release-1-1-1-erschienen/</link>
+      <pubDate>Mon, 22 Dec 2008 12:32:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-22-mercurial-bug-fix-release-1-1-1-erschienen/</guid>
+      <description>Das Mercurial Team hat bekannt gegeben, dass die neue Bug Fix Release Version 1.1.1 zur Verfügung steht. Sie bringt einige erweiterungen und vor allem aber Korrekturen.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.0.2 / TortoiseHg 0.4.1</title>
+      <link>http://localhost:1313/blog/2008/2008-08-29-mercurial-1-0-2-tortoisehg-0-4-1/</link>
+      <pubDate>Fri, 29 Aug 2008 18:30:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-29-mercurial-1-0-2-tortoisehg-0-4-1/</guid>
+      <description>Es ist eine Bug Fix Release mit zwei Sicherheits Fixes von Mercurial erschienen. Die Übersicht über die Änderung beschreibt welche Details geändert wurden. Zusätzlich ist noch der TortoiseHg in der Release 0.4.1 erschienen.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 1.0.0 Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-29-mercurial-1-0-0-erschienen/</link>
+      <pubDate>Sat, 29 Mar 2008 13:42:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-29-mercurial-1-0-0-erschienen/</guid>
+      <description>Es ein Major Update von Mercurial, der verteilten Versionskontrolle. In den neuerungen ist nach zu lesen was es neues gibt. Die Ankündigung gibt es hier.</description>
+    </item>
+    
+    <item>
+      <title>A Google Tech Talk by Bryan O&#39;Sullivan, on Mercurial VCS.</title>
+      <link>http://localhost:1313/blog/2007/2007-07-01-a-google-tech-talk-by-bryan-osullivan-on-mercurial-vcs/</link>
+      <pubDate>Sun, 01 Jul 2007 21:52:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-01-a-google-tech-talk-by-bryan-osullivan-on-mercurial-vcs/</guid>
+      <description>Ein technischer Vortrag über Mercurial und ein weiterer über die Erweiterung von Mercurial.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial 0.9.4</title>
+      <link>http://localhost:1313/blog/2007/2007-06-26-mercurial-0-9-4/</link>
+      <pubDate>Tue, 26 Jun 2007 09:24:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-26-mercurial-0-9-4/</guid>
+      <description>Es gibt eine neue Release von Mercurial. Die Version unterstützt symbolische Linkes. Die Handhabung der Tags ist verbessert worden. Das Mergen von Verzeichnis- und Datei um benennungen und viele andere Bug-Fixes und Features. Im ChangeLog kann man genauere erfahren.</description>
+    </item>
+    
+  </channel>
+</rss>

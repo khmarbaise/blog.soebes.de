@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apache-Common on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/apache-common/</link>
+    <description>Recent content in Apache-Common on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Sep 2014 13:22:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/apache-common/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Common POM Version 15 Released</title>
+      <link>http://localhost:1313/blog/2014/09/2014-09-28-apache-common-pom-version-15-released/</link>
+      <pubDate>Sun, 28 Sep 2014 13:22:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/09/2014-09-28-apache-common-pom-version-15-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Common POM, version 15.
+This POM (org.apache:apache) configures common Maven settings for projects to use ASF infrastructure.
+To use this parent, you should specify the version in your project&amp;rsquo;s plugin configuration:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;apache&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;15&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; Changes since previous release:
+http://svn.apache.org/viewvc/maven/pom/tags/apache-15/pom.xml?r1=HEAD&amp;amp;r2=1575044&amp;amp;diff_format=h
+Enjoy,
+-The Apache Maven team</description>
+    </item>
+    
+  </channel>
+</rss>

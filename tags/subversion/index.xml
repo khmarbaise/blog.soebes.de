@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subversion on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/subversion/</link>
+    <description>Recent content in Subversion on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Oct 2012 18:59:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/subversion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interessanter Artikel: Mitgration von Subversion nach Git</title>
+      <link>http://localhost:1313/blog/2012/2012-10-17-interessanter-artikel-mitgration-von-subversion-nach-git/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-10-17-interessanter-artikel-mitgration-von-subversion-nach-git/</guid>
+      <description>Habe gerade einen interessanten Artikel zum Thema Migration von Subversion nach Git gefunden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.7.4 erschienen</title>
+      <link>http://localhost:1313/blog/2012/2012-03-10-subversion-release-1-7-4-erschienen/</link>
+      <pubDate>Sat, 10 Mar 2012 17:36:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-03-10-subversion-release-1-7-4-erschienen/</guid>
+      <description>Es gibt nach weniger als einem Monat die nächste Subversion Release. Die Release Notes geben wieder Aufschluss über die Änderungen für die Release während der ChangeLog die genauen Änderung bzgl. der Release 1.7.4 darstellen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.3 Erschienen</title>
+      <link>http://localhost:1313/blog/2012/2012-02-14-subversion-1-7-3-erschienen/</link>
+      <pubDate>Tue, 14 Feb 2012 16:24:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-02-14-subversion-1-7-3-erschienen/</guid>
+      <description>Es gibt nun die nächste Subversion Release. Die Release Notes geben wieder Aufschluss über die Änderungen für die Release während der ChangeLog die genauen Änderung bzgl. der Release 1.7.3 darstellen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.2 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-12-06-subversion-1-7-2-erschienen/</link>
+      <pubDate>Tue, 06 Dec 2011 07:52:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-12-06-subversion-1-7-2-erschienen/</guid>
+      <description>Es ist nun eine neue Release von Subversion erschienen. Die Release Notes enthalten wieder informationen über die Release 1.7.2 und der ChangeLog wieder die genauen Details.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.2 - Up for Testing</title>
+      <link>http://localhost:1313/blog/2011/2011-12-02-subversion-1-7-2-up-for-testing/</link>
+      <pubDate>Fri, 02 Dec 2011 14:24:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-12-02-subversion-1-7-2-up-for-testing/</guid>
+      <description>Es geht richtig schnell weiter mit Subversion nun liegt eine Release 1.7.2 vor zum Test. Im ChangeLog kann man wieder genau nachschauen was alles geändert/verbessert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.1 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-10-26-subversion-1-7-1-erschienen/</link>
+      <pubDate>Wed, 26 Oct 2011 11:34:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-10-26-subversion-1-7-1-erschienen/</guid>
+      <description>Es ist nun geschehen. Subversion in der Release 1.7.1. In den Release Notes gibt es eine Übersicht über die wichtigsten Änderung und im ChangeLog kann man genau nachlesen was geändert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.0 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-10-11-subversion-1-7-0-erschienen/</link>
+      <pubDate>Tue, 11 Oct 2011 19:19:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-10-11-subversion-1-7-0-erschienen/</guid>
+      <description>Es ist nun geschehen. Subversion in der Release 1.7.0. In den Release Notes gibt es eine Übersicht über die wichtigsten Änderung und im ChangeLog kann man genau nachlesen was geändert wurde.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7 RC4 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-09-28-subversion-1-7-rc4-erschienen/</link>
+      <pubDate>Wed, 28 Sep 2011 20:59:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-09-28-subversion-1-7-rc4-erschienen/</guid>
+      <description>Nun liegt der nächste Release Candidate von Subversion 1.7.0 vor. Die Release Notes geben wieder Auskunft über die Änderung im Rahmen der Release 1.7 und im ChangeLog kann man dann ganz genau nachlesen was sich alles geändert hat.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7.0 RC3 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-09-16-subversion-1-7-0-rc3-erschienen/</link>
+      <pubDate>Fri, 16 Sep 2011 11:36:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-09-16-subversion-1-7-0-rc3-erschienen/</guid>
+      <description>Nun liegt der nächste Release Candidate von Subversion 1.7.0 vor. Die Release Notes geben wieder Auskunft über die Änderung im Rahmen der Release 1.7 und im ChangeLog kann man dann ganz genau nachlesen was sich alles geändert hat.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7 - RC2 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-09-02-subversion-1-7-rc2-erschienen/</link>
+      <pubDate>Fri, 02 Sep 2011 14:57:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-09-02-subversion-1-7-rc2-erschienen/</guid>
+      <description>Es gibt nun einen neuen RC-2 Release von Subversion. Die Release Notes geben wieder Auskunft über die Änderung im Rahmen der Release 1.7 und im ChangeLog kann man dann ganz genau nachlesen was sich alles geändert hat.</description>
+    </item>
+    
+    <item>
+      <title>Subverison 1.7 - Beta 3 Released</title>
+      <link>http://localhost:1313/blog/2011/2011-08-12-subverison-1-7-beta-3-released/</link>
+      <pubDate>Fri, 12 Aug 2011 11:12:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-08-12-subverison-1-7-beta-3-released/</guid>
+      <description>Es gibt nun eine neue Beta-3 Release von Subversion. Die Release Notes geben wieder Auskunft über die Änderung im Rahmen der Release 1.7 und im ChangeLog kann man dann ganz genau nachlesen was sich alles geändert hat.</description>
+    </item>
+    
+    <item>
+      <title>Subverison 1.7 - Beta 2 Released</title>
+      <link>http://localhost:1313/blog/2011/2011-07-25-subverison-1-7-beta-2-released/</link>
+      <pubDate>Mon, 25 Jul 2011 08:03:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-07-25-subverison-1-7-beta-2-released/</guid>
+      <description>Die Beta 2 Release von Subversion 1.7 wurde released. In den Release Notes kann man schon mal ein wenig Stöbern was es denn so neues gibt. Wer es dann richtig genau wissen möchte kann ja im ChangeLog nach schauen&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.7 Branch wurde erstellt.</title>
+      <link>http://localhost:1313/blog/2011/2011-07-13-subversion-1-7-branch-wurde-erstellt-/</link>
+      <pubDate>Wed, 13 Jul 2011 21:34:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-07-13-subversion-1-7-branch-wurde-erstellt-/</guid>
+      <description>Auf der Entwickler Liste war zu lesen, dass der Branch für die Release 1.7 erstellt wurde. Das bedeutet es geht in Richtung Ziel Linie für die 1.7 Release.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.6.17 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-06-02-subversion-release-1-6-17-erschienen/</link>
+      <pubDate>Thu, 02 Jun 2011 12:14:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-06-02-subversion-release-1-6-17-erschienen/</guid>
+      <description>Es gibt nun eine neue Release von Subversion. Diese Release adressiert vor allem drei Security Issues. Der ChangeLog gibt wieder Auskunft über die genauen Änderungen von Subversion. In den Release Notes sind die relevanten Änderung bzgl. der Release 1.6 aufgeführt. Ergänzung: TortoiseSVN hat auch eine neue Release heraus gebracht, die gegen die obige SVN Release gelinkt ist.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.16 erschienen</title>
+      <link>http://localhost:1313/blog/2011/2011-03-04-subversion-1-6-16-erschienen/</link>
+      <pubDate>Fri, 04 Mar 2011 08:22:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-03-04-subversion-1-6-16-erschienen/</guid>
+      <description>Es ist wieder so weit. Eine neue Release von Subversion ist erschienen. Im ChangeLog gibt es eine genau Liste der Änderungen. Dabei heraus zu heben ist ein Security Patch.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5.9 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-12-27-subversion-1-5-9-erschienen/</link>
+      <pubDate>Mon, 27 Dec 2010 12:03:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-12-27-subversion-1-5-9-erschienen/</guid>
+      <description>Kurz vor Weihnachten hat es nun noch eine Release 1.5.9 von Subversion geschafft. Im ChangeLog kann man genau nachlesen welche Änderungen gemacht wurden und welche nicht. Die Release Notes geben wieder über die Release Linie 1.5 genaue auskunft.</description>
+    </item>
+    
+    <item>
+      <title>Subversion und die Weiteren Schritte</title>
+      <link>http://localhost:1313/blog/2010/2010-12-20-subversion-und-die-weiteren-schritte/</link>
+      <pubDate>Mon, 20 Dec 2010 13:26:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-12-20-subversion-und-die-weiteren-schritte/</guid>
+      <description>WANdisco hat nun in seinem Forum als auch im Blog angekündigt Subversion in eine Richtung zu bringen, die mehr kommerziell orientiert ist. Das bedeutet, dass Punkte die bisher von anderen VCS besser beherrscht wurden (Git,
+Mercurial, Bazaar) nun mehr in den Fokus von Subversion kommen sollen. Dazu zählt das Merging, echtes umbenennen (was schon etwas länger brach liegt) etc. Genauere Informationen liefert der Blog Eintrag von WANdisco.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.12 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-11-28-tortoisesvn-1-6-12-erschienen/</link>
+      <pubDate>Sun, 28 Nov 2010 12:20:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-11-28-tortoisesvn-1-6-12-erschienen/</guid>
+      <description>Es gibt nun eine neue Release von TortoiseSVN welche gegen Subversion 1.6.15 gelinkt wurde. Die Release Notes geben Auskunft über die Änderung bzgl. der Release während der ChangeLog die Datails über die Release angeben.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.15 Released</title>
+      <link>http://localhost:1313/blog/2010/2010-11-24-subversion-1-6-15-released/</link>
+      <pubDate>Wed, 24 Nov 2010 20:04:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-11-24-subversion-1-6-15-released/</guid>
+      <description>Es ist mal wieder so weit und es gibt eine neue Release von Subversion. Der ChangeLog gibt wieder die genauen Details, die geändert bzw. verbessert wurden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion für Word....</title>
+      <link>http://localhost:1313/blog/2010/2010-11-10-subversion-f%C3%BCr-word/</link>
+      <pubDate>Wed, 10 Nov 2010 20:22:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-11-10-subversion-f%C3%BCr-word/</guid>
+      <description>Ich habe durch Zufall eine Integration von Subversion in Word gefunden. Scheint das Problem der non techies zu lösen mit Subversion zu arbeiten. Einfacher gehts wohl kaum.</description>
+    </item>
+    
+    <item>
+      <title>Branching Model für Git</title>
+      <link>http://localhost:1313/blog/2010/2010-10-23-branching-model-f%C3%A3r-git/</link>
+      <pubDate>Sat, 23 Oct 2010 19:20:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-23-branching-model-f%C3%A3r-git/</guid>
+      <description>Durch einen Zufall im RailsCamp in Hamburg bin ich auf folgenden Blog Eintrag aufmerksam geworden, der ein Branching Modell für Git bechreibt. Was ich nicht so positiv finde ist, dass mal wieder das übliche Bashing über zentralisierte Verskontrollsysteme (SVN im speziellen) stattfindet. Wenn man von dem Bashing absieht ist der weiter Artikel sehr interessant im Bezug auf die Branching Strategie. Das Ganze wird noch durch GitFlow unterstützt was eben das genannte Branching Modell unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.6.13 / TortoiseSVN Update</title>
+      <link>http://localhost:1313/blog/2010/2010-10-02-subversion-release-1-6-13-tortoisesvn-update/</link>
+      <pubDate>Sat, 02 Oct 2010 12:10:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-02-subversion-release-1-6-13-tortoisesvn-update/</guid>
+      <description>Auf der Announce List ist die Ankündigung zur neuene Release von Subversion 1.6.13 zu lesen. Die Release Notes geben Auskunft über die Wichtigen Änderungen der Release 1.6 und im ChangeLog kann die genauen Details nachlesen. Auch von TortoiseSVN gibt ein entsprechendes Update.</description>
+    </item>
+    
+    <item>
+      <title>Subversion - Multisite Ansatz - SVNSyncRouter</title>
+      <link>http://localhost:1313/blog/2010/2010-08-08-subversion-multisite-ansatz-svnsyncrouter/</link>
+      <pubDate>Sun, 08 Aug 2010 21:29:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-08-subversion-multisite-ansatz-svnsyncrouter/</guid>
+      <description>Ich habe durch Zufall folgende Implementation für ein Multisite Ansatz gefunden. Hört sich sehr interessant an. Sollte man mal bei Zeiten ausprobieren.</description>
+    </item>
+    
+    <item>
+      <title>RabbitVCS - TortoiseSVN für Linux ?</title>
+      <link>http://localhost:1313/blog/2010/2010-07-30-rabbitvcs-tortoisesvn-f%C3%A3r-linux-/</link>
+      <pubDate>Fri, 30 Jul 2010 13:11:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-07-30-rabbitvcs-tortoisesvn-f%C3%A3r-linux-/</guid>
+      <description>Ich bin durch zufall über RabbitVCS gestolpert und das Ganze sieht wirklich wie eine Alternative zu TortoiseSVN auf Linux aus. Hat jemand damit vielleicht schon Erfahrungen und kann etwas darüber berichten?</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.12 - Windows binaries verfügbar</title>
+      <link>http://localhost:1313/blog/2010/2010-07-05-subversion-1-6-12-windows-binaries-verf%C3%A3gbar/</link>
+      <pubDate>Mon, 05 Jul 2010 20:39:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-07-05-subversion-1-6-12-windows-binaries-verf%C3%A3gbar/</guid>
+      <description>Auf der Subversion Users liste wurde bekannt gemacht, dass nun auch Windows binaries verfügbar sind.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.12 - Erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-06-21-subversion-1-6-12-erschienen/</link>
+      <pubDate>Mon, 21 Jun 2010 17:58:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-06-21-subversion-1-6-12-erschienen/</guid>
+      <description>In der Entwickler- als auch der Users Liste ist bekannt gegeben worden, dass eine neue Release von Subversion zur Verfügung steht. Die Release Notes geben Auskunft was in 1.6 geändert wurde
+Das ChangeLog für die Release 1.6.12 gibt eine Übersicht über die Änderungen im Detail.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.2 Calypso ist nun da</title>
+      <link>http://localhost:1313/blog/2010/2010-06-11-supose-release-0-6-2-calypso-ist-nun-da/</link>
+      <pubDate>Fri, 11 Jun 2010 18:59:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-06-11-supose-release-0-6-2-calypso-ist-nun-da/</guid>
+      <description>Eine neue Release von SupoSE ist nun fertig.
+ User visible Changes/Enhancements.  Upgrade to SVNKit 1.3.X (Support for SVN 1.6.X repositories) (#218) Enormous performance enhancements for the scan command (#309) Updated to Java 1.6 (#235) Removed the dfilename and dpath which had been introduced in Release 0.6.0 to reduce the Index size finger print (#241). Removed display property prefix (#310) Output formatting of &amp;ndash;help has been changed (#36) quartz.properties are now located in the etc folder Formatting problem if more than 9999 items in changeset (#314) Copyright updated to 2010 (#308) Updated the Build/Run Documentation (#247)  Fixed Bugs  Fuzzy search had been broken (#199) README will not correctly recognized (#215) Searching for full qualified filenames didn&amp;rsquo;t work (#216) Couldn&amp;rsquo;t search for files with a dot (#246)  Won&amp;rsquo;t be fixed:  Support for 1.</description>
+    </item>
+    
+    <item>
+      <title>Vorbereitungen für einen Test mit SupoSE</title>
+      <link>http://localhost:1313/blog/2010/2010-05-04-vorbereitungen-fuer-einen-test-mit-supose/</link>
+      <pubDate>Tue, 04 May 2010 21:41:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-05-04-vorbereitungen-fuer-einen-test-mit-supose/</guid>
+      <description>Im Rahmen der Test Vorbereitungen für SupoSE wollte ich mir eine großes Repository besorgen, damit ich mal das Verhalten mit einem &amp;ldquo;richtigen&amp;rdquo; repository testen kann und auch mal ein paar Anhaltspunkte für Zeiten bzgl. eines entsprechenden Repositories bekomme. 
+Danke der netten Mithilfe der Apache Software Foundation, gibt es die einfache Möglichkeit einen Vollständigen Dump des Repositories zu erhalten, da ich nicht mit einem svnsync arbeiten wollte, da das zu große kontinuierliche Last erzeugt hätte.</description>
+    </item>
+    
+    <item>
+      <title>Geänderten Text in Subversion filtern</title>
+      <link>http://localhost:1313/blog/2010/2010-04-29-ge%C3%A3nderten-text-in-subversion-filtern/</link>
+      <pubDate>Thu, 29 Apr 2010 11:07:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-29-ge%C3%A3nderten-text-in-subversion-filtern/</guid>
+      <description>Ich hatte ein kleines Problem und wollte in einem Subversion Repository rausfinden, in welcher Version ein Änderung vorliegt. Also habe ich mir Kurzerhand folgendes Script geschrieben (check.sh)
+#!/bin/bash REVISIONS=`svn log pom.xml -q|grep &amp;#34;^r&amp;#34; | cut -d&amp;#34;r&amp;#34; -f2 | cut -d&amp;#34; &amp;#34; -f1` for rev in $REVISIONS; do svn blame -r$rev:$rev pom.xml | tr -s &amp;#34; &amp;#34; | grep -v &amp;#34;\ \-\ \- &amp;#34; done Wenn man dann die Ausgabe des Scriptes filtert:</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.8 - erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-04-19-tortoisesvn-1-6-8-erschienen/</link>
+      <pubDate>Mon, 19 Apr 2010 19:00:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-19-tortoisesvn-1-6-8-erschienen/</guid>
+      <description>Nachdem nun Subversion 1.6.11 erschienen ist, ist nach sehr kurzer Dauer nun auch TortoiseSVN in einer neuen Release erschienen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.11 Release erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-04-17-subversion-1-6-11-release-erschienen/</link>
+      <pubDate>Sat, 17 Apr 2010 12:36:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-17-subversion-1-6-11-release-erschienen/</guid>
+      <description>Das Subversion Team hat auf den Subversion Mailing Listen bekannt gegeben, dass nun die Release 1.6.11 von Subversion zur Verfügung steht. Die Übersicht über die genauen Änderungen gibt das ChangeLog und die Übersicht über die in der Release 1.6. eingeflossenen Änderungen und Erweiterungen ist in den Release Notes nach zu lesen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Vision and Roadmap Proposal</title>
+      <link>http://localhost:1313/blog/2010/2010-04-02-subversion-vision-and-roadmap-proposal/</link>
+      <pubDate>Fri, 02 Apr 2010 19:30:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-02-subversion-vision-and-roadmap-proposal/</guid>
+      <description>Heute wurde auf der Entwicklerliste eine Vision and Roadmap Proposal veröffentlicht. Hier wird an einigen Stellen kritisch beleuchtet, wie bestimmte dinge bisher gelaufen sind. Weiterhin ist es interessant zu lesen welche Ausrichtung hier seitens der Weiterentwicklung seitens Subversion zu erwarten ist.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Vision Conference in NYC</title>
+      <link>http://localhost:1313/blog/2010/2010-03-31-subversion-vision-conference-in-nyc/</link>
+      <pubDate>Wed, 31 Mar 2010 16:27:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-31-subversion-vision-conference-in-nyc/</guid>
+      <description>C. Michael Pilato hat auf dem Collab.net Blog die Zusammenfassung zur Subversion Vision Conference in NYC geschrieben.</description>
+    </item>
+    
+    <item>
+      <title>SVK - Maintenance Release 2.2.2 zur Verfügung</title>
+      <link>http://localhost:1313/blog/2010/2010-03-12-svk-maintenance-release-2-2-2-zur-verf%C3%A3gung/</link>
+      <pubDate>Fri, 12 Mar 2010 13:36:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-12-svk-maintenance-release-2-2-2-zur-verf%C3%A3gung/</guid>
+      <description>Chia-Liang Kao, der Autor des Verteilten Versionskontrollsystems SVK, hat auf der Mailing Liste bekannt gegeben, dass eine maintenance Release 2.2.2 von SVK zur Verfügung steht, die mit Subversion 1.6.X zusammen arbeitet.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.7 (SVN 1.6.9) - erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-03-06-tortoisesvn-1-6-7-svn-1-6-9-erschienen/</link>
+      <pubDate>Sat, 06 Mar 2010 22:23:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-06-tortoisesvn-1-6-7-svn-1-6-9-erschienen/</guid>
+      <description>Es ist eine neue Release von TortoiseSVN 1.6.7 erschienen, der gegen Subversion 1.6.9 gelinkt ist. Der ChangeLog gibt genau darüber auskunft was geändert wurde. In den Release Notes ist beschrieben welche Änderungen in dieser Release vorgenommen wurden.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.2 Calypso RC1 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-03-02-supose-release-0-6-2-calypso-rc1-erschienen/</link>
+      <pubDate>Tue, 02 Mar 2010 16:39:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-02-supose-release-0-6-2-calypso-rc1-erschienen/</guid>
+      <description>Es ist nun endlich geschaft. Eine neue Release 0.6.2 Calypso RC1 in Vorbereitung zur 0.6.2. Einige Bug Fixes wurde behoben und vor allem wurde die Index größe reduziert.</description>
+    </item>
+    
+    <item>
+      <title>Artikel über verschiedene VCS</title>
+      <link>http://localhost:1313/blog/2010/2010-02-24-artikel-%C3%A3ber-verschiedene-vcs/</link>
+      <pubDate>Wed, 24 Feb 2010 12:57:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-24-artikel-%C3%A3ber-verschiedene-vcs/</guid>
+      <description>Bin gerade über einen interessanten Artikel von Martin Fowler gestolpert, der sich dem Thema der unterschiedlichen Versionskontrollsystem widmet.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Fork á la Git ?</title>
+      <link>http://localhost:1313/blog/2010/2010-02-19-subversion-repository-fork-a-la-git/</link>
+      <pubDate>Fri, 19 Feb 2010 12:55:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-19-subversion-repository-fork-a-la-git/</guid>
+      <description>Ich bin gerade über einen interessanten Blog Artikel gestossen der das Forken eine Subversion Repositories ermöglicht. Die technischen Details beschreiben wie das Ganze funktioniert.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.6.9 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-01-22-subversion-release-1-6-9-erschienen/</link>
+      <pubDate>Fri, 22 Jan 2010 09:29:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-01-22-subversion-release-1-6-9-erschienen/</guid>
+      <description>Das Subversion Team hat nun eine neue Release von Subversion veröffentlicht.
+Es ist zu beachten, dass die Releases 1.6.7 und 1.6.8 nicht veröffentlicht wurden.
+Die aktuellen Sourcen können hier bezogen werden. Der ChangeLog gibt wieder darüber auskunft was denn alles geändert wurde. Die Release Notes geben eine Übersicht über die Release. Es ist zu beachten, dass Subversion derzeit im Incubtor Status auf Apache.org ist.</description>
+    </item>
+    
+    <item>
+      <title>Subverison vs. ClearCase Vortrag bei der SASO GmbH</title>
+      <link>http://localhost:1313/blog/2009/2009-12-06-subverison-vs-clearcase-vortrag-bei-der-saso-gmbh/</link>
+      <pubDate>Sun, 06 Dec 2009 15:10:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-12-06-subverison-vs-clearcase-vortrag-bei-der-saso-gmbh/</guid>
+      <description>In Zusammenarbeit mit der SASO GmbH in München hatte ich das Vergnügen einen Vortrag zum Thema Subversion vs. ClearCase zu halten, der die Vorteile- und auch die Nachteile von Subversion zeigt. In einer Regen Diskussion zeigten sich die Unterschiedlichen Ansichten sowohl zum Thema: Subversion als auch zu ClearCase.</description>
+    </item>
+    
+    <item>
+      <title>Vorträge der Subversion Konferenz Online</title>
+      <link>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</link>
+      <pubDate>Sun, 01 Nov 2009 18:56:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</guid>
+      <description>Nach Beendigung der Subversion Konferenz in München habe ich nun meine eigenen Vorträge alle online gestellt.
+ Versionierung in Java stellt einen Vortrag (PDF) zum Thema SVNKit Nutzung und Anwendung im Bereich Java. To be DVCS or not to be stellt einen Vortrag (PDF) zur kritischen Betrachtung von verteilten bzw. zentralisierten Versionskontrollsystemen dar. Die Qual der Versionen die 2. stellt einen Vortrag (PDF) zum OpenSource Projekt Subversion Repository Search Enginge (SupoSE) dar.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.6 Release</title>
+      <link>http://localhost:1313/blog/2009/2009-10-22-subversion-1-6-6-release/</link>
+      <pubDate>Thu, 22 Oct 2009 08:08:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-10-22-subversion-1-6-6-release/</guid>
+      <description>Die neue Release von Subversion 1.6.6 ist nun da. Die Release Notes geben Auskunft über die grundlegenden Neuerungen in der Release 1.6 während der ChangeLog die Änderung in der Release 1.6.6 beschreiben. Es wurden wieder einige Bugs behoben.
+ Änderungen für den Benutzer sichtbar:  Fixed Absturz während &amp;lsquo;svn update&amp;rsquo; (r39673) Beachte Apache&amp;rsquo;s ServerSignature Anweisung (r40008, -21, -31) Eine Datei mit gemischten Zeilenenden wird nicht hinzugefügt (issue #2713) Unterstützung für Neon 0.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.6 - Test und Signing hat begonnen</title>
+      <link>http://localhost:1313/blog/2009/2009-10-15-subversion-1-6-6-test-und-signing-hat-begonnen/</link>
+      <pubDate>Thu, 15 Oct 2009 19:02:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-10-15-subversion-1-6-6-test-und-signing-hat-begonnen/</guid>
+      <description>Der Release Manager von Subversion Hyrum K. Wright hat bekannt gegeben, dass die Test und Signing Phase für Subversion 1.6.6 begonnen hat.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.5 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-08-22-subversion-1-6-5-erschienen/</link>
+      <pubDate>Sat, 22 Aug 2009 16:50:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-08-22-subversion-1-6-5-erschienen/</guid>
+      <description>Es wurde gerade bekannt gegeben, dass die Release 1.6.4 von Subversion zur Verfügung steht. Die Release Notes geben wieder Auskunft über die Änderungen in der Release und der ChangeLog gibt wieder sehr detailier wieder welche Änderungen gemacht wurden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.4 / 1.5.7 - Security Releases erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-08-07-subversion-1-6-4-1-5-7-security-releases-erschienen/</link>
+      <pubDate>Fri, 07 Aug 2009 09:17:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-08-07-subversion-1-6-4-1-5-7-security-releases-erschienen/</guid>
+      <description>Es wurde gerade bekannt gegeben, dass die Release 1.6.4 und Release 1.5.7 von Subversion zur Verfügung steht. Die Releases 1.5.7 und 1.6.4 stellen eine Security Release dar. Das betrifft das folgende Issue. Es ist möglich, dass die CVE Page noch nicht öffentlich ist. Der vollständige Text ist hier zu finden. Es wird dringend ein Update sowohl für Client als auch für den Server empfohlen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.3</title>
+      <link>http://localhost:1313/blog/2009/2009-06-22-subversion-1-6-3/</link>
+      <pubDate>Mon, 22 Jun 2009 15:14:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-22-subversion-1-6-3/</guid>
+      <description>Es wurde gerade bekannt gegeben, dass die Release 1.6.3 von Subversion zur Verfügung steht. Die Release Notes geben wieder Auskunft über die Änderungen in der Release und der ChangeLog gibt wieder sehr detailier wieder welche Änderungen gemacht wurden.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE - Eat your own Dog food</title>
+      <link>http://localhost:1313/blog/2009/2009-06-09-supose-eat-your-own-dog-food/</link>
+      <pubDate>Tue, 09 Jun 2009 23:20:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-09-supose-eat-your-own-dog-food/</guid>
+      <description>Tja, auch ich gehe nach dem Motto Eat your own Dog Food. Im Rahmen der aktuellen Entwicklung von SupoSE hatte ich das Problem rauszufinden, ob ich einen Aufruf zur Indizierung eines Feldes mit dem Namen SIZE verwendet hatte oder nicht bzw. ich konnte mich daran erinnern, dass ich den definitiv drin hatte. Die Frage ist nur, wann habe ich den rausgeworfen (aus Versehen oder mit Absicht ist unklar ;-)), denn in der aktuellen Revision war das Teil nicht mehr drin.</description>
+    </item>
+    
+    <item>
+      <title>Änderung der Historie in einem Subversion Repository</title>
+      <link>http://localhost:1313/blog/2009/2009-06-07-aenderung-der-historie-in-einem-subversion-repository/</link>
+      <pubDate>Sun, 07 Jun 2009 15:27:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-07-aenderung-der-historie-in-einem-subversion-repository/</guid>
+      <description>Tja ich hatte das Problem, dass ich aus versehen in einer Datei etwas geschrieben hatte, was da nicht reingehört (Klassiker ist hier ein Paasword für Datenbanken etc.) und zu allem Unglück habe ich das dann auch noch in ein Subversion Repository eingecheckt. Tja wie bekomme ich das jetzt wieder da raus&amp;hellip; Es gibt zum glück ein nettes Tools mit dem man ein solches Problem lösen kann. Damit ist es möglich aus einem Subversion Dump File den Inhalt einer Datei durch einen anderen zu ersetzen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.2 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-05-11-subversion-1-6-2-erschienen/</link>
+      <pubDate>Mon, 11 May 2009 14:19:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-11-subversion-1-6-2-erschienen/</guid>
+      <description>Hyrum K. Wright hat bekannt gegeben, dass einen neue Release 1.6.2 von Subversion nun zur Verfügung steht. Der ChangeLog gibt genaue Auskunft über die Änderungen. Im Download Bereich kann man die Source Code Versionen downloaden.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-04-10-tortoisesvn-1-6-1-erschienen/</link>
+      <pubDate>Fri, 10 Apr 2009 14:09:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-04-10-tortoisesvn-1-6-1-erschienen/</guid>
+      <description>Es ist eine neue Release von TortoiseSVN 1.6.1 erschienen. Das ist eine Bugfix/Maintenance Release die gegen Subversion 1.6.1 gelinkt ist. Die Release Notes geben über die Release Auskunft.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-04-10-subversion-1-6-1-erschienen/</link>
+      <pubDate>Fri, 10 Apr 2009 13:59:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-04-10-subversion-1-6-1-erschienen/</guid>
+      <description>Die Release 1.6.1 von Subversion steht nun zur Verfügung. Die Übersicht über die Neuerung in der Release geben die Release Notes. Der Change Log gibt ein vollständige Liste der Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.6.0 Released</title>
+      <link>http://localhost:1313/blog/2009/2009-03-22-tortoisesvn-1-6-0-released/</link>
+      <pubDate>Sun, 22 Mar 2009 12:17:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-03-22-tortoisesvn-1-6-0-released/</guid>
+      <description>Es ist eine neue Release vom File Explorer PlugIn TortoiseSVN erschienen. Die Release Notes geben auskunft über die gesamte Release, während der Change Log detailierte Auskünfte über die gemachten Änderungen gibt.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.0 Erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-03-20-subversion-1-6-0-erschienen/</link>
+      <pubDate>Fri, 20 Mar 2009 19:50:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-03-20-subversion-1-6-0-erschienen/</guid>
+      <description>Die Release 1.6.0 von Subversion steht nun zur Verfügung.
+Die Übersicht über die Neuerung in der Release geben die Release Notes. Der Change Log gibt ein vollständige Liste der Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.0 RC4 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-03-18-subversion-1-6-0-rc4-erschienen/</link>
+      <pubDate>Wed, 18 Mar 2009 10:37:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-03-18-subversion-1-6-0-rc4-erschienen/</guid>
+      <description>Seit heute Morgen ist nun der RC4 von Subversion 1.6 veröffentlich worden. Die Release Notes geben eine Übersicht über die Änderungen insgesamt. Im aktuellen Change Log, kann man sich genau anschauen was geändert wurde. Bitte den ChangeLog noch nicht für 100%ig nehmen, da derzeit noch daran gefeilt wird.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.9 Released</title>
+      <link>http://localhost:1313/blog/2009/2009-02-28-tortoisesvn-1-5-9-released/</link>
+      <pubDate>Sat, 28 Feb 2009 15:29:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-28-tortoisesvn-1-5-9-released/</guid>
+      <description>Es gibt nun wieder eine neue Release des File Explorer PlugIn TortoiseSVN. Die Release ist eine BugFix Maintenance Release, die jetzt gegen Subversion 1.5.6 gelinkt ist. Zu bekommen ist die Release im Download Bereich und der Change Log listet alle Änderungen auf.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.5.6 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-02-26-subversion-release-1-5-6-erschienen/</link>
+      <pubDate>Thu, 26 Feb 2009 21:27:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-26-subversion-release-1-5-6-erschienen/</guid>
+      <description>Die Subversion Community hat bekannt gegeben, dass Subversion 1.5.6 zur Verfügung steht. Im ChangeLog kann genau nachgelesen werden welche Änderungen im Detail gemacht wurden. Die Release Notes geben auskunft darüber was in der Release 1.5 etc. neuen hinzu gekommen ist.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.6.0 RC2 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-02-20-subversion-1-6-0-rc2-erschienen/</link>
+      <pubDate>Fri, 20 Feb 2009 20:40:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-20-subversion-1-6-0-rc2-erschienen/</guid>
+      <description>Gerade wurde bekannt gegeben, dass Subversion in der Release 1.6.0 RC2 zur Verfügung steht. In den Release Notes gibt es Hinweise zu neuigkeiten.
+Im ChangeLog sind üblicherweise die Änderungen etc. zu finden. Derzeit befindet sich das aber noch in der Erstellung. Wenn jemand interesse hat mit zuhelfen, kann er/sie sich gerne bei mir melden, da noch leute gebraucht werden.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.8 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-02-14-tortoisesvn-1-5-8-erschienen/</link>
+      <pubDate>Sat, 14 Feb 2009 14:22:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-14-tortoisesvn-1-5-8-erschienen/</guid>
+      <description>Die Release 1.5.8 von TortoiseSVN ist erschienen. Die neue Release ist gegen Subversion 1.5.5 gelinkt und enthält einen Bugfix für TortoiseMerge. Zu bekommen ist TortoiseSVN im download Bereich.</description>
+    </item>
+    
+    <item>
+      <title>Vergleich von SVN mit Git, Bazaar, Mercurial</title>
+      <link>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</link>
+      <pubDate>Wed, 04 Feb 2009 20:05:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</guid>
+      <description>Habe durch zufall einen interessanten Vergleich von Git, Bazaar und Mercurial mit SVN gefunden.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.7 - erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-01-27-tortoisesvn-1-5-7-erschienen/</link>
+      <pubDate>Tue, 27 Jan 2009 12:10:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-27-tortoisesvn-1-5-7-erschienen/</guid>
+      <description>Es steht wieder eine neue Release von TortoiseSVN zur Verfügung. Die Release 1.5.7 stellt eine Bug-Fix Release dar, die mit SVN 1.5.5 gelinkt wurde. Der ChangeLog gibt wieder genauere Auskunft welche Bugs gefixed wurden.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.5.0</title>
+      <link>http://localhost:1313/blog/2009/2009-01-25-supose-release-0-5-0/</link>
+      <pubDate>Sun, 25 Jan 2009 01:31:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-25-supose-release-0-5-0/</guid>
+      <description>Es liegt nun eine neue Release der Subversion Repository Search Engine (SupoSE) in der Release 0.5.0 vor. Das Update beinhaltet vor allem einen Bug fix für das binäre Paket der Alpha-1 Release, dass nicht lauffähig war. Ansonsten sind noch einige Bugs gefixed worden.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.5.0 Alpha 1</title>
+      <link>http://localhost:1313/blog/2009/2009-01-15-supose-release-0-5-0-alpha-1/</link>
+      <pubDate>Thu, 15 Jan 2009 00:13:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-15-supose-release-0-5-0-alpha-1/</guid>
+      <description>Es liegt nun eine neue Release der Subversion Repository Search Engine (SupoSE) in der Release 0.5.0 Alpha 1 vor. Die Wichtigste Änderung besteht darin, dass der Scan Prozess der unterschiedlichen Dokumentarten mithilfe des Tika Frameworks durchgeführt wird. Damit einher gegangen ist die Unterstützung weiterer Dokument Typen (RTF, HTML und XML). Desweiteren werden nun auch Subversion 1.5 Repositories unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.2 (GA) - erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-01-14-svnkit-1-2-2-ga-erschienen/</link>
+      <pubDate>Wed, 14 Jan 2009 21:20:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-14-svnkit-1-2-2-ga-erschienen/</guid>
+      <description>Das SVNKit Team hat bekannt gegeben, dass die Release 1.2.2 (GA) zur Verfügung steht. Die neue Release unterstützt alle Subversion 1.5.5 features.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.6 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-12-23-tortoisesvn-1-5-6-erschienen/</link>
+      <pubDate>Tue, 23 Dec 2008 14:29:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-23-tortoisesvn-1-5-6-erschienen/</guid>
+      <description>Stefan Küng hat bekannt gegeben, dass die neue Release 1.5.6 von TortoiseSVN zur Verfügung steht. Die neue Release steht zum Download bereit.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5.5 - Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-12-22-subversion-1-5-5-erschienen/</link>
+      <pubDate>Mon, 22 Dec 2008 22:34:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-22-subversion-1-5-5-erschienen/</guid>
+      <description>Das Subversion Team hat bekannt gegeben, dass nun die Release 1.5.5 von Subversion zur Verfügung steht.
+ Änderungen, die für den Anwender sichtbar sind:
+ Der commit wird nun ermöglicht wenn Properties geändert wurden, aber veränderte Unterverzeichnisse existieren (r34487, -92, -94) Cyrus Authentifizierung bevorzugt nun immer EXTERNAL vor ANONYMOUS (r33866) Erzeuge keine Mergeinfo&amp;rsquo;s für verschieben/kopieren innerhalb einer Arbeitskopie (r34184, -585) Kein automatisches Upgrade von alten Berkeley DB Dateisystem auf 1.5 oder 1.</description>
+    </item>
+    
+    <item>
+      <title>SmartSVN 5 - RC3</title>
+      <link>http://localhost:1313/blog/2008/2008-11-27-smartsvn-5-rc3/</link>
+      <pubDate>Thu, 27 Nov 2008 18:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-27-smartsvn-5-rc3/</guid>
+      <description>Es gibt nun eine neue Release des SmartSVN 5 Clients (RC4). Im Rahmen des Early Access Programms, stellt Syntevo die frei nutzbare fundational als auch die kommerzielle Professional Release vor. Der Angegebene Vergleich bezieht sich noch auf die Release 4 von SmartSVN.
+Neue Features sind beispielsweise eine Unterstützung für Merge/Rename von Dateien
+Erweiterungen und Verbesserungen im Bereich Kopieren von Repository zu Repository, Repository Browser, Unterstützung für die Tiefen Option in der Arbeitskopie.</description>
+    </item>
+    
+    <item>
+      <title>VisualSVN 1.6 - Subversion für Visual Studio</title>
+      <link>http://localhost:1313/blog/2008/2008-11-22-visualsvn-1-6-subversion-fuer-visual-studio/</link>
+      <pubDate>Sat, 22 Nov 2008 13:04:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-22-visualsvn-1-6-subversion-fuer-visual-studio/</guid>
+      <description>VisualSVN, die Integration von Subversion in Visual Studio, hat eine neue Release heraus gebracht. Die Release 1.6 ist nun mit der Release 1.5.4 von Subversion erstellt worden. Der ChangeLog gibt detailiert über die gemachten Auskunft.</description>
+    </item>
+    
+    <item>
+      <title>VERSIONS - SVN Client for MacOS</title>
+      <link>http://localhost:1313/blog/2008/2008-11-22-versions-svn-client-for-macos/</link>
+      <pubDate>Sat, 22 Nov 2008 12:57:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-22-versions-svn-client-for-macos/</guid>
+      <description>Es gibt nun eine neue Release von VERSION 1.0.2 (BUILD 53), dem Subversion Client für den Mac. Die Release Notes geben wieder die große Übersicht.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.5 Released</title>
+      <link>http://localhost:1313/blog/2008/2008-10-24-tortoisesvn-1-5-5-released/</link>
+      <pubDate>Fri, 24 Oct 2008 22:33:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-24-tortoisesvn-1-5-5-released/</guid>
+      <description>Stefan Küng hat bekannt gegeben, dass eine neue Release von TortoiseSVN vorliegt, die gegen Subversion 1.5.4 gelinkt ist. Genaueres kann hier nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5.4 - Released</title>
+      <link>http://localhost:1313/blog/2008/2008-10-24-subversion-1-5-4-released/</link>
+      <pubDate>Fri, 24 Oct 2008 19:47:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-24-subversion-1-5-4-released/</guid>
+      <description>Heute hat Hyrum K. Wright der Release Manager von Subversion auf den Mailing Listen bekannt gegeben, dass die neue Release 1.5.4 zur Verfügung steht. Die Release Notes geben über die Release 1.5.0 Auskunft welche grundsätzlichen Änderungen durchgeführt wurden. Der ChangeLog gibt spezifische Auskunft über die Änderungen zur Vorgängerversion. Dieses mal ist die Liste der Änderung sehr übersichtlich.
+ Korrekte Handhabung der expliziten Merginfo (r32968, r32975) Korrigiert: Merging von Pfaden die Leerzeichen enthalten Korrigiert: Rücknahme der Merge-Info Bezogenen Merges zu 1.</description>
+    </item>
+    
+    <item>
+      <title>Signing für die Subversion Release 1.5.4 angelaufen</title>
+      <link>http://localhost:1313/blog/2008/2008-10-23-signing-fuer-die-subversion-release-1-5-4-angelaufen/</link>
+      <pubDate>Thu, 23 Oct 2008 09:46:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-23-signing-fuer-die-subversion-release-1-5-4-angelaufen/</guid>
+      <description>Auf der Entwickler Liste hat Hyrum K. Wright (Release Manager von Subversion) bekannt gegeben, dass die Subversion Releae 1.5.4 zum sog. Signing zur Verfügung steht. Das bedeutet, dass diese Release möglichst genau unter die Lupe zu nehmen ist. Es ist gewünscht, dass entsprechende Ergebnisse auf der Entwickler Liste bekannt gegeben werden. Wie immer beim Signing wird darauf hingewiesen, dass diese Release noch nicht zum produktiven Einsatz freigegeben ist.</description>
+    </item>
+    
+    <item>
+      <title>Zweite Subversion Conference in München</title>
+      <link>http://localhost:1313/blog/2008/2008-10-18-zweite-subversion-conference-in-m%C3%A3nchen/</link>
+      <pubDate>Sat, 18 Oct 2008 11:41:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-18-zweite-subversion-conference-in-m%C3%A3nchen/</guid>
+      <description>Vom 14. bis zum 16. Oktober fand in München die zweite Subversion Konferenz statt. Im Rahmen der Nachbereitung der Konferenz habe ich nun meine gehaltenen Vorträge Online gestellt.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5.3 - Released</title>
+      <link>http://localhost:1313/blog/2008/2008-10-11-subversion-1-5-3-released/</link>
+      <pubDate>Sat, 11 Oct 2008 11:08:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-10-11-subversion-1-5-3-released/</guid>
+      <description>Nun ist es so weit, es gibt einen neue Release von Subversion 1.5.3.
+Die Release Notes beschreiben die Änderungen insgesamt und der Change Log genau die Änderungen pro Release.
+ User-visible changes:
+ Fortsetzung switch nach der löschung von lokal modifizierten Verzeichnissen(issue #2505) Update der bash_completion für die Kompatibilität mit 1.5 (r32900, -11, -12) Verbesserung von &amp;lsquo;svn merge&amp;rsquo; Ausführungszeit um 30% auf Windows (r33447) Wiederverwendung der Netzwerk Session während &amp;lsquo;svn merge&amp;rsquo;, Verbesserung der Performancer(r33476) Verbesserung der tempär Datei Erzeugungszeit auf Windows(r33464) Große Verbesserung der merge Performance (r29969, r32463, r33013, -016, -022, -112) Verbesserung der Datei I/O Performance auf Windows (r33178, -85) Korrigiert: Merging von Dateinamen mit Spaces im Namen (r33109, -121, -369) Korrigiert: ungültige reltive externals Erweiterung incorrect relative (r33109, -121, -369) Korrigiert: &amp;lsquo;svn mv&amp;rsquo; Hänger und Memory Leack(r33201, -12) Korrigiert: Nachverfolgung in &amp;lsquo;svn log -g&amp;rsquo; (issue #3285) Korrigiert: Aktuellen frühen &amp;lsquo;bailout&amp;rsquo; von &amp;lsquo;svn log -g&amp;rsquo; (r32977)  Developer-visible changes:</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.5.2</title>
+      <link>http://localhost:1313/blog/2008/2008-08-30-subversion-release-1-5-2/</link>
+      <pubDate>Sat, 30 Aug 2008 21:25:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-30-subversion-release-1-5-2/</guid>
+      <description>Nun ist es so weit, es gibt einen neue Release von Subversion 1.5.2.
+Die Release Notes beschreiben die Änderungen insgesamt und der Change Log genau die Änderungen pro Release.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta5 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-08-15-svnkit-1-2-0-beta5-erschienen/</link>
+      <pubDate>Fri, 15 Aug 2008 20:15:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-15-svnkit-1-2-0-beta5-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+ Neuigkeiten in SVNKit 1.2.0 Beta5
+ Update der Java SSH Trilead Bibliothek auf build 213 JNA Bibliothek auf 3.0.4 upgedated Problem mit SSH Verbindungsproblemen mit nicht OpenSSH Servern beseitigt.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.5.1</title>
+      <link>http://localhost:1313/blog/2008/2008-07-26-subversion-release-1-5-1/</link>
+      <pubDate>Sat, 26 Jul 2008 13:13:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-26-subversion-release-1-5-1/</guid>
+      <description>Das Subversion Team gibt bekannt, dass eine neue Subversion Release 1.5.1 zur Verfügung steht. Subversion 1.5.1 stellt eine Patch-Release zur 1.5.X Linie dar. Es enthält eine menge von Performance Verbesserungen und Korrekturen von Bugs, die seit der Veröffentlichung von 1.5.0 aufgetreten sind.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta4 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-07-25-svnkit-1-2-0-beta4-erschienen/</link>
+      <pubDate>Fri, 25 Jul 2008 19:45:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-25-svnkit-1-2-0-beta4-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+Neuigkeiten in SVNKit 1.2.0 Beta4
+ Erweiterungen für SASL Authentifizierungs Unterstützung Bugfixes
+ Nützliche Links (mehr unter http://svnkit.com/):
+ SVNKit Continuous Integration Server: https://teamcity.svnkit.com/ SVNKit Source Code Repository: http://svn.svnkit.com/repos/svnkit/ SVNKit Update Site (for Eclipse): http://eclipse.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.2.0 Beta2 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-07-07-svnkit-1-2-0-beta2-erschienen/</link>
+      <pubDate>Mon, 07 Jul 2008 22:47:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-07-07-svnkit-1-2-0-beta2-erschienen/</guid>
+      <description>Das SVNKit Team, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.
+SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
+Neuigkeiten in SVNKit 1.2.0 Beta2 + Unterstützung für fast aller Subversion 1.5.0 Features + Vollständige Implementation der Subversion JavaHL API + Signifikante Verbesserung des Java Subversion Command line Clients.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 Released</title>
+      <link>http://localhost:1313/blog/2008/2008-06-19-subversion-1-5-released/</link>
+      <pubDate>Thu, 19 Jun 2008 16:58:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-19-subversion-1-5-released/</guid>
+      <description>Nun ist es geschaft. Subversion 1.5 ist nun da&amp;hellip;.In den Release Notes kann man sich jetzt eine Übersicht über die neuen Dinge verschaffen. Im ChangeLog ist die riesige Liste der Änderung zu sehen..</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5. - Final...</title>
+      <link>http://localhost:1313/blog/2008/2008-06-19-subversion-1-5-final-/</link>
+      <pubDate>Thu, 19 Jun 2008 08:07:17 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-19-subversion-1-5-final-/</guid>
+      <description>Es scheint nun der Punkt gekommen, dass die Release 1.5 von Subversion nun endlich erscheint&amp;hellip; Derzeit läuft das Signing der Release 1.5. Nun ist nur noch die Frage, wann nun die final tatsächlich freigeben wird. Warten wir es einfach einmal ab&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 RC 9</title>
+      <link>http://localhost:1313/blog/2008/2008-06-07-subversion-1-5-rc-9/</link>
+      <pubDate>Sat, 07 Jun 2008 15:03:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-07-subversion-1-5-rc-9/</guid>
+      <description>Es wurde ein weiterer Release Candidate von Subversion 1.5 veröffentlicht, ob das nun der letzte Release Candiate wird oder nicht mal schauen. Die Release Notes geben wieder aufschluss über die Release Neuerungen etc. und der ChangeLog gibt wieder eine Übersicht über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 RC8</title>
+      <link>http://localhost:1313/blog/2008/2008-06-03-subversion-1-5-rc8/</link>
+      <pubDate>Tue, 03 Jun 2008 13:51:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-03-subversion-1-5-rc8/</guid>
+      <description>Es gibt nun wieder einen neuen Release Kandidaten von Subversion 1.5. Es sieht derzeit so aus, als ob das der letzte Release Kandidat wäre. Der sollte selbstverständlich ausführlich getestet werden. Die Änderungen können im ChangeLog nachgelesen werden und die Übersicht über die 1.5 Release kann man in den Release Notes nach lesen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5. RC5</title>
+      <link>http://localhost:1313/blog/2008/2008-05-05-subversion-1-5-rc5/</link>
+      <pubDate>Mon, 05 May 2008 20:50:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-05-05-subversion-1-5-rc5/</guid>
+      <description>Es ist so weit, ein fünfter Release Candiate von der SVN 1.5. ist erschienen&amp;hellip;..Auch für diesen RC5 gilt, dass der so gut wie möglich getestet werden soll, aber bitte nicht für den produktiven Betrieb einsetzen. Der ChangeLog gibt wieder über alle Änderungen auskunft.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 RC4</title>
+      <link>http://localhost:1313/blog/2008/2008-04-24-subversion-1-5-rc4/</link>
+      <pubDate>Thu, 24 Apr 2008 14:55:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-24-subversion-1-5-rc4/</guid>
+      <description>Es ist so weit, ein vierter Release Candiate von der SVN 1.5. ist erschienen&amp;hellip;..Auch für diesen RC4 gilt, dass der so gut wie möglich getestet werden soll, aber bitte nicht für den produktiven Betrieb einsetzen.
+Zu beziehen ist der RC4 hier.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release SVNKit 1.1.7 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-04-18-neue-release-svnkit-1-1-7-erschienen/</link>
+      <pubDate>Fri, 18 Apr 2008 11:58:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-18-neue-release-svnkit-1-1-7-erschienen/</guid>
+      <description>Die neue Release der Java Bibliothek SVNKit erscheint nun in der Release 1.1.7, um die Unterstützung für den Zugriff auf Subversion 1.5 Server via svn Protokoll zu ermöglichen. Ein Update der JNA Bibliothek und einige weitere Details.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - RC3</title>
+      <link>http://localhost:1313/blog/2008/2008-04-13-subversion-1-5-rc3/</link>
+      <pubDate>Sun, 13 Apr 2008 15:32:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-13-subversion-1-5-rc3/</guid>
+      <description>Es ist so weit, ein dritter Release Candiate von der SVN 1.5. ist erschienen&amp;hellip;..Auch für diesen RC3 gilt, dass der so gut wie möglich getestet werden soll, aber bitte nicht für den produktiven Betrieb einsetzen. Zu beziehen ist der RC3 hier.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - RC2 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-04-11-subversion-1-5-rc2-erschienen/</link>
+      <pubDate>Fri, 11 Apr 2008 19:20:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-11-subversion-1-5-rc2-erschienen/</guid>
+      <description>Es ist so weit, ein zweiter Release Candiate von der SVN 1.5. ist erschienen&amp;hellip;..Auch für diesen RC2 gilt, dass der so gut wie möglich getestet werden soll, aber bitte nicht für den produktiven Betrieb einsetzen. Zu beziehen ist der RC2 hier.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - RC1 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-04-10-subversion-1-5-rc1-erschienen/</link>
+      <pubDate>Thu, 10 Apr 2008 23:17:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-04-10-subversion-1-5-rc1-erschienen/</guid>
+      <description>Es wird ernster und ernster mit der SVN 1.5. Release&amp;hellip;.. Der erschienene RC1 sollte heftigsten Tests unterzogen werden, aber bitte nicht für den produktiven Betrieb einsetzen.</description>
+    </item>
+    
+    <item>
+      <title>Visual SVN Server 1.1 für Windows</title>
+      <link>http://localhost:1313/blog/2008/2008-03-29-visual-svn-server-1-1-f%C3%A3r-windows/</link>
+      <pubDate>Sat, 29 Mar 2008 20:13:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-29-visual-svn-server-1-1-f%C3%A3r-windows/</guid>
+      <description>Es gibt wieder eine neue Release des Visual SVN Servers für Windows. Der Visual SVN Server stellt eine Integration in die Windows Oberfläche dar, mit der Verwaltung von Repositories inkl. der Verwaltung von Rechten usw. auf die jeweiligen Repositories. Dazu wird auch eine Apache mit geliefert. Der ChangeLog gibt über die Änderungen auskunft. Es wurden unter anderem hinzugefügt, die Möglichkeit per Windows Authentifikation, Konfiguration für https/http usw.</description>
+    </item>
+    
+    <item>
+      <title>Versuchsweise Migration Subversion nach GIT</title>
+      <link>http://localhost:1313/blog/2008/2008-03-27-versuchsweise-migration-subversion-nach-git/</link>
+      <pubDate>Thu, 27 Mar 2008 00:03:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-27-versuchsweise-migration-subversion-nach-git/</guid>
+      <description>Tja, ich habe mir mal gedacht ich schaue mir mal git an. Das Problem dabei ist, dass ich alles mit Subversion mache und somit alles in Subversion Repositories vorliegen habe. Also muss ich zuerst einmal eine Migration durchführen. Das mache ich gerade von einen SVN-Repository (ca. 2.6 GiBi und mit 11688 revisions).
+ Gestartet habe ich die Konvertierung am Mittwoch (12:00 Uhr) und jetzt ist es Donnerstag ca. 0:00 Uhr&amp;hellip;das braucht also bis dato 12 Stunden&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.4.0.0RC2</title>
+      <link>http://localhost:1313/blog/2008/2008-03-26-subversion-repository-search-engine-0-4-0-0rc2/</link>
+      <pubDate>Wed, 26 Mar 2008 17:30:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-26-subversion-repository-search-engine-0-4-0-0rc2/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.4.0.0RC2 der Subversion Repository Search Engine, die einige Bugs beseitig und vor allem einige 3rd Party Bibliotheken neueren Datums nutzt. Ein Problem ist vor allem aufgefallen, dass Dokumente ohne Dateierweiterung nicht gescannt wurden. Vielen Dank für den Patch (msuchy@redhat.com).</description>
+    </item>
+    
+    <item>
+      <title>cvs2svn Release 2.1.0</title>
+      <link>http://localhost:1313/blog/2008/2008-03-26-cvs2svn-release-2-1-0/</link>
+      <pubDate>Wed, 26 Mar 2008 00:54:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-26-cvs2svn-release-2-1-0/</guid>
+      <description>Es gibt nun wieder eine neue Release vom Konvertierungsscript cvs2svn. Die Liste der Änderung kann im ChangeLog nach gelesen werden.
+ Neuigkeiten:  Unterstützung zur Konvertierung von CVS nach git. Bessere Unterstützung für Migration der Symbole Verbesserte Performance. Akzeptiert mehr CVS repository Fehler einige Bug Fixings.r bugs.   </description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Beta 1 - Neuheiten - Teil 2 - Erweiterungen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-25-subversion-1-5-beta-1-neuheiten-teil-2-erweiterungen/</link>
+      <pubDate>Tue, 25 Mar 2008 20:23:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-25-subversion-1-5-beta-1-neuheiten-teil-2-erweiterungen/</guid>
+      <description>Im Ersten Teil gab es einige Informationen zum Thema Change-Listen und nun wollen wir uns den allgemeinen Verbesserungen und Erweiterungen zuwenden.</description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN 1.5.0-beta1 released</title>
+      <link>http://localhost:1313/blog/2008/2008-03-24-tortoisesvn-1-5-0-beta1-released/</link>
+      <pubDate>Mon, 24 Mar 2008 17:10:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-24-tortoisesvn-1-5-0-beta1-released/</guid>
+      <description>Es gibt nun eine erste beta Release von TortoiseSVN, der nun auch die verschiedenen Neuerung von Subversion 1.5 unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Beta 1 - Neuheiten - Teil 1 - ChangeListen</title>
+      <link>http://localhost:1313/blog/2008/2008-03-22-subversion-1-5-beta-1-neuheiten-teil-1-changelisten/</link>
+      <pubDate>Sat, 22 Mar 2008 12:48:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-22-subversion-1-5-beta-1-neuheiten-teil-1-changelisten/</guid>
+      <description>Es gibt ja nun einiges neues im Bereich Subversion 1.5. Fangen wir doch mal mit den Change-Lists an.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Buchübersetzung</title>
+      <link>http://localhost:1313/blog/2008/2008-03-21-subversion-1-5-buch%C3%A3bersetzung/</link>
+      <pubDate>Fri, 21 Mar 2008 20:26:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-21-subversion-1-5-buch%C3%A3bersetzung/</guid>
+      <description>Es wurde die Übersetzung des Subversion Buches in deutsch begonnen. Weitere Informationen sind unter http://www.svnbook.de zu erhalten. Die Ankündigung ist hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Beta 1</title>
+      <link>http://localhost:1313/blog/2008/2008-03-14-subversion-1-5-beta-1/</link>
+      <pubDate>Fri, 14 Mar 2008 00:06:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-14-subversion-1-5-beta-1/</guid>
+      <description>Nun wird es langsam Ernst mit Subversion 1.5&amp;hellip;.die erste Beta Version ist erschienen und sollte gut getestet werden&amp;hellip;. Was bietet Subversion 1.5. denn nun so neues?
+Tja zuerst einmal, das viel gewünschte (Enterprise) Feature Merge-Tracking&amp;hellip; Es ist also nicht mehr nötig, die gemergten Versionen in der Log-Message zu notieren&amp;hellip;das erledigt nun Subversion selbst. Es ist auch möglich Changes nicht zu mergen (Blocking changes) Dann gibt es noch so Dinge wie ChangeLists, die dazu dienen, zusammen gehörige Dateien etc.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 - Alpha 2</title>
+      <link>http://localhost:1313/blog/2008/2008-03-04-subversion-1-5-alpha-2/</link>
+      <pubDate>Tue, 04 Mar 2008 22:14:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-04-subversion-1-5-alpha-2/</guid>
+      <description>Tja, wie es scheint wird es jetzt langsam ernst mit der nächsten Subversion Release. Das Subversion Team bittet darum, die Alpha-2 Release möglichst gut zu testen.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release des sventon Projektes - 1.4.0RC1</title>
+      <link>http://localhost:1313/blog/2008/2008-03-04-neue-release-des-sventon-projektes-1-4-0rc1/</link>
+      <pubDate>Tue, 04 Mar 2008 18:37:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-04-neue-release-des-sventon-projektes-1-4-0rc1/</guid>
+      <description>Das Sventon Team hat eine neue Release heraus gebracht. Sventon ist ein Subversion Repository Browser der in einem Tomcat (5.5 / 6.0) betrieben werden kann. Im ChangeLog kann man genau lesen, was alles geändert wurde.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.6 Release</title>
+      <link>http://localhost:1313/blog/2008/2008-02-22-svnkit-1-1-6-release/</link>
+      <pubDate>Fri, 22 Feb 2008 19:03:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-02-22-svnkit-1-1-6-release/</guid>
+      <description>Das SVNKit Team hat eine neue Release der Java Subversion Bibliothek heraus gebracht. Es wurden folgende Korrekturen gemacht: + Das kopieren der WorkingCopy zur URL funktionierte nicht korrekt im Zusammenhang mit umgeschalteten (switched) Verzeichnissen. + Einige NPE (Null Pointer Exceptions) im Zusammenhang mit der http Kommunikation wurden gelöst. + Der Abbruch der Authentifikation im Zusammenhang mit SSH Verbindungen wurde korrigiert.</description>
+    </item>
+    
+    <item>
+      <title>USVN - Release 0.7</title>
+      <link>http://localhost:1313/blog/2008/2008-01-27-usvn-release-0-7/</link>
+      <pubDate>Sun, 27 Jan 2008 15:35:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-27-usvn-release-0-7/</guid>
+      <description>Es ist eine neue Release 0.7 von USVN erschienen. Diese Release stellt einige neue Features zur Verfügung. Dazu zählen bspw. RSS-Feed, Import von Subversion Repositories, WAMP Unterstützung, Gruppen Management, eine deutsche und russische Übersetzung.</description>
+    </item>
+    
+    <item>
+      <title>SVN-Label: Subversion Revision Number Aliases - Releas 1.1 beta</title>
+      <link>http://localhost:1313/blog/2008/2008-01-27-svn-label-subversion-revision-number-aliases-releas-1-1-beta/</link>
+      <pubDate>Sun, 27 Jan 2008 15:22:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-27-svn-label-subversion-revision-number-aliases-releas-1-1-beta/</guid>
+      <description>Es wurde SVN Label veröffentlicht, um eine pseudo Funktionalität in Subversion, wie in CVS vorhanden zu emulieren. Es geht darum, einer Revision einen sog. Tag zu geben. Aber eben keinen Subversion Tag, der ja technisch betrachtet auch ein Branch ist, sondern eine Information in einer Revision property gespeicherte Information. Das soll dazu dienen den Übergang zu Subversion etwas einfacher zu gestalten. Es wird ein Hook-Script (pre-revprop-change) benötigt, dass dann diese Information wieder an den Benutzer liefert.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release FSVS 1.1.12</title>
+      <link>http://localhost:1313/blog/2008/2008-01-19-neue-release-fsvs-1-1-12/</link>
+      <pubDate>Sat, 19 Jan 2008 17:26:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-19-neue-release-fsvs-1-1-12/</guid>
+      <description>Eine neue Release des FSVS. Damit erhält es voll Unterstützung für copyfrom Relationen. Einige Fehler wurden korrigiert. Die wichtigsten im Zusammenhang mit HTTP und HTTPS URLs.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.4.0.0RC1</title>
+      <link>http://localhost:1313/blog/2008/2008-01-12-subversion-repository-search-engine-0-4-0-0rc1/</link>
+      <pubDate>Sat, 12 Jan 2008 14:23:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-12-subversion-repository-search-engine-0-4-0-0rc1/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.4.0.0RC1 der Subversion Repository Search Engine, die einig Bugs beseitig. Dazu gehört vor allem, dass bei Dokumenten, für die kein spezieller Indexer vorhanden ist, keine Inhalte indexiert wurden und somit keinerlei Suche nach den Inhalten möglich war. Weiterhin wurden noch einige Kleinigkeiten korrigiert. z.B. Ein Fehlerhaftes Beispiel im Wiki etc.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.3.0.0RC2</title>
+      <link>http://localhost:1313/blog/2007/2007-12-30-subversion-repository-search-engine-0-3-0-0rc2/</link>
+      <pubDate>Sun, 30 Dec 2007 11:32:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-30-subversion-repository-search-engine-0-3-0-0rc2/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.3.0.0RC2 der Subversion Repository Search Engine, die einige Bugs beseitigt. Zum einen war der Aufruf des Windows Command Files nicht von Erfolg gekrönt. Sprich es fehlten einige Abhängigkeiten. Einige Unklarheiten in der Dokumentation sind verbessert worden. Das Compilieren mit Maven 2 hat nicht funktioniert. Das ist jetzt wieder in Ordnung.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Release 1.4.6</title>
+      <link>http://localhost:1313/blog/2007/2007-12-21-subversion-release-1-4-6/</link>
+      <pubDate>Fri, 21 Dec 2007 12:46:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-21-subversion-release-1-4-6/</guid>
+      <description>Gestern abend, wurde eine neue Release von Subversion veröffentlicht. Im ChangeLog kann genau nachgelesen werden was sich genau geändert hat. Die Ankündigung kann entsprechend nachgelesen werden. Der download ist hier zu finden. Hier sind auch die Windows downloads zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine (SupoSE) Release 0.3.0.0RC1 (Earth)</title>
+      <link>http://localhost:1313/blog/2007/2007-12-21-subversion-repository-search-engine-supose-release-0-3-0-0rc1-earth/</link>
+      <pubDate>Fri, 21 Dec 2007 12:39:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-21-subversion-repository-search-engine-supose-release-0-3-0-0rc1-earth/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.3.0.0RC1 der Subversion Repository Search Engine, die nun per mithilfe eines Schedulers automatisch Repositories scannen kann und die Ergebnisse in einen oder meheren Indizes zusammenfasst, der dann für entsprechende Suchoperationen genutzt werden kann. Weiterhin wurde die Release um eine Source-Code Verteilung erweitert, einen Maven 2 basierten Build und einige Bug Fixes wurden auch beseitigt. Die Dokumentation wurde erweitert und auch korrgiert.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine (SupoSE) Release 0.2.0 (Venus)</title>
+      <link>http://localhost:1313/blog/2007/2007-12-08-subversion-repository-search-engine-supose-release-0-2-0-venus/</link>
+      <pubDate>Sat, 08 Dec 2007 23:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-08-subversion-repository-search-engine-supose-release-0-2-0-venus/</guid>
+      <description>Die Subversion Repository Search Engine (SupoSE) ist nun in der zweiten Release (Venus) 0.2.0 erschien. Es ist nun möglich auch in den zuvor indizierten Daten per Kommandozeile zu suchen, dabei besteht die Möglichkeit die Felder zu spezifizieren, die im Ergebnis angezeigt werden sollen. Das Verzeichnis wo der Index abgelegt werden soll kann bestimmt werden. Weiterhin besteht die Möglichkeit ein Repository in mehreren Schritten zu Scannen (z.B. von Revision 1 bis Revision 100 und dann Revision 101 bis Revision 258).</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.1.0</title>
+      <link>http://localhost:1313/blog/2007/2007-12-06-subversion-repository-search-engine-0-1-0/</link>
+      <pubDate>Thu, 06 Dec 2007 00:54:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-06-subversion-repository-search-engine-0-1-0/</guid>
+      <description>Die Subversion Repository Search Engine (SupoSE) ist nun in der ersten Release (Mercury) 0.1.0 erschien. Sie ermöglicht es einen Index eines Repositories zu erstellen. Es werden dabei Word, Excel und PDF Dokumente verarbeitet.</description>
+    </item>
+    
+    <item>
+      <title>SVNControl Release 1.4.1</title>
+      <link>http://localhost:1313/blog/2007/2007-12-04-svncontrol-release-1-4-1/</link>
+      <pubDate>Tue, 04 Dec 2007 12:59:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-04-svncontrol-release-1-4-1/</guid>
+      <description>Das Remote Administrations Tool für Subversion Server SVNControl ist in einer neuen Bug-Fix Release erschienen. SVNControl bietet die Remote Administration von Subversion Servers. Dazu gehört auch die Verwaltung von Benutzern mit Zugriffsrechten und auch die Kontrolle bzw. Konfiguration von Hook-Scripten der jeweiligen Subversion Server. Die Liste der Änderungen für die Release 1.4.1 können hier nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Perl und die Subversion Bindings die II.</title>
+      <link>http://localhost:1313/blog/2007/2007-11-24-perl-und-die-subversion-bindings-die-ii-/</link>
+      <pubDate>Sat, 24 Nov 2007 19:47:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-24-perl-und-die-subversion-bindings-die-ii-/</guid>
+      <description>Nach dem nun die Änderungen an einem Repository per Perl-Bindings geklappt haben, wollte ich das Ganze ein wenig erweitern. Zum einen ein Repository per Perl erzeugen und selbstverständlich auch Dateien und Verzeichnisse hinzufügen. Die Erzeugung eines Repositories ist recht einfach:
+#!/usr/bin/perl -w use strict; use SVN::Core; use SVN::Repos; use SVN::Fs; # my $config = undef; my $fs_config = undef; # my $repos = SVN::Repos::create(&amp;#34;/home/testrepos&amp;#34;, undef, undef, $config, $fs_config); Damit wird ein Repository erzeugt, was dann für weitere Veränderungen zur Verfügung steht.</description>
+    </item>
+    
+    <item>
+      <title>Visual SVN Server 1.0 für Window</title>
+      <link>http://localhost:1313/blog/2007/2007-11-17-visual-svn-server-1-0-fauer-window/</link>
+      <pubDate>Sat, 17 Nov 2007 21:38:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-17-visual-svn-server-1-0-fauer-window/</guid>
+      <description>Visual SVN Server ist eine vollständige Administration Integration für Windows. Damit ist es sehr einfach möglich, einen Subversion Server mit einer Entsprechenden Verwaltung (Erstellung Repositories, Web-Server Integration, Benutzer- und Gruppenverwaltung) unter Windows zu ermöglichen. Dabei ist die Verwaltung der Repositories, Gruppen und Benutzer vollständig in Windows integriert. Es wird sehr aktuelle Software geliefert. Hierbei handelt es sich um einen Apache Web-Server 2.2.6 und Subversion 1.4.5. Die Installation ist sehr einfach und ermöglicht es auch die Konfiguration einer SSL-Verbindung.</description>
+    </item>
+    
+    <item>
+      <title>SVNControl 1.4 Released - 13.11.2007</title>
+      <link>http://localhost:1313/blog/2007/2007-11-17-svncontrol-1-4-released-13-11-2007/</link>
+      <pubDate>Sat, 17 Nov 2007 20:34:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-17-svncontrol-1-4-released-13-11-2007/</guid>
+      <description>Das Remote Administrations Tool für Subversion Server SVNControl ist in einer neuen Release erschienen. SVNControl bietet die Remote Administration von Subversion Servers. Dazu gehört auch die Verwaltung von Benutzern mit Zugriffsrechten und auch die Kontrolle bzw. Konfiguration von Hook-Scripten der jeweiligen Subversion Server. Die Liste der Änderungen für die Release 1.4 können hier nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Integration für Subversion</title>
+      <link>http://localhost:1313/blog/2007/2007-11-17-visual-studio-integration-f%C3%A3r-subversion/</link>
+      <pubDate>Sat, 17 Nov 2007 20:07:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-17-visual-studio-integration-f%C3%A3r-subversion/</guid>
+      <description>Ich habe hier ein Subversion Integration für VisualStudio 2003&amp;frasl;2005 und 2008 (laut FAQ) gefunden. Das Ganze nennt sich VisualSVN. VisualSVN ist zwar kommerziell aber ein Preis von 49 US$ scheint mir nicht unbedingt eine riesiges Hindernis für den Einsatz zu sein. Weiterhin gibt es ein 30-Tage trial Lizenz. Somit steht dem Umstieg in Richtung Subversion auch in der Microsoft Welt nichts im Wege.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 beta Update</title>
+      <link>http://localhost:1313/blog/2007/2007-11-06-subversion-1-5-beta-update/</link>
+      <pubDate>Tue, 06 Nov 2007 13:41:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-06-subversion-1-5-beta-update/</guid>
+      <description>Die Firma COLLABNET hat im Blog zu Subversion bekannt gegeben, des es seit Freitag ein Update des Subversion 1.5 EAP (Early Access Program) gibt, dass dazu dient die Funktionalitäten von Subversion 1.5 zu testen und dazu Feedback in Richtung der Entwickler von Subversion zu geben. Es werden binäre Pakete für Windows, Linux (RedHat) als auch als Extras (ViewVC und Python bindings) 1.5 beta 4 for Red Hat / CentOS zur Verfügung gestellt.</description>
+    </item>
+    
+    <item>
+      <title>Tool zu Betrachtung der Revisionen einer Datei</title>
+      <link>http://localhost:1313/blog/2007/2007-10-28-tool-zu-betrachtung-der-revisionen-einer-datei/</link>
+      <pubDate>Sun, 28 Oct 2007 22:20:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-28-tool-zu-betrachtung-der-revisionen-einer-datei/</guid>
+      <description>Es gibt ein Tool svn-time-lapse-view zur Betrachtung der Revisionen einer Datei.</description>
+    </item>
+    
+    <item>
+      <title>Ein Intressanter Blog Eintrag von Ben Collin Sussman</title>
+      <link>http://localhost:1313/blog/2007/2007-10-28-ein-intressanter-blog-eintrag-von-ben-collin-sussman/</link>
+      <pubDate>Sun, 28 Oct 2007 22:08:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-28-ein-intressanter-blog-eintrag-von-ben-collin-sussman/</guid>
+      <description>Im Blog von Ben Collin Sussman eine Interessante Darstellung zu den verschiedenen Typen von Programmierern auch zum Thema &amp;ldquo;Verteilte Versionskontrolle&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Karl Fogel ..</title>
+      <link>http://localhost:1313/blog/2007/2007-10-28-karl-fogel-/</link>
+      <pubDate>Sun, 28 Oct 2007 21:52:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-28-karl-fogel-/</guid>
+      <description>Karl Fogel, der das zweite Kapitel des im O&amp;rdquo;Reilly Verlag erschienen Buches &amp;ldquo;Beatiful Code: Leading Programmers Explain How They Think&amp;rdquo; verfasst hat, hat das Kapitel unter einer freien Lizenz veröffentlicht.</description>
+    </item>
+    
+    <item>
+      <title>Subversion 1.5 write-through Proxy</title>
+      <link>http://localhost:1313/blog/2007/2007-10-19-subversion-1-5-write-through-proxy/</link>
+      <pubDate>Fri, 19 Oct 2007 11:47:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-19-subversion-1-5-write-through-proxy/</guid>
+      <description>Im Web-Blog von CollabNet hat Michael Pilato einige Informationen zum Write-Through Proxy mit Subversion 1.5. veröffentlicht, die im Rahmen der Subversion Conference in München vorgestellt wurden.</description>
+    </item>
+    
+    <item>
+      <title>10 Wege zum Projekt Desaster mit Subversion</title>
+      <link>http://localhost:1313/blog/2007/2007-10-12-10-wege-zum-projekt-desaster-mit-subversion/</link>
+      <pubDate>Fri, 12 Oct 2007 15:42:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-12-10-wege-zum-projekt-desaster-mit-subversion/</guid>
+      <description>Hier ist ein Vortrag (Subversion Worst Practice), der die zehn besten Möglichkeiten zeigt ein Projekt mit Subversion zu sabotorieren&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>cvs2svn Release 2.0.1 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-10-12-cvs2svn-release-2-0-1-erschienen/</link>
+      <pubDate>Fri, 12 Oct 2007 15:01:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-12-cvs2svn-release-2-0-1-erschienen/</guid>
+      <description>Es ist eine neue Release des Konvertierungsscriptes cvs2svn erschienen, dass einen Bug bzgl. der Keyword Expandierung beseitigt. Der ChangeLog gibt Auskunft über die Änderungen in den verschiedenen Releases.</description>
+    </item>
+    
+    <item>
+      <title>Perl und die Subversion Bindings</title>
+      <link>http://localhost:1313/blog/2007/2007-10-12-perl-und-die-subversion-bindings/</link>
+      <pubDate>Fri, 12 Oct 2007 10:06:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-10-12-perl-und-die-subversion-bindings/</guid>
+      <description>Ich hatte das Problem, verschiedene Änderungen an einem Repository so zu gestalten, dass lediglich eine neue Revision dabei rauskommt. Hierbei handelt es sich um verschiedene Kopieroperationen, die innerhalb einer Revision durchgeführt werden mussten. Wenn man das innerhalb einer Arbeitskopie macht, geht das ohne Probleme. Nur ich wollte das Ganze ohne Arbeitskopie haben. Eine Ausnahme auf der Kommandzeile bildet die Erzeugung von Verzechnissen per svn mkdir. Hierbei können mehrere Verzeichnisse innerhalb einer Transaktion (sprich einer Revision) angelegt werden.</description>
+    </item>
+    
+    <item>
+      <title>Pushmi Release 1.0.0 - Respository Replikations Tool</title>
+      <link>http://localhost:1313/blog/2007/2007-08-25-pushmi-release-1-0-0-respository-replikations-tool/</link>
+      <pubDate>Sat, 25 Aug 2007 18:50:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-25-pushmi-release-1-0-0-respository-replikations-tool/</guid>
+      <description>Chia-liang Kao hat Pushmi in der Release 1.0.0 auf der Subversion User Mailing Liste bekannt gegeben. Ein Subversion Repository Replikations Tool, dass es erlaubt, dass auch die Slave lese- und schreib auf dem replizierten Repository erhalten. Eine genauere Beschreibung ist hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>cvs2svn Release 2.0 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-08-17-cvs2svn-release-2-0-erschienen/</link>
+      <pubDate>Fri, 17 Aug 2007 19:57:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-17-cvs2svn-release-2-0-erschienen/</guid>
+      <description>Es ist nun eine neue Release der CVS nach Subversion Konverters erschienen. Die Änderungen, die gemacht wurden, können hier nach gelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Video über Versionskontrolle und Subversion</title>
+      <link>http://localhost:1313/blog/2007/2007-08-17-video-ueber-versionskontrolle-und-subversion/</link>
+      <pubDate>Fri, 17 Aug 2007 19:24:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-17-video-ueber-versionskontrolle-und-subversion/</guid>
+      <description>Es gibt ein Video zum Thema Versionskontrolle und Subversion</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Subversion Plugin 0.4.0 (Default</title>
+      <link>http://localhost:1313/blog/2007/2007-08-09-bazaar-subversion-plugin-0-4-0-default/</link>
+      <pubDate>Thu, 09 Aug 2007 20:11:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-09-bazaar-subversion-plugin-0-4-0-default/</guid>
+      <description>Es gibt wieder ein Update vom Subversion PlugIn für Bazaar.</description>
+    </item>
+    
+    <item>
+      <title>Bazaar Subversion PlugIn 0.3.5</title>
+      <link>http://localhost:1313/blog/2007/2007-07-25-bazaar-subversion-plugin-0-3-5/</link>
+      <pubDate>Wed, 25 Jul 2007 09:39:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-25-bazaar-subversion-plugin-0-3-5/</guid>
+      <description>Das Bazaar Subversion PlugIn wurde an die Bazaar Release 0.18 angepasst.</description>
+    </item>
+    
+    <item>
+      <title>SVNKit 1.1.4 Release</title>
+      <link>http://localhost:1313/blog/2007/2007-07-25-svnkit-1-1-4-release/</link>
+      <pubDate>Wed, 25 Jul 2007 09:30:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-25-svnkit-1-1-4-release/</guid>
+      <description>Es gibt wieder ein Update des SVNKit. Der Connection Pool wurde neu implementiert. Es wurde ein Continous Integration Server aufgesetzt und viele Bug-Fixes. Der ChangeLog gibt eine Liste der Änderungen. Die Liste der Änderungen ist hier zu finden.</description>
+    </item>
+    
+    <item>
+      <title>Backup eines Subversion Repositories</title>
+      <link>http://localhost:1313/blog/2007/2007-07-01-backup-eines-subversion-repositories/</link>
+      <pubDate>Sun, 01 Jul 2007 21:36:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-01-backup-eines-subversion-repositories/</guid>
+      <description>Draconis Software LLC berichtet in Ihrem Blog über ein Backup für ein Subversion Repository.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Connector für IBM Rational ClearCase</title>
+      <link>http://localhost:1313/blog/2007/2007-06-22-subversion-connector-fauer-ibm-rational-clearcase/</link>
+      <pubDate>Fri, 22 Jun 2007 00:05:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-22-subversion-connector-fauer-ibm-rational-clearcase/</guid>
+      <description>Es gibt nun einen Subversion Connector für ClearCase. Es gibt den Connect frei zur Verfügung zum download.
+Leider muss man sich hier vorher registrieren. Es ist nun möglich einen ClearCase (VIEW, VOB)und ein Subversion Working copy zu synchronisieren. Genaueres kann man hier finden..</description>
+    </item>
+    
+    <item>
+      <title>Subversion Merge Tracking Early Adopter Program</title>
+      <link>http://localhost:1313/blog/2007/2007-06-03-subversion-merge-tracking-early-adopter-program/</link>
+      <pubDate>Sun, 03 Jun 2007 14:31:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-03-subversion-merge-tracking-early-adopter-program/</guid>
+      <description>Im Blog von CollabNet ist der Hinweis zu finden, dass man am Subversion Merge Tracking Early Adopter Program(SMTEAP) teilnehmen soll, um möglichst früh Tests bzgl. der Merge Tracking Funktionalität zu bekommen. Auf der Seite des SMTEAP sind entsprechende Dokumentationen etc. vorzufinden. Das Ziel des Programmes ist es, die Subversion Committer in Ihrer Arbeit mit aktiven Tests zu unterstützen. Weiterhin sollen Vorschläge zur Erweiterung gesammelt werden. Also sind möglichst viele Aufgerufen das Merge Tracking zu testen und aktiv mit zu diskutieren.</description>
+    </item>
+    
+  </channel>
+</rss>

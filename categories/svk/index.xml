@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SVK on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/svk/</link>
+    <description>Recent content in SVK on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Mar 2010 13:36:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/svk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SVK - Maintenance Release 2.2.2 zur Verfügung</title>
+      <link>http://localhost:1313/blog/2010/2010-03-12-svk-maintenance-release-2-2-2-zur-verf%C3%A3gung/</link>
+      <pubDate>Fri, 12 Mar 2010 13:36:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-12-svk-maintenance-release-2-2-2-zur-verf%C3%A3gung/</guid>
+      <description>Chia-Liang Kao, der Autor des Verteilten Versionskontrollsystems SVK, hat auf der Mailing Liste bekannt gegeben, dass eine maintenance Release 2.2.2 von SVK zur Verfügung steht, die mit Subversion 1.6.X zusammen arbeitet.</description>
+    </item>
+    
+    <item>
+      <title>SVK 2.2.0 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-09-19-svk-2-2-0-erschienen/</link>
+      <pubDate>Fri, 19 Sep 2008 11:12:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-09-19-svk-2-2-0-erschienen/</guid>
+      <description>Es ist eine neue Release von SVK der verteilten Versionskontrolle erschienen. Im ChangeLog sind wieder die Änderungen beschrieben. Es ist vor allem zu erwähnen, dass nun ein neues Kommando svk branches existiert.</description>
+    </item>
+    
+    <item>
+      <title>SVK Release 2.2.0 beta1</title>
+      <link>http://localhost:1313/blog/2008/2008-08-09-svk-release-2-2-0-beta1/</link>
+      <pubDate>Sat, 09 Aug 2008 19:25:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-09-svk-release-2-2-0-beta1/</guid>
+      <description>Chia-liang Kao hat auf der SVK User Liste bekannt gegeben, dass eine neue Release (SVK 2.2.0 beta1) zur Verfügung steht.
+Neuigkeiten + Es gibt nun ein Subkommando svk branch, dass die Erzeugung von Offline und Online branches vereinfacht und push, pull und smerge werden zwischen den Branches vereinfacht. Derzeit wird das Tutorial überarbeitet, um den Stand der arbeiten darzustellen. + Es gibt nun eine vereinfachte Möglichkeist den Mirror mithilfe eines Subversion-Dump Files zu erzeugen, der eine URL sein kann, der in der svk:dump-url Property sein kan.</description>
+    </item>
+    
+    <item>
+      <title>SVK Release 2.1.0 beta 1</title>
+      <link>http://localhost:1313/blog/2007/2007-12-31-svk-release-2-1-0-beta-1/</link>
+      <pubDate>Mon, 31 Dec 2007 14:24:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-31-svk-release-2-1-0-beta-1/</guid>
+      <description>Es gibt eine neue Release von SVK, dem Versionskontroll Tool für verteilte Versionskontrolle. Die Beta Release 2.1.0 führt nun eine neues Kommando (svk branch) zur Vereinfachung des Branch Managements ein. Die Beta Release ist via CPAN zu beziehen.</description>
+    </item>
+    
+    <item>
+      <title>SVK 2.0.2 Release</title>
+      <link>http://localhost:1313/blog/2007/2007-08-03-svk-2-0-2-release/</link>
+      <pubDate>Fri, 03 Aug 2007 11:51:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-03-svk-2-0-2-release/</guid>
+      <description>Chia-Liang Kao hat auf der Entwickler Liste für SVK bekannt gegeben, dass die Release 2.0.2 verfügbar ist. Der Download für Windows Binaries, Linux und FreeBSD</description>
+    </item>
+    
+  </channel>
+</rss>

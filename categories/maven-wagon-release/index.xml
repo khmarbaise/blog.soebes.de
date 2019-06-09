@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maven-Wagon-Release on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/maven-wagon-release/</link>
+    <description>Recent content in Maven-Wagon-Release on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Jan 2014 19:44:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/maven-wagon-release/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Maven Wagon Version 2.6 Released</title>
+      <link>http://localhost:1313/blog/2014/01/2014-01-02-apache-maven-wagon-2-dot-6-released/</link>
+      <pubDate>Thu, 02 Jan 2014 19:44:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/01/2014-01-02-apache-maven-wagon-2-dot-6-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Wagon, Version 2.6
+The Wagon component provides communications between Maven and repositories.
+Typically, to use a particular version of Wagon, you would add an &amp;lsquo;extension&amp;rsquo; to your POM, such as:
+&amp;lt;extensions&amp;gt; &amp;lt;extension&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.wagon&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;wagon-ssh&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;2.6&amp;lt;/version&amp;gt; &amp;lt;/extension&amp;gt; &amp;lt;/extensions&amp;gt; Release Notes - Apache Maven Wagon - Version 2.6
+There have been solved 3 issues:
+Improvement:
+ WAGON-401 - Access Denied due to missing User-Agent WAGON-402 - Upgrade Apache HttpClient based wagon provider to HttpClient 4.</description>
+    </item>
+    
+  </channel>
+</rss>

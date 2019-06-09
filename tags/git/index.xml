@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIT on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/git/</link>
+    <description>Recent content in GIT on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Oct 2012 18:59:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interessanter Artikel: Mitgration von Subversion nach Git</title>
+      <link>http://localhost:1313/blog/2012/2012-10-17-interessanter-artikel-mitgration-von-subversion-nach-git/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2012/2012-10-17-interessanter-artikel-mitgration-von-subversion-nach-git/</guid>
+      <description>Habe gerade einen interessanten Artikel zum Thema Migration von Subversion nach Git gefunden.</description>
+    </item>
+    
+    <item>
+      <title>Branching Model für Git</title>
+      <link>http://localhost:1313/blog/2010/2010-10-23-branching-model-f%C3%A3r-git/</link>
+      <pubDate>Sat, 23 Oct 2010 19:20:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-10-23-branching-model-f%C3%A3r-git/</guid>
+      <description>Durch einen Zufall im RailsCamp in Hamburg bin ich auf folgenden Blog Eintrag aufmerksam geworden, der ein Branching Modell für Git bechreibt. Was ich nicht so positiv finde ist, dass mal wieder das übliche Bashing über zentralisierte Verskontrollsysteme (SVN im speziellen) stattfindet. Wenn man von dem Bashing absieht ist der weiter Artikel sehr interessant im Bezug auf die Branching Strategie. Das Ganze wird noch durch GitFlow unterstützt was eben das genannte Branching Modell unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>EGit Eclipse Git plug-in released - incubator</title>
+      <link>http://localhost:1313/blog/2010/2010-03-30-egit-eclipse-git-plug-in-released-incubator/</link>
+      <pubDate>Tue, 30 Mar 2010 10:18:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-30-egit-eclipse-git-plug-in-released-incubator/</guid>
+      <description>Die erste öffentliche Release des EGit Plug-in&amp;rsquo;s in der Release 0.7.1 ist nun verfügbar. EGit basiert auf der Java implementation JGit, dass bedeutet, dass keine externen Abhängigkeiten vorhanden sind oder native Code notwendig ist. Es ist noch wichtig zu sagen, dass das eine Incubator Release ist. Das heißt, dass noch nicht alle Features implementiert sind noch dass die Release Fehler-Frei ist. Hier wurde vor der Helios Release von Eclipse veröffentlicht, um noch Feedback zu bekommen und die Release 0.</description>
+    </item>
+    
+    <item>
+      <title>Artikel über verschiedene VCS</title>
+      <link>http://localhost:1313/blog/2010/2010-02-24-artikel-%C3%A3ber-verschiedene-vcs/</link>
+      <pubDate>Wed, 24 Feb 2010 12:57:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-24-artikel-%C3%A3ber-verschiedene-vcs/</guid>
+      <description>Bin gerade über einen interessanten Artikel von Martin Fowler gestolpert, der sich dem Thema der unterschiedlichen Versionskontrollsystem widmet.</description>
+    </item>
+    
+    <item>
+      <title>Git Release 1.7 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-02-19-git-release-1-7-erschienen/</link>
+      <pubDate>Fri, 19 Feb 2010 14:36:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-19-git-release-1-7-erschienen/</guid>
+      <description>Es ist eine neue Release 1.7.0 von Git erschienen, wobei hier einige Änderung bzgl. der Kompatibilität herausstechen.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Fork á la Git ?</title>
+      <link>http://localhost:1313/blog/2010/2010-02-19-subversion-repository-fork-a-la-git/</link>
+      <pubDate>Fri, 19 Feb 2010 12:55:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-02-19-subversion-repository-fork-a-la-git/</guid>
+      <description>Ich bin gerade über einen interessanten Blog Artikel gestossen der das Forken eine Subversion Repositories ermöglicht. Die technischen Details beschreiben wie das Ganze funktioniert.</description>
+    </item>
+    
+    <item>
+      <title>Git 1.6.4 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-07-30-git-1-6-4-erschienen/</link>
+      <pubDate>Thu, 30 Jul 2009 08:28:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-07-30-git-1-6-4-erschienen/</guid>
+      <description>Es liegt eine neue Release 1.6.4 von Git vor.</description>
+    </item>
+    
+    <item>
+      <title>Vergleich von SVN mit Git, Bazaar, Mercurial</title>
+      <link>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</link>
+      <pubDate>Wed, 04 Feb 2009 20:05:25 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-04-vergleich-von-svn-mit-git-bazaar-mercurial/</guid>
+      <description>Habe durch zufall einen interessanten Vergleich von Git, Bazaar und Mercurial mit SVN gefunden.</description>
+    </item>
+    
+    <item>
+      <title>GIT Release 1.6 erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-08-19-git-release-1-6-erschienen/</link>
+      <pubDate>Tue, 19 Aug 2008 16:20:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-08-19-git-release-1-6-erschienen/</guid>
+      <description>Es ist eine neue GIT Release verfügbar, wie in der Ankündigung zu lesen. Es wird wieder darauf hingewiesen, dass all Kommandos als Sub-Kommando (git cmd) aufzurufen sind und nicht mithilfe von git-cmd, da seit der Release 1.5.4 als &amp;ldquo;deprecated&amp;rdquo; markiert wurden. Es werden somit auch keine Links mehr erzeugt.</description>
+    </item>
+    
+    <item>
+      <title>Neue Release von git v1.5.4.5</title>
+      <link>http://localhost:1313/blog/2008/2008-03-29-neue-release-von-git-v1-5-4-5/</link>
+      <pubDate>Sat, 29 Mar 2008 13:04:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-29-neue-release-von-git-v1-5-4-5/</guid>
+      <description>Vom verteilten Versionskontrollsystem git gibt es auch eine neues Update. Die genaue Liste der Änderungen kann im ChangeLog nachgelesen werden.</description>
+    </item>
+    
+    <item>
+      <title>Versuchsweise Migration Subversion nach GIT</title>
+      <link>http://localhost:1313/blog/2008/2008-03-27-versuchsweise-migration-subversion-nach-git/</link>
+      <pubDate>Thu, 27 Mar 2008 00:03:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-27-versuchsweise-migration-subversion-nach-git/</guid>
+      <description>Tja, ich habe mir mal gedacht ich schaue mir mal git an. Das Problem dabei ist, dass ich alles mit Subversion mache und somit alles in Subversion Repositories vorliegen habe. Also muss ich zuerst einmal eine Migration durchführen. Das mache ich gerade von einen SVN-Repository (ca. 2.6 GiBi und mit 11688 revisions).
+ Gestartet habe ich die Konvertierung am Mittwoch (12:00 Uhr) und jetzt ist es Donnerstag ca. 0:00 Uhr&amp;hellip;das braucht also bis dato 12 Stunden&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>At Google Tech Talk Linus Torvalds talks about source control management and Git in particular.</title>
+      <link>http://localhost:1313/blog/2007/2007-07-01-at-google-tech-talk-linus-torvalds-talks-about-source-control-management-and-git-in-particular-/</link>
+      <pubDate>Sun, 01 Jul 2007 22:07:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-01-at-google-tech-talk-linus-torvalds-talks-about-source-control-management-and-git-in-particular-/</guid>
+      <description>Ein technischer Vortrag von Linus Torvalds über GIT</description>
+    </item>
+    
+    <item>
+      <title>Release 1.5 von GIT</title>
+      <link>http://localhost:1313/blog/2007/2007-02-28-release-1-5-von-git/</link>
+      <pubDate>Wed, 28 Feb 2007 07:22:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-02-28-release-1-5-von-git/</guid>
+      <description>Am 13.02.2007 ist eine neue Release des SCM Tools für den Linux Kernel in der Release 1.5. erschienen.</description>
+    </item>
+    
+  </channel>
+</rss>

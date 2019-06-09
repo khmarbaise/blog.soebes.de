@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usage on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/usage/</link>
+    <description>Recent content in Usage on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Jun 2018 16:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/usage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get the version of your Maven project on command line?</title>
+      <link>http://localhost:1313/blog/2018/06/2018-06-09-help-plugin/</link>
+      <pubDate>Sat, 09 Jun 2018 16:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/06/2018-06-09-help-plugin/</guid>
+      <description>I bet you have been faced with the situation to get the version of your Maven project on command line? So the question is how to get it? I have seen many solutions via using Linux tools like grep, cat or awk etc. also seen many solutions like using exec-maven-plugin like this:
+VERSION=$(mvn -q \ -Dexec.executable=&amp;quot;echo&amp;quot; \ -Dexec.args=&#39;${project.version}&#39; \ --non-recursive \ org.codehaus.mojo:exec-maven-plugin:1.6.0:exec)  Unfortunately the above approach will not work on Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

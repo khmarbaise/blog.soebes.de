@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maven-Shared-Archiver on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/maven-shared-archiver/</link>
+    <description>Recent content in Maven-Shared-Archiver on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Feb 2019 23:34:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/maven-shared-archiver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.4.0 Released</title>
+      <link>http://localhost:1313/blog/2019/02/2019-02-24-apache-maven-shared-component-maven-archiver-version-3-dot-4-dot-0-released/</link>
+      <pubDate>Sun, 24 Feb 2019 23:34:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/02/2019-02-24-apache-maven-shared-component-maven-archiver-version-3-dot-4-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.4.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.3.0 Released</title>
+      <link>http://localhost:1313/blog/2018/11/2018-11-17-apache-maven-shared-component-maven-archiver-version-3-dot-3-dot-0-released/</link>
+      <pubDate>Sat, 17 Nov 2018 23:30:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/11/2018-11-17-apache-maven-shared-component-maven-archiver-version-3-dot-3-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.3.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.2.0 Released</title>
+      <link>http://localhost:1313/blog/2017/08/2017-08-13-apache-maven-shared-component-maven-archiver-version-3-dot-2-dot-0-released/</link>
+      <pubDate>Sun, 13 Aug 2017 12:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/08/2017-08-13-apache-maven-shared-component-maven-archiver-version-3-dot-2-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.2.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.1.1 Released</title>
+      <link>http://localhost:1313/blog/2016/06/2016-06-18-apache-maven-shared-component-maven-archiver-version-3-dot-1-dot-1-released/</link>
+      <pubDate>Sat, 18 Jun 2016 16:05:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/06/2016-06-18-apache-maven-shared-component-maven-archiver-version-3-dot-1-dot-1-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.1.1.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.1.0 Released</title>
+      <link>http://localhost:1313/blog/2016/06/2016-06-03-apache-maven-shared-component-maven-archiver-version-3-dot-1-dot-0-released/</link>
+      <pubDate>Mon, 06 Jun 2016 20:15:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/06/2016-06-03-apache-maven-shared-component-maven-archiver-version-3-dot-1-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.1.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.0.2 Released</title>
+      <link>http://localhost:1313/blog/2016/05/2016-05-01-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-2-released/</link>
+      <pubDate>Sun, 01 May 2016 12:35:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/05/2016-05-01-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-2-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.0.2.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.0.1 Released</title>
+      <link>http://localhost:1313/blog/2016/04/2016-04-14-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-1-released/</link>
+      <pubDate>Thu, 14 Apr 2016 11:01:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/04/2016-04-14-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-1-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.0.1.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.0.0 Released</title>
+      <link>http://localhost:1313/blog/2015/10/2015-10-21-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-0-released/</link>
+      <pubDate>Wed, 21 Oct 2015 21:43:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/10/2015-10-21-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.0.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 2.6 Released</title>
+      <link>http://localhost:1313/blog/2014/11/2014-11-01-apache-maven-shared-component-maven-archiver-version-2-dot-6-released/</link>
+      <pubDate>Sat, 01 Nov 2014 13:44:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/11/2014-11-01-apache-maven-shared-component-maven-archiver-version-2-dot-6-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 2.6.
+The Maven Archiver is mainly used by plugins to handle packaging.
+You should specify the version in your project&amp;rsquo;s dependency configuration:
+&amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-archiver&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;2.6&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt; Release Notes - Maven Archiver - Version 2.6
+Bugs:
+ MSHARED-241 - Use last plexus-archiver version MSHARED-360 - Upgrade plexus-archiver to 2.6.1 (was 2.6) and plexus-utils to 3.0.18 for java7+ symlink support MSHARED-368 - Update plexus-interpolation to 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='As I wrote in my Automate it - Be Lazy Part I - I would like to continue my post. So here it is.
+The following parts are left from my process:
+The process  Create an issue for myself (if already existing move to step 2) Create a branch within the appropriate project based on the issue Assign the issue to myself Migrate the issue into the state of IN PROGRESS Done.'>
+<meta name='theme-color' content='#6699cc'>
+
+<meta property='og:title' content='Automate it - Be Lazy - Part II • Karl Heinz Marbaise'>
+<meta property='og:description' content='As I wrote in my Automate it - Be Lazy Part I - I would like to continue my post. So here it is.
+The following parts are left from my process:
+The process  Create an issue for myself (if already existing move to step 2) Create a branch within the appropriate project based on the issue Assign the issue to myself Migrate the issue into the state of IN PROGRESS Done.'>
+<meta property='og:url' content='http://localhost:1313/blog/2018/07/2018-07-30-automate-it-part-ii/'>
+<meta property='og:site_name' content='A coders, hackers heaven.....Hm...I do not think so...'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/d9cd3f93adbfb7d88eb68f903aa22a51?s=256'><meta property='article:section' content='Blog'><meta property='article:published_time' content='2018-07-30T20:02:11Z'/><meta property='article:modified_time' content='2018-07-30T20:02:11Z'/><meta name='twitter:card' content='summary'><meta name='twitter:creator' content='@khmarbaise'>
+
+<meta name="generator" content="Hugo 0.40.3" />
+
+  <title>Automate it - Be Lazy - Part II • Karl Heinz Marbaise</title>
+  <link rel='canonical' href='http://localhost:1313/blog/2018/07/2018-07-30-automate-it-part-ii/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.67e9c12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6699cc;}
+</style>
+
+</head>
+
+
+<body class='page type-blog layout-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div>
+      <img class="soebeslogo" src='/images/weblogo.gif'>
+    </div>
+    
+    <h2 class='title site-title '>
+     
+    </h2>
+    <div class='desc'>
+    
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul><li class='item'>
+        <a href='/impressum/'>Impressum</a>
+      </li><li class='item'>
+        <a href='/categories/'>Categories</a>
+      </li><li class='item'>
+        <a href='/categories/'>Maven</a>
+      </li><li class='item'>
+        <a href='/categories/maven-best-practice/'>Maven Best Practices</a>
+      </li></ul>
+  </div>
+</nav>
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>A coders, hackers heaven.....Hm...I do not think so...</p><p class='desc site-desc'></p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Automate it - Be Lazy - Part II</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2018-07-30T20:02:11Z'>2018, Jul 30</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/khmarbaise'>Karl Heinz Marbaise</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+12 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  
+
+<p>As I wrote in my <a href="/blog/2018/07/2018-07-21-automate-it-part-i/" target="_blank">Automate it - Be Lazy Part I</a> - I would like
+to continue my post. So here it is.</p>
+
+<p>The following parts are left from my process:</p>
+
+<h2 id="the-process">The process</h2>
+
+<ol>
+<li>Create an issue for myself (if already existing move to step 2)</li>
+<li>Create a branch within the appropriate project based on the issue</li>
+<li>Assign the issue to myself</li>
+<li>Migrate the issue into the state of <code>IN PROGRESS</code></li>
+<li>Done.</li>
+<li>Done.</li>
+<li>Done.</li>
+<li>Done.</li>
+<li>Close the appropriate jira issue with a reference to the
+commit in comment.</li>
+</ol>
+
+<p>If I work on updates of dependencies or parents in our builds, it is
+required to make a JIRA ticket for each of those updates (ok not really
+required but it is useful). It makes sense to test each of those updates
+separately in Jenkins. In the end it is an important information for the
+end-users, so they can see what <a href="https://blogs.apache.org/maven/entry/apache-shared-component-apache-maven" target="_blank">has been changed</a>.</p>
+
+<!-- more -->
+
+<h2 id="automation-step-4">Automation Step 4</h2>
+
+<p>The first step is to create a ticket with some information like
+a summary, a description and giving <code>Affected versions</code> and <code>Fix Version/s</code>
+useful values. This is only needed if we do not have a ticket yet for the
+work.</p>
+
+<p>So far I was going into my browser opened the <a href="https://issues.apache.org/jira/projects/MEJB" target="_blank">appropriate project</a> and
+pressed the <code>Create</code> button and typed in the appopriate values. I already
+mastered the copy and paste parts from browser url to command line etc.
+After some time, I thought about this and came to the conclusion, there must be a more convenient way.</p>
+
+<p>I tried to use the REST API of JIRA with some JavaScript which I used earlier
+to create some <a href="https://github.com/khmarbaise/maven-release-notes" target="_blank">release notes</a> but it was too complex to handle
+that via JavaScript. After some research, I found a <a href="https://github.com/Netflix-Skunkworks/go-jira/" target="_blank">command line client</a>
+which looks promising.</p>
+
+<p>I started to play around with the <a href="https://github.com/Netflix-Skunkworks/go-jira/releases" target="_blank">command line client</a>.
+There are some things to mention about it:</p>
+
+<ol>
+<li>Single binary artifact; simply download it and put on the path.
+Name it as you like (I decided to name it <code>jira-cli</code>)</li>
+<li>Templating mechanism to create custom commands</li>
+<li>Simple and powerful default commands already existing</li>
+<li>Easy configuration via <a href="http://yaml.org/" target="_blank">yaml</a> file.</li>
+</ol>
+
+<p>The first thing is, you need to login into the JIRA instance<br />
+which can be handled by the following:</p>
+
+<pre><code>$ jira-cli login --endpoint=https://issues.apache.org/jira
+</code></pre>
+
+<p>You will be prompted for your password. The user which is used to login is derived
+by the user you are working with. For me <a href="https://github.com/Netflix-Skunkworks/go-jira#user-vs-login" target="_blank">it was wrong</a>. So I needed to
+add a parameter:</p>
+
+<pre><code>$ jira-cli login --endpoint=https://issues.apache.org/jira --user=khmarbaise
+</code></pre>
+
+<p>So now I can view a ticket on command line very easy:</p>
+
+<pre><code>$ jira-cli view MEJB-118
+issue: MEJB-118
+created: 339 days ago
+status: Closed
+summary: Remove &quot;J2EE&quot; from plugin description and site
+project: MEJB
+issuetype: Task
+assignee: khmarbaise
+reporter: afloom
+fixVersions: 3.0.1
+priority: Trivial
+votes: 0
+description: |
+  The term &quot;J2EE&quot; was repalced by &quot;Java EE&quot; by Sun/oracle logn time ago and we shouldn't use &quot;J2EE&quot;. It's currently used at least in the plugin's description (pom.xml) and on the intro page of the plugin's site.
+  Replace &quot;J2EE Enterprise Javabean (EJB)&quot; with &quot;Java Enterprise JavaBean (EJB)&quot;.
+
+comments:
+  - | # khmarbaise, 338 days ago
+    Done in [r1805332|https://svn.apache.org/r1805332]
+  - | # hudson, 338 days ago
+    SUCCESS: Integrated in Jenkins build maven-plugins #9069 (See [https://builds.apache.org/job/maven-plugins/9069/])
+    [MEJB-118] Remove &quot;J2EE&quot; from plugin description and site (khmarbaise: [http://svn.apache.org/viewvc/?view=rev&amp;rev=1805332])
+    * (edit) maven-ejb-plugin/pom.xml
+    * (edit) maven-ejb-plugin/src/site/apt/index.apt.vm
+</code></pre>
+
+<p>Just to take a short look on a particular issue it is much faster than going via the browser.</p>
+
+<p>After more detailed reading the documentation I found that I can put the information
+about the end point and the user which should be used for jira into a configuration file
+(within your home directory) <code>.jira.d/config.yml</code> which looks like this:</p>
+
+<pre><code>endpoint: https://issues.apache.org/jira/
+user: khmarbaise
+login: khmarbaise
+</code></pre>
+
+<p>With this the login command can be reduced to <code>jira-cli login</code>. Easy? The
+<code>jira-cli</code> will safe session information in <code>.jira.d/</code> directory which is
+stored in <code>cookies.js</code> file. For my convenience I have created a Git repository
+in <code>.jira.d</code> and added <code>cookies.js</code> to the <code>.gitignores</code> file to prevent me to
+commit the <code>cookies.js</code> file accidently.</p>
+
+<p>Now I have the ability to create JIRA tickets via command line.</p>
+
+<p>So far so good. But how do I know for which project I need to create a ticket?</p>
+
+<p>But wait a second. The <code>pom.xml</code> contains the information
+<code>project.issueManagement.url</code> which is the URL for the JIRA tracker. So I
+needed to find a way to extract it from the <code>pom.xml</code>.</p>
+
+<p>Luckily the <a href="https://maven.apache.org/plugins/maven-help-plugin/" target="_blank">maven-help-plugin</a> is here the way to go which looks like this
+(Just for brevity I have added <code>\</code>; usually this is a single line):</p>
+
+<pre><code>ISSUE_URL=$(mvn org.apache.maven.plugins:maven-help-plugin:3.1.0:evaluate \
+  -Dexpression=project.issueManagement.url \
+  -q \
+  -DforceStdout)
+</code></pre>
+
+<p>This will extract the URL for JIRA out of the pom file. So you get something
+like this:</p>
+
+<pre><code>https://issues.apache.org/jira/browse/MDEPLOY
+</code></pre>
+
+<p>but unfortunately this is not the project you need for <code>jira-cli</code>. What I need
+is the <code>MDEPLOY</code>. This can easily achieved by:</p>
+
+<pre><code>PROJECT=$(basename $ISSUE_URL)
+</code></pre>
+
+<p>These are the information which are needed to create a JIRA ticket.
+Hm&hellip;really? No. What about the version for <code>Fixed versions/s</code> and <code>Affected
+versions</code> ?</p>
+
+<p>This can be done by:</p>
+
+<pre><code>PLAIN_VERSION=$(mvn build-helper:parse-version \
+  -Dx=\${parsedVersion.majorVersion}.\${parsedVersion.minorVersion}.\${parsedVersion.incrementalVersion} \
+  org.apache.maven.plugins:maven-help-plugin:3.1.0:evaluate \
+  -Dexpression=x \
+  -q \
+  -DforceStdout)
+</code></pre>
+
+<p>This will extract the version out of the pom file without the trailing
+<code>-SNAPSHOT</code>. It assumes that the version number has three digits.</p>
+
+<p>So now comes a favorite feature of <code>jira-cli</code>. You can create your <a href="https://github.com/Netflix-Skunkworks/go-jira#custom-commands-1" target="_blank">own commands</a>
+very easy. You simply define things like this in your <code>config.yml</code> file:</p>
+
+<pre><code>custom-commands:
+  - name: mine
+    help: display issues assigned to me
+    script: |-
+      {{jira}} list --template table --query &quot;resolution = unresolved and assignee=currentuser() ORDER BY priority asc, created&quot;
+</code></pre>
+
+<p>So now you can simply call <code>jira-cli</code> like this:</p>
+
+<pre><code>jira-cli mine
+</code></pre>
+
+<p>and you will see the list of issues which are assigned to yourself. See more details in the
+documentation of <code>jira-cli</code>. Based on the above, I have created a custom command which looks like this:</p>
+
+<pre><code>custom-commands:
+  - name: createdependencyupgrade
+    help: creates an Dependency Upgrade ticket.
+    options:
+      - name: affected
+        help: The affected version
+      - name: fix
+        help: The fix versions.
+      - name: project
+        default: $JIRA_PROJECT
+      - name: description
+        default: &quot;&quot;
+      - name: priority
+        default: &quot;Minor&quot;
+    args:
+      - name: summary
+        required: true
+    script: |-
+      {{jira}} create --project={{options.project}} --issuetype=&quot;Dependency upgrade&quot; -o summary=&quot;{{args.summary}}&quot; -o description=&quot;{{options.description}}&quot; -o fixVersions=&quot;{{options.fix}}&quot; -o versions=&quot;{{options.affected}}&quot; -o priority=&quot;{{options.priority}}&quot; --noedit
+</code></pre>
+
+<p>So as the result of this, I can create a JIRA ticket via this:</p>
+
+<pre><code>jira-cli createdependencyupgrade --project MWAR --fix=&quot;3.0.2&quot; --affected=&quot;3.0.2&quot; &quot;Summary Text&quot;
+</code></pre>
+
+<p>These have been the prerequisite to finally create a JIRA ticket in a very convenient way.
+The result of previous things and integrating some other parts is now my
+<a href="https://github.com/khmarbaise/automation-scripts/blob/1df1517f27f0ae831ba7f17085fd4feaa3f3e70f/createdependencyupgradeissue.sh" target="_blank">createdependencyupgradeissue.sh</a> script which I can simply call like this:</p>
+
+<pre><code>$ createdependencyupgradeissue.sh &quot;Upgrade maven-plugins parent to version 32&quot;
+</code></pre>
+
+<p>The output of that script looks at the moment like this:</p>
+
+<pre><code>$ createdependencyupgradeissue.sh &quot;Upgrade maven-plugins parent to version 32&quot;
+Checking if we are on a branch...done.
+Check that we are on master...done.
+Extracting issue url from pom.xml file...done.
+Extracting version from pom.xml file...done.
+Creating JIRA issue...done.
+OK MWAR-419 https://issues.apache.org/jira/browse/MWAR-419
+M    pom.xml
+Switched to a new branch 'MWAR-419'
+</code></pre>
+
+<p>As you might already have realized, I have added things to create a branch in Git
+based on the JIRA issue name and switched to that branch.</p>
+
+<p>The fourth step of automation accomplished which means more improvement
+but not enough.</p>
+
+<h2 id="automation-step-5">Automation Step 5</h2>
+
+<p>If I like to assign a ticket to myself so far I had to go to the
+ticket page and click on <code>assign to me</code> link which prerequisites
+to know the issue number and type in the correct URL etc.</p>
+
+<p>So based on my assumptions that the branch name is the
+JIRA issue number the only thing I need to do, is to extract
+the number from the branch. This can simply be achieved by:</p>
+
+<pre><code>BRANCH=$(git symbolic-ref --short HEAD)
+</code></pre>
+
+<p>So next the thing is to assign the ticket to myself. This
+can be done with <code>jira-cli</code> easily like this:</p>
+
+<pre><code>jira-cli take $BRANCH
+</code></pre>
+
+<p>I have to add some sanity checks in case of errors and the result is
+the <a href="https://github.com/khmarbaise/automation-scripts/blob/11b71f2d8e32975fe3eacfec86493db5f4e811f8/takeissue.sh" target="_blank">takeissue.sh</a> script which I can use within the branch like this:</p>
+
+<pre><code>takeissue.sh
+</code></pre>
+
+<p>The fifth step of automation is accomplished which means becoming
+comfortable but I think, we could do more.</p>
+
+<h2 id="automation-step-6">Automation Step 6</h2>
+
+<p>This step is more or less identical to the previous one cause I would
+like to change the state of an issue into <code>IN PROGRESS</code>.
+This can easily be achieved by using <code>jira-cli</code> like this:</p>
+
+<pre><code>$ jira-cli start MDEP-234
+</code></pre>
+
+<p>Based on the ideas before, this can be baked into
+a script <a href="https://github.com/khmarbaise/automation-scripts/blob/11b71f2d8e32975fe3eacfec86493db5f4e811f8/startissue.sh" target="_blank">startissue.sh</a> which results in such a simple call</p>
+
+<pre><code>startissue.sh
+</code></pre>
+
+<p>The sixth step of automation accomplished which means more improvement
+is possible.</p>
+
+<h2 id="automation-step-7">Automation Step 7</h2>
+
+<p>Ok I can create an issue in JIRA including the creation of the branch
+in Git so what about to commit here? Usually I update files or add some new
+ones which is done by <code>git add .</code> and afterwards I can commit the state.</p>
+
+<p>So based on the issue the commit message should look like this:</p>
+
+<pre><code>[XXX-123] - Summary 
+Optional description
+</code></pre>
+
+<p>In the majority of the cases I need only the first line. In other
+words this is copy and paste from the issue I created before.
+Let us make that easier. I created, of course you know already a script
+<a href="https://github.com/khmarbaise/automation-scripts/blob/11b71f2d8e32975fe3eacfec86493db5f4e811f8/commitonissue.sh" target="_blank">commitonissue.sh</a> which exactly does that.</p>
+
+<p>It identifies the branch based on the name of the branch in Git
+and gets the information about the summary via <code>jira-cli</code> from
+JIRA which results in such line:</p>
+
+<pre><code>SUMMARY=$(jira-cli view $BRANCH | grep &quot;^summary: &quot; | cut -d &quot; &quot; -f2-)
+</code></pre>
+
+<p>and finally I need to do the real commit which can be handled by
+this:</p>
+
+<pre><code>git commit -a -m&quot;[$BRANCH] - $SUMMARY&quot;
+</code></pre>
+
+<p>The seventh step of automation accomplished which means we are on the
+home straight. But not yet crossed the line.</p>
+
+<h2 id="automation-step-8">Automation Step 8</h2>
+
+<p>This step is nothing really new, it is just improving something already existing.
+The <a href="https://github.com/khmarbaise/automation-scripts/blob/5e3545d17805ab768edcafd89c4ba1e76af8b82e/gitmergeandclean.sh" target="_blank">gitmergeclean</a> script of the first post. This is needed to be
+tweaked. It should also close the JIRA ticket after the branch has been merged to master
+with an appropriate comment on it.</p>
+
+<p>I have added the following lines to the script to handle this.</p>
+
+<pre><code>#
+# Get the latest commit HASH
+#
+COMMITHASH=$(git rev-parse HEAD)
+#
+# Get the GIT URL from pom file:
+# TODO: Can we do some sanity checks? Yes: scm:git:..  if not FAIL!
+echo -n &quot;Get the git url from pom file...&quot;
+GITURL=$(mvn help:evaluate -Dexpression=project.scm.connection -q -DforceStdout | cut -d&quot;:&quot; -f3-)
+echo &quot; URL: $GITURL&quot;
+GITPROJECT=$(basename $GITURL)
+GITBASE=$(dirname $GITURL)
+#
+echo &quot;Closing JIRA issue $BRANCH&quot;
+jira-cli close -m&quot;Done in [$COMMITHASH|$GITBASE?p=$GITPROJECT;a=commitdiff;h=$COMMITHASH]&quot; --resolution=Done $BRANCH
+## Error handling?
+echo &quot;Closing finished.&quot;
+</code></pre>
+
+<p>The <code>BRANCH</code> information is already extracted at the <a href="https://github.com/khmarbaise/automation-scripts/blob/master/gitmergeandclean.sh#L9" target="_blank">beginning of the script</a>.
+The final lines of the script are to call <code>jira-cli</code> to close the issue
+with an appropriate comment and set the <code>resolution</code> to a useful value. In our case it is simply <code>Done</code>.
+The <code>GITURL</code> etc. is extacted to create a useful comment which contains a link to the
+real git repository with showing the diff of the commit which has been made.
+You can take a look at the <a href="https://issues.apache.org/jira/browse/MCLEAN-87" target="_blank">MCLEAN-87</a> issue which shows a link to the git repository.</p>
+
+<p>A full output of the new <a href="https://github.com/khmarbaise/automation-scripts/blob/aa5dde35b986ded11bf7b65cab6cdce407e6f8b4/gitmergeandclean.sh" target="_blank">gitmergeandclean</a> script looks like this:</p>
+
+<pre><code>~/ws-git-maven/plugins/maven-rar-plugin (MRAR-79)$ gitmergeandclean.sh
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+Updating 1ffdfba..055bbda
+Fast-forward
+ pom.xml | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+Total 0 (delta 0), reused 0 (delta 0)
+remote: Sending notification emails to: ['&quot;commits@maven.apache.org&quot; &lt;commits@maven.apache.org&gt;']
+remote: To git@github:apache/maven-rar-plugin.git
+remote:    1ffdfba..055bbda  055bbda0907661aa6515cc8e79ba66cee43aec12 -&gt; master
+remote: Syncing refs/heads/master...
+To https://gitbox.apache.org/repos/asf/maven-rar-plugin.git
+   1ffdfba..055bbda  master -&gt; master
+remote: Sending notification emails to: ['&quot;commits@maven.apache.org&quot; &lt;commits@maven.apache.org&gt;']
+remote: To git@github:apache/maven-rar-plugin.git
+remote:  - [deleted]         MRAR-79
+remote: Syncing refs/heads/MRAR-79 (FORCED)...
+To https://gitbox.apache.org/repos/asf/maven-rar-plugin.git
+ - [deleted]         MRAR-79
+Deleted branch MRAR-79 (was 055bbda).
+Get the git url from pom file... URL: https://gitbox.apache.org/repos/asf/maven-rar-plugin.git
+Closing JIRA issue MRAR-79
+OK MRAR-79 https://issues.apache.org/jira/browse/MRAR-79
+Closing finished.
+</code></pre>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>So finally for a dependency upgrade the process looks like this:</p>
+
+<ol>
+<li>Change the appropriate information in <code>pom.xml</code> file</li>
+<li><code>createdependencyupgradeissue.sh &quot;Upgrade maven-plugins parent to version 32&quot;</code></li>
+<li><code>commitonissue.sh</code></li>
+<li><code>gitpushwithlease.sh</code></li>
+<li><code>takeissue.sh</code></li>
+<li><code>startissue.sh</code>
+After that I have to wait for the result of Jenkins. If the build is successful I can merge back
+to master otherwise I need to find the cause of the problem. In this case
+the result was successful so I can do it like this:</li>
+<li><code>gitmergeandclean.sh</code></li>
+</ol>
+
+<p>The output looks in total like this:</p>
+
+<pre><code>~/ws-git-maven/plugins/maven-linkcheck-plugin (master *)$ createdependencyupgradeissue.sh &quot;Upgrade maven-plugins parent to version 32&quot;
+Checking if we are on a branch...done.
+Check that we are on master...done.
+Extracting issue url from pom.xml file...done.
+Extracting version from pom.xml file...done.
+Creating JIRA issue...done.
+OK MLINKCHECK-32 https://issues.apache.org/jira/browse/MLINKCHECK-32
+M    pom.xml
+Switched to a new branch 'MLINKCHECK-32'
+~/ws-git-maven/plugins/maven-linkcheck-plugin (MLINKCHECK-32 *)$ commitonissue.sh
+[MLINKCHECK-32 cd34b97] [MLINKCHECK-32] - Upgrade maven-plugins parent to version 32
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+~/ws-git-maven/plugins/maven-linkcheck-plugin (MLINKCHECK-32)$ gitpushwithlease.sh
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.53 KiB | 1.53 MiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Sending notification emails to: ['&quot;commits@maven.apache.org&quot; &lt;commits@maven.apache.org&gt;']
+remote: To git@github:apache/maven-linkcheck-plugin.git
+remote:  * [new branch]      cd34b97ddb661d5881bf7fc01e3291a9b0f67041 -&gt; MLINKCHECK-32
+remote: Syncing refs/heads/MLINKCHECK-32...
+To https://gitbox.apache.org/repos/asf/maven-linkcheck-plugin.git
+ * [new branch]      MLINKCHECK-32 -&gt; MLINKCHECK-32
+~/ws-git-maven/plugins/maven-linkcheck-plugin (MLINKCHECK-32)$ takeissue.sh
+~/ws-git-maven/plugins/maven-linkcheck-plugin (MLINKCHECK-32)$ startissue.sh
+</code></pre>
+
+<p>Here is the time where I have to wait for the results of Jenkins. So in this
+case the result was successful so I can continue like this:</p>
+
+<pre><code>~/ws-git-maven/plugins/maven-linkcheck-plugin (MLINKCHECK-32)$ gitmergeandclean.sh
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+Updating ff5dfab..cd34b97
+Fast-forward
+ pom.xml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Total 0 (delta 0), reused 0 (delta 0)
+remote: Sending notification emails to: ['&quot;commits@maven.apache.org&quot; &lt;commits@maven.apache.org&gt;']
+remote: To git@github:apache/maven-linkcheck-plugin.git
+remote:    ff5dfab..cd34b97  cd34b97ddb661d5881bf7fc01e3291a9b0f67041 -&gt; master
+remote: Syncing refs/heads/master...
+To https://gitbox.apache.org/repos/asf/maven-linkcheck-plugin.git
+   ff5dfab..cd34b97  master -&gt; master
+remote: Sending notification emails to: ['&quot;commits@maven.apache.org&quot; &lt;commits@maven.apache.org&gt;']
+remote: To git@github:apache/maven-linkcheck-plugin.git
+remote:  - [deleted]         MLINKCHECK-32
+remote: Syncing refs/heads/MLINKCHECK-32 (FORCED)...
+To https://gitbox.apache.org/repos/asf/maven-linkcheck-plugin.git
+ - [deleted]         MLINKCHECK-32
+Deleted branch MLINKCHECK-32 (was cd34b97).
+Get the git url from pom file... URL: https://gitbox.apache.org/repos/asf/maven-linkcheck-plugin.git
+Closing JIRA issue MLINKCHECK-32
+OK MLINKCHECK-32 https://issues.apache.org/jira/browse/MLINKCHECK-32
+Closing finished.
+</code></pre>
+
+<p>So if you look in my previous post you might be astonished that the number process
+steps has not been reduced dramatically?
+Those scripts are replacing a large number of manual steps (git command line
+typing, jira in browser, clicking typing etc.) which is now simply handled by
+scripts which means the steps are done always in the same way and I am sure
+I do not forget steps.
+Furthermore many of scripts can be used in other situations as well which
+makes my life easier for example in handling pull request etc.</p>
+
+<p>So this was much longer post.</p>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/maven'>Maven</a>, <a class='category' href='/categories/automation'>Automation</a>, <a class='category' href='/categories/devops'>DevOps</a>, <a class='category' href='/categories/programming'>Programming</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/blog/2018/07/2018-07-29-apache-maven-compiler-plugin-version-3-dot-8-0-released/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Apache Maven Compiler Plugin Version 3.8.0 Released</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/blog/2018/08/2018-08-21-spring-boot-starter-parent-in-maven/'>
+        <span class='screen-reader-text'>Next post: </span>Spring Boot Starter Parent Usage in Maven<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:info@soebes.de' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://gitlab.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Gitlab account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/karl-heinz-marbaise-17a15614' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+  <rect x="2" y="9" width="4" height="12"/>
+  <circle cx="4" cy="4" r="2"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+          <div class='copyright'>
+  <p>SoEBeS &copy; 2004-2019 SoftwareEntwicklung Beratung Schulung </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.0d92f56c.js'></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+
+</html>
+

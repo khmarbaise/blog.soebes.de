@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/continuum/</link>
+    <description>Recent content in Continuum on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 24 Nov 2007 23:40:33 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/continuum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuum Release 1.1. erschienen.</title>
+      <link>http://localhost:1313/blog/2007/2007-11-24-continuum-release-1-1-erschienen-/</link>
+      <pubDate>Sat, 24 Nov 2007 23:40:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-11-24-continuum-release-1-1-erschienen-/</guid>
+      <description>Es liegt nun eine neue Release von Continuum, einer CI Lösung vor die es ermöglicht, zeitgesteuerte Builds (Ant, Maven oder gar Shell-Script) auszuführen. Continuum zeichnet sich vor allem dadurch aus, dass es sehr einfach zu installieren ist und recht bescheiden mit Resourcen umgeht. Eine Übersicht über die verschiedenen Möglichkeiten von Continuum ist in der Feature List zu finden. Wen die genauen Änderungen interessieren, der kann im ChangeLog genaueres erfahren. Einige wichtige Änderung sind, dass ein Build nun auch unabhängig von Änderungen in der Versionskontrolle durchgeführt wird.</description>
+    </item>
+    
+  </channel>
+</rss>

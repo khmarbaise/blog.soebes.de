@@ -1,0 +1,20 @@
+.header .sep-after:after {
+  border-bottom-color: #6699cc;
+  border-bottom-color: var(--color-accent);
+}
+.has-sidebar .main {
+  margin-left: 369px;
+}
+.main {
+  margin-left: 369px;
+}
+.sidebar {
+  width: 369px;
+}
+.soebeslogo {
+  width: 369px;
+  height: 133px;
+  margin: 0px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}

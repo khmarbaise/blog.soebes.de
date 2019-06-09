@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hadoop on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/hadoop/</link>
+    <description>Recent content in Hadoop on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Feb 2011 17:43:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/hadoop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RuhrJUG Vortrag Hadoop online</title>
+      <link>http://localhost:1313/blog/2011/2011-02-19-ruhrjug-vortrag-hadoop-online/</link>
+      <pubDate>Sat, 19 Feb 2011 17:43:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-02-19-ruhrjug-vortrag-hadoop-online/</guid>
+      <description>Der Vortrag zum Thema Hadoop Think Large, den ich bei der RuhrJUG halten durfte habe ich nun online gestellt.</description>
+    </item>
+    
+    <item>
+      <title>Hadoop Cluster Test</title>
+      <link>http://localhost:1313/blog/2010/2010-12-29-hadoop-cluster-test/</link>
+      <pubDate>Wed, 29 Dec 2010 17:52:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-12-29-hadoop-cluster-test/</guid>
+      <description>Ich habe mal einfach mal einen kleinen Hadoop Cluster mit 3 Knoten aufgesetzt und damit einige Experimente gemacht. Ich habe mir dazu eine 20 GiB (19.415.653.321 Bytes) große Log Datei genommen und die per Map/Reduce analysiert. So weit so gut. Die Default Block Size in Hadoop sind 64&amp;hellip; Also habe ich mir gedacht ich ändere die Größe einfach mal, um mal zu sehen welche Auswirkungen das hat. Tja und damit hat der Ärger angefangen.</description>
+    </item>
+    
+    <item>
+      <title>Hadoop Cluster Konfiguration</title>
+      <link>http://localhost:1313/blog/2010/2010-12-29-hadoop-cluster-konfiguration/</link>
+      <pubDate>Wed, 29 Dec 2010 17:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-12-29-hadoop-cluster-konfiguration/</guid>
+      <description>Derzeit habe ich zum Testen einen Hadoop Cluster bestehend aus drei Datanodes und einem Namenode aufgebaut.  Type RAM Harddisk CPU OS   Data Node (traveler) 2 GiB 140 GB Intel Core&amp;trade;2 DUO T7200 2.00 GHz Ubuntu 10.10 Netbook(Laptop) 32 Bit   Data Node (playhall) 4 GiB 620 GB Intel Core&amp;trade;2 DUO E8400 3.00 GHz Ubuntu 10.10 Desktop 32 Bit   Data Node (office) 4 GiB 900 GB Intel Core&amp;trade;2 DUO T7200 2.</description>
+    </item>
+    
+  </channel>
+</rss>

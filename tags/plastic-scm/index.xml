@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plastic SCM on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/plastic-scm/</link>
+    <description>Recent content in Plastic SCM on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Aug 2007 19:32:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/plastic-scm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Plastic SCM - Release 1.5</title>
+      <link>http://localhost:1313/blog/2007/2007-08-09--plastic-scm-release-1-5/</link>
+      <pubDate>Thu, 09 Aug 2007 19:32:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-09--plastic-scm-release-1-5/</guid>
+      <description>Das Versionskontrollsystem Pastic SCM bietet nun ein Query System, einen Branch Explorer, SQL Server Backend Support, Powerbuilder integration, CruiseControl Unterstützung und einem JDeveloper PlugIn. Eine Übersicht über die Änderungen der neuen Release gibt es im ChangeLog. Die Release Notes gibt es auch noch.</description>
+    </item>
+    
+  </channel>
+</rss>

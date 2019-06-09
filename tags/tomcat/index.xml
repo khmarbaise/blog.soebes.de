@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomcat on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/tomcat/</link>
+    <description>Recent content in Tomcat on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Apr 2010 09:21:37 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/tomcat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tomcat as Daemon</title>
+      <link>http://localhost:1313/blog/2010/2010-04-29-tomcat-as-daemon/</link>
+      <pubDate>Thu, 29 Apr 2010 09:21:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-04-29-tomcat-as-daemon/</guid>
+      <description>I had the problem to start the Apache Tomcat as a daemon under a different user. After creating an RPM which puts the appropriate files into the correct location i had to create a service script to start, stop and check the status of the Tomcat daemon. The most important thing here is to have a su -l username which will go to the different user in his home folder where i can call the startup.</description>
+    </item>
+    
+  </channel>
+</rss>

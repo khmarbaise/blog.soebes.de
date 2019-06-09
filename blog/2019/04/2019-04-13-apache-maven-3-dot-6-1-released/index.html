@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='The Apache Maven team is pleased to announce the release of the Apache Maven 3.6.1.
+Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project&rsquo;s build, reporting and documentation from a central piece of information.
+You can find out more about Apache Maven at https://maven.apache.org
+You can download the appropriate sources etc. from the download page'>
+<meta name='theme-color' content='#6699cc'>
+
+<meta property='og:title' content='Apache Maven 3.6.1 Released • Karl Heinz Marbaise'>
+<meta property='og:description' content='The Apache Maven team is pleased to announce the release of the Apache Maven 3.6.1.
+Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project&rsquo;s build, reporting and documentation from a central piece of information.
+You can find out more about Apache Maven at https://maven.apache.org
+You can download the appropriate sources etc. from the download page'>
+<meta property='og:url' content='http://localhost:1313/blog/2019/04/2019-04-13-apache-maven-3-dot-6-1-released/'>
+<meta property='og:site_name' content='A coders, hackers heaven.....Hm...I do not think so...'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/d9cd3f93adbfb7d88eb68f903aa22a51?s=256'><meta property='article:section' content='Blog'><meta property='article:published_time' content='2019-04-13T12:45:02Z'/><meta property='article:modified_time' content='2019-04-13T12:45:02Z'/><meta name='twitter:card' content='summary'><meta name='twitter:creator' content='@khmarbaise'>
+
+<meta name="generator" content="Hugo 0.40.3" />
+
+  <title>Apache Maven 3.6.1 Released • Karl Heinz Marbaise</title>
+  <link rel='canonical' href='http://localhost:1313/blog/2019/04/2019-04-13-apache-maven-3-dot-6-1-released/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.67e9c12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6699cc;}
+</style>
+
+</head>
+
+
+<body class='page type-blog layout-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div>
+      <img class="soebeslogo" src='/images/weblogo.gif'>
+    </div>
+    
+    <h2 class='title site-title '>
+     
+    </h2>
+    <div class='desc'>
+    
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul><li class='item'>
+        <a href='/impressum/'>Impressum</a>
+      </li><li class='item'>
+        <a href='/categories/'>Categories</a>
+      </li><li class='item'>
+        <a href='/categories/'>Maven</a>
+      </li><li class='item'>
+        <a href='/categories/maven-best-practice/'>Maven Best Practices</a>
+      </li></ul>
+  </div>
+</nav>
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>A coders, hackers heaven.....Hm...I do not think so...</p><p class='desc site-desc'></p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Apache Maven 3.6.1 Released</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2019-04-13T12:45:02Z'>2019, Apr 13</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/khmarbaise'>Karl Heinz Marbaise</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+6 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  
+
+<p>The Apache Maven team is pleased to announce the release of the Apache
+Maven 3.6.1.</p>
+
+<p>Apache Maven is a software project management and comprehension tool. Based
+on the concept of a project object model (POM), Maven can manage a
+project&rsquo;s build, reporting and documentation from a central piece of
+information.</p>
+
+<p>You can find out more about Apache Maven at <a href="https://maven.apache.org" target="_blank">https://maven.apache.org</a></p>
+
+<p>You can download the appropriate sources etc. from
+the <a href="https://maven.apache.org/download.cgi" target="_blank">download page</a></p>
+
+<!-- more -->
+
+<p>We really value the contributions of these non committers, so this section is
+focused on those individuals. Descriptions of the issues fixed can be found at
+the <a href="#Details">end of these release notes</a>.</p>
+
+<p>Issue Reporters of this release:</p>
+
+<ul>
+<li><a href="http://issues.apache.org/jira/browse/MNG-5705" target="_blank">MNG-5705</a> Ondra Žižka</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-5965" target="_blank">MNG-5965</a> Matthias Schmalz</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6059" target="_blank">MNG-6059</a> Andreas Sewe</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6159" target="_blank">MNG-6159</a> Christian Aistleitner</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6213" target="_blank">MNG-6213</a> Jin Kwon</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6256" target="_blank">MNG-6256</a> Christoph Etzel</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6261" target="_blank">MNG-6261</a> Dawid Weiss</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6262" target="_blank">MNG-6262</a> Gene Smith</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6346" target="_blank">MNG-6346</a> Patrik Jetzer</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6374" target="_blank">MNG-6374</a> Rohan Padhye</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6495" target="_blank">MNG-6495</a> Elliotte Rusty Harold</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6506" target="_blank">MNG-6506</a> Andreas Veithen</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6526" target="_blank">MNG-6526</a> Olaf Otto</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6529" target="_blank">MNG-6529</a> Michael Istria</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6530" target="_blank">MNG-6530</a> Michael Istria</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6533" target="_blank">MNG-6533</a> Michael Istria</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6543" target="_blank">MNG-6543</a> Romain Manni-Bucau</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6558" target="_blank">MNG-6558</a> Guy Brand</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6577" target="_blank">MNG-6577</a> Rohan Padhye</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6591" target="_blank">MNG-6591</a> Olaf Otto</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6605" target="_blank">MNG-6605</a> Gunnar Wagenknecht</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6618" target="_blank">MNG-6618</a> Viacheslav Yakunin</li>
+</ul>
+
+<p>Code Contributors of this release:</p>
+
+<ul>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6374" target="_blank">MNG-6374</a> Gabriel Belingueres (indirectly via plexus-utils PR)</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6529" target="_blank">MNG-6529</a> Michael Istria</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6530" target="_blank">MNG-6530</a> Michael Istria</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6558" target="_blank">MNG-6558</a> Guy Brand</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6261" target="_blank">MNG-6261</a> Fabiano C. de Oliveira</li>
+<li><a href="http://issues.apache.org/jira/browse/MNG-6533" target="_blank">MNG-6533</a> Michael Istria</li>
+</ul>
+
+<p>Many thanks to all reporters and contributors for their time and support.</p>
+
+<p>(Please send an email to the dev list if we missed one to mention).</p>
+
+<h2 id="preliminary-testers">Preliminary Testers</h2>
+
+<p>Thanks to the following preliminary testers:</p>
+
+<ul>
+<li>Gabriel Belingueres</li>
+<li>Francois Papon</li>
+<li>Eric Lilja</li>
+</ul>
+
+<h2 id="known-issues">Known Issues</h2>
+
+<p>If you are using Maven reporting, it might happen that you will get an exception which looks like this:</p>
+
+<pre><code>[INFO] Scanning for projects...
+[ERROR] Internal error: java.lang.NullPointerException -&gt; [Help 1]
+org.apache.maven.InternalErrorException: Internal error: java.lang.NullPointerException
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:120)
+...
+Caused by: java.lang.NullPointerException
+    at org.apache.maven.model.plugin.DefaultReportingConverter.convert (DefaultReportingConverter.java:243)
+...
+</code></pre>
+
+<p>This is caused by using a <code>&lt;reportSet&gt;..&lt;/reportSet&gt;</code> which does not contain
+a <code>&lt;report&gt;&lt;/report&gt;</code> element.</p>
+
+<p>Temporarily this issue can circumvented by adding an empty <code>&lt;report&gt;&lt;/report&gt;</code> element
+inside the <code>&lt;reportSet&gt;&lt;/reportSet&gt;</code>.</p>
+
+<p>An <a href="https://issues.apache.org/jira/browse/MNG-6636" target="_blank">issue has been created</a> to track the fix.</p>
+
+<h2 id="overview-about-the-changes">Overview about the changes</h2>
+
+<ul>
+<li><p>An issue has been fixed causing multiple executions of plugin goals, related to
+using parallel build options like <code>mvn plugin:goal -T 4</code>. This resulted in duplicated
+executions of phases. This has been fixed with <a href="http://issues.apache.org/jira/browse/MNG-5965" target="_blank">MNG-5965</a>.</p></li>
+
+<li><p>NullPointerException related to call in parallel build like <code>mvn -T 1C clean javadoc:aggregate</code>
+<a href="http://issues.apache.org/jira/browse/MNG-5705" target="_blank">MNG-5705</a></p></li>
+
+<li><p>A performance issue related to artifact transfer has been found related to <a href="http://issues.apache.org/jira/browse/WAGON-537" target="_blank">WAGON-537</a>. It
+has been solved via the update to <a href="http://issues.apache.org/jira/browse/MNG-6526" target="_blank">Maven Wagon 3.3.1</a>.</p></li>
+
+<li><p>There had been issues related calling Maven script like this: <code>mvn -f ..</code></p>
+
+<ul>
+<li>Having parentheses within the path, which has been fixed with <a href="http://issues.apache.org/jira/browse/MNG-6346" target="_blank">MNG-6346</a>.</li>
+<li>Script can break having special characters as part of the path, which has
+been solved with <a href="http://issues.apache.org/jira/browse/MNG-6256" target="_blank">MNG-6256</a>.</li>
+</ul></li>
+
+<li><p>Issue related to the Maven Resolver API which broke some IDEs (for example <a href="https://youtrack.jetbrains.com/issue/IDEA-201282" target="_blank">https://youtrack.jetbrains.com/issue/IDEA-201282</a>);
+this has been fixed by <a href="http://issues.apache.org/jira/browse/MNG-6538" target="_blank">MNG-6538</a>.</p></li>
+
+<li><p>Issue related to missing event for ToolchainsBuildingResult on EventSpy <a href="http://issues.apache.org/jira/browse/MNG-6558" target="_blank">MNG-6558</a>.</p></li>
+
+<li><p>Issue related to support Java 9+ <code>ClassLoader.findClass(String moduleName, String name)</code> in Mojos.
+This has been fixed with <a href="http://issues.apache.org/jira/browse/MNG-6543" target="_blank">MNG-6543</a>.</p></li>
+
+<li><p>Improvement about the memory consumption has been done with <a href="http://issues.apache.org/jira/browse/MNG-6571" target="_blank">MNG-6571</a>.</p></li>
+
+<li><p>Issue related to relative parent POM resolution failing in 3.5.0 with complex multimodule builds
+has been fixed with <a href="http://issues.apache.org/jira/browse/MNG-6261" target="_blank">MNG-6261</a>.</p></li>
+
+<li><p>Missing export for org.slf4j.event.Level has been done with <a href="http://issues.apache.org/jira/browse/MNG-6618" target="_blank">MNG-6618</a></p></li>
+</ul>
+
+<h2 id="user-visible-changes">User visible Changes</h2>
+
+<p>Maven has now a an option to suppress the transfer progress when downloading/uploading
+in interactive mode.</p>
+
+<pre><code>mvn --no-transfer-progress ....
+</code></pre>
+
+<p>or in short:</p>
+
+<pre><code>mvn -ntp ... ....
+</code></pre>
+
+<p>There had been an issues like <a href="http://issues.apache.org/jira/browse/MNG-6505" target="_blank">MNG-6505</a> and <a href="http://issues.apache.org/jira/browse/MNG-6059" target="_blank">MNG-6059</a> related to the construction of
+URL&rsquo;s etc. within <code>distributionManagement</code> and <code>scm</code> part in the pom for multi module
+builds like this:</p>
+
+<pre><code>&lt;scm child.scm.connection.inherit.append.path=&quot;true&quot;
+     child.scm.developerConnection.inherit.append.path=&quot;true&quot;
+     child.scm.url.inherit.append.path=&quot;true&quot; /&gt;
+&lt;distributionManagement&gt;
+   &lt;site child.site.url.inherit.append.path=&quot;true&quot; /&gt;
+ &lt;/distributionManagement&gt;
+</code></pre>
+
+<p>Detailed explanations can be found in <a href="https://maven.apache.org/ref/3.6.1/maven-model-builder/index.html#Inheritance_Assembly" target="_blank">Inheritance Assembly</a> and in <a href="http://issues.apache.org/jira/browse/MNG-6059" target="_blank">MNG-6059</a></p>
+
+<h2 id="the-detailed-issue-list-details">The detailed issue list[](#Details)</h2>
+
+<h3 id="bugs">Bugs:</h3>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/MNG-5705" target="_blank">MNG-5705</a> - NPE on parallel build in BuilderCommon.handleBuildError(BuilderCommon.java:147)</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-5965" target="_blank">MNG-5965</a> - Parallel build multiplies work if multiple goals are given</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-5995" target="_blank">MNG-5995</a> - Maven itself cannot run without maven-compat</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6256" target="_blank">MNG-6256</a> - Maven script can break if &ldquo;-f&rdquo; path contains special characters</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6261" target="_blank">MNG-6261</a> - Relative parent POM resolution failing in 3.5.0 with complex multimodule builds</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6262" target="_blank">MNG-6262</a> - getCanonicalFile() is not used consistently during project resolution</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6346" target="_blank">MNG-6346</a> - &hellip; was unexpected at this time when using -f option and path contains brackets</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6374" target="_blank">MNG-6374</a> - ModelBuilder hangs with malformed pom.xml</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6429" target="_blank">MNG-6429</a> - Integration Test site publishing requires Java 7 (or javadoc errors ignored)</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6495" target="_blank">MNG-6495</a> - ModelResolver cannot be null</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6505" target="_blank">MNG-6505</a> - child.(x.y).inherit.append.path value should be inherited</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6506" target="_blank">MNG-6506</a> - Mojos are unable to load package annotations on Java &gt;= 9</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6529" target="_blank">MNG-6529</a> - <code>ProjectBuilder.build(List&lt;File&gt; projects, boolean, ProjectBuildingRequest)</code> doesn&rsquo;t honor <code>ProjectBuildingRequest.isResolveDependencies()</code></li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6530" target="_blank">MNG-6530</a> - Regression in ProjectBuilder when file change between invocations (introduced by MNG-6311)</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6533" target="_blank">MNG-6533</a> - <code>ProjectBuilder.build(list_of_projects,...)</code> does not contain MavenProject in exception report</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6543" target="_blank">MNG-6543</a> - Upgrade plexus classworld to support java 9+ <code>ClassLoader.findClass(String moduleName, String name)</code> in Mojos</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6558" target="_blank">MNG-6558</a> - ToolchainsBuildingResult event is not sent on EventSpy</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6577" target="_blank">MNG-6577</a> - pom.xml: Uncaught IllegalArgumentException when parsing unicode entity ref</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6590" target="_blank">MNG-6590</a> - DefaultProjectArtifactsCache java.lang.IllegalStateException: Duplicate artifact resolution result</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6599" target="_blank">MNG-6599</a> - unknown version in model id when version is defined from parent</li>
+</ul>
+
+<h3 id="improvements">Improvements</h3>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6059" target="_blank">MNG-6059</a> - Important use cases not covered, as child.inherit.append.path affects all children</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6159" target="_blank">MNG-6159</a> - Child path adjustments break git scm urls</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6213" target="_blank">MNG-6213</a> - Maven doesn&rsquo;t check the validity of scope value</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6481" target="_blank">MNG-6481</a> - Allow to compile and test Maven with Java 11</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6513" target="_blank">MNG-6513</a> - Replace depreated Plexus javadoc tags with annotations in ITs</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6515" target="_blank">MNG-6515</a> - Fix javadoc build errors under Java 8 and 11</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6520" target="_blank">MNG-6520</a> - Update assembly descriptors to 2.0.0</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6522" target="_blank">MNG-6522</a> - Prepare Maven&rsquo;s Core Integration Test Suite to test with Java 12 and 13-ea</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6572" target="_blank">MNG-6572</a> - use int or long instead of BigIntegers for little numbers in ComparableVersion</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6593" target="_blank">MNG-6593</a> - track input location for super-pom</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6597" target="_blank">MNG-6597</a> - add input location tracking for plugins configuration</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6600" target="_blank">MNG-6600</a> - add input location tracking for default lifecycle bindings executions</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6601" target="_blank">MNG-6601</a> - add input location tracking for site&rsquo;s reportPlugins injected by reports conversion</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6605" target="_blank">MNG-6605</a> - Allow to suppress download messages in interactive mode</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6611" target="_blank">MNG-6611</a> - Update animal-sniffer-maven-plugin to 1.17</li>
+</ul>
+
+<h3 id="wish">Wish</h3>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6571" target="_blank">MNG-6571</a> - Maven memory consumption issue</li>
+</ul>
+
+<h3 id="task">Task</h3>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6538" target="_blank">MNG-6538</a> - Upgrade Maven Artifact Resolver to 1.3.3 to restore API</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6544" target="_blank">MNG-6544</a> - Replace CacheUtils#{eq,hash} with Objects</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6573" target="_blank">MNG-6573</a> - Use latest Maven 3.6.0 to build Maven Core and plugins with ASF CI</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6618" target="_blank">MNG-6618</a> - Maven doesn&rsquo;t export org.slf4j.event.Level</li>
+</ul>
+
+<h3 id="dependency-upgrade">Dependency upgrade</h3>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6526" target="_blank">MNG-6526</a> - Upgrade to Wagon 3.3.1 (from 3.2.0)</li>
+<li><a href="https://issues.apache.org/jira/browse/MNG-6591" target="_blank">MNG-6591</a> - Upgrade to Wagon 3.3.2</li>
+</ul>
+
+<p>The full list of changes can be found in our <a href="https://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12344378&amp;projectId=12316922" target="_blank">issue management system</a>.</p>
+
+<h2 id="complete-release-notes">Complete Release Notes</h2>
+
+<p>See <a href="../../docs/history.html">complete release notes for all versions</a></p>
+
+<ul>
+<li>The Apache Maven Team.</li>
+</ul>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/news'>News</a>, <a class='category' href='/categories/maven'>Maven</a>, <a class='category' href='/categories/maven-releases'>Maven-Releases</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/blog/2019/04/2019-04-12-apache-maven-resolver-ant-task-1-dot-2-0-released/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Apache Maven Resolver Ant Task Version 1.2.0 Released</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/blog/2019/04/2019-04-22-apache-maven-help-plugin-version-3-dot-2-0-released/'>
+        <span class='screen-reader-text'>Next post: </span>Apache Maven Help Plugin Version 3.2.0 Released<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:info@soebes.de' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://gitlab.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Gitlab account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/karl-heinz-marbaise-17a15614' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+  <rect x="2" y="9" width="4" height="12"/>
+  <circle cx="4" cy="4" r="2"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+          <div class='copyright'>
+  <p>SoEBeS &copy; 2004-2019 SoftwareEntwicklung Beratung Schulung </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.0d92f56c.js'></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+
+</html>
+

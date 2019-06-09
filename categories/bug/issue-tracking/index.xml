@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug/Issue Tracking on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/bug/issue-tracking/</link>
+    <description>Recent content in Bug/Issue Tracking on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Apr 2009 21:45:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/bug/issue-tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Redmine 0.8.3 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-04-09-redmine-0-8-3-erschienen/</link>
+      <pubDate>Thu, 09 Apr 2009 21:45:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-04-09-redmine-0-8-3-erschienen/</guid>
+      <description>Es steht nun wieder eine aktualisierte Version von Redmine, dem Projekt Management Tool zur Verfügung. Das Change Log gibt genau darüber Auskunft was geändert bzw. verbessert wurde. Der Download steht über Rubyforge zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Redmine Release 0.8.2 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-03-08-redmine-release-0-8-2-erschienen/</link>
+      <pubDate>Sun, 08 Mar 2009 20:11:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-03-08-redmine-release-0-8-2-erschienen/</guid>
+      <description>Es ist nun eine neue Release von Redmine 0.8.2 erschienen. Redmine ist eine flexible Projekt Management Web Applikation, die unter der Verwendung von Ruby on Rails implementiert ist. Redmine bietet Unterstützung für unterschiedliche Datenbanken und Versionskontroll Werkzeuge (Subversion, Mercurial, Git etc.). Der ChangeLog gibt genaue Auskunft über die gemachten Änderungen.</description>
+    </item>
+    
+    <item>
+      <title>Redmine 0.8.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-02-15-redmine-0-8-1-erschienen/</link>
+      <pubDate>Sun, 15 Feb 2009 16:16:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-15-redmine-0-8-1-erschienen/</guid>
+      <description>Das Redmine Team hat bekannt gegeben, dass eine neue Release 0.8.1 der Projekt Management Software vorliegt. Der ChangeLog gibt die Übersicht über die einzelnen Verbesserungen etc. Wen die genauen Änderungen interessieren, kann hier die genaue Liste der Änderungen anschauen.</description>
+    </item>
+    
+    <item>
+      <title>Redmine 0.8.0 und 0.7.4 Erschienen</title>
+      <link>http://localhost:1313/blog/2008/2008-12-30-redmine-0-8-0-und-0-7-4-erschienen/</link>
+      <pubDate>Tue, 30 Dec 2008 13:18:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-30-redmine-0-8-0-und-0-7-4-erschienen/</guid>
+      <description>Das Redmine Team hat bekannt gegeben, dass die neue Release 0.8.0 und die Release 0.7.4 zur Verfügung stehen. Die Download Archive stehen auf Rubyforge zur Verfügung. Im ChangeLog kann man sich eine Übersicht über die gemachten Änderungen und oder Erweiterungen verschaffen. Wenn Ihnen der Deailierungsgrad nicht Ausreicht können Sie sich hier die genaue Liste der Patches, Bug Fixes etc. anschauen.</description>
+    </item>
+    
+    <item>
+      <title>Redmine 0.8 RC1</title>
+      <link>http://localhost:1313/blog/2008/2008-12-07-redmine-0-8-rc1/</link>
+      <pubDate>Sun, 07 Dec 2008 15:51:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-12-07-redmine-0-8-rc1/</guid>
+      <description>Das Redmine Team hat bekannt gegeben, dass eine neue Release der Projekt Management Software Redmine vorliegt. Redmine ist in Ruby implementiert unter der Verwendung des Ruby on Rails Frameworks.
+Redmine bietet grundsätzlich einen Multiprojekt Ansatz. Das bedeutet, dass mit einer Installation beliebig viele Projekte verwaltet werden können. Es gibt einen Administrationsbereich, der projekt Übergreifend die Einstellungen der Plattform und der verschiedenen Projekte bietet.
+Im Change Log ist eine Übersicht der durchgeführten Änderungen im Vergleich zur Release 0.</description>
+    </item>
+    
+    <item>
+      <title>Trac Maintenance Release 0.11.2</title>
+      <link>http://localhost:1313/blog/2008/2008-11-09-trac-maintenance-release-0-11-2/</link>
+      <pubDate>Sun, 09 Nov 2008 11:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-09-trac-maintenance-release-0-11-2/</guid>
+      <description>Das Trac Team hat eine neue maintenance Release 0.11.2 heraus gebracht, die einige Sicherheits Fixes beinhaltet. Es wird geraten die entsprechedenden Installation zu aktualisieren.</description>
+    </item>
+    
+    <item>
+      <title>Trac 0.11 Release</title>
+      <link>http://localhost:1313/blog/2008/2008-06-22-trac-0-11-release/</link>
+      <pubDate>Sun, 22 Jun 2008 18:21:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-22-trac-0-11-release/</guid>
+      <description>Das Trac Team hat die neue Release 0.11 der Collaboration Software Trac heraus gebracht.
+Zu den Neuigkeiten zählen unter anderen:
+ + Neue Template Engine (Genshi) + Neuer Konfigurierbarer [Workflow](http://trac.edgewall.org/wiki/TracWorkflow &#34;Workflow&#34;) im Ticket Subsystem + Verbesserte Kontrolle der Berechtigungen + Support für [Pygements](http://pygments.pocoo.org/ &#34;Pygements&#34;) als default Syntax Highlighter + Verbesserter Repository browser (&#34;blame&#34; Unterstützung, dynamische in-place Erweiterung von Verzeichnissen) + Verbessertes Benutzer Einstellungssystem, darunter die Möglichkeit für jeden Benutzer seine eigene Zeitzone einzustellen, Deaktivierung der Zugriffstasten + WebAdmin PlugIn ist nun integraler Bestandteil von Trac  und vieles Mehr&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Trac 0.10.5 Security Release</title>
+      <link>http://localhost:1313/blog/2008/2008-06-22-trac-0-10-5-security-release/</link>
+      <pubDate>Sun, 22 Jun 2008 18:17:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-06-22-trac-0-10-5-security-release/</guid>
+      <description>Das Trac Team hat eine neue Security Release heraus gebracht. Es wird jedem geraten ein entsprechendes Update durchzuführen.
+Die Release 0.10.5 enthält zwei Sicherheits Fixes und einige Bug Fixes:
+ Cross Site Redirection vulnerability Wiki Engine XSS vulnerability PostgreSQL 8.3 Unterstützung FineGrainedPermissions für Repositories Problembehebung bzgl. Repository synchronisation  </description>
+    </item>
+    
+    <item>
+      <title>trac 0.11b1 Release</title>
+      <link>http://localhost:1313/blog/2007/2007-12-18-trac-0-11b1-release/</link>
+      <pubDate>Tue, 18 Dec 2007 22:10:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-18-trac-0-11b1-release/</guid>
+      <description>Das Trac Team hat nun eine Release 0.11b1 veröffentlicht. Der download findet man unter http://trac.edgewall.org/wiki/TracDownload. Die Release Notes geben aufschluss über die Erweiterungen. Einige neue Features:
+ Neue Template Engine zur Erzeugung von Inhalten (Genshi) Konfigurierbarer Workflow im Ticket Subsystem Verbesserung der Granularität von Berechtigungen Unterstützung von Pygments als default Syntax highlighter Erweiterter Repository Browser (blame Unterstützung, Dynamische Erweiterung von Verzeichnissen) WebAdmin PlugIn ist nun ein integraler Bestandteil von Trac  </description>
+    </item>
+    
+    <item>
+      <title>Scmbug 0.19.20 (Default)</title>
+      <link>http://localhost:1313/blog/2007/2007-08-01-scmbug-0-19-20-default/</link>
+      <pubDate>Wed, 01 Aug 2007 21:51:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-08-01-scmbug-0-19-20-default/</guid>
+      <description>Es gibt wieder eine Neue Release von Scmbug, der Integration Software Konfigurations Management mit Bug-Tracking. Es ist sozu sagen der Leim zwischen Versionkontrolle (z.B. CVS/CVSNT, Subverison und Git) und einem Bug-Tracking System (z.B. Bugzilla, Mantis, Request Tracker, Test Director).</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.9</title>
+      <link>http://localhost:1313/blog/2007/2007-07-22-java-gforge-soap-interface-release-0-0-9/</link>
+      <pubDate>Sun, 22 Jul 2007 22:43:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-22-java-gforge-soap-interface-release-0-0-9/</guid>
+      <description>Es gibt nun wieder ein Update. Es ist nun möglich eine Datei via JaGoSI auf GForge zu übertragen und dort ein Package bzw. eine Release im FRS Bereich zu erzeugen. Es wurden auch noch einige Bugs behoben. Die Übersicht für den Milestone 0.0.9. Die genauen Änderungen für den einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.8</title>
+      <link>http://localhost:1313/blog/2007/2007-07-13-java-gforge-soap-interface-release-0-0-8/</link>
+      <pubDate>Fri, 13 Jul 2007 02:17:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-13-java-gforge-soap-interface-release-0-0-8/</guid>
+      <description>Es gibt nun wieder ein Update. Es sind nun alle Funktionen implementiert, die das GForge SOAP API bietet. Hierbei wurden noch einige Fehler im PHP Code gefunden und entsprechend korrigiert. Die Übersicht für den Milestone 0.0.8. Die genauen Änderungen für den einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.7</title>
+      <link>http://localhost:1313/blog/2007/2007-07-08-java-gforge-soap-interface-release-0-0-7/</link>
+      <pubDate>Sun, 08 Jul 2007 12:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-08-java-gforge-soap-interface-release-0-0-7/</guid>
+      <description>Es gibt nun wieder ein Update. Der Bereich des FRS (File Release System) von GForge ist nun implementiert. Die Übersicht für den Milestone 0.0.7 können eingesehen werden. Die genauen Änderungen für die einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.6</title>
+      <link>http://localhost:1313/blog/2007/2007-07-03-java-gforge-soap-interface-release-0-0-6/</link>
+      <pubDate>Tue, 03 Jul 2007 21:02:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-03-java-gforge-soap-interface-release-0-0-6/</guid>
+      <description>Es gibt nun wieder ein Update. Einige neuen Funktionen, das Build System wurde überarbeitet (Maven 2 als auch Ant). Die Übersicht für den Milestone 0.0.5 und den Milestone 0.0.6 können eingesehen werden. Die genauen Änderungen für die einzelnen Milestone kann man hier bzw. hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.4</title>
+      <link>http://localhost:1313/blog/2007/2007-06-26-java-gforge-soap-interface-release-0-0-4/</link>
+      <pubDate>Tue, 26 Jun 2007 09:29:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-26-java-gforge-soap-interface-release-0-0-4/</guid>
+      <description>Es gibt nun wieder ein Update. Einige neuen Funktionen. Es ist nun möglich einen Tracker Eintrag (Bug, Patch etc.) per JaGoSI zu erzeugen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface First Public Release 0.0.3</title>
+      <link>http://localhost:1313/blog/2007/2007-06-17-java-gforge-soap-interface-first-public-release-0-0-3/</link>
+      <pubDate>Sun, 17 Jun 2007 22:40:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-17-java-gforge-soap-interface-first-public-release-0-0-3/</guid>
+      <description>Es gibt nun JaGoSI als Zugriffsmittel auf die GForge Kollaborationsplatfform.</description>
+    </item>
+    
+    <item>
+      <title>Trac 0.10.4 Bug Fix Release</title>
+      <link>http://localhost:1313/blog/2007/2007-04-20-trac-0-10-4-bug-fix-release/</link>
+      <pubDate>Fri, 20 Apr 2007 19:54:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-04-20-trac-0-10-4-bug-fix-release/</guid>
+      <description>Es ist eine Bug Fix Release von Trac erschienen. Die neueste Release kann im Download Bereich bezogen werden. Die vollständige Liste der geschlossenen Tickets kann hier eingesehen werden.</description>
+    </item>
+    
+    <item>
+      <title>Subversive 1.1.0 Release erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-03-13-subversive-1-1-0-release-erschienen/</link>
+      <pubDate>Tue, 13 Mar 2007 18:39:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-13-subversive-1-1-0-release-erschienen/</guid>
+      <description>Heute ist die Release 1.1.0 von Subversive erschienen. Das Subversive PlugIn ist für die Eclipse 3.2 / Callisto Releases vorgesehen. Die Eclipse Update &amp;amp; Download Site, der ChangeLog und die Release Notes sind wie üblich auf der Polarion Community Seite zu finden. Die Haupt Ziel der Release 1.1.0 war die Einführung der Eclipse 3.1&amp;frasl;3.2 Features und die Integration mit Mylar und dem Buckminster Projekt.</description>
+    </item>
+    
+    <item>
+      <title>Trac 0.10.3.1 Sercurity Update</title>
+      <link>http://localhost:1313/blog/2007/2007-03-09-trac-0-10-3-1-sercurity-update/</link>
+      <pubDate>Fri, 09 Mar 2007 06:20:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-09-trac-0-10-3-1-sercurity-update/</guid>
+      <description>Es ist ein Sicherheitsupdate von Trac erschienen. Die neueste Release kann im Download Bereich bezogen werden. DIe genaue Beschreibung der Sicherheitslücke ist im ChangeLog beschrieben.</description>
+    </item>
+    
+    <item>
+      <title>DITrack Release 0.5 erschienen</title>
+      <link>http://localhost:1313/blog/2007/2007-03-07-ditrack-release-0-5-erschienen/</link>
+      <pubDate>Wed, 07 Mar 2007 07:50:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-03-07-ditrack-release-0-5-erschienen/</guid>
+      <description>DITrack ist ein freier, open source, verteilter Issue (bug, defect, ticket) Tracking System welches Subversion als Backend nutzt anstatt einer Datenbank. Geschrieben ist das Ganze in Python und läuft in einer Unix (BDS, Linux, MacOS X) Umgebung.</description>
+    </item>
+    
+  </channel>
+</rss>

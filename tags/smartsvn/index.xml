@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SmartSVN on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/smartsvn/</link>
+    <description>Recent content in SmartSVN on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 27 Nov 2008 18:57:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/smartsvn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SmartSVN 5 - RC3</title>
+      <link>http://localhost:1313/blog/2008/2008-11-27-smartsvn-5-rc3/</link>
+      <pubDate>Thu, 27 Nov 2008 18:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-27-smartsvn-5-rc3/</guid>
+      <description>Es gibt nun eine neue Release des SmartSVN 5 Clients (RC4). Im Rahmen des Early Access Programms, stellt Syntevo die frei nutzbare fundational als auch die kommerzielle Professional Release vor. Der Angegebene Vergleich bezieht sich noch auf die Release 4 von SmartSVN.
+Neue Features sind beispielsweise eine Unterstützung für Merge/Rename von Dateien
+Erweiterungen und Verbesserungen im Bereich Kopieren von Repository zu Repository, Repository Browser, Unterstützung für die Tiefen Option in der Arbeitskopie.</description>
+    </item>
+    
+  </channel>
+</rss>

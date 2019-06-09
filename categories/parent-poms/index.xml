@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parent-poms on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/parent-poms/</link>
+    <description>Recent content in Parent-poms on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Sep 2018 22:05:33 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/parent-poms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Maven Parent POM Version 33 Released</title>
+      <link>http://localhost:1313/blog/2018/09/2018-09-15-apache-maven-parent-pom-version-33-released/</link>
+      <pubDate>Sat, 15 Sep 2018 22:05:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/09/2018-09-15-apache-maven-parent-pom-version-33-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Parent POMs Version 33
+Maven Parent POMs include Maven Parent POM itself, but also Maven Plugins Parent POM, Maven Shared Components Parent POM, Maven Skins Parent POM and Maven Doxia Tools Parent POM.
+https://maven.apache.org/pom/maven/
+You should specify the version in your project as parent like the following:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-parent&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;33&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; You can download the appropriate sources etc.</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Parent POM Version 32 Released</title>
+      <link>http://localhost:1313/blog/2018/07/2018-07-20-apache-maven-parent-pom-version-32-released/</link>
+      <pubDate>Fri, 20 Jul 2018 10:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/07/2018-07-20-apache-maven-parent-pom-version-32-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Parent POMs Version 32
+Maven Parent POMs include Maven Parent POM itself, but also Maven Plugins Parent POM, Maven Shared Components Parent POM, Maven Skins Parent POM and Maven Doxia Tools Parent POM.
+https://maven.apache.org/pom/maven/
+You should specify the version in your project as parent like the following:
+&amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-parent&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;32&amp;lt;/version&amp;gt; &amp;lt;/parent&amp;gt; You can download the appropriate sources etc.</description>
+    </item>
+    
+  </channel>
+</rss>

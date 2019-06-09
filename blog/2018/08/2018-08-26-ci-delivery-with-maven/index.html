@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='Based on todays requirements it is needed to do a continuous delivery of your artifacts by each change on your master (Git)/trunk(SVN). The question is what you need to achieve this with Maven?
+Usually you are using so called SNAPSHOT versions which means your version looks like 1.2.3-SNAPSHOT and indicates that you are currently working towards the release version 1.2.3. Afterwards you continue with the next snapshot version like 1.2.4-SNAPSHOT and so on.'>
+<meta name='theme-color' content='#6699cc'>
+
+<meta property='og:title' content='Continuous Delivery with Maven • Karl Heinz Marbaise'>
+<meta property='og:description' content='Based on todays requirements it is needed to do a continuous delivery of your artifacts by each change on your master (Git)/trunk(SVN). The question is what you need to achieve this with Maven?
+Usually you are using so called SNAPSHOT versions which means your version looks like 1.2.3-SNAPSHOT and indicates that you are currently working towards the release version 1.2.3. Afterwards you continue with the next snapshot version like 1.2.4-SNAPSHOT and so on.'>
+<meta property='og:url' content='http://localhost:1313/blog/2018/08/2018-08-26-ci-delivery-with-maven/'>
+<meta property='og:site_name' content='A coders, hackers heaven.....Hm...I do not think so...'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/d9cd3f93adbfb7d88eb68f903aa22a51?s=256'><meta property='article:section' content='Blog'><meta property='article:published_time' content='2018-08-26T17:15:12Z'/><meta property='article:modified_time' content='2018-08-26T17:15:12Z'/><meta name='twitter:card' content='summary'><meta name='twitter:creator' content='@khmarbaise'>
+
+<meta name="generator" content="Hugo 0.40.3" />
+
+  <title>Continuous Delivery with Maven • Karl Heinz Marbaise</title>
+  <link rel='canonical' href='http://localhost:1313/blog/2018/08/2018-08-26-ci-delivery-with-maven/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.67e9c12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6699cc;}
+</style>
+
+</head>
+
+
+<body class='page type-blog layout-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div>
+      <img class="soebeslogo" src='/images/weblogo.gif'>
+    </div>
+    
+    <h2 class='title site-title '>
+     
+    </h2>
+    <div class='desc'>
+    
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul><li class='item'>
+        <a href='/impressum/'>Impressum</a>
+      </li><li class='item'>
+        <a href='/categories/'>Categories</a>
+      </li><li class='item'>
+        <a href='/categories/'>Maven</a>
+      </li><li class='item'>
+        <a href='/categories/maven-best-practice/'>Maven Best Practices</a>
+      </li></ul>
+  </div>
+</nav>
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>A coders, hackers heaven.....Hm...I do not think so...</p><p class='desc site-desc'></p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Continuous Delivery with Maven</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2018-08-26T17:15:12Z'>2018, Aug 26</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/khmarbaise'>Karl Heinz Marbaise</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+6 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  <p>Based on todays requirements it is needed to do a continuous delivery of
+your artifacts by each change on your master (Git)/trunk(SVN). The question
+is what you need to achieve this with Maven?</p>
+
+<p>Usually you are using so called <code>SNAPSHOT</code> versions which means your version
+looks like <code>1.2.3-SNAPSHOT</code> and indicates that you are currently working
+towards the release version <code>1.2.3</code>. Afterwards you continue with the next
+snapshot version like <code>1.2.4-SNAPSHOT</code> and so on.
+Depending on your environment this has been changed which means that each change
+you have made on master (Git) you need to produce a new release version which
+means <code>1.2.3</code> and next will be <code>1.2.4</code>. The development will be done on branches
+where you might need a SNAPSHOT version.</p>
+
+<p>Let us take a look into a single module pom file which looks like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;project</span>
+  <span style="color:#a6e22e">xmlns=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0&#34;</span>
+  <span style="color:#a6e22e">xmlns:xsi=</span><span style="color:#e6db74">&#34;http://www.w3.org/2001/XMLSchema-instance&#34;</span>
+  <span style="color:#a6e22e">xsi:schemaLocation=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&#34;</span><span style="color:#f92672">&gt;</span>
+
+  <span style="color:#f92672">&lt;modelVersion&gt;</span>4.0.0<span style="color:#f92672">&lt;/modelVersion&gt;</span>
+
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.smpp<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>smpp<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>4.0.1<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+  <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+  <span style="color:#f92672">&lt;artifactId&gt;</span>domain<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  <span style="color:#f92672">&lt;version&gt;</span>1.2.3-SNAPSHOT<span style="color:#f92672">&lt;/version&gt;</span>
+...
+<span style="color:#f92672">&lt;/project&gt;</span></code></pre></div>
+<p>The version is defined with <code>1.2.3-SNAPSHOT</code> if you now call:</p>
+
+<pre><code>mvn clean package
+</code></pre>
+
+<p>You will produce artifacts which look like <code>domain-1.2.3-SNAPSHOT.jar</code>.
+Unfortunately this kind of artifact is something which can change over the time
+based on Maven philosophy. That means if you now make a change in your code
+and just do it again <code>mvn clean package</code> it will create the
+same <code>domain-1.2.3-SNAPSHOT.jar</code> file. There is no real difference if you
+do an <code>mvn clean install</code> instead. This will only install the created
+artifact into your local cache <code>$HOME/.m2/repository</code>. Furthermore if you do
+<code>mvn clean deploy</code> the difference is only that each time you do this on your repository
+manager the naming schema is a little bit different which means the artifact will
+look like <code>domain-1.2.3-20180821.202345-1.jar</code>. So in the end the artifact contains
+a time stamp. But the most important thing is that <code>SNAPSHOT</code> versions
+are not immutable as you might have already realized based on the above.</p>
+
+<p>So the only way to create real immutable versions is to create releases from Maven
+point of view. This means you have to use a version without <code>-SNAPSHOT</code>.
+So in consequence you have a pom file which looks like the following:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;project</span>
+  <span style="color:#a6e22e">xmlns=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0&#34;</span>
+  <span style="color:#a6e22e">xmlns:xsi=</span><span style="color:#e6db74">&#34;http://www.w3.org/2001/XMLSchema-instance&#34;</span>
+  <span style="color:#a6e22e">xsi:schemaLocation=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&#34;</span><span style="color:#f92672">&gt;</span>
+
+  <span style="color:#f92672">&lt;modelVersion&gt;</span>4.0.0<span style="color:#f92672">&lt;/modelVersion&gt;</span>
+
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.smpp<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>smpp<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>4.0.1<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+  <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+  <span style="color:#f92672">&lt;artifactId&gt;</span>domain<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  <span style="color:#f92672">&lt;version&gt;</span>1.2.3<span style="color:#f92672">&lt;/version&gt;</span>
+...
+<span style="color:#f92672">&lt;/project&gt;</span></code></pre></div>
+<p>So you can do a <code>mvn clean deploy</code> and you have created an immutable
+release artifact <code>domain-1.2.3.jar</code>. If you try to do this a second time your
+repository manager will tell you that this does not work cause by definition
+releases are immutable which means you can not overwrite them. So the
+consequence is if you have made a change/mistake/fix to your project you have to
+change the version number. Ok, not very complicated just change the version
+to <code>1.2.4</code> commit and do another <code>mvn clean deploy</code>? So good so far.</p>
+
+<p>Some people do not like the commits where only a version has been changed.
+So the question is: Is there a more convenient way to handle this?</p>
+
+<p>Starting with <a href="https://maven.apache.org/docs/3.5.0/release-notes.html" target="_blank">Maven 3.5.0+</a>(I recommend to use the most recent version) there is a
+more convenient way to handle that. You can write your pom file like the following:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;project</span>
+  <span style="color:#a6e22e">xmlns=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0&#34;</span>
+  <span style="color:#a6e22e">xmlns:xsi=</span><span style="color:#e6db74">&#34;http://www.w3.org/2001/XMLSchema-instance&#34;</span>
+  <span style="color:#a6e22e">xsi:schemaLocation=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&#34;</span><span style="color:#f92672">&gt;</span>
+
+  <span style="color:#f92672">&lt;modelVersion&gt;</span>4.0.0<span style="color:#f92672">&lt;/modelVersion&gt;</span>
+
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.smpp<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>smpp<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>4.0.1<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+  <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+  <span style="color:#f92672">&lt;artifactId&gt;</span>domain<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  <span style="color:#f92672">&lt;version&gt;</span>${revision}<span style="color:#f92672">&lt;/version&gt;</span>
+
+...
+<span style="color:#f92672">&lt;/project&gt;</span></code></pre></div>
+<p>So now you can simply create release artifacts by using the following:</p>
+
+<pre><code>mvn -Drevision=1.2.3 clean package
+</code></pre>
+
+<p>This will only create the artifacts in the <code>target</code> directory of your project.
+If you like to deploy them into a repository there are <a href="https://www.mojohaus.org/flatten-maven-plugin/" target="_blank">enhancements needed</a>:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;project</span>
+  <span style="color:#a6e22e">xmlns=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0&#34;</span>
+  <span style="color:#a6e22e">xmlns:xsi=</span><span style="color:#e6db74">&#34;http://www.w3.org/2001/XMLSchema-instance&#34;</span>
+  <span style="color:#a6e22e">xsi:schemaLocation=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&#34;</span><span style="color:#f92672">&gt;</span>
+
+  <span style="color:#f92672">&lt;modelVersion&gt;</span>4.0.0<span style="color:#f92672">&lt;/modelVersion&gt;</span>
+
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.smpp<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>smpp<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>4.0.1<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+  <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+  <span style="color:#f92672">&lt;artifactId&gt;</span>domain<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  <span style="color:#f92672">&lt;version&gt;</span>${revision}<span style="color:#f92672">&lt;/version&gt;</span>
+
+  <span style="color:#f92672">&lt;build&gt;</span>
+    <span style="color:#f92672">&lt;plugins&gt;</span>
+      <span style="color:#f92672">&lt;plugin&gt;</span>
+        <span style="color:#f92672">&lt;groupId&gt;</span>org.codehaus.mojo<span style="color:#f92672">&lt;/groupId&gt;</span>
+        <span style="color:#f92672">&lt;artifactId&gt;</span>flatten-maven-plugin<span style="color:#f92672">&lt;/artifactId&gt;</span>
+        <span style="color:#f92672">&lt;version&gt;</span>1.0.0<span style="color:#f92672">&lt;/version&gt;</span>
+        <span style="color:#f92672">&lt;configuration&gt;</span>
+          <span style="color:#f92672">&lt;updatePomFile&gt;</span>true<span style="color:#f92672">&lt;/updatePomFile&gt;</span>
+        <span style="color:#f92672">&lt;/configuration&gt;</span>
+        <span style="color:#f92672">&lt;executions&gt;</span>
+          <span style="color:#f92672">&lt;execution&gt;</span>
+            <span style="color:#f92672">&lt;id&gt;</span>flatten<span style="color:#f92672">&lt;/id&gt;</span>
+            <span style="color:#f92672">&lt;phase&gt;</span>process-resources<span style="color:#f92672">&lt;/phase&gt;</span>
+            <span style="color:#f92672">&lt;goals&gt;</span>
+              <span style="color:#f92672">&lt;goal&gt;</span>flatten<span style="color:#f92672">&lt;/goal&gt;</span>
+            <span style="color:#f92672">&lt;/goals&gt;</span>
+          <span style="color:#f92672">&lt;/execution&gt;</span>
+          <span style="color:#f92672">&lt;execution&gt;</span>
+            <span style="color:#f92672">&lt;id&gt;</span>flatten.clean<span style="color:#f92672">&lt;/id&gt;</span>
+            <span style="color:#f92672">&lt;phase&gt;</span>clean<span style="color:#f92672">&lt;/phase&gt;</span>
+            <span style="color:#f92672">&lt;goals&gt;</span>
+              <span style="color:#f92672">&lt;goal&gt;</span>clean<span style="color:#f92672">&lt;/goal&gt;</span>
+            <span style="color:#f92672">&lt;/goals&gt;</span>
+          <span style="color:#f92672">&lt;/execution&gt;</span>
+        <span style="color:#f92672">&lt;/executions&gt;</span>
+      <span style="color:#f92672">&lt;/plugin&gt;</span>
+    <span style="color:#f92672">&lt;/plugins&gt;</span>
+  <span style="color:#f92672">&lt;/build&gt;</span>
+<span style="color:#f92672">&lt;/project&gt;</span></code></pre></div>
+<p>So from now on you can create a release by using the following command:</p>
+
+<pre><code>mvn -Drevision=1.2.3 clean deploy
+</code></pre>
+
+<p>But of course a version can only be used once. So if you like to make another
+release you have to change the version but now it is really easy:</p>
+
+<pre><code>mvn -Drevision=1.2.4 clean deploy
+</code></pre>
+
+<p>Currently there are three properties supported which can be used inside a version
+tag:</p>
+
+<ol>
+<li>revision</li>
+<li>sha1</li>
+<li>changelist</li>
+</ol>
+
+<p>Only these three properties can be used inside a version tag. You can of course
+use combinations of them like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;version&gt;</span>${revision}${sha1}${changelist}<span style="color:#f92672">&lt;/version&gt;</span></code></pre></div>
+<p>If you use different properties you will get a warning by Maven. I strongly encourage users to take
+notice of the warnings and of course clean them up.</p>
+
+<p>So what about a multi module build? There you can use them as well. The parent
+will look like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;project</span>
+  <span style="color:#a6e22e">xmlns=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0&#34;</span>
+  <span style="color:#a6e22e">xmlns:xsi=</span><span style="color:#e6db74">&#34;http://www.w3.org/2001/XMLSchema-instance&#34;</span>
+  <span style="color:#a6e22e">xsi:schemaLocation=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&#34;</span><span style="color:#f92672">&gt;</span>
+
+  <span style="color:#f92672">&lt;modelVersion&gt;</span>4.0.0<span style="color:#f92672">&lt;/modelVersion&gt;</span>
+
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.smpp<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>smpp<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>4.0.1<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+  <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+  <span style="color:#f92672">&lt;artifactId&gt;</span>parent<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  <span style="color:#f92672">&lt;version&gt;</span>${revision}<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;packaging&gt;</span>pom<span style="color:#f92672">&lt;/packaging&gt;</span>
+  ..
+  [enhanced described earlier]
+  ..
+  <span style="color:#f92672">&lt;modules&gt;</span>
+    <span style="color:#f92672">&lt;module&gt;</span>webgui<span style="color:#f92672">&lt;/module&gt;</span>
+    <span style="color:#f92672">&lt;module&gt;</span>app<span style="color:#f92672">&lt;/module&gt;</span>
+    <span style="color:#f92672">&lt;module&gt;</span>domain<span style="color:#f92672">&lt;/module&gt;</span>
+    <span style="color:#f92672">&lt;module&gt;</span>service<span style="color:#f92672">&lt;/module&gt;</span>
+    <span style="color:#f92672">&lt;module&gt;</span>service-client<span style="color:#f92672">&lt;/module&gt;</span>
+    <span style="color:#f92672">&lt;module&gt;</span>appasm<span style="color:#f92672">&lt;/module&gt;</span>
+    <span style="color:#f92672">&lt;module&gt;</span>assembly<span style="color:#f92672">&lt;/module&gt;</span>
+    <span style="color:#f92672">&lt;module&gt;</span>shade<span style="color:#f92672">&lt;/module&gt;</span>
+  <span style="color:#f92672">&lt;/modules&gt;</span>
+<span style="color:#f92672">&lt;/project&gt;</span></code></pre></div>
+<p>and a child for example <code>domain</code> will look like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;project</span>
+  <span style="color:#a6e22e">xmlns=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0&#34;</span>
+  <span style="color:#a6e22e">xmlns:xsi=</span><span style="color:#e6db74">&#34;http://www.w3.org/2001/XMLSchema-instance&#34;</span>
+  <span style="color:#a6e22e">xsi:schemaLocation=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&#34;</span><span style="color:#f92672">&gt;</span>
+
+  <span style="color:#f92672">&lt;modelVersion&gt;</span>4.0.0<span style="color:#f92672">&lt;/modelVersion&gt;</span>
+
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>parent<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>${revision}<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+
+  <span style="color:#f92672">&lt;artifactId&gt;</span>domain<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  ..
+<span style="color:#f92672">&lt;/project&gt;</span></code></pre></div>
+<p>You can now build the whole project from the root level by using the command:</p>
+
+<pre><code>mvn -Drevision=1.7.0-SNAPSHOT clean package
+</code></pre>
+
+<p>The output will look like this:</p>
+
+<pre><code>[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO]
+[INFO] parent                                                             [pom]
+[INFO] domain                                                             [jar]
+[INFO] service-client                                                     [jar]
+[INFO] webgui                                                             [war]
+[INFO] service                                                            [ejb]
+[INFO] app                                                                [ear]
+[INFO] appasm                                                             [pom]
+[INFO] shade                                                              [jar]
+[INFO] assembly                                                           [pom]
+[INFO]
+[INFO] ------------------&lt; com.soebes.examples.j2ee:parent &gt;-------------------
+[INFO] Building parent 1.7.0-SNAPSHOT                                     [1/9]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO]
+....
+[INFO]
+[INFO] -----------------&lt; com.soebes.examples.j2ee:assembly &gt;------------------
+[INFO] Building assembly 1.7.0-SNAPSHOT                                   [9/9]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:3.1.0:clean (default-clean) @ assembly ---
+[INFO] Deleting /Users/kama/ws-git/javaee/assembly/target
+[INFO]
+[INFO] --- flatten-maven-plugin:1.0.0:clean (flatten.clean) @ assembly ---
+[INFO] Deleting /Users/kama/ws-git/javaee/assembly/.flattened-pom.xml
+[INFO]
+[INFO] --- jacoco-maven-plugin:0.8.1:prepare-agent (default) @ assembly ---
+[INFO] argLine set to -javaagent:/Users/kama/.m2/repository/org/jacoco/org.jacoco.agent/0.8.1/org.jacoco.agent-0.8.1-runtime.jar=destfile=/Users/kama/ws-git/javaee/assembly/target/jacoco.exec
+[INFO]
+[INFO] --- flatten-maven-plugin:1.0.0:flatten (flatten) @ assembly ---
+[INFO] Generating flattened POM of project com.soebes.examples.j2ee:assembly:pom:1.7.0-SNAPSHOT...
+[INFO]
+[INFO] --- maven-site-plugin:3.7.1:attach-descriptor (attach-descriptor) @ assembly ---
+[INFO] No site descriptor found: nothing to attach.
+[INFO]
+[INFO] --- maven-assembly-plugin:3.0.0:single (assemblies) @ assembly ---
+[INFO] Reading assembly descriptor: jar-with-prod.xml
+[INFO] Reading assembly descriptor: assembly.xml
+[INFO] Reading assembly descriptor: jar-with-dev.xml
+[INFO] Building jar: /Users/kama/ws-git/javaee/assembly/target/assembly-1.7.0-SNAPSHOT-prod.jar
+[INFO] Building zip: /Users/kama/ws-git/javaee/assembly/target/assembly-1.7.0-SNAPSHOT-archive.zip
+[INFO] Building jar: /Users/kama/ws-git/javaee/assembly/target/assembly-1.7.0-SNAPSHOT-dev.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] parent 1.7.0-SNAPSHOT .............................. SUCCESS [  1.535 s]
+[INFO] domain ............................................. SUCCESS [  0.876 s]
+[INFO] service-client ..................................... SUCCESS [  0.111 s]
+[INFO] webgui ............................................. SUCCESS [  0.474 s]
+[INFO] service ............................................ SUCCESS [  0.454 s]
+[INFO] app ................................................ SUCCESS [  0.282 s]
+[INFO] appasm ............................................. SUCCESS [  0.237 s]
+[INFO] shade .............................................. SUCCESS [  0.443 s]
+[INFO] assembly 1.7.0-SNAPSHOT ............................ SUCCESS [  1.238 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 6.292 s
+[INFO] Finished at: 2018-08-26T15:57:12+02:00
+[INFO] ------------------------------------------------------------------------
+</code></pre>
+
+<p>So it is now really easy to create a release from the whole project by using the following
+command:</p>
+
+<pre><code>mvn -Drevision=1.7.0 clean deploy
+</code></pre>
+
+<p>This would result in a release deployed to a repository manager.
+So now let us take a look onto using it in a continious integration solution like Jenkins.
+On Jenkins you have often the situation to produce artifacts on a branch base (maybe SNAPSHOT
+based to be able to deploy them to test environments).
+So you can combine the properties like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;project</span>
+  <span style="color:#a6e22e">xmlns=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0&#34;</span>
+  <span style="color:#a6e22e">xmlns:xsi=</span><span style="color:#e6db74">&#34;http://www.w3.org/2001/XMLSchema-instance&#34;</span>
+  <span style="color:#a6e22e">xsi:schemaLocation=</span><span style="color:#e6db74">&#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&#34;</span><span style="color:#f92672">&gt;</span>
+
+  <span style="color:#f92672">&lt;modelVersion&gt;</span>4.0.0<span style="color:#f92672">&lt;/modelVersion&gt;</span>
+
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.smpp<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>smpp<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>4.0.1<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+  <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+  <span style="color:#f92672">&lt;artifactId&gt;</span>domain<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  <span style="color:#f92672">&lt;version&gt;</span>${revision}${sha1}${changelist}<span style="color:#f92672">&lt;/version&gt;</span>
+
+  <span style="color:#f92672">&lt;properties&gt;</span>
+    <span style="color:#f92672">&lt;revision&gt;</span>1.0.0<span style="color:#f92672">&lt;/revision&gt;</span>
+    <span style="color:#f92672">&lt;sha1/&gt;</span>
+    <span style="color:#f92672">&lt;changelist/&gt;</span>
+  <span style="color:#f92672">&lt;/properties&gt;</span>
+...
+<span style="color:#f92672">&lt;/project&gt;</span></code></pre></div>
+<p>In your jenkins pipeline you can extract the branch name and insert it into the build call like this</p>
+
+<pre><code>mvn -Dsha1=-BRANCHNAME -Dchangelist=-SNAPSHOT clean deploy
+</code></pre>
+
+<p>This approach has the advantage that on each branch you are using a different version which
+are distinguished by the <code>-BRANCHNAME</code> and those versions are snapshots. This is convenient
+cause, all repositoy managers have support to delete snapshot versions after some time automatically.</p>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/maven'>Maven</a>, <a class='category' href='/categories/automation'>Automation</a>, <a class='category' href='/categories/devops'>DevOps</a>, <a class='category' href='/categories/continious-delivery'>Continious Delivery</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/blog/2018/08/2018-08-23-apache-software-foundation-parent-pom-version-21-released/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Apache Software Foundation Parent POM Version 21 Released</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/blog/2018/08/2018-08-31-mojohaus-versions-maven-plugin-version-2-dot-6-released/'>
+        <span class='screen-reader-text'>Next post: </span>MojoHaus Version Maven Plugin Version 2.6 Released<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:info@soebes.de' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://gitlab.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Gitlab account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/karl-heinz-marbaise-17a15614' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+  <rect x="2" y="9" width="4" height="12"/>
+  <circle cx="4" cy="4" r="2"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+          <div class='copyright'>
+  <p>SoEBeS &copy; 2004-2019 SoftwareEntwicklung Beratung Schulung </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.0d92f56c.js'></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+
+</html>
+

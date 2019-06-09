@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repository Manager on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/repository-manager/</link>
+    <description>Recent content in Repository Manager on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 15 May 2016 15:14:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/repository-manager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Important is a Repository Manager?</title>
+      <link>http://localhost:1313/blog/2016/05/2016-05-15-how-important-is-a-repository-manager/</link>
+      <pubDate>Sun, 15 May 2016 15:14:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/05/2016-05-15-how-important-is-a-repository-manager/</guid>
+      <description>Do you know how many downloads are done from Maven Central during a month? I was not aware of that as well. As a PMC member of the Apache Maven Project I have the privilege of having access to the statistics of Maven Central.
+So I checked the statistics of Maven Central. I can tell you that in the groupId org.apache.maven were more than 27 million (28,933,147) downloads in April 2016.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/devops/</link>
+    <description>Recent content in DevOps on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 Aug 2018 17:15:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous Delivery with Maven</title>
+      <link>http://localhost:1313/blog/2018/08/2018-08-26-ci-delivery-with-maven/</link>
+      <pubDate>Sun, 26 Aug 2018 17:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/08/2018-08-26-ci-delivery-with-maven/</guid>
+      <description>Based on todays requirements it is needed to do a continuous delivery of your artifacts by each change on your master (Git)/trunk(SVN). The question is what you need to achieve this with Maven?
+Usually you are using so called SNAPSHOT versions which means your version looks like 1.2.3-SNAPSHOT and indicates that you are currently working towards the release version 1.2.3. Afterwards you continue with the next snapshot version like 1.2.4-SNAPSHOT and so on.</description>
+    </item>
+    
+    <item>
+      <title>Spring Boot Starter Parent Usage in Maven</title>
+      <link>http://localhost:1313/blog/2018/08/2018-08-21-spring-boot-starter-parent-in-maven/</link>
+      <pubDate>Tue, 21 Aug 2018 19:09:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/08/2018-08-21-spring-boot-starter-parent-in-maven/</guid>
+      <description>I quite often see Spring Boot projects which are using the spring-boot-starter-parent as the following:
+&amp;lt;project xmlns=&amp;#34;https://maven.apache.org/POM/4.0.0&amp;#34; xmlns:xsi=&amp;#34;http://www.w3.org/2001/XMLSchema-instance&amp;#34; xsi:schemaLocation=&amp;#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&amp;#34;&amp;gt; &amp;lt;modelVersion&amp;gt;4.0.0&amp;lt;/modelVersion&amp;gt; &amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.springframework.boot&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;spring-boot-starter-parent&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;2.0.4.RELEASE&amp;lt;/version&amp;gt; &amp;lt;relativePath/&amp;gt; &amp;lt;/parent&amp;gt; &amp;lt;properties&amp;gt; &amp;lt;project.build.sourceEncoding&amp;gt;UTF-8&amp;lt;/project.build.sourceEncoding&amp;gt; &amp;lt;project.reporting.outputEncoding&amp;gt;UTF-8&amp;lt;/project.reporting.outputEncoding&amp;gt; &amp;lt;java.version&amp;gt;1.8&amp;lt;/java.version&amp;gt; &amp;lt;/properties&amp;gt; ... &amp;lt;build&amp;gt; &amp;lt;plugins&amp;gt; &amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.springframework.boot&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;spring-boot-maven-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;/plugin&amp;gt; &amp;lt;/plugins&amp;gt; &amp;lt;/build&amp;gt; &amp;lt;/project&amp;gt; So far so good. Notices something? I have to mention that you can do it a little bit shorter like this:
+&amp;lt;project xmlns=&amp;#34;https://maven.apache.org/POM/4.0.0&amp;#34; xmlns:xsi=&amp;#34;http://www.w3.org/2001/XMLSchema-instance&amp;#34; xsi:schemaLocation=&amp;#34;https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd&amp;#34;&amp;gt; &amp;lt;modelVersion&amp;gt;4.0.0&amp;lt;/modelVersion&amp;gt; &amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;org.</description>
+    </item>
+    
+    <item>
+      <title>Automate it - Be Lazy - Part II</title>
+      <link>http://localhost:1313/blog/2018/07/2018-07-30-automate-it-part-ii/</link>
+      <pubDate>Mon, 30 Jul 2018 20:02:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/07/2018-07-30-automate-it-part-ii/</guid>
+      <description>As I wrote in my Automate it - Be Lazy Part I - I would like to continue my post. So here it is.
+The following parts are left from my process:
+The process  Create an issue for myself (if already existing move to step 2) Create a branch within the appropriate project based on the issue Assign the issue to myself Migrate the issue into the state of IN PROGRESS Done.</description>
+    </item>
+    
+    <item>
+      <title>Automate it - Be Lazy - Part I</title>
+      <link>http://localhost:1313/blog/2018/07/2018-07-21-automate-it-part-i/</link>
+      <pubDate>Sat, 21 Jul 2018 10:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/07/2018-07-21-automate-it-part-i/</guid>
+      <description>So based on my passion as open source developer in particular for the Apache Maven Project. I work JIRA based which helps us and myself to organize our work and of course follow the reported issues, feature request etc.
+So usually I start my work based on a particular issue in JIRA and go via the following process:
+The process  Create an issue for myself (if already existing move to step 2) Create a branch within the appropriate project based on the issue Assign the issue to myself Migrate the issue into the state of IN PROGRESS Do some work on the branch and commit Push the branch to remote and let Jenkins check the branch repeat with Step 5 until I finished my work.</description>
+    </item>
+    
+  </channel>
+</rss>

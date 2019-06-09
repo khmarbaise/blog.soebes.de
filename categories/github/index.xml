@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/github/</link>
+    <description>Recent content in Github on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Jun 2015 08:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making GitHub Page for MojoHaus Plugins</title>
+      <link>http://localhost:1313/blog/2015/06/2015-06-14-making-github-page-for-mojohaus/</link>
+      <pubDate>Fri, 12 Jun 2015 08:09:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/06/2015-06-14-making-github-page-for-mojohaus/</guid>
+      <description>Manual Site Deployment to GitHub Unfortunately the Mojo Codehaus organization has closed their doors. In consequence all projects had to move to a new home. The Mojo Codehaus Maven plugins had to move as well so after the transition of the code etc. onto Github and the newly created The MojoHaus organization we need to get all the sites back online which contains the documentation of the plugins.
+During the transition the Subversion repositories have been migrated to Git repositories.</description>
+    </item>
+    
+  </channel>
+</rss>

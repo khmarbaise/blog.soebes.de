@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='If you are working with a Maven Multi Module Build on command line it could happen that you might think: Wouldn&rsquo;t it be nice to build only the modules which you have changed and not all modules in the reactor.
+You can of course control what you build by using the --projects command line option and add the appropriate modules you would like to build. For example like this:
+mvn --projects module1,module2 clean package  But you need to think everytime you run the build about which modules have been changed and you need to adapt the list of changed modules manually.'>
+<meta name='theme-color' content='#6699cc'>
+
+<meta property='og:title' content='Maven Incremental Module Build • Karl Heinz Marbaise'>
+<meta property='og:description' content='If you are working with a Maven Multi Module Build on command line it could happen that you might think: Wouldn&rsquo;t it be nice to build only the modules which you have changed and not all modules in the reactor.
+You can of course control what you build by using the --projects command line option and add the appropriate modules you would like to build. For example like this:
+mvn --projects module1,module2 clean package  But you need to think everytime you run the build about which modules have been changed and you need to adapt the list of changed modules manually.'>
+<meta property='og:url' content='http://localhost:1313/blog/2016/08/2016-08-12-maven-incremental-module-build/'>
+<meta property='og:site_name' content='A coders, hackers heaven.....Hm...I do not think so...'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/d9cd3f93adbfb7d88eb68f903aa22a51?s=256'><meta property='article:section' content='Blog'><meta property='article:published_time' content='2016-08-12T16:30:34Z'/><meta property='article:modified_time' content='2016-08-12T16:30:34Z'/><meta name='twitter:card' content='summary'><meta name='twitter:creator' content='@khmarbaise'>
+
+<meta name="generator" content="Hugo 0.40.3" />
+
+  <title>Maven Incremental Module Build • Karl Heinz Marbaise</title>
+  <link rel='canonical' href='http://localhost:1313/blog/2016/08/2016-08-12-maven-incremental-module-build/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.67e9c12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6699cc;}
+</style>
+
+</head>
+
+
+<body class='page type-blog layout-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div>
+      <img class="soebeslogo" src='/images/weblogo.gif'>
+    </div>
+    
+    <h2 class='title site-title '>
+     
+    </h2>
+    <div class='desc'>
+    
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul><li class='item'>
+        <a href='/impressum/'>Impressum</a>
+      </li><li class='item'>
+        <a href='/categories/'>Categories</a>
+      </li><li class='item'>
+        <a href='/categories/'>Maven</a>
+      </li><li class='item'>
+        <a href='/categories/maven-best-practice/'>Maven Best Practices</a>
+      </li></ul>
+  </div>
+</nav>
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>A coders, hackers heaven.....Hm...I do not think so...</p><p class='desc site-desc'></p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Maven Incremental Module Build</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2016-08-12T16:30:34Z'>2016, Aug 12</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/khmarbaise'>Karl Heinz Marbaise</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+5 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  <p>If you are working with a Maven Multi Module Build on command line it could
+happen that you might think: Wouldn&rsquo;t it be nice to build only the modules
+which you have changed and not all modules in the reactor.</p>
+
+<p>You can of course control what you build by using the <code>--projects</code> command line
+option and add the appropriate modules you would like to build. For example
+like this:</p>
+
+<pre><code>mvn --projects module1,module2 clean package
+</code></pre>
+
+<p>But you need to think everytime you run the build about which modules have been
+changed and you need to adapt the list of changed modules manually.</p>
+
+<p>Apart from that you need to think about the case if your modules are used by
+other modules in your build. This means <code>module1</code> is a module dependency of
+another module. This can simply handled by Maven automatically by using the
+command line option <code>--also-make-dependents</code> which will build the modules which
+are dependencies of the modules given in the projects list.</p>
+
+<pre><code>mvn --projects module1,module2 --also-make-dependents clean package
+</code></pre>
+
+<p>There are often suggestions to change into the directory of the module you
+would like to build but this is simply wrong. If you start the build there Maven
+will read only the pom file of that single module and you have no chance of
+letting Maven anlyze the modules and their needed order etc. So always keep in
+the root directory of your multi module build and select the appropriate modules
+via <code>--projects</code> option.</p>
+
+<p>The above will of course fine but this is cumbersome.</p>
+
+<p>All this steps I have described can be handled in an automatic way by
+using the <a href="https://github.com/khmarbaise/incremental-module-builder" target="_blank">The Incremental Module Builder extensions</a>.</p>
+
+<p>To use the Incremental Module Build you need to run at best Maven 3.3.1+ and
+Java 7 as Maven 3.3.1+ itself. Furthermore you should configure it via the
+<code>extensions.xml</code> file in the <code>.mvn/</code> folder of your project which should look
+like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#f92672">&lt;extensions</span> <span style="color:#a6e22e">xmlns=</span><span style="color:#e6db74">&#34;https://maven.apache.org/EXTENSIONS/1.0.0&#34;</span> <span style="color:#a6e22e">xmlns:xsi=</span><span style="color:#e6db74">&#34;http://www.w3.org/2001/XMLSchema-instance&#34;</span>
+  <span style="color:#a6e22e">xsi:schemaLocation=</span><span style="color:#e6db74">&#34;https://maven.apache.org/EXTENSIONS/1.0.0 https://maven.apache.org/xsd/core-extensions-1.0.0.xsd&#34;</span><span style="color:#f92672">&gt;</span>
+  <span style="color:#f92672">&lt;extension&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.maven.extensions<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>incremental-module-builder<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>0.1.0<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/extension&gt;</span>
+<span style="color:#f92672">&lt;/extensions&gt;</span></code></pre></div>
+<p>Another prerequisite is having configured correctly the scm area in your root pom of the
+project cause those information are used to analyze for changed files. You can run the
+incremental module builder via:</p>
+
+<pre><code>mvn -b incremental package
+</code></pre>
+
+<p>which will printout something similar like this:</p>
+
+<pre><code>~/ws-git/supose (master *)$ mvn -b incremental package
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO]
+[INFO] Subversion Repository Search Engine
+[INFO] SupoSE :: Test
+[INFO] SupoSE :: Filter
+[INFO] SupoSE :: Filter : Filter Model
+[INFO] SupoSE :: Filter : Filter
+[INFO] SupoSE :: Core
+[INFO] SupoSE :: CLI
+[INFO] SupoSE :: WAR
+[INFO] SupoSE :: Integration Test
+[INFO] SupoSE :: Users Guide
+[INFO] SupoSE :: Assembly
+[INFO]  ------------------------------------
+[INFO]  Maven Incremental Module Builder
+[INFO]  Version: 0.1.0
+[INFO]  ------------------------------------
+[INFO]
+[INFO] Using the IncrementalModuleBuilder implementation with a thread count of 3
+[INFO] Executing: /bin/sh -c cd '/Users/kama/ws-git/supose' &amp;&amp; 'git' 'rev-parse' '--show-toplevel'
+[INFO] Working directory: /Users/kama/ws-git/supose
+[INFO] Executing: /bin/sh -c cd '/Users/kama/ws-git/supose' &amp;&amp; 'git' 'status' '--porcelain' '.'
+[INFO] Working directory: /Users/kama/ws-git/supose
+[INFO]  Changed file: supose-cli/pom.xml modified
+[INFO] Changed Project: com.soebes.supose:supose-cli:jar:0.7.1-SNAPSHOT
+[INFO] New Calculated Reactor:
+[INFO]  SupoSE :: CLI
+[INFO]  SupoSE :: Assembly
+[INFO] Building project: com.soebes.supose:supose-cli:jar:0.7.1-SNAPSHOT
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building SupoSE :: CLI 0.7.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-enforcer-plugin:1.4.1:enforce (enforce-maven) @ supose-cli ---
+[INFO]
+[INFO] --- buildnumber-maven-plugin:1.4:create (default) @ supose-cli ---
+[INFO] Executing: /bin/sh -c cd '/Users/kama/ws-git/supose/supose-cli' &amp;&amp; 'git' 'rev-parse' '--verify' 'HEAD'
+[INFO] Working directory: /Users/kama/ws-git/supose/supose-cli
+[INFO] Storing buildNumber: 2cf6fbf37dbd3a0922ebd607a5b0504e76a0fd76 at timestamp: 1470779925110
+[INFO] Storing buildScmBranch: master
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.1:resources (default-resources) @ supose-cli ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.5.1:compile (default-compile) @ supose-cli ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.1:testResources (default-testResources) @ supose-cli ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.5.1:testCompile (default-testCompile) @ supose-cli ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-surefire-plugin:2.19.1:test (default-test) @ supose-cli ---
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.soebes.supose.cli.SuposeCLITest
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.527 sec - in com.soebes.supose.cli.SuposeCLITest
+
+Results :
+
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ supose-cli ---
+[INFO]
+[INFO] --- maven-site-plugin:3.5.1:attach-descriptor (attach-descriptor) @ supose-cli ---
+[INFO] Building project: com.soebes.supose:supose-assembly:pom:0.7.1-SNAPSHOT
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building SupoSE :: Assembly 0.7.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-enforcer-plugin:1.4.1:enforce (enforce-maven) @ supose-assembly ---
+[INFO]
+[INFO] --- buildnumber-maven-plugin:1.4:create (default) @ supose-assembly ---
+[INFO]
+[INFO] --- maven-site-plugin:3.5.1:attach-descriptor (attach-descriptor) @ supose-assembly ---
+[INFO]
+[INFO] --- appassembler-maven-plugin:1.10:assemble (default) @ supose-assembly ---
+[INFO]
+[INFO] --- maven-assembly-plugin:2.6:single (default) @ supose-assembly ---
+[INFO] Reading assembly descriptor: src/main/assembly/bin.xml
+[INFO] Reading assembly descriptor: src/main/assembly/bin-unix.xml
+[INFO] Reading assembly descriptor: src/main/assembly/src.xml
+[INFO] Building zip: /Users/kama/ws-git/supose/supose-assembly/target/supose-assembly-0.7.1-SNAPSHOT-bin.zip
+[INFO] Building tar: /Users/kama/ws-git/supose/supose-assembly/target/supose-assembly-0.7.1-SNAPSHOT-bin-unix.tar.gz
+[INFO] Building tar: /Users/kama/ws-git/supose/supose-assembly/target/supose-assembly-0.7.1-SNAPSHOT-src.tar.gz
+[INFO] Building zip: /Users/kama/ws-git/supose/supose-assembly/target/supose-assembly-0.7.1-SNAPSHOT-src.zip
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] SupoSE :: CLI ...................................... SUCCESS [ 16.145 s]
+[INFO] SupoSE :: Assembly ................................. SUCCESS [  2.425 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 18.853 s (Wall Clock)
+[INFO] Finished at: 2016-08-09T23:59:02+02:00
+[INFO] Final Memory: 27M/437M
+[INFO] ------------------------------------------------------------------------
+</code></pre>
+
+<p>As you can see the Incremental Module Builder will analyze automatically which
+modules have been changed and will also build the dependent modules.
+There is one point which is not very convinient. You always need to give on command line
+the <code>-b incrmental</code> part. But this can be handled by using the <code>.mvn/maven.config</code> file
+with the following content:</p>
+
+<pre><code>-b incremental
+</code></pre>
+
+<p>form this point on you can do it simply via:</p>
+
+<pre><code>mvn package
+</code></pre>
+
+<p>If you like to prevent usage of the incremental module build you can simply force this by
+using this:</p>
+
+<pre><code>mvn -b multithreaded package
+</code></pre>
+
+<p>which is the default which is used by Maven.</p>
+
+<p>Currently the Incremental Module Builder is in a proof of concept state but
+it works for me and helped me a lot. If you find issues please don&rsquo;t hesitate to
+<a href="https://github.com/khmarbaise/incremental-module-builder/issues" target="_blank">file in an issue report</a>. Apart from that any feedback is welcome.</p>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/bm'>Bm</a>, <a class='category' href='/categories/maven'>Maven</a>, <a class='category' href='/categories/maven-best-practice'>Maven Best Practice</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/blog/2016/08/2016-08-08-maven-how-to-create-a-release/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Maven: How To Create a Release</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/blog/2016/08/2016-08-28-apache-maven-war-plugin-version-3-dot-0-0-released/'>
+        <span class='screen-reader-text'>Next post: </span>Apache Maven WAR Plugin Version 3.0.0 Released<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:info@soebes.de' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://gitlab.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Gitlab account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/karl-heinz-marbaise-17a15614' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+  <rect x="2" y="9" width="4" height="12"/>
+  <circle cx="4" cy="4" r="2"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+          <div class='copyright'>
+  <p>SoEBeS &copy; 2004-2019 SoftwareEntwicklung Beratung Schulung </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.0d92f56c.js'></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+
+</html>
+

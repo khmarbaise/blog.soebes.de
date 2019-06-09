@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REST API on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/rest-api/</link>
+    <description>Recent content in REST API on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Oct 2017 19:30:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/rest-api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated Setup of a Repository Manager</title>
+      <link>http://localhost:1313/blog/2017/10/2017-10-02-nexus-scripted-setup/</link>
+      <pubDate>Mon, 02 Oct 2017 19:30:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/10/2017-10-02-nexus-scripted-setup/</guid>
+      <description>Previously I was working on a Nexus Repository Manager setup for different environments like a test and a production environment with different privileges, roles, repositories, users etc.
+The problem with such setups is simple: You usually do it manually which in consequence is error-prone. If you are doing that more than once, it becomes cumbersome and you are asking yourself: Isn&amp;rsquo;t there a simpler solution to make that setup more reproducible?</description>
+    </item>
+    
+  </channel>
+</rss>

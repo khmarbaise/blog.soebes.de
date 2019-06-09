@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Release on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/release/</link>
+    <description>Recent content in Release on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Aug 2014 22:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/release/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Maven Version 3.2.3 Released</title>
+      <link>http://localhost:1313/blog/2014/08/2014-08-17-apache-maven-version-3-dot-2-3-released/</link>
+      <pubDate>Sun, 17 Aug 2014 22:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/08/2014-08-17-apache-maven-version-3-dot-2-3-released/</guid>
+      <description>Hi!
+The Apache Maven Team is pleased to announce the release of Apache Maven Version 3.2.3
+The release notes can be found here: https://maven.apache.org/docs/3.2.3/release-notes.html
+The release can be downloaded from https://maven.apache.org/download.cgi
+The Release Notes:
+Bugs:
+ MNG-5349 - NullPointerException if missing id in org.apache.maven.lifecycle.Lifecycle MNG-5655 - WeakMojoExecutionListener callbacks invoked multiple times in some cases MNG-5658 - Syntax error in bin/mvn on Solaris SPARC MNG-5663 - [regression] resolution of import-scoped transitive dependencies ignores additional repositories MNG-5670 - ConcurrentModificationException during DefaultMaven.</description>
+    </item>
+    
+  </channel>
+</rss>

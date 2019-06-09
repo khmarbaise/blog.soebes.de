@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='The Apache Maven team is pleased to announce the release of Apache Maven Wagon 3.2.0.
+Apache Maven Wagon is a transport abstraction that is used in Mavens artifact and repository handling code.
+You can download the appropriate sources etc. from the download page.
+Release Notes - Maven Wagon - Version 3.2.0
+Bugs:
+ WAGON-478 - WebDavWagon accepts SC_OK for MKCOL WAGON-486 - Wagon fails to download artifacts if number of dropped pooled connections (by intermediate) are greater than default retry count WAGON-500 - Re-enable ScmCvsExeWagonTest  New Features:'>
+<meta name='theme-color' content='#6699cc'>
+
+<meta property='og:title' content='Apache Maven Wagon Version 3.2.0 Released • Karl Heinz Marbaise'>
+<meta property='og:description' content='The Apache Maven team is pleased to announce the release of Apache Maven Wagon 3.2.0.
+Apache Maven Wagon is a transport abstraction that is used in Mavens artifact and repository handling code.
+You can download the appropriate sources etc. from the download page.
+Release Notes - Maven Wagon - Version 3.2.0
+Bugs:
+ WAGON-478 - WebDavWagon accepts SC_OK for MKCOL WAGON-486 - Wagon fails to download artifacts if number of dropped pooled connections (by intermediate) are greater than default retry count WAGON-500 - Re-enable ScmCvsExeWagonTest  New Features:'>
+<meta property='og:url' content='http://localhost:1313/blog/2018/09/2018-09-29-apache-maven-wagon-version-3-dot-2-0-released/'>
+<meta property='og:site_name' content='A coders, hackers heaven.....Hm...I do not think so...'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/d9cd3f93adbfb7d88eb68f903aa22a51?s=256'><meta property='article:section' content='Blog'><meta property='article:published_time' content='2018-09-29T23:37:00Z'/><meta property='article:modified_time' content='2018-09-29T23:37:00Z'/><meta name='twitter:card' content='summary'><meta name='twitter:creator' content='@khmarbaise'>
+
+<meta name="generator" content="Hugo 0.40.3" />
+
+  <title>Apache Maven Wagon Version 3.2.0 Released • Karl Heinz Marbaise</title>
+  <link rel='canonical' href='http://localhost:1313/blog/2018/09/2018-09-29-apache-maven-wagon-version-3-dot-2-0-released/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.67e9c12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6699cc;}
+</style>
+
+</head>
+
+
+<body class='page type-blog layout-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div>
+      <img class="soebeslogo" src='/images/weblogo.gif'>
+    </div>
+    
+    <h2 class='title site-title '>
+     
+    </h2>
+    <div class='desc'>
+    
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul><li class='item'>
+        <a href='/impressum/'>Impressum</a>
+      </li><li class='item'>
+        <a href='/categories/'>Categories</a>
+      </li><li class='item'>
+        <a href='/categories/'>Maven</a>
+      </li><li class='item'>
+        <a href='/categories/maven-best-practice/'>Maven Best Practices</a>
+      </li></ul>
+  </div>
+</nav>
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>A coders, hackers heaven.....Hm...I do not think so...</p><p class='desc site-desc'></p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Apache Maven Wagon Version 3.2.0 Released</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2018-09-29T23:37:00Z'>2018, Sep 29</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/khmarbaise'>Karl Heinz Marbaise</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+One min read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  <p>The Apache Maven team is pleased to announce the release of
+<a href="https://maven.apache.org/wagon/" target="_blank">Apache Maven Wagon 3.2.0</a>.</p>
+
+<p>Apache Maven Wagon is a transport abstraction that is used in Mavens
+artifact and repository handling code.</p>
+
+<p>You can download the appropriate sources etc. from the <a href="https://maven.apache.org/wagon/download.cgi" target="_blank">download page</a>.</p>
+
+<!-- more -->
+
+<p><a href="https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318122&amp;version=12343926" target="_blank">Release Notes - Maven Wagon - Version 3.2.0</a></p>
+
+<p>Bugs:</p>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-478" target="_blank">WAGON-478</a> - WebDavWagon accepts SC_OK for MKCOL</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-486" target="_blank">WAGON-486</a> - Wagon fails to download artifacts if number of dropped pooled connections (by intermediate) are greater than default retry count</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-500" target="_blank">WAGON-500</a> - Re-enable ScmCvsExeWagonTest</li>
+</ul>
+
+<p>New Features:</p>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-526" target="_blank">WAGON-526</a> - Make the retry handling of HttpClient configurable</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-531" target="_blank">WAGON-531</a> - Add default TTL for HTTP connections</li>
+</ul>
+
+<p>Improvement:</p>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-525" target="_blank">WAGON-525</a> - Support for detecting and using of KiTTY&rsquo;s klink.exe and kscp.exe</li>
+</ul>
+
+<p>Tasks:</p>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-527" target="_blank">WAGON-527</a> - Drop custom user agent in WebDAV Wagon</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-528" target="_blank">WAGON-528</a> - Extend and unify compression capabilities in HTTP (Lightweight) Wagon</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-529" target="_blank">WAGON-529</a> - Clean up inconsistent status code and reason phrase handling</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-530" target="_blank">WAGON-530</a> - Drop invalid header &lsquo;Expires&rsquo;</li>
+</ul>
+
+<p>Dependency upgrades:</p>
+
+<ul>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-532" target="_blank">WAGON-532</a> - Upgrade Maven SCM to 1.11.1</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-533" target="_blank">WAGON-533</a> - Upgrade HttpCore to 4.4.10</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-534" target="_blank">WAGON-534</a> - Upgrade HttpClient to 4.5.6</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-535" target="_blank">WAGON-535</a> - Upgrade EasyMock to 3.6</li>
+<li><a href="https://issues.apache.org/jira/browse/WAGON-536" target="_blank">WAGON-536</a> - Upgrade parent to 32</li>
+</ul>
+
+<p>Enjoy,</p>
+
+<p>-The Apache Maven team</p>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/neuigkeiten'>Neuigkeiten</a>, <a class='category' href='/categories/bm'>Bm</a>, <a class='category' href='/categories/maven'>Maven</a>, <a class='category' href='/categories/maven-plugins'>Maven-plugins</a>, <a class='category' href='/categories/maven-plugin-releases'>Maven-Plugin-Releases</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/blog/2018/09/2018-09-25-apache-maven-jxr-plugin-version-3-dot-0-0-released/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Apache Maven JXR Plugin Version 3.0.0 Released</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/blog/2018/10/2018-10-01-apache-maven-install-plugin-version-3-dot-0-0-m1-released/'>
+        <span class='screen-reader-text'>Next post: </span>Apache Maven Install Plugin Version 3.0.0-M1 Released<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:info@soebes.de' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://gitlab.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Gitlab account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/karl-heinz-marbaise-17a15614' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+  <rect x="2" y="9" width="4" height="12"/>
+  <circle cx="4" cy="4" r="2"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+          <div class='copyright'>
+  <p>SoEBeS &copy; 2004-2019 SoftwareEntwicklung Beratung Schulung </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.0d92f56c.js'></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+
+</html>
+

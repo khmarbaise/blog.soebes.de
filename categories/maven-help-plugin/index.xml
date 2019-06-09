@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maven-Help-plugin on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/maven-help-plugin/</link>
+    <description>Recent content in Maven-Help-plugin on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Apr 2019 12:45:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/maven-help-plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Maven Help Plugin Version 3.2.0 Released</title>
+      <link>http://localhost:1313/blog/2019/04/2019-04-22-apache-maven-help-plugin-version-3-dot-2-0-released/</link>
+      <pubDate>Mon, 22 Apr 2019 12:45:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/04/2019-04-22-apache-maven-help-plugin-version-3-dot-2-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Help Plugin, version 3.2.0
+The Maven Help Plugin is used to get relative information about a project or the system. It can be used to get a description of a particular plugin, including the plugin&amp;rsquo;s goals with their parameters and component requirements, the effective POM and effective settings of the current build, and the profiles applied to the current project being built.</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Help Plugin Version 3.1.1 Released</title>
+      <link>http://localhost:1313/blog/2018/12/2018-12-12-apache-maven-help-plugin-version-3-dot-1-1-released/</link>
+      <pubDate>Wed, 12 Dec 2018 19:45:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/12/2018-12-12-apache-maven-help-plugin-version-3-dot-1-1-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Help Plugin, version 3.1.1
+The Maven Help Plugin is used to get relative information about a project or the system. It can be used to get a description of a particular plugin, including the plugin&amp;rsquo;s goals with their parameters and component requirements, the effective POM and effective settings of the current build, and the profiles applied to the current project being built.</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Help Plugin Version 3.1.0 Released</title>
+      <link>http://localhost:1313/blog/2018/06/2018-06-09-apache-maven-help-plugin-version-3-dot-1-0-released/</link>
+      <pubDate>Sat, 09 Jun 2018 15:45:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/06/2018-06-09-apache-maven-help-plugin-version-3-dot-1-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Help Plugin, version 3.1.0
+The Maven Help Plugin is used to get relative information about a project or the system. It can be used to get a description of a particular plugin, including the plugin&amp;rsquo;s goals with their parameters and component requirements, the effective POM and effective settings of the current build, and the profiles applied to the current project being built.</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Help Plugin Version 3.0.1 Released</title>
+      <link>http://localhost:1313/blog/2018/03/2018-03-27-apache-maven-help-plugin-version-3-dot-0-1-released/</link>
+      <pubDate>Tue, 27 Mar 2018 22:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/03/2018-03-27-apache-maven-help-plugin-version-3-dot-0-1-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Help Plugin, version 3.0.1
+The Maven Help Plugin is used to get relative information about a project or the system. It can be used to get a description of a particular plugin, including the plugin&amp;rsquo;s goals with their parameters and component requirements, the effective POM and effective settings of the current build, and the profiles applied to the current project being built.</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Help Plugin Version 3.0.0 Released</title>
+      <link>http://localhost:1313/blog/2018/03/2018-03-18-apache-maven-help-plugin-version-3-dot-0-0-released/</link>
+      <pubDate>Sat, 17 Mar 2018 23:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/03/2018-03-18-apache-maven-help-plugin-version-3-dot-0-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Help Plugin, version 3.0.0
+The Maven Help Plugin is used to get relative information about a project or the system. It can be used to get a description of a particular plugin, including the plugin&amp;rsquo;s goals with their parameters and component requirements, the effective POM and effective settings of the current build, and the profiles applied to the current project being built.</description>
+    </item>
+    
+  </channel>
+</rss>

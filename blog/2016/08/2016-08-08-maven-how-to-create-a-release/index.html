@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='You are working on your project and now the time has come where you would like to create a release of your project. So how to do this with Maven?
+There are existing in general several solutions to achieve the goal. Those different solutions will be described in this article.
+Maven Release Plugin The most obvious one and probbaly most suggested variant is to use the Maven Release Plugin to create a release.'>
+<meta name='theme-color' content='#6699cc'>
+
+<meta property='og:title' content='Maven: How To Create a Release • Karl Heinz Marbaise'>
+<meta property='og:description' content='You are working on your project and now the time has come where you would like to create a release of your project. So how to do this with Maven?
+There are existing in general several solutions to achieve the goal. Those different solutions will be described in this article.
+Maven Release Plugin The most obvious one and probbaly most suggested variant is to use the Maven Release Plugin to create a release.'>
+<meta property='og:url' content='http://localhost:1313/blog/2016/08/2016-08-08-maven-how-to-create-a-release/'>
+<meta property='og:site_name' content='A coders, hackers heaven.....Hm...I do not think so...'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/d9cd3f93adbfb7d88eb68f903aa22a51?s=256'><meta property='article:section' content='Blog'><meta property='article:published_time' content='2016-08-08T08:15:00Z'/><meta property='article:modified_time' content='2016-08-08T08:15:00Z'/><meta name='twitter:card' content='summary'><meta name='twitter:creator' content='@khmarbaise'>
+
+<meta name="generator" content="Hugo 0.40.3" />
+
+  <title>Maven: How To Create a Release • Karl Heinz Marbaise</title>
+  <link rel='canonical' href='http://localhost:1313/blog/2016/08/2016-08-08-maven-how-to-create-a-release/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.67e9c12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
+:root{--color-accent:#6699cc;}
+</style>
+
+</head>
+
+
+<body class='page type-blog layout-post has-sidebar'>
+
+  <div class='site'>
+
+    <div id='sidebar' class='sidebar'>
+  <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div>
+      <img class="soebeslogo" src='/images/weblogo.gif'>
+    </div>
+    
+    <h2 class='title site-title '>
+     
+    </h2>
+    <div class='desc'>
+    
+    </div>
+  </header>
+
+</section>
+</div>
+
+  <div class='sidebar-overlay'></div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='sidebar-toggler' aria-controls='sidebar'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class='open'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="3" y1="12" x2="21" y2="12" />
+  <line x1="3" y1="6" x2="21" y2="6" />
+  <line x1="3" y1="18" x2="21" y2="18" />
+  
+</svg>
+</span>
+  <span class='close'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="18" y1="6" x2="6" y2="18" />
+  <line x1="6" y1="6" x2="18" y2="18" />
+  
+</svg>
+</span>
+</button>
+    <ul><li class='item'>
+        <a href='/impressum/'>Impressum</a>
+      </li><li class='item'>
+        <a href='/categories/'>Categories</a>
+      </li><li class='item'>
+        <a href='/categories/'>Maven</a>
+      </li><li class='item'>
+        <a href='/categories/maven-best-practice/'>Maven Best Practices</a>
+      </li></ul>
+  </div>
+</nav>
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>A coders, hackers heaven.....Hm...I do not think so...</p><p class='desc site-desc'></p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Maven: How To Create a Release</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2016-08-08T08:15:00Z'>2016, Aug 08</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/khmarbaise'>Karl Heinz Marbaise</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+5 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  
+
+<p>You are working on your project and now the time has come where you would like
+to create a release of your project. So how to do this with Maven?</p>
+
+<p>There are existing in general several solutions to achieve the goal.
+Those different solutions will be described in this article.</p>
+
+<h2 id="maven-release-plugin">Maven Release Plugin</h2>
+
+<p>The most obvious one and probbaly most suggested variant is to use the Maven
+Release Plugin to create a release.</p>
+
+<p>So as a short overview how the Maven Release plugins works is:</p>
+
+<pre><code>mvn release:prepare ..
+</code></pre>
+
+<p>So you call the prepare goal of the plugin which will do <a href="https://maven.apache.org/maven-release/maven-release-plugin/examples/prepare-release.html" target="_blank">several checks to be
+sure</a> you will get a reproducible state of your
+project. By default you can give the release version of your project
+interactivaly or if you like to take the defaults you can handle this via
+<code>--batch-mode</code> option. So after changing the pom file a build will run to make
+sure everything works well and finally a tag in your version control will be
+created and the next development version will be set in your pom files.</p>
+
+<p>So next you will call the final part of Maven Release plugin the <a href="https://maven.apache.org/maven-release/maven-release-plugin/examples/perform-release.html" target="_blank">perform
+goal</a> which will checkout the code you have tagged
+in the previous step and run <code>deploy site-deploy</code> on this checked out state.
+Often you call the above goal in one go which means:</p>
+
+<pre><code>mvn release:prepare release:perform --batch-mode
+</code></pre>
+
+<p>All your pom files will automatically updated with the new version etc. So no
+manual work needed here.</p>
+
+<p>If you think about this scenario you might say: Why do I need to build my
+project during the release creation cause I already built my project before?
+The intention for the Maven Release Plugin is to use it from your own computer
+or where you do not have the support of a CI solution which creates the
+releases. Furhtermore this can also be based on the usage of GPG keys to sign
+artifacts etc. which only exist on your own machine so the Maven Release Plugin
+is a good way to handle releases from your own machine.  Maven Release Plugin
+is also used to release all Maven Plugins of the Apache Maven Project.</p>
+
+<h2 id="versions-maven-plugin">Versions Maven Plugin</h2>
+
+<p>So an other variant to create a release can be achieved by using the <a href="http://www.mojohaus.org/versions-maven-plugin/" target="_blank">Versions
+Maven Plugin</a> which you can use to create a release.</p>
+
+<p>What you have to do is more or less the same as Maven Release Plugin would do.
+You need to check if you missed to checkin sources etc. and afterwards you can
+change the pom versions of your project by using the following:</p>
+
+<pre><code>mvn versions:set -DnewVersion=1.0.0
+</code></pre>
+
+<p>and all pom versions will be changed accordingly. Now you can simply checkin
+the changed pom files and tag the code state and make:</p>
+
+<pre><code>mvn clean deploy
+</code></pre>
+
+<p>which will build your whole project and deploys the generated artifacts into
+the configured remote repositories. Now you would like to continue developement
+so you need to change the pom versions via:</p>
+
+<pre><code>mvn version:set -DnewVersion=1.0.1-SNAPSHOT
+</code></pre>
+
+<p>And you need to checkin in the changed pom files and now you can continue with
+your developement for the next release.</p>
+
+<p>You can of course script the above steps or better is to move those steps into
+a CI solution like <a href="https://jenkins.io/" target="_blank">Jenkins</a>.</p>
+
+<p>This approach prevents some builds of your project but you need to change
+the pom versions and do some checkins.</p>
+
+<h2 id="super-fast-releases">Super Fast Releases</h2>
+
+<p>Starting with <a href="https://maven.apache.org/docs/3.2.1/release-notes.html#Continuous_delivery_friendly_versions" target="_blank">Maven 3.2.1</a> you can define the pom
+version by using the following possible properties: <code>${revision}</code>, <code>${sha1}</code>
+and <code>${changelist}</code>. The example below will show one usage of this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml">  ..
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.smpp<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>smpp<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>2.2.1<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+  <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+  <span style="color:#f92672">&lt;artifactId&gt;</span>parent<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  <span style="color:#f92672">&lt;version&gt;</span>${revision}<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;packaging&gt;</span>pom<span style="color:#f92672">&lt;/packaging&gt;</span>
+  ..</code></pre></div>
+<p>This is a parent of a larger multi module build which contains serveral childs which look
+like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml">  <span style="color:#f92672">&lt;modelVersion&gt;</span>4.0.0<span style="color:#f92672">&lt;/modelVersion&gt;</span>
+
+  <span style="color:#f92672">&lt;parent&gt;</span>
+    <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+    <span style="color:#f92672">&lt;artifactId&gt;</span>parent<span style="color:#f92672">&lt;/artifactId&gt;</span>
+    <span style="color:#f92672">&lt;version&gt;</span>${revision}<span style="color:#f92672">&lt;/version&gt;</span>
+  <span style="color:#f92672">&lt;/parent&gt;</span>
+
+  <span style="color:#f92672">&lt;artifactId&gt;</span>service<span style="color:#f92672">&lt;/artifactId&gt;</span>
+  <span style="color:#f92672">&lt;dependencies&gt;</span>
+    <span style="color:#f92672">&lt;dependency&gt;</span>
+      <span style="color:#f92672">&lt;groupId&gt;</span>com.soebes.examples.j2ee<span style="color:#f92672">&lt;/groupId&gt;</span>
+      <span style="color:#f92672">&lt;artifactId&gt;</span>service-client<span style="color:#f92672">&lt;/artifactId&gt;</span>
+      <span style="color:#f92672">&lt;version&gt;</span>${project.version}<span style="color:#f92672">&lt;/version&gt;</span>
+    <span style="color:#f92672">&lt;/dependency&gt;</span>
+    ...
+
+   ..</code></pre></div>
+<p>Based on that you can now build your project simply by using the following:</p>
+
+<pre><code>mvn -Drevision=1.0.0-SNAPSHOT clean package
+</code></pre>
+
+<p>or to deploy a SNAPSHOT you can simply do this via:</p>
+
+<pre><code>mvn -Drevision=1.0.0-SNAPSHOT clean deploy
+</code></pre>
+
+<p>So there is no need to change the pom files and checkin. But there exists a
+drawback. You need to define the <code>-Drevision=...</code> for every call of Maven which
+is not very convenient.</p>
+
+<p>You can handle this by using the following profile:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml">  <span style="color:#f92672">&lt;profiles&gt;</span>
+    <span style="color:#f92672">&lt;profile&gt;</span>
+      <span style="color:#f92672">&lt;id&gt;</span>default-version<span style="color:#f92672">&lt;/id&gt;</span>
+      <span style="color:#f92672">&lt;activation&gt;</span>
+        <span style="color:#f92672">&lt;property&gt;</span>
+          <span style="color:#f92672">&lt;name&gt;</span>!revision<span style="color:#f92672">&lt;/name&gt;</span>
+        <span style="color:#f92672">&lt;/property&gt;</span>
+      <span style="color:#f92672">&lt;/activation&gt;</span>
+      <span style="color:#f92672">&lt;properties&gt;</span>
+        <span style="color:#f92672">&lt;revision&gt;</span>1-SNAPSHOT<span style="color:#f92672">&lt;/revision&gt;</span>
+      <span style="color:#f92672">&lt;/properties&gt;</span>
+    <span style="color:#f92672">&lt;/profile&gt;</span>
+  <span style="color:#f92672">&lt;/profiles&gt;</span></code></pre></div>
+<p>which will define the revison in case the property has not been given on
+command line by using a default value <code>1-SNAPSHOT</code>.</p>
+
+<p>Starting with <a href="https://maven.apache.org/docs/3.3.1/release-notes.html#JVM_and_Command_Line_Options" target="_blank">Maven 3.3.1</a> you can configure Maven
+command line parameters in a <code>.mvn/maven.config</code> file which contains the
+following for our case:</p>
+
+<pre><code>-Drevision=1.0.0-SNAPSHOT
+</code></pre>
+
+<p>So with Maven 3.3.1+ you can now simply call Maven via:</p>
+
+<pre><code>mvn clean deploy
+</code></pre>
+
+<p>More convenient? No profile needed.</p>
+
+<p>But wait. What if i like to create a different version? Yes you need to change
+the <code>.mvn/maven.config</code> file and you should of course checkin the change in your
+version control.</p>
+
+<p>Unfortunately you can&rsquo;t overwrite the property which you have defined in the
+<code>.mvn/maven.config</code> via command line like this:</p>
+
+<pre><code>mvn clean deploy -Drevision=2.0.0-SNAPSHOT
+</code></pre>
+
+<p>This <a href="https://issues.apache.org/jira/browse/MNG-6078" target="_blank">problem has already been adressed and solved</a> for the upcoming
+Maven 3.4.0 release where you can simply do that via the latter.</p>
+
+<p>Starting with Maven 3.4.0 you do not need a profile so you can define a default
+value for your revision in <code>.mvn/maven.config</code> file and overwrite the value
+always via command line. This is very convenient in CI tools etc. and furthermore
+eliminates the usage of those version numbers in your pom file which always
+produce conflicts if you do a merge from one branch to another.</p>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/bm'>Bm</a>, <a class='category' href='/categories/maven'>Maven</a>, <a class='category' href='/categories/maven-best-practice'>Maven Best Practice</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/blog/2016/08/2016-08-08-spoiler-alert-maven-3-dot-4-0-changes-iii/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Spoiler Alert: Upcoming Maven 3.4.0 - Changes - III</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/blog/2016/08/2016-08-12-maven-incremental-module-build/'>
+        <span class='screen-reader-text'>Next post: </span>Maven Incremental Module Build<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:info@soebes.de' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://gitlab.com/khmarbaise' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Gitlab account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/karl-heinz-marbaise-17a15614' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Linkedin account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+  <rect x="2" y="9" width="4" height="12"/>
+  <circle cx="4" cy="4" r="2"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+          <div class='copyright'>
+  <p>SoEBeS &copy; 2004-2019 SoftwareEntwicklung Beratung Schulung </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__public_path__='\/assets\/js\/'</script>
+
+<script src='/assets/js/main.0d92f56c.js'></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+
+</html>
+

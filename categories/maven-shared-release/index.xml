@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maven-Shared-Release on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/maven-shared-release/</link>
+    <description>Recent content in Maven-Shared-Release on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Feb 2019 23:34:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/maven-shared-release/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.4.0 Released</title>
+      <link>http://localhost:1313/blog/2019/02/2019-02-24-apache-maven-shared-component-maven-archiver-version-3-dot-4-dot-0-released/</link>
+      <pubDate>Sun, 24 Feb 2019 23:34:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/02/2019-02-24-apache-maven-shared-component-maven-archiver-version-3-dot-4-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.4.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.3.0 Released</title>
+      <link>http://localhost:1313/blog/2018/11/2018-11-17-apache-maven-shared-component-maven-archiver-version-3-dot-3-dot-0-released/</link>
+      <pubDate>Sat, 17 Nov 2018 23:30:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/11/2018-11-17-apache-maven-shared-component-maven-archiver-version-3-dot-3-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.3.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Utils Version 3.2.1 Released</title>
+      <link>http://localhost:1313/blog/2018/02/2018-02-10-apache-maven-shared-utils-version-3-dot-2-dot-1-released/</link>
+      <pubDate>Sat, 10 Feb 2018 15:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/02/2018-02-10-apache-maven-shared-utils-version-3-dot-2-dot-1-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Shared Utils, version 3.2.1.
+The release contains a number of bug fixes.
+You should specify the version in your project&amp;rsquo;s dependencies configuration:
+&amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.shared&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-shared-utils&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.2.1&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt; You can download the appropriate sources etc. from the download page:
+https://maven.apache.org/shared/maven-shared-utils/download.cgi
+Release Notes - Maven Shared Utils - Version 3.2.1
+New Feature:
+ MSHARED-648 - Add registerShutdownHook to MessageUtils  Dependency upgrade:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.2.0 Released</title>
+      <link>http://localhost:1313/blog/2017/08/2017-08-13-apache-maven-shared-component-maven-archiver-version-3-dot-2-dot-0-released/</link>
+      <pubDate>Sun, 13 Aug 2017 12:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/08/2017-08-13-apache-maven-shared-component-maven-archiver-version-3-dot-2-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.2.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Utils Version 3.2.0 Released</title>
+      <link>http://localhost:1313/blog/2017/06/2017-06-17-apache-maven-shared-utils-version-3-dot-2-dot-0-released/</link>
+      <pubDate>Sat, 17 Jun 2017 23:10:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/06/2017-06-17-apache-maven-shared-utils-version-3-dot-2-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Shared Utils, version 3.2.0.
+The release contains a number of bug fixes.
+You should specify the version in your project&amp;rsquo;s dependencies configuration:
+&amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.shared&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-shared-utils&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.2.0&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt; Release Notes - Maven Shared Utils - Version 3.2.0
+Bugs:
+ MSHARED-574 - - UT failure on Windows: utils.io.Java7SupportTest createAndReadSymlink MSHARED-610 - - PrettyPrintXMLWriter internally uses java.io.PrintWriter without checking for any errors.</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Utils Version 3.1.0 Released</title>
+      <link>http://localhost:1313/blog/2016/07/2016-07-27-apache-maven-shared-utils-version-3-dot-1-dot-0-released/</link>
+      <pubDate>Wed, 27 Jul 2016 11:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/07/2016-07-27-apache-maven-shared-utils-version-3-dot-1-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Shared Utils, version 3.1.0.
+The release contains a number of bug fixes.
+You should specify the version in your project&amp;rsquo;s dependencies configuration:
+&amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.shared&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-shared-utils&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.1.0&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt; Release Notes - Maven Shared Utils - Version 3.1.0
+Bugs:
+ 563 Directory traversal in org.apache.maven.shared.utils.Expand 564 Exceptions thrown on closing resources should not be suppressed silently.  Improvement:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.1.1 Released</title>
+      <link>http://localhost:1313/blog/2016/06/2016-06-18-apache-maven-shared-component-maven-archiver-version-3-dot-1-dot-1-released/</link>
+      <pubDate>Sat, 18 Jun 2016 16:05:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/06/2016-06-18-apache-maven-shared-component-maven-archiver-version-3-dot-1-dot-1-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.1.1.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.1.0 Released</title>
+      <link>http://localhost:1313/blog/2016/06/2016-06-03-apache-maven-shared-component-maven-archiver-version-3-dot-1-dot-0-released/</link>
+      <pubDate>Mon, 06 Jun 2016 20:15:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/06/2016-06-03-apache-maven-shared-component-maven-archiver-version-3-dot-1-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.1.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Utils Version 3.0.1 Released</title>
+      <link>http://localhost:1313/blog/2016/06/2016-06-03-apache-maven-shared-utils-version-3-dot-0-dot-1-released/</link>
+      <pubDate>Fri, 03 Jun 2016 11:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/06/2016-06-03-apache-maven-shared-utils-version-3-dot-0-dot-1-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Shared Utils, version 3.0.1.
+The release contains a number of bug fixes.
+You should specify the version in your project&amp;rsquo;s dependencies configuration:
+&amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.shared&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-shared-utils&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.0.1&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt; Release Notes - Maven Shared Utils - Version 3.0.1
+Bug:
+ MSHARED-475 - Not able to compile a module named as &amp;ldquo;RCS&amp;rdquo; and &amp;ldquo;SCCS&amp;rdquo;  Improvements:
+ MSHARED-503 - Upgrade maven-shared-components parent to version 22 MSHARED-504 - Remove System.</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.0.2 Released</title>
+      <link>http://localhost:1313/blog/2016/05/2016-05-01-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-2-released/</link>
+      <pubDate>Sun, 01 May 2016 12:35:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/05/2016-05-01-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-2-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.0.2.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.0.1 Released</title>
+      <link>http://localhost:1313/blog/2016/04/2016-04-14-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-1-released/</link>
+      <pubDate>Thu, 14 Apr 2016 11:01:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/04/2016-04-14-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-1-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.0.1.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 3.0.0 Released</title>
+      <link>http://localhost:1313/blog/2015/10/2015-10-21-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-0-released/</link>
+      <pubDate>Wed, 21 Oct 2015 21:43:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/10/2015-10-21-apache-maven-shared-component-maven-archiver-version-3-dot-0-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 3.0.0.
+The Maven Archiver is mainly used by plugins to handle packaging. The version numbers referenced in the Since column on this page are the version of the Maven Archiver component - not for any specific plugin. To see which version of Maven Archiver a plugin uses, go to the site for that plugin.
+You should specify the version in your project&amp;rsquo;s dependency configuration:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Utils Version 3.0.0 Released</title>
+      <link>http://localhost:1313/blog/2015/10/2015-10-16-apache-maven-shared-utils-version-3-dot-0-dot-0-released/</link>
+      <pubDate>Fri, 16 Oct 2015 11:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/10/2015-10-16-apache-maven-shared-utils-version-3-dot-0-dot-0-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Shared Utils, version 3.0.0.
+The release contains a number of bug fixes.
+You should specify the version in your project&amp;rsquo;s dependencies configuration:
+&amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.shared&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-shared-utils&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.0.0&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt; Release Notes - Maven Shared Utils - Version 3.0.0
+Bug:
+ MSHARED-444 - Make the optional dependency (commons-io) to a usual dependency  Improvements:
+ MSHARED-439 - Upgrade to Maven 3.</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Utils Version 0.9 Released</title>
+      <link>http://localhost:1313/blog/2015/09/2015-09-21-apache-maven-shared-utils-version-0-dot-9-released/</link>
+      <pubDate>Mon, 21 Sep 2015 08:22:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/09/2015-09-21-apache-maven-shared-utils-version-0-dot-9-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Shared Utils, version 0.9.
+The release contains a number of bug fixes.
+You should specify the version in your project&amp;rsquo;s dependencies configuration:
+&amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.shared&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-shared-utils&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;0.9&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt; Release Notes - Maven Shared Utils - Version 0.9
+Bugs:
+ MSHARED-426 - Upgrade maven-assembly-plugin to Version 2.5.5 MSHARED-434 - NPE due to concurrent calls in close() method of StreamFeeder class MSHARED-435 - createSymbolicLink() ClassCastException  Improvement:</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Utils Version 0.8 Released</title>
+      <link>http://localhost:1313/blog/2015/06/2015-06-20-apache-maven-shared-utils-version-0-dot-8-released/</link>
+      <pubDate>Sat, 20 Jun 2015 15:31:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/06/2015-06-20-apache-maven-shared-utils-version-0-dot-8-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Apache Maven Shared Utils, version 0.8
+This project aims to be a functional replacement for plexus-utils in Maven.
+&amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven.shared&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-shared-utils&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;0.8&amp;lt;/version&amp;gt; &amp;lt;/plugin&amp;gt; Release Notes - Maven Shared Utils Release 0.8
+Bug:
+ MSHARED-369 - ReflectionValueExtractor regression; incorrect parsing  Improvement:
+ MSHARED-415 - Allow passing a Charset to be used by the StreamPumper to read from the input streams  Enjoy,</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven Shared Component - Maven Archiver Version 2.6 Released</title>
+      <link>http://localhost:1313/blog/2014/11/2014-11-01-apache-maven-shared-component-maven-archiver-version-2-dot-6-released/</link>
+      <pubDate>Sat, 01 Nov 2014 13:44:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/11/2014-11-01-apache-maven-shared-component-maven-archiver-version-2-dot-6-released/</guid>
+      <description>The Apache Maven team is pleased to announce the release of the Maven Archiver, version 2.6.
+The Maven Archiver is mainly used by plugins to handle packaging.
+You should specify the version in your project&amp;rsquo;s dependency configuration:
+&amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.apache.maven&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;maven-archiver&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;2.6&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt; Release Notes - Maven Archiver - Version 2.6
+Bugs:
+ MSHARED-241 - Use last plexus-archiver version MSHARED-360 - Upgrade plexus-archiver to 2.6.1 (was 2.6) and plexus-utils to 3.0.18 for java7+ symlink support MSHARED-368 - Update plexus-interpolation to 1.</description>
+    </item>
+    
+  </channel>
+</rss>

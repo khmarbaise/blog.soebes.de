@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Impressum on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/impressum/</link>
+    <description>Recent content in Impressum on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/impressum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:1313/impressum/datenschutz/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://localhost:1313/impressum/datenschutz/</guid>
+      <description>Im Rahmen des hier vorliegenden Internetauftritts werden durch das Betreten dieser Seiten durch Sie, die folgenden Daten erfasst:
+ Datum und Uhrzeit Besuchte Seite Seite von der Sie gekommen sind (sog. referer), wenn vorhanden Browsertyp und Browserversion Verwendetes Betriebssystem Verwendeter Gerätetyp Uhrzeit des Zugriffs IP Adresse  Eine Aufzeichnungsdatei enthält folgende Informationen im Falle eines Zugriffes auf die Impressum Seite:
+soebes.info - - [02/Jun/2018:20:36:56 +0200] &amp;quot;GET /assets/css/main.67e9c12b.css HTTP/1.1&amp;quot; 200 4383 &amp;quot;http://www.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/impressum/impressum/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://localhost:1313/impressum/impressum/</guid>
+      <description>Inhaltlich verantwortlich für die vorliegenden Internetseiten unter den Domains soebes.de, soebes.com, soebes.biz, soebes.name, soebes.info, soebes.net, soebes.org, soebes.eu, soebes.ch, soebes.io und soebes.at laut TDG ist und dem Art. 4 Abs. 7 Datenschutz-Grundverordnung (DSGVO) ist:
+SoftwareEntwicklung Beratung Schulung Dipl.Ing.(FH) Karl Heinz Marbaise Hauptstr. 177 52146 Würselen Telefon : +49 2405 / 415 893 EMail : impressum@soebes.de USt-IdNr. : DE191347579  </description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/impressum/links/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://localhost:1313/impressum/links/</guid>
+      <description>Im Rahmen des vorliegenden Internetauftritts werden an vielen Stellen sog. Links gesetzt. Die Verwendung von Links ist einer der vitalen Grundlagen, auf denen das Internet basiert.
+Zum Zeitpunkt der Link-Setzung wurden die Links mit der Absicht gesetzt, weitere Informationen zu liefern bzw. dem Besucher zur Verfügung zu stellen, oder auch auf Seiten zu verweisen, deren Aussehen oder Inhalte ich für erwähnenswert halte.
+Die Inhalte der verlinkten Seiten wurden zum Zeitpunkt der Linksetzung kontrolliert, ob die gewünschten Informationen dort vorliegen.</description>
+    </item>
+    
+    <item>
+      <title>Urheberrecht</title>
+      <link>http://localhost:1313/impressum/urheberrecht/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://localhost:1313/impressum/urheberrecht/</guid>
+      <description>Die verwendeten Grafiken, Bilder, Vorträge und sonstigen Veröffentlichungen sowie die Beiträge und Texte sind urheberrechtlich geschützt. Alle Rechte, auch die der fotomechanischen Wiedergabe oder der Vervielfältigung in einer anderen Form (z.B. Kopieren etc.) und der Verbreitung mittels besonderer Verfahren (zum Beispiel Datenverarbeitung, Datenträger und Datennetze) auch im Auszug, behalten wir uns vor und bedürfen der schriftlichen Genehmigung durch uns.
+Das bedeutet, dass es gerne gesehen wird, einen Link auf einen Vortrag o.</description>
+    </item>
+    
+  </channel>
+</rss>

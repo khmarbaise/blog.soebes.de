@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JaGoSI on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/jagosi/</link>
+    <description>Recent content in JaGoSI on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Jul 2007 22:43:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/jagosi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.9</title>
+      <link>http://localhost:1313/blog/2007/2007-07-22-java-gforge-soap-interface-release-0-0-9/</link>
+      <pubDate>Sun, 22 Jul 2007 22:43:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-22-java-gforge-soap-interface-release-0-0-9/</guid>
+      <description>Es gibt nun wieder ein Update. Es ist nun möglich eine Datei via JaGoSI auf GForge zu übertragen und dort ein Package bzw. eine Release im FRS Bereich zu erzeugen. Es wurden auch noch einige Bugs behoben. Die Übersicht für den Milestone 0.0.9. Die genauen Änderungen für den einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.8</title>
+      <link>http://localhost:1313/blog/2007/2007-07-13-java-gforge-soap-interface-release-0-0-8/</link>
+      <pubDate>Fri, 13 Jul 2007 02:17:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-13-java-gforge-soap-interface-release-0-0-8/</guid>
+      <description>Es gibt nun wieder ein Update. Es sind nun alle Funktionen implementiert, die das GForge SOAP API bietet. Hierbei wurden noch einige Fehler im PHP Code gefunden und entsprechend korrigiert. Die Übersicht für den Milestone 0.0.8. Die genauen Änderungen für den einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.7</title>
+      <link>http://localhost:1313/blog/2007/2007-07-08-java-gforge-soap-interface-release-0-0-7/</link>
+      <pubDate>Sun, 08 Jul 2007 12:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-07-08-java-gforge-soap-interface-release-0-0-7/</guid>
+      <description>Es gibt nun wieder ein Update. Der Bereich des FRS (File Release System) von GForge ist nun implementiert. Die Übersicht für den Milestone 0.0.7 können eingesehen werden. Die genauen Änderungen für die einzelnen Milestone kann man hier einsehen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface Release 0.0.4</title>
+      <link>http://localhost:1313/blog/2007/2007-06-26-java-gforge-soap-interface-release-0-0-4/</link>
+      <pubDate>Tue, 26 Jun 2007 09:29:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-26-java-gforge-soap-interface-release-0-0-4/</guid>
+      <description>Es gibt nun wieder ein Update. Einige neuen Funktionen. Es ist nun möglich einen Tracker Eintrag (Bug, Patch etc.) per JaGoSI zu erzeugen.</description>
+    </item>
+    
+    <item>
+      <title>Java GForge SOAP Interface First Public Release 0.0.3</title>
+      <link>http://localhost:1313/blog/2007/2007-06-17-java-gforge-soap-interface-first-public-release-0-0-3/</link>
+      <pubDate>Sun, 17 Jun 2007 22:40:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-06-17-java-gforge-soap-interface-first-public-release-0-0-3/</guid>
+      <description>Es gibt nun JaGoSI als Zugriffsmittel auf die GForge Kollaborationsplatfform.</description>
+    </item>
+    
+  </channel>
+</rss>

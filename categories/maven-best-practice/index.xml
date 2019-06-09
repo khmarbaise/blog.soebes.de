@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maven Best Practice on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/maven-best-practice/</link>
+    <description>Recent content in Maven Best Practice on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Oct 2018 16:30:33 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/maven-best-practice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maven Artifact Checksums - What?</title>
+      <link>http://localhost:1313/blog/2018/10/2018-10-13-maven-artifact-checksums-what/</link>
+      <pubDate>Sat, 13 Oct 2018 16:30:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/10/2018-10-13-maven-artifact-checksums-what/</guid>
+      <description>If you are using Apache Maven you might have faced with issues like this:
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-shade-plugin:2.1:shade (default) on project cores-batch: Error creating shaded jar: invalid LOC header (bad signature) -&amp;gt; [Help 1] ... .... (remove many lines for brevity). ... Caused by: java.util.zip.ZipException: invalid LOC header (bad signature) at java.util.zip.ZipFile.read(Native Method) at java.util.zip.ZipFile.access$1400(ZipFile.java:56) at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:679) at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:415) at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158) at java.io.FilterInputStream.read(FilterInputStream.java:107) ...  How could that happen?</description>
+    </item>
+    
+    <item>
+      <title>Maven: POM files without a version in it?</title>
+      <link>http://localhost:1313/blog/2017/04/2017-04-02-maven-pom-files-without-a-version-in-it/</link>
+      <pubDate>Sun, 02 Apr 2017 00:15:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/04/2017-04-02-maven-pom-files-without-a-version-in-it/</guid>
+      <description>In Maven 3.2.5 a feature has been introduced to be able to define a version of a Maven project via properties ${revision}, ${sha1} and ${changelist} which unfortuantely had some issues. Those issues have been fixed with Maven 3.5.0-beta-1 and now you can define the version of a project by using the following properties: ${revision}, ${sha1} and ${changelist}. The example below will show one usage of this:
+.. &amp;lt;parent&amp;gt; &amp;lt;groupId&amp;gt;com.soebes.smpp&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;smpp&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;2.</description>
+    </item>
+    
+    <item>
+      <title>Maven 3: How Version Comparison Works?</title>
+      <link>http://localhost:1313/blog/2017/02/2017-02-04-apache-maven-how-version-comparison-works/</link>
+      <pubDate>Sat, 04 Feb 2017 14:23:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/02/2017-02-04-apache-maven-how-version-comparison-works/</guid>
+      <description>In the ancient time before maven 3 the version of an artifact had to follow the pattern:
+&amp;lt;majorversion [&amp;gt; . &amp;lt;minorversion [&amp;gt; . &amp;lt;incrementalversion ] ] [&amp;gt; - &amp;lt;buildnumber | qualifier ]&amp;gt;  so far so good. Now let us assume we have the following two versions:
+ 1.0.9.3.1 1.0.10.11  What would you expect which version is newer than the other or the older one? I suppose you would say: 1.</description>
+    </item>
+    
+    <item>
+      <title>Maven Incremental Module Build</title>
+      <link>http://localhost:1313/blog/2016/08/2016-08-12-maven-incremental-module-build/</link>
+      <pubDate>Fri, 12 Aug 2016 16:30:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/08/2016-08-12-maven-incremental-module-build/</guid>
+      <description>If you are working with a Maven Multi Module Build on command line it could happen that you might think: Wouldn&amp;rsquo;t it be nice to build only the modules which you have changed and not all modules in the reactor.
+You can of course control what you build by using the --projects command line option and add the appropriate modules you would like to build. For example like this:
+mvn --projects module1,module2 clean package  But you need to think everytime you run the build about which modules have been changed and you need to adapt the list of changed modules manually.</description>
+    </item>
+    
+    <item>
+      <title>Maven: How To Create a Release</title>
+      <link>http://localhost:1313/blog/2016/08/2016-08-08-maven-how-to-create-a-release/</link>
+      <pubDate>Mon, 08 Aug 2016 08:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/08/2016-08-08-maven-how-to-create-a-release/</guid>
+      <description>You are working on your project and now the time has come where you would like to create a release of your project. So how to do this with Maven?
+There are existing in general several solutions to achieve the goal. Those different solutions will be described in this article.
+Maven Release Plugin The most obvious one and probbaly most suggested variant is to use the Maven Release Plugin to create a release.</description>
+    </item>
+    
+    <item>
+      <title>Maven Anti Patterns: Build Helper Maven Plugin</title>
+      <link>http://localhost:1313/blog/2016/06/2016-06-11-maven-anti-patterns-build-helper-maven-plugin/</link>
+      <pubDate>Sat, 11 Jun 2016 13:26:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/06/2016-06-11-maven-anti-patterns-build-helper-maven-plugin/</guid>
+      <description>In Maven builds I often see a pattern like the following:
+&amp;lt;plugins&amp;gt; &amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;group&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;generatorPlugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;..&amp;lt;/version&amp;gt; &amp;lt;configuration&amp;gt; ... &amp;lt;/configuration&amp;gt; &amp;lt;/plugin&amp;gt; &amp;lt;plugin&amp;gt; &amp;lt;groupId&amp;gt;org.codehaus.mojo&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;build-helper-maven-plugin&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;...&amp;lt;/version&amp;gt; &amp;lt;executions&amp;gt; &amp;lt;execution&amp;gt; &amp;lt;phase&amp;gt;generate-sources&amp;lt;/phase&amp;gt; &amp;lt;goals&amp;gt; &amp;lt;goal&amp;gt;add-source&amp;lt;/goal&amp;gt; &amp;lt;/goals&amp;gt; &amp;lt;configuration&amp;gt; &amp;lt;sources&amp;gt; &amp;lt;source&amp;gt;target/generated-sources/WHATEVER&amp;lt;/source&amp;gt; &amp;lt;/sources&amp;gt; &amp;lt;/configuration&amp;gt; &amp;lt;/execution&amp;gt; &amp;lt;/executions&amp;gt; &amp;lt;/plugin&amp;gt; &amp;lt;/plugins&amp;gt; The generatorPlugin is just a placeholder for different kinds of maven plugins which generate code for example ANTLR4 Maven Plugin, Templating Maven Plugin, JAXB2 Maven Plugin just to mention a few examples here.</description>
+    </item>
+    
+    <item>
+      <title>How Important is a Repository Manager?</title>
+      <link>http://localhost:1313/blog/2016/05/2016-05-15-how-important-is-a-repository-manager/</link>
+      <pubDate>Sun, 15 May 2016 15:14:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/05/2016-05-15-how-important-is-a-repository-manager/</guid>
+      <description>Do you know how many downloads are done from Maven Central during a month? I was not aware of that as well. As a PMC member of the Apache Maven Project I have the privilege of having access to the statistics of Maven Central.
+So I checked the statistics of Maven Central. I can tell you that in the groupId org.apache.maven were more than 27 million (28,933,147) downloads in April 2016.</description>
+    </item>
+    
+    <item>
+      <title>Building For Multiple Environments</title>
+      <link>http://localhost:1313/blog/2016/05/2016-05-08-building-for-multiple-environments/</link>
+      <pubDate>Sun, 08 May 2016 19:17:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/05/2016-05-08-building-for-multiple-environments/</guid>
+      <description>As i described in my previous articles (Multiple Environments I and Multiple Environments II) there are situations where you need to create separate artifacts for different environments.
+But the problem is that by using the suggested solutions is that it can be made better.
+Thats the reason why I&amp;rsquo;m writing this blog article.
+I have created a more or less simple Maven Plugin which handles exactly those situations. Let us assume you have the following environments:</description>
+    </item>
+    
+    <item>
+      <title>Maven Prerequisites?</title>
+      <link>http://localhost:1313/blog/2015/04/2015-04-04-maven-prerequisites/</link>
+      <pubDate>Sat, 04 Apr 2015 12:10:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/04/2015-04-04-maven-prerequisites/</guid>
+      <description>Starting with Maven 3.3.1 it is possible to define several important configuration elements within your project. For example JVM parameters or some kind of build extensions. Unfortunately using such things may result is wrong or failing builds cause those informations are not read by older Maven versions. How can you prevent such situations?
+For a long time the prerequisites exists which defines the minimum Maven version to build with. I have to emphasize the build time.</description>
+    </item>
+    
+    <item>
+      <title>Version Information Into Your Apps With Maven</title>
+      <link>http://localhost:1313/blog/2014/01/2014-01-02-version-information-into-your-appas-with-maven/</link>
+      <pubDate>Thu, 02 Jan 2014 19:08:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2014/01/2014-01-02-version-information-into-your-appas-with-maven/</guid>
+      <description>It often happens having an application and you want to show a version information in a kind of About Dialog or may be on command line as well (probably you know --version stuff).
+So in relationship with Maven the question is: How to get this into your Java code. There are in general four ways to do it:
+ Using the pom.properties file which is created by default by Maven.</description>
+    </item>
+    
+    <item>
+      <title>Why is it bad To Activate/Deactive Modules By Profiles In Maven</title>
+      <link>http://localhost:1313/blog/2013/2013-11-09-why-is-it-bad-to-activate-slash-deactive-modules-by-profiles-in-maven/</link>
+      <pubDate>Sat, 09 Nov 2013 12:50:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2013/2013-11-09-why-is-it-bad-to-activate-slash-deactive-modules-by-profiles-in-maven/</guid>
+      <description>Often you can observe that people are using profiles to activate/deactivate modules in a Maven build like the following or something similar:
+&amp;lt;profiles&amp;gt; &amp;lt;profile&amp;gt; &amp;lt;id&amp;gt;module-1&amp;lt;/id&amp;gt; &amp;lt;modules&amp;gt; &amp;lt;module&amp;gt;module-1&amp;lt;/module&amp;gt; &amp;lt;/modules&amp;gt; &amp;lt;/profile&amp;gt; &amp;lt;profile&amp;gt; &amp;lt;id&amp;gt;different&amp;lt;/id&amp;gt; &amp;lt;modules&amp;gt; &amp;lt;module&amp;gt;module-2&amp;lt;/module&amp;gt; &amp;lt;module&amp;gt;module-3&amp;lt;/module&amp;gt; &amp;lt;module&amp;gt;module-4&amp;lt;/module&amp;gt; &amp;lt;/modules&amp;gt; &amp;lt;/profile&amp;gt; &amp;lt;/profiles&amp;gt; The question is: Why is this bad?
+First let us reduce the above example to a simpler one like this:
+.. &amp;lt;modules&amp;gt; &amp;lt;module&amp;gt;module-1&amp;lt;/module&amp;gt; &amp;lt;module&amp;gt;module-2&amp;lt;/module&amp;gt; &amp;lt;/modules&amp;gt; .. &amp;lt;profiles&amp;gt; &amp;lt;profile&amp;gt; &amp;lt;id&amp;gt;supp&amp;lt;/id&amp;gt; &amp;lt;modules&amp;gt; &amp;lt;module&amp;gt;module-add&amp;lt;/module&amp;gt; &amp;lt;/modules&amp;gt; &amp;lt;/profile&amp;gt; &amp;lt;/profiles&amp;gt; One of the important situations is if you like to create a release of your artifacts via the maven-release-plugin which is not really unusual (or shouldn&amp;rsquo;t be).</description>
+    </item>
+    
+    <item>
+      <title>Maven POM Style Guide?</title>
+      <link>http://localhost:1313/blog/2013/2013-10-24-maven-pom-style-guide/</link>
+      <pubDate>Thu, 24 Oct 2013 19:15:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2013/2013-10-24-maven-pom-style-guide/</guid>
+      <description>If you are working over a longer time with Maven your pom´s become larger and in particular in projects it happens that everyone has it´s own belief of how a good pom style should look like. Packaging type before artifactId, groupId and version, modules before any other things or after all other things etc. Sounds familiar?
+Using a coding style guide in the Java development is usually today no big deal anymore.</description>
+    </item>
+    
+    <item>
+      <title>Build Smells - Maven Assembly Plugin</title>
+      <link>http://localhost:1313/blog/2013/2013-09-28-build-smells-maven-assembly-plugin/</link>
+      <pubDate>Sat, 28 Sep 2013 14:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2013/2013-09-28-build-smells-maven-assembly-plugin/</guid>
+      <description>If you are a software developer (for example in Java) you might have heard about code smells which indicate not really bugs, but usually are a kind of indicator for problems in the future. It´s usually a good practice to fix such code smells.
+But sometimes if I take a deeper look into a Maven build I can observe things like Build Smells which could produce problems in future but not need to.</description>
+    </item>
+    
+    <item>
+      <title>Maven: Configuration For Multipe Environments - II</title>
+      <link>http://localhost:1313/blog/2011/2011-08-11-maven-configuration-for-multipe-environments-ii/</link>
+      <pubDate>Thu, 11 Aug 2011 09:41:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-08-11-maven-configuration-for-multipe-environments-ii/</guid>
+      <description>Based on a comment on my previous article i would like to show how to add dependencies to the generated artifacts depending on the environment.
+The most important problem is: How to get the different artifacts? If you have artifacts which are stored in a Maven Repository like Maven Central it is easy to get them. Just use the Maven Dependency Plugin to get the artifacts. This means you have to add the following to your pom file:</description>
+    </item>
+    
+    <item>
+      <title>Maven: Configuration For Multipe Environments</title>
+      <link>http://localhost:1313/blog/2011/2011-07-29-maven-configuration-for-multipe-environments/</link>
+      <pubDate>Fri, 29 Jul 2011 09:20:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-07-29-maven-configuration-for-multipe-environments/</guid>
+      <description>I have often heard that it is not possible to create a number of artifacts out of a single Maven module with different configurations. An example from the wild is to have a web-app (or whatever app) which should be running in development, test, q&amp;amp;a and production environment. So you need different configurations for the different environments for example the database connection or whatever. At first glance that seems to be a contradiction cause Maven&amp;rsquo;s paradigm is &amp;ldquo;One Module One Artifact&amp;rdquo;?</description>
+    </item>
+    
+  </channel>
+</rss>

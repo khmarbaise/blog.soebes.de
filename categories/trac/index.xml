@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trac on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/trac/</link>
+    <description>Recent content in Trac on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Nov 2008 11:29:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/trac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trac Maintenance Release 0.11.2</title>
+      <link>http://localhost:1313/blog/2008/2008-11-09-trac-maintenance-release-0-11-2/</link>
+      <pubDate>Sun, 09 Nov 2008 11:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-11-09-trac-maintenance-release-0-11-2/</guid>
+      <description>Das Trac Team hat eine neue maintenance Release 0.11.2 heraus gebracht, die einige Sicherheits Fixes beinhaltet. Es wird geraten die entsprechedenden Installation zu aktualisieren.</description>
+    </item>
+    
+  </channel>
+</rss>

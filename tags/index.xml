@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Dec 2012 21:45:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ant</title>
+      <link>http://localhost:1313/tags/ant/</link>
+      <pubDate>Mon, 17 Dec 2012 21:45:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BM</title>
+      <link>http://localhost:1313/tags/bm/</link>
+      <pubDate>Sat, 24 Aug 2013 11:16:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bazaar</title>
+      <link>http://localhost:1313/tags/bazaar/</link>
+      <pubDate>Sat, 02 Oct 2010 13:09:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bazaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bug/Issue Tracking</title>
+      <link>http://localhost:1313/tags/bug/issue-tracking/</link>
+      <pubDate>Thu, 09 Apr 2009 21:45:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bug/issue-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI</title>
+      <link>http://localhost:1313/tags/ci/</link>
+      <pubDate>Sat, 16 Apr 2011 20:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVS</title>
+      <link>http://localhost:1313/tags/cvs/</link>
+      <pubDate>Mon, 19 May 2008 20:31:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClearCase</title>
+      <link>http://localhost:1313/tags/clearcase/</link>
+      <pubDate>Wed, 24 Feb 2010 12:57:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/clearcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://localhost:1313/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuum</title>
+      <link>http://localhost:1313/tags/continuum/</link>
+      <pubDate>Sat, 24 Nov 2007 23:40:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/continuum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DVCS</title>
+      <link>http://localhost:1313/tags/dvcs/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/dvcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darcs</title>
+      <link>http://localhost:1313/tags/darcs/</link>
+      <pubDate>Thu, 23 Oct 2008 10:08:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/darcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIT</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradle</title>
+      <link>http://localhost:1313/tags/gradle/</link>
+      <pubDate>Sun, 17 Jun 2012 12:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gradle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hadoop</title>
+      <link>http://localhost:1313/tags/hadoop/</link>
+      <pubDate>Sat, 19 Feb 2011 17:43:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hudson</title>
+      <link>http://localhost:1313/tags/hudson/</link>
+      <pubDate>Fri, 22 Apr 2011 16:29:54 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hudson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrations Tests</title>
+      <link>http://localhost:1313/tags/integrations-tests/</link>
+      <pubDate>Thu, 19 Apr 2012 10:22:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/integrations-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivy</title>
+      <link>http://localhost:1313/tags/ivy/</link>
+      <pubDate>Mon, 17 Dec 2012 21:45:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ivy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JaGoSI</title>
+      <link>http://localhost:1313/tags/jagosi/</link>
+      <pubDate>Sun, 22 Jul 2007 22:43:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jagosi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Thu, 28 Jul 2011 14:21:28 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>http://localhost:1313/tags/maven/</link>
+      <pubDate>Sat, 24 Aug 2013 11:16:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercurial</title>
+      <link>http://localhost:1313/tags/mercurial/</link>
+      <pubDate>Sun, 29 Aug 2010 18:55:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mercurial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monotone</title>
+      <link>http://localhost:1313/tags/monotone/</link>
+      <pubDate>Sat, 16 May 2009 20:48:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/monotone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neue Versionen</title>
+      <link>http://localhost:1313/tags/neue-versionen/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/neue-versionen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuigkeiten</title>
+      <link>http://localhost:1313/tags/neuigkeiten/</link>
+      <pubDate>Sat, 24 Aug 2013 11:16:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/neuigkeiten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Fri, 10 Jun 2011 19:22:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>http://localhost:1313/tags/php/</link>
+      <pubDate>Thu, 25 Oct 2007 12:47:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plastic SCM</title>
+      <link>http://localhost:1313/tags/plastic-scm/</link>
+      <pubDate>Thu, 09 Aug 2007 19:32:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/plastic-scm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PlugIn</title>
+      <link>http://localhost:1313/tags/plugin/</link>
+      <pubDate>Sun, 30 Jan 2011 19:41:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redmine</title>
+      <link>http://localhost:1313/tags/redmine/</link>
+      <pubDate>Wed, 17 Jun 2009 17:52:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/redmine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SKM</title>
+      <link>http://localhost:1313/tags/skm/</link>
+      <pubDate>Sat, 10 Mar 2012 17:36:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/skm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVK</title>
+      <link>http://localhost:1313/tags/svk/</link>
+      <pubDate>Fri, 12 Mar 2010 13:36:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/svk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVN</title>
+      <link>http://localhost:1313/tags/svn/</link>
+      <pubDate>Mon, 25 Jul 2011 08:26:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/svn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartSVN</title>
+      <link>http://localhost:1313/tags/smartsvn/</link>
+      <pubDate>Thu, 27 Nov 2008 18:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/smartsvn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpectrumSCM</title>
+      <link>http://localhost:1313/tags/spectrumscm/</link>
+      <pubDate>Thu, 09 Aug 2007 19:51:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/spectrumscm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subversion</title>
+      <link>http://localhost:1313/tags/subversion/</link>
+      <pubDate>Wed, 17 Oct 2012 18:59:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/subversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SupoSE</title>
+      <link>http://localhost:1313/tags/supose/</link>
+      <pubDate>Sun, 02 Jan 2011 18:05:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/supose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/tags/test/</link>
+      <pubDate>Mon, 17 Dec 2012 21:48:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/tags/testing/</link>
+      <pubDate>Wed, 29 Dec 2010 17:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomcat</title>
+      <link>http://localhost:1313/tags/tomcat/</link>
+      <pubDate>Thu, 29 Apr 2010 09:21:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tomcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TortoiseSVN</title>
+      <link>http://localhost:1313/tags/tortoisesvn/</link>
+      <pubDate>Mon, 25 Jul 2011 08:26:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tortoisesvn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trac</title>
+      <link>http://localhost:1313/tags/trac/</link>
+      <pubDate>Sun, 09 Nov 2008 11:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/trac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Tests</title>
+      <link>http://localhost:1313/tags/unit-tests/</link>
+      <pubDate>Thu, 19 Apr 2012 10:22:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/unit-tests/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SupoSE on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/supose/</link>
+    <description>Recent content in SupoSE on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Jan 2011 18:05:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/supose/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Subversion Authentication Parser Module</title>
+      <link>http://localhost:1313/blog/2011/2011-01-02-subversion-authentication-parser-module/</link>
+      <pubDate>Sun, 02 Jan 2011 18:05:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2011/2011-01-02-subversion-authentication-parser-module/</guid>
+      <description>Nachdem es jetzt eine recht lange Zeit gedauert hat, habe ich es jetzt endlich geschafft (Neues Jahr sei Dank ;-)). Das Module zum lesen des Konfigurationsfiles für Path-Based Authentication aufgesetzt und auch endlich mal auf GitHub veröffentlicht. Das Objekt Modell gibt jetzt das her was ich brauche. Die Grammatik funktioniert jetzt auch so weit. Das was noch nicht läuft ist der Zusammenhang zwischen Grammatik und Objekt Modell. Das wird später in SupoSE integriert, damit dort entsprechende Berechtigungen für die Suchergebnisse zugeordnet werden können.</description>
+    </item>
+    
+    <item>
+      <title>Lectures of the 4. Subversion Conference are online</title>
+      <link>http://localhost:1313/blog/2010/2010-09-29-lectures-of-the-4-subversion-conference-are-online/</link>
+      <pubDate>Wed, 29 Sep 2010 17:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-09-29-lectures-of-the-4-subversion-conference-are-online/</guid>
+      <description>The lectures about project management vs. build- and configuration management and the lecture about the Subversion Repository Search Engine are now online availabe.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE - Performance Optimierung - 0.7.1 Linie</title>
+      <link>http://localhost:1313/blog/2010/2010-08-08-supose-performance-optimierung-0-7-1-linie/</link>
+      <pubDate>Sun, 08 Aug 2010 18:24:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-08-08-supose-performance-optimierung-0-7-1-linie/</guid>
+      <description>Die Optimierung die ich im Ersten Schritt in SupoSE vorgenommen hatte wahren ja schon recht erfolgreich.
+Von 5 Tagen auf unter 24 Stunden ist ja schon was und gleichzeitig noch den Speicherbedarf reduziert. Aber das war mir noch nicht genug. Also habe ich nochmal nachgedacht was man da denn noch machen kann. Da das Scannen des Repositories ja anhand der Revisionnummern vorgenommen wird war der Schritt in Richtung von Blöcken a 10.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.2 Calypso ist nun da</title>
+      <link>http://localhost:1313/blog/2010/2010-06-11-supose-release-0-6-2-calypso-ist-nun-da/</link>
+      <pubDate>Fri, 11 Jun 2010 18:59:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-06-11-supose-release-0-6-2-calypso-ist-nun-da/</guid>
+      <description>Eine neue Release von SupoSE ist nun fertig.
+ User visible Changes/Enhancements.  Upgrade to SVNKit 1.3.X (Support for SVN 1.6.X repositories) (#218) Enormous performance enhancements for the scan command (#309) Updated to Java 1.6 (#235) Removed the dfilename and dpath which had been introduced in Release 0.6.0 to reduce the Index size finger print (#241). Removed display property prefix (#310) Output formatting of &amp;ndash;help has been changed (#36) quartz.properties are now located in the etc folder Formatting problem if more than 9999 items in changeset (#314) Copyright updated to 2010 (#308) Updated the Build/Run Documentation (#247)  Fixed Bugs  Fuzzy search had been broken (#199) README will not correctly recognized (#215) Searching for full qualified filenames didn&amp;rsquo;t work (#216) Couldn&amp;rsquo;t search for files with a dot (#246)  Won&amp;rsquo;t be fixed:  Support for 1.</description>
+    </item>
+    
+    <item>
+      <title>Großer Test mit SupoSE die II.</title>
+      <link>http://localhost:1313/blog/2010/2010-05-16-grosser-test-mit-supose-die-ii/</link>
+      <pubDate>Sun, 16 May 2010 12:04:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-05-16-grosser-test-mit-supose-die-ii/</guid>
+      <description>Nach der Beurteilung der Test Ergebnisse insbesondere der Laufzeiten habe ich mir einige optimierungen für SupoSE überlegt und nun in einem Test auf die gleichen Test Daten losgelassen.
+Wichtig dabei ist zum einen, dass die Geschwindigkeit enorm gesteigert wurde (aber warten wir mal das Ende ab) und dass hier mit den Default Einstellungen für den Speicher gearbeitet wurde (-Xms512m -Xmx1024m).
+ scan gestartet: 15.05.2010 20:37:54 Laufzeit bis dato: 16.05.2010 12:00:00 Bisher ca.</description>
+    </item>
+    
+    <item>
+      <title>Großer Test mit SupoSE</title>
+      <link>http://localhost:1313/blog/2010/2010-05-15-grosser-test-mit-supose/</link>
+      <pubDate>Sat, 15 May 2010 20:04:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-05-15-grosser-test-mit-supose/</guid>
+      <description>Nachdem nun die Vorbereitungen abgeschlossen sind habe ich nun mal SupoSE in der aktuellen Release (0.6.2 RC1 - 447) darauf losgelassen.
+ Indizierung mithilfe von SupoSE (0.6.2 RC1 - 447)  scan gestartet: 28.04.2010 20:44 We have taken 436352,037 seconds for 930.176 revisions. This is an average of 2,132 revisions/second. Größe des Indizes nach dem Scan: 61.797.883.970 Bytes   Na ja ca. 5 Tage, um das Repository zu scannen scheint mir jetzt ein wenig viel.</description>
+    </item>
+    
+    <item>
+      <title>Vorbereitungen für einen Test mit SupoSE</title>
+      <link>http://localhost:1313/blog/2010/2010-05-04-vorbereitungen-fuer-einen-test-mit-supose/</link>
+      <pubDate>Tue, 04 May 2010 21:41:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-05-04-vorbereitungen-fuer-einen-test-mit-supose/</guid>
+      <description>Im Rahmen der Test Vorbereitungen für SupoSE wollte ich mir eine großes Repository besorgen, damit ich mal das Verhalten mit einem &amp;ldquo;richtigen&amp;rdquo; repository testen kann und auch mal ein paar Anhaltspunkte für Zeiten bzgl. eines entsprechenden Repositories bekomme. 
+Danke der netten Mithilfe der Apache Software Foundation, gibt es die einfache Möglichkeit einen Vollständigen Dump des Repositories zu erhalten, da ich nicht mit einem svnsync arbeiten wollte, da das zu große kontinuierliche Last erzeugt hätte.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.2 Calypso RC1 erschienen</title>
+      <link>http://localhost:1313/blog/2010/2010-03-02-supose-release-0-6-2-calypso-rc1-erschienen/</link>
+      <pubDate>Tue, 02 Mar 2010 16:39:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2010/2010-03-02-supose-release-0-6-2-calypso-rc1-erschienen/</guid>
+      <description>Es ist nun endlich geschaft. Eine neue Release 0.6.2 Calypso RC1 in Vorbereitung zur 0.6.2. Einige Bug Fixes wurde behoben und vor allem wurde die Index größe reduziert.</description>
+    </item>
+    
+    <item>
+      <title>Vorträge der Subversion Konferenz Online</title>
+      <link>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</link>
+      <pubDate>Sun, 01 Nov 2009 18:56:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-11-01-vortr%C3%A3ge-der-subversion-konferenz-online/</guid>
+      <description>Nach Beendigung der Subversion Konferenz in München habe ich nun meine eigenen Vorträge alle online gestellt.
+ Versionierung in Java stellt einen Vortrag (PDF) zum Thema SVNKit Nutzung und Anwendung im Bereich Java. To be DVCS or not to be stellt einen Vortrag (PDF) zur kritischen Betrachtung von verteilten bzw. zentralisierten Versionskontrollsystemen dar. Die Qual der Versionen die 2. stellt einen Vortrag (PDF) zum OpenSource Projekt Subversion Repository Search Enginge (SupoSE) dar.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.1 erschienen</title>
+      <link>http://localhost:1313/blog/2009/2009-06-18-supose-release-0-6-1-erschienen/</link>
+      <pubDate>Thu, 18 Jun 2009 00:13:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-18-supose-release-0-6-1-erschienen/</guid>
+      <description>Eine neue Release 0.6.1 der Subversion Repository Search Engine steht zur Verfügung. In der aktuellen Release ist ein Bug behoben, dass dazu geführt hat, dass ein geschedultes Repository scanning immer einen vollständigen scan gemacht hat anstatt nur die neuesten Versionen zu scannen. Noch einige kleine Erweiterunge z.B. &amp;ndash;xml Option und ein paar Fixes. Die Installationsarchive für Windows und Unix sind im Download Bereich  zu erhalten.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE - Eat your own Dog food</title>
+      <link>http://localhost:1313/blog/2009/2009-06-09-supose-eat-your-own-dog-food/</link>
+      <pubDate>Tue, 09 Jun 2009 23:20:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-09-supose-eat-your-own-dog-food/</guid>
+      <description>Tja, auch ich gehe nach dem Motto Eat your own Dog Food. Im Rahmen der aktuellen Entwicklung von SupoSE hatte ich das Problem rauszufinden, ob ich einen Aufruf zur Indizierung eines Feldes mit dem Namen SIZE verwendet hatte oder nicht bzw. ich konnte mich daran erinnern, dass ich den definitiv drin hatte. Die Frage ist nur, wann habe ich den rausgeworfen (aus Versehen oder mit Absicht ist unklar ;-)), denn in der aktuellen Revision war das Teil nicht mehr drin.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.6.0</title>
+      <link>http://localhost:1313/blog/2009/2009-06-01-supose-release-0-6-0/</link>
+      <pubDate>Mon, 01 Jun 2009 23:44:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-06-01-supose-release-0-6-0/</guid>
+      <description>Eine neue Release 0.6.0 der Subversion Repository Search Engine steht zur Verfügung. Die vorliegende Release behebt eine ganze Menge von Problemen bzgl. der Installation etc. Aber vor allem unterstützt SupoSE nun die OpenOffice File Formate (ods, odt, odp) und Office 2007 Formate (docx, xlsx, pptx) weiterhin werden nun Archive wie z.B. .tar, .tar.gz, .tar.bz2, .zip, .jar unterstützt. Dabei gibt es nun die Möglichkeit entweder den Inhalt der Archive selbst zu parsen oder nur die Dateinamensliste der Archive zu parsen.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.5.2</title>
+      <link>http://localhost:1313/blog/2009/2009-05-06-supose-release-0-5-2/</link>
+      <pubDate>Wed, 06 May 2009 21:40:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-05-06-supose-release-0-5-2/</guid>
+      <description>Eine neue Release 0.5.2 der Subversion Repository Search Engine steht zur Verfügung. Es besteht jetzt die Möglichkeit in Suchanfragen auch mit führenden Wildcards zu arbeiten. Weiterhin wurden einige kleinere Bug Fixes gelöst. Der Download der aktuellen Ausführbahren Dateien ist im Download Bereich möglich. Diese stehen sowohl für Windows als auch für Unix bereit.</description>
+    </item>
+    
+    <item>
+      <title>Supose Release 0.5.1</title>
+      <link>http://localhost:1313/blog/2009/2009-02-21-supose-release-0-5-1/</link>
+      <pubDate>Sat, 21 Feb 2009 22:13:34 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-02-21-supose-release-0-5-1/</guid>
+      <description>Es liegt nun eine neue Release der Subversion Repository Search Engine (SupoSE) in der Release 0.5.1 vor. Das Update beinhaltet vor allem einen Bug Fix für das Problem, dass beim beenden des Schedulers danach wieder das gesamte Repository gescannt wird.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.5.0</title>
+      <link>http://localhost:1313/blog/2009/2009-01-25-supose-release-0-5-0/</link>
+      <pubDate>Sun, 25 Jan 2009 01:31:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-25-supose-release-0-5-0/</guid>
+      <description>Es liegt nun eine neue Release der Subversion Repository Search Engine (SupoSE) in der Release 0.5.0 vor. Das Update beinhaltet vor allem einen Bug fix für das binäre Paket der Alpha-1 Release, dass nicht lauffähig war. Ansonsten sind noch einige Bugs gefixed worden.</description>
+    </item>
+    
+    <item>
+      <title>SupoSE Release 0.5.0 Alpha 1</title>
+      <link>http://localhost:1313/blog/2009/2009-01-15-supose-release-0-5-0-alpha-1/</link>
+      <pubDate>Thu, 15 Jan 2009 00:13:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2009/2009-01-15-supose-release-0-5-0-alpha-1/</guid>
+      <description>Es liegt nun eine neue Release der Subversion Repository Search Engine (SupoSE) in der Release 0.5.0 Alpha 1 vor. Die Wichtigste Änderung besteht darin, dass der Scan Prozess der unterschiedlichen Dokumentarten mithilfe des Tika Frameworks durchgeführt wird. Damit einher gegangen ist die Unterstützung weiterer Dokument Typen (RTF, HTML und XML). Desweiteren werden nun auch Subversion 1.5 Repositories unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.4.0.0RC2</title>
+      <link>http://localhost:1313/blog/2008/2008-03-26-subversion-repository-search-engine-0-4-0-0rc2/</link>
+      <pubDate>Wed, 26 Mar 2008 17:30:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-03-26-subversion-repository-search-engine-0-4-0-0rc2/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.4.0.0RC2 der Subversion Repository Search Engine, die einige Bugs beseitig und vor allem einige 3rd Party Bibliotheken neueren Datums nutzt. Ein Problem ist vor allem aufgefallen, dass Dokumente ohne Dateierweiterung nicht gescannt wurden. Vielen Dank für den Patch (msuchy@redhat.com).</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.4.0.0RC1</title>
+      <link>http://localhost:1313/blog/2008/2008-01-12-subversion-repository-search-engine-0-4-0-0rc1/</link>
+      <pubDate>Sat, 12 Jan 2008 14:23:59 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2008/2008-01-12-subversion-repository-search-engine-0-4-0-0rc1/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.4.0.0RC1 der Subversion Repository Search Engine, die einig Bugs beseitig. Dazu gehört vor allem, dass bei Dokumenten, für die kein spezieller Indexer vorhanden ist, keine Inhalte indexiert wurden und somit keinerlei Suche nach den Inhalten möglich war. Weiterhin wurden noch einige Kleinigkeiten korrigiert. z.B. Ein Fehlerhaftes Beispiel im Wiki etc.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.3.0.0RC2</title>
+      <link>http://localhost:1313/blog/2007/2007-12-30-subversion-repository-search-engine-0-3-0-0rc2/</link>
+      <pubDate>Sun, 30 Dec 2007 11:32:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-30-subversion-repository-search-engine-0-3-0-0rc2/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.3.0.0RC2 der Subversion Repository Search Engine, die einige Bugs beseitigt. Zum einen war der Aufruf des Windows Command Files nicht von Erfolg gekrönt. Sprich es fehlten einige Abhängigkeiten. Einige Unklarheiten in der Dokumentation sind verbessert worden. Das Compilieren mit Maven 2 hat nicht funktioniert. Das ist jetzt wieder in Ordnung.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine (SupoSE) Release 0.3.0.0RC1 (Earth)</title>
+      <link>http://localhost:1313/blog/2007/2007-12-21-subversion-repository-search-engine-supose-release-0-3-0-0rc1-earth/</link>
+      <pubDate>Fri, 21 Dec 2007 12:39:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-21-subversion-repository-search-engine-supose-release-0-3-0-0rc1-earth/</guid>
+      <description>Es gibt nun wieder eine neue Release 0.3.0.0RC1 der Subversion Repository Search Engine, die nun per mithilfe eines Schedulers automatisch Repositories scannen kann und die Ergebnisse in einen oder meheren Indizes zusammenfasst, der dann für entsprechende Suchoperationen genutzt werden kann. Weiterhin wurde die Release um eine Source-Code Verteilung erweitert, einen Maven 2 basierten Build und einige Bug Fixes wurden auch beseitigt. Die Dokumentation wurde erweitert und auch korrgiert.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine (SupoSE) Release 0.2.0 (Venus)</title>
+      <link>http://localhost:1313/blog/2007/2007-12-08-subversion-repository-search-engine-supose-release-0-2-0-venus/</link>
+      <pubDate>Sat, 08 Dec 2007 23:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-08-subversion-repository-search-engine-supose-release-0-2-0-venus/</guid>
+      <description>Die Subversion Repository Search Engine (SupoSE) ist nun in der zweiten Release (Venus) 0.2.0 erschien. Es ist nun möglich auch in den zuvor indizierten Daten per Kommandozeile zu suchen, dabei besteht die Möglichkeit die Felder zu spezifizieren, die im Ergebnis angezeigt werden sollen. Das Verzeichnis wo der Index abgelegt werden soll kann bestimmt werden. Weiterhin besteht die Möglichkeit ein Repository in mehreren Schritten zu Scannen (z.B. von Revision 1 bis Revision 100 und dann Revision 101 bis Revision 258).</description>
+    </item>
+    
+    <item>
+      <title>Subversion Repository Search Engine 0.1.0</title>
+      <link>http://localhost:1313/blog/2007/2007-12-06-subversion-repository-search-engine-0-1-0/</link>
+      <pubDate>Thu, 06 Dec 2007 00:54:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2007/2007-12-06-subversion-repository-search-engine-0-1-0/</guid>
+      <description>Die Subversion Repository Search Engine (SupoSE) ist nun in der ersten Release (Mercury) 0.1.0 erschien. Sie ermöglicht es einen Index eines Repositories zu erstellen. Es werden dabei Word, Excel und PDF Dokumente verarbeitet.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Releases on A coders, hackers heaven.....Hm...I do not think so...</title>
+    <link>http://localhost:1313/categories/releases/</link>
+    <description>Recent content in Releases on A coders, hackers heaven.....Hm...I do not think so...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Dec 2016 20:15:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Jenkins API Client for Java Version 0.3.7 Released</title>
+      <link>http://localhost:1313/blog/2016/12/2016-12-20-the-jenkins-api-client-for-java-version-0-dot-3-7-released/</link>
+      <pubDate>Tue, 20 Dec 2016 20:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/12/2016-12-20-the-jenkins-api-client-for-java-version-0-dot-3-7-released/</guid>
+      <description>We have released a new version of the The Jenkins API client for Java. The new released 0.3.7 contains several bugfixes and new features. Detailed information about the changes can be found in the release notes.
+This is the second release under the Jenkins Github Organization umbrella.
+ Build class offers now two different methods to get the test informations. Using either getTestResult() for non maven type jobs or getTestReport() for maven type jobs.</description>
+    </item>
+    
+    <item>
+      <title>The Jenkins API Client for Java Version 0.3.6 Released</title>
+      <link>http://localhost:1313/blog/2016/08/2016-08-31-the-jenkins-api-client-for-java-version-0-dot-3-6-released/</link>
+      <pubDate>Wed, 31 Aug 2016 21:24:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/08/2016-08-31-the-jenkins-api-client-for-java-version-0-dot-3-6-released/</guid>
+      <description>We have released a new version of the The Jenkins API client for Java. The new released 0.3.6 contains several bugfixes and new features. Detailed information about the changes can be found in the release notes.
+This is the first release under the Jenkins Github Organization umbrella.
+ The TestReport can now be used from the general Build as well as from MavenBuild Changed getComputerSet().getComputer() into getComputerSet().getComputers() cause it returned a list and more than one element.</description>
+    </item>
+    
+    <item>
+      <title>The Jenkins API Client for Java Version 0.3.5 Released</title>
+      <link>http://localhost:1313/blog/2016/05/2016-05-14-the-jenkins-api-client-for-java-version-0-dot-3-5-released/</link>
+      <pubDate>Sat, 14 May 2016 22:21:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/05/2016-05-14-the-jenkins-api-client-for-java-version-0-dot-3-5-released/</guid>
+      <description>We have released a new version of the The Jenkins API client for Java. The new released 0.3.5 contains several bugfixes and new features. Detailed information about the changes can be found in the release notes.
+ There had been several issues related to NPE. for example getUpstreamProjects(), getDownstreamProjects() which return null in case there is no such dependency. This has been fixed to return an empty list.
+ Also fixed possible NPE in relation ship with getLastBuild() etc.</description>
+    </item>
+    
+    <item>
+      <title>The Jenkins API Client for Java Version 0.3.4 Released</title>
+      <link>http://localhost:1313/blog/2016/05/2016-05-04-the-jenkins-api-client-for-java-version-0-dot-3-4-released/</link>
+      <pubDate>Wed, 04 May 2016 15:30:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2016/05/2016-05-04-the-jenkins-api-client-for-java-version-0-dot-3-4-released/</guid>
+      <description>We have released a new version of the The Jenkins API client for Java. The new released 0.3.4 contains several bugfixes and new features. Detailed information about the changes can be found in the release notes.
+ There has been several issues related to HttpResponseException which occured this has been fixed in the current release.
+ You can now get the whole information about the installed plugins on a Jenkins Server if you have the appropriate permissions, cause the access to the pluginManager is defined an administrative permisions.</description>
+    </item>
+    
+    <item>
+      <title>The Jenkins API Client for Java Version 0.3.3 Released</title>
+      <link>http://localhost:1313/blog/2015/12/2015-12-23-the-jenkins-api-client-for-java-version-0-dot-3-3-released/</link>
+      <pubDate>Wed, 23 Dec 2015 13:50:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/12/2015-12-23-the-jenkins-api-client-for-java-version-0-dot-3-3-released/</guid>
+      <description>We have released a new version of the The Jenkins API client for Java. The new released 0.3.3 contains a few bugfixes. Detailed information about the changes can be found in the release notes.
+The Jenkins API client for Java allows you to get informations about builds for example the duration of a build or test report informations.</description>
+    </item>
+    
+    <item>
+      <title>The Jenkins API Client for Java Version 0.3.2 Released</title>
+      <link>http://localhost:1313/blog/2015/10/2015-10-18-the-jenkins-api-client-for-java-version-0-dot-3-2-released/</link>
+      <pubDate>Sun, 18 Oct 2015 19:31:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/10/2015-10-18-the-jenkins-api-client-for-java-version-0-dot-3-2-released/</guid>
+      <description>We have released a new version of the The Jenkins API client for Java. The new released 0.3.2 contains several improvements and a few bugfixes. Detailed information about the changes can be found in the release notes.
+The Jenkins API client for Java allows you to get informations about builds for example the duration of a build or test report informations.</description>
+    </item>
+    
+    <item>
+      <title>The Jenkins API Client for Java Version 0.3.1 Released</title>
+      <link>http://localhost:1313/blog/2015/08/2015-08-31-the-jenkins-api-client-for-java-version-0-dot-3-1-released/</link>
+      <pubDate>Mon, 31 Aug 2015 19:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/08/2015-08-31-the-jenkins-api-client-for-java-version-0-dot-3-1-released/</guid>
+      <description>We have released a new version of the The Jenkins API client for Java. The new released 0.3.1 contains several improvements and a few bugfixes. Detailed information about the changes can be found in the release notes.
+The Jenkins API client for Java allows you to get informations about builds for example the duration of a build or test report informations.</description>
+    </item>
+    
+  </channel>
+</rss>
