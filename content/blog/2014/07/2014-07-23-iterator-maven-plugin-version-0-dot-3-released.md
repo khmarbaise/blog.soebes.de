@@ -8,13 +8,13 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 ---
 Hi to all,
 
-i have released a new version of the [Iterator Maven Plugin](http://khmarbaise.github.io/iterator-maven-plugin/) 
+i have released a new version of the [Iterator Maven Plugin](https://khmarbaise.github.io/iterator-maven-plugin/) 
 which can iterate over items.
 
  * The goal `executor` has been renamed to `iterator` which is more releated to the things its doing.
 
  * Added some documentation for the 
-   [`folder` support](http://khmarbaise.github.io/iterator-maven-plugin/iterator-folder.html) 
+   [`folder` support](https://khmarbaise.github.io/iterator-maven-plugin/iterator-folder.html) 
    which can be used to iterate over a directory which contains one or more folders.
 
 Apart from that many technical aspects have been improved but which are not

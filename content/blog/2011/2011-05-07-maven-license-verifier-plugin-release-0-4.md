@@ -7,7 +7,7 @@ tags: [Neuigkeiten,Neue Versionen,Maven]
 categories: [Neuigkeiten,Neue Versionen,Maven,Maven-Plugins]
 
 ---
-Das <a href="http://khmarbaise.github.com/Maven-License-Verifier-Plugin"  title="Maven License Verifier Plugin Site">Maven-License-Verifier Plugin</a> steht nun in der Release 0.4 zur Verfügung. Ein <a href="http://khmarbaise.github.com/mlvp-example/licenseverifierreport.html">Beispiel Report</a> gibt es auch zu sehen. Das Plugin ist nun auch über <a href="http://repo2.maven.org/maven2/com/soebes/maven/plugins/mlv/maven-license-verifier-plugin/0.4/">Maven Central</a> unter den folgenden Koordinaten verfügbar:<br/>
+Das <a href="https://khmarbaise.github.com/Maven-License-Verifier-Plugin"  title="Maven License Verifier Plugin Site">Maven-License-Verifier Plugin</a> steht nun in der Release 0.4 zur Verfügung. Ein <a href="https://khmarbaise.github.com/mlvp-example/licenseverifierreport.html">Beispiel Report</a> gibt es auch zu sehen. Das Plugin ist nun auch über <a href="http://repo2.maven.org/maven2/com/soebes/maven/plugins/mlv/maven-license-verifier-plugin/0.4/">Maven Central</a> unter den folgenden Koordinaten verfügbar:<br/>
 <pre>
 &lt;plugin&gt;
   &lt;groupId&gt;com.soebes.maven.plugins.mlv&lt;/groupId&gt;
@@ -15,4 +15,4 @@ Das <a href="http://khmarbaise.github.com/Maven-License-Verifier-Plugin"  title=
   &lt;version&gt;0.4&lt;/version&gt;
 &lt;/plugin&gt;
 </pre>
-<p>Die wichtigste Änderung ist nun, dass die licenses.xml Datei nun auch in einem <a href="http://khmarbaise.github.com/Maven-License-Verifier-Plugin/configuration.html">separaten Artefakt abgelegt werden kann</a> und somit die Notwendigkeit entfällt die Licenses.xml Datei immer im Projekt selbst zu haben.</p>
+<p>Die wichtigste Änderung ist nun, dass die licenses.xml Datei nun auch in einem <a href="https://khmarbaise.github.com/Maven-License-Verifier-Plugin/configuration.html">separaten Artefakt abgelegt werden kann</a> und somit die Notwendigkeit entfällt die Licenses.xml Datei immer im Projekt selbst zu haben.</p>

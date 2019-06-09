@@ -8,7 +8,7 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 
 ---
 
-After some time enhancing the [iterator-maven-plugin](http://khmarbaise.github.io/iterator-maven-plugin/) the time
+After some time enhancing the [iterator-maven-plugin](https://khmarbaise.github.io/iterator-maven-plugin/) the time
  has come to release a new version
 The [iterator-maven-plugin is available via Maven Central](http://search.maven.org/#artifactdetails|com.soebes.maven.plugins|iterator-maven-plugin|0.2|maven-plugin) 
 and can be used as any other maven plugin.

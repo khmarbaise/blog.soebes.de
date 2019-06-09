@@ -9,7 +9,7 @@ categories: [Neuigkeiten,BM,Maven,Maven-Plugins,Maven-Plugin-Releases]
 Hi to all,
 
 i have released the first version of the 
-[UpToDate Maven Plugin](http://khmarbaise.github.io/uptodate-maven-plugin/) 
+[UpToDate Maven Plugin](https://khmarbaise.github.io/uptodate-maven-plugin/) 
 which is intended to check for updates of your dependencies or of your
 parent.  Sometimes it is vital to be on the most uptodate version of
 an artifact. This can be done organizationally but often people just

@@ -7,4 +7,4 @@ tags: [Java,Neuigkeiten,Neue Versionen,PlugIn,Maven]
 categories: [Java,Neuigkeiten,Neue Versionen,PlugIn,Maven,Maven-Plugins]
 
 ---
-Das <a href="https://github.com/khmarbaise/Maven-Licenses-Verifier-Plugin"  title="Maven License Verifier Plugin Homepage">Maven-License-Verifier Plugin</a> geht nun in die nächste Runde. Es erzeugt nun schon mal <a href="http://khmarbaise.github.com/mlvp-example/licenseverifierreport.html">Reports</a>. Der Erste Teil des Reports  gibt Auskunft darüber welche Artefakte entsprechende kategorisiert wurden und in welche Kategorie. <br/>
+Das <a href="https://github.com/khmarbaise/Maven-Licenses-Verifier-Plugin"  title="Maven License Verifier Plugin Homepage">Maven-License-Verifier Plugin</a> geht nun in die nächste Runde. Es erzeugt nun schon mal <a href="https://khmarbaise.github.com/mlvp-example/licenseverifierreport.html">Reports</a>. Der Erste Teil des Reports  gibt Auskunft darüber welche Artefakte entsprechende kategorisiert wurden und in welche Kategorie. <br/>
