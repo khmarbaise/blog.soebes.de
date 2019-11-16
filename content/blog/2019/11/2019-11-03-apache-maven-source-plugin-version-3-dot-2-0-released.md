@@ -39,6 +39,8 @@ Enjoy,
 
 -The Apache Maven team
 
+[MSOURCES-120]: https://issues.apache.org/jira/browse/MSOURCES-120
+[MSOURCES-95]: https://issues.apache.org/jira/browse/MSOURCES-95
 [download]: https://maven.apache.org/plugins/maven-source-plugin/download.html
 [home]: https://maven.apache.org/plugins/maven-source-plugin/
 [release]: https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317924&version=12345522
